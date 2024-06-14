@@ -139,4 +139,4 @@ cython_debug/
 cleaned_audio.wav
 cleaned_video.mp4
 temp/
- 
+.MOV 

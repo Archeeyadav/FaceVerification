@@ -1,0 +1,114 @@
+﻿Reference,SpeechId,Direction,SttLatency,SttLength,beginOfSpeech,endOfSpeech,SttLocale,SttResult,TranslationLatency,TranslatedLength,TranslatedLocale,TranslatedResult,useless,translation comment
+1706186406069
+,1706186403941,1,772ms,19,1706186403949,1706186406418,en_IN,Hello how are you?,430ms,25,de_DE,Hallo wie geht es Ihnen?
+,1706186417776,0,522ms,28,1706186417816,1706186420587,de_DE,Oh mir geht es gut danke. ,214ms,22,en_IN,Oh I'm fine thank you.
+,1706186425498,1,422ms,43,1706186425502,1706186429701,en_IN,I am fine too. Can I please know your name?,1706186430123ms,59,null,Ich bin auch in Ordnung. Kann ich bitte Ihren Namen kennen?
+,1706186435578,0,429ms,41,1706186435579,1706186440944,de_DE,Hallo ich bin jüngling ich bin jürgen. ,111ms,37,en_IN,Hello I am a young man I am a Jurgen.
+,1706186449298,1,428ms,35,1706186449300,1706186453779,en_IN,Okay how's the weather in Germany?,95ms,40,de_DE,Okay wie ist das Wetter in Deutschland?
+,1706186460776,0,422ms,38,1706186460814,1706186464739,de_DE,Es ist kalt und ein bisschen bewölkt. ,108ms,27,en_IN,It's cold and a bit cloudy.
+,1706186470743,1,534ms,56,1706186470745,1706186476697,en_IN,Yeah it's evening here in India and it is pretty warm.,135ms,58,de_DE,Ja es ist Abend hier in Indien und es ist ziemlich warm.
+,1706186493579,1,476ms,76,1706186493580,1706186501099,en_IN,Today we are going to discuss about sports and other activities in Germany.,107ms,71,de_DE,Heute diskutieren wir über Sport und andere Aktivitäten in Deutschland.
+,1706186518736,1,440ms,22,1706186518738,1706186521497,en_IN,Do you play any sport?,64ms,18,de_DE,Spielen Sie Sport?
+,1706186529978,0,436ms,60,1706186529980,1706186534981,de_DE,Ich spiele Keinen Sport ich mache ich mache Fitnessstudio. ,113ms,34,en_IN,I don't play sports I do I do gym.
+,1706186540937,1,320ms,7,1706186540938,1706186543698,en_IN,Oh good,42ms,6,de_DE,Oh gut
+,1706186548298,1,461ms,57,1706186548299,1706186553417,en_IN,What sport do people in Germany play apart from football?,101ms,68,de_DE,Welchen Sport spielen die Menschen in Deutschland neben dem Fußball?
+,1706186560981,0,390ms,34,1706186560983,1706186564989,de_DE,Deutschland wird Tennis gespielt. ,59ms,25,en_IN,Germany is played tennis.
+,1706186565781,0,418ms,39,1706186565790,1706186569470,de_DE,Ach volleyball ist jetzt auch sehr mo. ,101ms,31,en_IN,Volleyball is now also very MO.
+,1706186576780,1,360ms,4,1706186576785,1706186578822,en_IN,Okay,45ms,4,de_DE,Okay
+,1706186581542,1,459ms,36,1706186581544,1706186586495,en_IN,Is sports Ah a subject in schooling?,88ms,33,de_DE,Ist Sport ein Fach in der Schule?
+,1706186591500,0,423ms,54,1706186591502,1706186599792,de_DE,Ja in Deutschland ist Sport dann Fach in der Schule. ,123ms,51,en_IN,Yes in Germany sport is then a subject in school.
+,1706186610299,1,466ms,41,1706186610300,1706186613824,en_IN,Okay which is a good stadium in Germany.,104ms,47,de_DE,Okay das ist ein gutes Stadion in Deutschland.
+,1706186621580,0,396ms,26,1706186621582,1706186625061,de_DE,Allianz Arena in München. ,75ms,24,en_IN,Allianz Arena in Munich.
+,1706186632661,1,432ms,50,1706186632663,1706186639058,en_IN,Okay do they have any good stadiums in Frankfurt?,104ms,42,de_DE,Okay haben sie gute Stadien in Frankfurt?
+,1706186646781,0,429ms,32,1706186646785,1706186650381,de_DE,Ich glaube ich kenne es nicht. ,81ms,21,en_IN,I don't think I know.
+,1706186657419,1,440ms,39,1706186657421,1706186661176,en_IN,Do women also play football in Germany?,83ms,43,de_DE,Spielen Frauen auch in Deutschland Fußball?
+,1706186666658,0,439ms,46,1706186666659,1706186670701,de_DE,Ja in Deutschland gibt es Frauen in Fußball? ,102ms,44,en_IN,Yes in Germany there are women in football.
+,1706186680421,1,412ms,57,1706186680422,1706186684700,en_IN,Currently are there any sports event which is happening?,93ms,51,de_DE,Gibt es derzeit ein Sportereignis das stattfindet?
+,1706186692020,0,413ms,30,1706186692022,1706186695378,de_DE,Ich habe keine Informationen? ,74ms,22,en_IN,I have no information.
+,1706186702339,1,474ms,50,1706186702341,1706186706377,en_IN,By the way what? What is the time in Germany now?,1706186706851ms,52,null,Übrigens was? Wie spät ist es jetzt in Deutschland?
+,1706186712539,0,384ms,14,1706186712541,1706186716495,de_DE,Es ist 13:45. ,67ms,12,en_IN,It is 13:45.
+,1706186722381,1,461ms,32,1706186722383,1706186726377,en_IN,Oh okay did you had your lunch?,93ms,44,de_DE,Oh okay haben Sie Ihr Mittagessen gegessen?
+,1706186732459,0,400ms,30,1706186732461,1706186735790,de_DE,Nein ich telefoniere gerade. ,98ms,31,en_IN,No I'm on the phone right now.
+,1706186745181,1,405ms,44,1706186745182,1706186749659,en_IN,What kind of workout do you practice in gym?,90ms,50,de_DE,Welche Art von Training üben Sie im Fitnessstudio?
+,1706186756379,0,391ms,20,1706186756380,1706186759418,de_DE,Ich mache Training. ,52ms,14,en_IN,I do training.
+,1706186763697,1,447ms,29,1706186763700,1706186767697,en_IN,Uh is it cardio our weights?,95ms,32,de_DE,Äh ist es Cardio Ihre Gewichte?
+,1706186777821,0,466ms,31,1706186777822,1706186780789,de_DE,Das habe ich nicht verstanden? ,86ms,25,en_IN,I didn't understand that.
+,1706186785982,1,492ms,57,1706186785983,1706186791659,en_IN,Due due you lift weights or you do the cardio exercises.,143ms,71,de_DE,Aufgrund fällig heben Sie Gewichte oder Sie machen die Cardio-Übungen.
+,1706186799900,0,416ms,39,1706186799901,1706186804897,de_DE,Ich mache beides Gewichte und Gradium. ,80ms,33,en_IN,I do both weights and graduation.
+,1706186814624,1,439ms,41,1706186814626,1706186820787,en_IN,Okay do you also do walking and running?,93ms,39,de_DE,Okay machen Sie auch Gehen und Laufen?
+,1706186829256,0,390ms,23,1706186829258,1706186832716,de_DE,Nein ich laufe nicht. ,92ms,19,en_IN,No I'm not running.
+,1706186845062,1,422ms,20,1706186845063,1706186847699,en_IN,Do you watch movies?,65ms,26,de_DE,Schauen Sie sich Filme an?
+,1706186853304,0,392ms,26,1706186853305,1706186856504,de_DE,Ja ich sehe gerne Filme. ,81ms,28,en_IN,Yes I like to watch movies.
+,1706186862258,1,440ms,34,1706186862260,1706186865859,en_IN,Which one is your favourite movie?,72ms,30,de_DE,Welcher ist Ihr Lieblingsfilm?
+,1706186871455,0,375ms,12,1706186871456,1706186876261,de_DE,Disney Chate,46ms,12,en_IN,Disney Chate
+,1706186880341,1,479ms,52,1706186880343,1706186887099,en_IN,Okay who is your famous sports sportsman in German?,125ms,54,de_DE,Okay wer ist Ihr berühmter Sportsportler auf Deutsch?
+,1706186895777,0,353ms,17,1706186895787,1706186898556,de_DE,Franz Beckenbauer,65ms,17,en_IN,Franz Beckenbauer
+,1706186904623,1,421ms,19,1706186904625,1706186907457,en_IN,What sport is into?,70ms,25,de_DE,Welchen Sport machen Sie?
+,1706186914219,0,339ms,13,1706186914221,1706186916859,de_DE,Fitnessstudio,48ms,3,en_IN,Gym
+,1706186920502,1,460ms,54,1706186920503,1706186925977,en_IN,Oh nice. I see. You are mostly interested in gym and.,1706186926437ms,65,null,Oh nett. Verstehe. Sie interessieren sich vor allem für Gym und.
+,1706186926176,1,362ms,5,1706186926177,1706186928220,en_IN,South,40ms,9,de_DE,Süden Sie
+,1706186937301,0,353ms,31,1706186937302,1706186940189,de_DE,Das habe ich nicht verstanden? ,25ms,25,en_IN,I didn't understand that.
+,1706186948460,1,414ms,32,1706186948461,1706186951657,en_IN,What else do you do in weekends?,86ms,40,de_DE,Was machen Sie sonst noch am Wochenende?
+,1706186958100,0,354ms,13,1706186958102,1706186960553,de_DE,Fahrradfahren,63ms,7,en_IN,Cycling
+,1706186966419,1,450ms,37,1706186966421,1706186971817,en_IN,OK where do you often go to cycling?,99ms,35,de_DE,OK wo gehen Sie oft zum Radfahren?
+,1706186977939,0,400ms,17,1706186977939,1706186980737,de_DE,2 mal die Woche. ,52ms,15,en_IN,2 times a week.
+,1706186987661,1,431ms,35,1706186987664,1706186990858,en_IN,Which places do you go for cycling?,80ms,36,de_DE,Welche Orte gehen Sie zum Radfahren?
+,1706186996181,0,374ms,14,1706186996182,1706186998700,de_DE,An den Fluss. ,59ms,13,en_IN,To the river.
+,1706187007504,1,425ms,30,1706187007506,1706187011415,en_IN,How many kilometres you cover?,72ms,37,de_DE,Wie viele Kilometer legen Sie zurück?
+,1706187017461,0,385ms,11,1706187017463,1706187020499,de_DE,10 bis 12. ,47ms,9,en_IN,10 to 12.
+,1706187030421,1,421ms,48,1706187030423,1706187035975,en_IN,I want to practice cycling. How do I start with?,1706187036396ms,44,null,Ich möchte Radfahren üben. Wie fange ich an?
+,1706187042621,0,474ms,21,1706187042622,1706187045420,de_DE,Mein Fahrrad kaufen. ,128ms,12,en_IN,Buy my bike.
+,1706187051217,1,471ms,23,1706187051220,1706187054218,en_IN,Which bike do you have?,118ms,26,de_DE,Welches Fahrrad haben Sie?
+,1706187059857,0,438ms,33,1706187059859,1706187063338,de_DE,Ich habe ein gemietetes Fahrrad? ,92ms,21,en_IN,I have a rented bike.
+,1706187067898,1,479ms,48,1706187067900,1706187071739,en_IN,How much does it cost to rent a bike in Germany?,114ms,57,de_DE,Wie viel kostet es ein Fahrrad in Deutschland zu mieten?
+,1706187079463,0,382ms,25,1706187079464,1706187083710,de_DE,Ein Monat Kostet 25 EUR. ,71ms,23,en_IN,One month costs 25 EUR.
+,1706187090703,1,420ms,16,1706187090705,1706187093060,en_IN,Oh that's good.,67ms,16,de_DE,Oh das ist gut.
+,1706187094420,1,435ms,47,1706187094421,1706187098579,en_IN,How much is the subscription for one month gym?,104ms,66,de_DE,Wie viel kostet das Abonnement für ein einmonatiges Fitnessstudio?
+,1706187106901,0,400ms,41,1706187106902,1706187112357,de_DE,Ein Monat Fitnessstudio kostet 69 EUR. ,82ms,28,en_IN,A month of gym costs 69 EUR.
+,1706187127659,1,386ms,75,1706187127660,1706187134496,en_IN,Okay is renting a bike is cheaper or renting? A car is cheaper in Germany.,1706187134882ms,99,null,Okay ist das Mieten eines Fahrrads billiger oder mieten Sie? Ein Auto ist in Deutschland billiger.
+,1706187144300,0,389ms,26,1706187144301,1706187147097,de_DE,Das Fahrrad ist billiger. ,57ms,20,en_IN,The bike is cheaper.
+,1706187156538,1,328ms,4,1706187156540,1706187158541,en_IN,Okay,9ms,4,de_DE,Okay
+,1706187162218,1,445ms,51,1706187162219,1706187167897,en_IN,Are they separate by bicycle tracks per in Germany?,91ms,51,de_DE,Sind sie in Deutschland durch Fahrradwege getrennt?
+,1706187174897,0,428ms,42,1706187174899,1706187178620,de_DE,In Deutschland gibt es viele Fahrradwege? ,84ms,40,en_IN,There are many bicycle paths in Germany.
+,1706187188538,1,424ms,31,1706187188540,1706187191619,en_IN,Will there be a lot of traffic?,78ms,27,de_DE,Wird es viel Verkehr geben?
+,1706187197463,0,420ms,22,1706187197465,1706187200339,de_DE,Es gibt viel Verkehr. ,70ms,26,en_IN,There is a lot of traffic.
+,1706187210218,1,449ms,34,1706187210220,1706187214017,en_IN,Can children use bikes in Germany?,84ms,48,de_DE,Können Kinder in Deutschland Fahrräder benutzen?
+,1706187220419,0,427ms,42,1706187220421,1706187224382,de_DE,Ja Kinder fahren Fahrrad in Deutschland. ,78ms,34,en_IN,Children ride bicycles in Germany.
+,1706187230538,1,488ms,56,1706187230540,1706187235899,en_IN,I mean there is no age restriction for riding by bikes.,132ms,75,de_DE,Ich meine es gibt keine Altersbeschränkung für das Fahren mit dem Fahrrad.
+,1706187245539,0,469ms,52,1706187245541,1706187249981,de_DE,Nur auf der Straße gibt es eine Altersbeschränkung? ,105ms,47,en_IN,Only on the street there is an age restriction.
+,1706187256376,1,436ms,56,1706187256377,1706187262178,en_IN,Okay for car. Is it mandatory to get a Driving Licence?,1706187262614ms,73,null,Okay für das Auto. Ist es obligatorisch einen Führerschein zu erhalten?
+,1706187270021,0,441ms,64,1706187270022,1706187275421,de_DE,Ja man muss einen Führerschein haben um autofahren zu dürfen? ,112ms,47,en_IN,Yes you must have a driver's license to drive.
+,1706187285660,1,420ms,51,1706187285662,1706187290256,en_IN,Are there strict loss in case of traffic violation?,108ms,64,de_DE,Gibt es einen strengen Verlust im Falle eines Verkehrsverstoßes?
+,1706187298142,1,412ms,34,1706187298145,1706187301821,en_IN,I'm in strict law and regulations.,87ms,46,de_DE,Ich bin in strengen Gesetzen und Vorschriften.
+,1706187301502,0,358ms,31,1706187301503,1706187304463,de_DE,Das habe ich nicht verstanden? ,42ms,25,en_IN,I didn't understand that.
+,1706187311741,1,477ms,72,1706187311743,1706187318140,en_IN,Payment is the strict law and regulations in case of traffic violations.,139ms,87,de_DE,Die Zahlung ist das strenge Gesetz und die Vorschriften im Falle von Verkehrsverstößen.
+,1706187328581,0,491ms,54,1706187328583,1706187334100,de_DE,Man muss eine Strafe bezahlen bei Verkehrsverstößen. ,121ms,49,en_IN,You have to pay a penalty for traffic violations.
+,1706187350063,1,395ms,25,1706187350067,1706187354097,en_IN,So are people in Germany.,74ms,36,de_DE,So sind die Menschen in Deutschland.
+,1706187355419,1,383ms,53,1706187355420,1706187359819,en_IN,Do in weekends? What do they do in weekend generally?,1706187360202ms,73,null,Machen Sie es am Wochenende? Was machen Sie am Wochenende im Allgemeinen?
+,1706187368660,0,389ms,37,1706187368662,1706187372055,de_DE,Ich gehe schwimmen und in die Natur. ,74ms,30,en_IN,I go swimming and into nature.
+,1706187385020,1,296ms,4,1706187385023,1706187387137,en_IN,Okay,20ms,4,de_DE,Okay
+,1706187387497,1,420ms,87,1706187387498,1706187394299,en_IN,Are there any nearby rivers natural rivers? You swim or you swim in the swimming pools.,1706187394719ms,99,null,Gibt es in der Nähe von natürlichen Flüssen? Sie schwimmen oder Sie schwimmen in den Schwimmbädern.
+,1706187403459,0,465ms,46,1706187403461,1706187408698,de_DE,Ja im Schwimmbad oder im See oder Einfluss. ,117ms,53,en_IN,Yes in the swimming pool or in the lake or influence.
+,1706187421338,1,422ms,57,1706187421341,1706187427060,en_IN,Can you tell me some of the good? Er cuisines in Germany.,1706187427482ms,71,null,Können Sie mir etwas von dem Guten erzählen? Ihre Küche in Deutschland.
+,1706187433981,0,423ms,32,1706187433982,1706187437300,de_DE,Wir essen sehr gerne bratwurst. ,97ms,25,en_IN,We love to eat bratwurst.
+,1706187443937,1,412ms,40,1706187443938,1706187448619,en_IN,Okay what is it made up of meat or bread,100ms,39,de_DE,Okay was ist es aus Fleisch oder Brot?
+,1706187455619,0,417ms,27,1706187455621,1706187458822,de_DE,Bratwurst ist aus Fleisch. ,89ms,26,en_IN,Bratwurst is made of meat.
+,1706187467141,1,398ms,60,1706187467142,1706187476699,en_IN,Okay so how about farming industry in Germany? Do they gro?,1706187477097ms,68,null,Okay wie wäre es mit der Landwirtschaft in Deutschland? Wachen sie?
+,1706187484625,0,473ms,44,1706187484627,1706187488712,de_DE,Ich habe nur Kräuterttöpfe auf dem Balkon? ,125ms,39,en_IN,I only have herbal pots on the balcony.
+,1706187496821,1,388ms,7,1706187496821,1706187499056,en_IN,Oh nice,44ms,8,de_DE,Oh schön
+,1706187503500,1,421ms,53,1706187503501,1706187507858,en_IN,What other languages can you speak apart from German?,91ms,58,de_DE,Welche anderen Sprachen können Sie außer Deutsch sprechen?
+,1706187514302,0,438ms,67,1706187514303,1706187519778,de_DE,Ich spreche Italienisch und Englisch und ein bisschen Französisch. ,103ms,48,en_IN,I speak Italian and English and a bit of French.
+,1706187526460,1,444ms,21,1706187526461,1706187528976,en_IN,Oh that's very good.,84ms,21,de_DE,Oh das ist sehr gut.
+,1706187535576,1,432ms,39,1706187535577,1706187539576,en_IN,Do people in Germany also play history?,87ms,52,de_DE,Spielen die Menschen in Deutschland auch Geschichte?
+,1706187547738,1,419ms,18,1706187547739,1706187551394,en_IN,I mean ice hockey.,69ms,20,de_DE,Ich meine Eishockey.
+,1706187548821,0,354ms,31,1706187548822,1706187551777,de_DE,Das habe ich nicht verstanden? ,20ms,25,en_IN,I didn't understand that.
+,1706187563698,0,372ms,23,1706187563700,1706187566337,de_DE,Bitte die wiederholen. ,52ms,19,en_IN,Please repeat them.
+,1706187571777,1,473ms,47,1706187571785,1706187577336,en_IN,I meant people in Germany also play ice hockey.,114ms,59,de_DE,Ich meine die Leute in Deutschland spielen auch Eishockey.
+,1706187584100,0,395ms,49,1706187584101,1706187587906,de_DE,Ja in Deutschland wird auch eishockey gespielt. ,99ms,38,en_IN,In Germany ice hockey is also played.
+,1706187602337,1,329ms,4,1706187602338,1706187604378,en_IN,Okay,12ms,4,de_DE,Okay
+,1706187609298,1,439ms,39,1706187609299,1706187613778,en_IN,What time is the best to visit Germany?,84ms,40,de_DE,Wann besuchen Sie Deutschland am besten?
+,1706187621377,0,370ms,27,1706187621378,1706187624419,de_DE,Im Frühling und im Sommer. ,61ms,21,en_IN,In spring and summer.
+,1706187630935,1,339ms,9,1706187630937,1706187633020,en_IN,Thank you,20ms,12,de_DE,Vielen Dank!
+,1706187641900,1,441ms,62,1706187641902,1706187647417,en_IN,Thank you for all the information. It was nice talking to you.,1706187647858ms,72,null,Vielen Dank für alle Informationen. Es war schön mit Ihnen zu sprechen.
+,1706187656420,0,386ms,15,1706187656421,1706187658914,de_DE,Danke ebenfalls,103ms,15,en_IN,Thank you also!
+,1706187663340,1,452ms,27,1706187663342,1706187666258,en_IN,Bye we can disconnect now.,97ms,49,de_DE,Tschüss wir können jetzt die Verbindung trennen.

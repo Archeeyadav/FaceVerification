@@ -1,0 +1,143 @@
+﻿Reference,SpeechId,Direction,SttLatency,length,beginOfSpeech,endOfSpeech,SttResult,TranslationLatency,length,TranslatedResult,useless,translation comment
+1709217158537
+,1709217157206,1,779ms,5,1709217157210,1709217159002,Hello,426ms,4,Olá!
+,1709217161404,0,580ms,2,1709217161405,1709217163409,Oi,194ms,3,Hi.
+,1709217166923,1,487ms,55,1709217166925,1709217172524,So now we will talk about shopping brands and clubbing.,136ms,59,Então agora vamos falar sobre marcas de compras e clubbing.
+,1709217167609,0,375ms,3,1709217167659,1709217169724,Olá,19ms,2,Hi
+,1709217178843,1,366ms,13,1709217178845,1709217180925,Are you okay?,11ms,14,Você está bem?
+,1709217180522,0,420ms,2,1709217180523,1709217182690,Ok,57ms,3,OK.
+,1709217185044,0,458ms,24,1709217185045,1709217188967,Sim estou bem e você? ,92ms,23,Yes I'm fine and you?
+,1709217186522,1,508ms,71,1709217186523,1709217192327,Can you tell me what is the most popular street in Brazil for shopping?,158ms,74,Você pode me dizer qual é a rua mais popular do Brasil para fazer compras?
+,1709217201445,0,428ms,22,1709217201446,1709217212326,Ham Avenida Paulista. ,69ms,20,Ham Avenue Paulista.
+,1709217218127,0,510ms,15,1709217218129,1709217220481,Não sei o que. ,65ms,18,I don't know what.
+,1709217221204,1,404ms,21,1709217221204,1709217223848,Is it in sau problem?,81ms,21,É um problema em Sau?
+,1709217227007,1,386ms,19,1709217227039,1709217229843,Is it in Sao Paulo?,63ms,15,É em São Paulo?
+,1709217228926,0,535ms,1,1709217228926,1709217230890,É,54ms,5,It is
+,1709217231163,0,724ms,148,1709217231174,1709217245770,Cê é bem cheia. Ah também tem a tempo para o chamado praça. A filha é lotado aí. Muita gente pode comprar por lá também que é tudo muito barato. ,302ms,158,You are very full. Oh you also have time for the so-called square. The daughter is full there. A lot of people can buy it there too which is all very cheap.
+,1709217261723,1,433ms,95,1709217261724,1709217271724,Okay if I ever come to Brasil for a travel trip. Can you come with me to this paulista Avenue?,1709217272157ms,90,Ok se eu vier ao Brasil para uma viagem. Você pode vir comigo para esta Avenida Paulista?
+,1709217277641,1,424ms,23,1709217277649,1709217280207,I will go for shopping.,60ms,18,Vou fazer compras.
+,1709217280726,0,455ms,32,1709217280727,1709217285332,É um pouco longe da minha casa. ,107ms,32,It's a little far from my house.
+,1709217290803,1,411ms,23,1709217290804,1709217293481,Which city you live in?,77ms,25,Em qual cidade você mora?
+,1709217298567,0,521ms,72,1709217298568,1709217307242,São Paulo mais é um pouco longe dono da cidade de São Paulo de verdade. ,142ms,71,São Paulo is a little far from the real owner of the city of São Paulo.
+,1709217312723,0,431ms,29,1709217312725,1709217317487,Seu morro quer que dá praia. ,90ms,39,Your hill wants you to go to the beach.
+,1709217323244,1,455ms,18,1709217323246,1709217325616,Where do you stay?,71ms,15,Onde você fica?
+,1709217331844,0,683ms,26,1709217331846,1709217334483,Eu moro pra ir pra praia. ,84ms,26,I live to go to the beach.
+,1709217336647,0,465ms,13,1709217336648,1709217341363,Você é boni? ,56ms,18,Are you beautiful?
+,1709217340803,1,447ms,32,1709217340805,1709217344167,Do you know where is this place?,81ms,28,Você sabe onde é esse lugar?
+,1709217347369,1,432ms,36,1709217347371,1709217350685,Are you asking me if I am beautiful?,94ms,41,Você está me perguntando se eu sou linda?
+,1709217350324,0,640ms,3,1709217350326,1709217357770,Sei,56ms,7,I know.
+,1709217360448,0,488ms,50,1709217360450,1709217369129,Não não perguntei isso. Não acho que foi errado. ,125ms,50,No I didn't ask that. I don't think it was wrong.
+,1709217374925,1,490ms,46,1709217374934,1709217378724,Yes may be because of some wrong translation.,122ms,50,Sim pode ser por causa de alguma tradução errada.
+,1709217386888,1,452ms,33,1709217386889,1709217390524,Do you know this place in Panama?,86ms,34,Você conhece este lugar no Panamá?
+,1709217395043,1,365ms,7,1709217395049,1709217397298,Epanima,49ms,7,Epanima
+,1709217396683,0,441ms,22,1709217396684,1709217399530,Não conheço o panamá. ,91ms,20,I don't know Panama.
+,1709217403845,0,530ms,59,1709217403847,1709217409504,Ai Ipanema eu conheço só de nome que é no Rio de Janeiro. ,163ms,58,Ipanema I only know by name that it is in Rio de Janeiro.
+,1709217416409,1,407ms,4,1709217416410,1709217418361,Okay,45ms,3,Ok!
+,1709217419248,1,445ms,26,1709217419249,1709217423124,Have you heard hippy fair?,73ms,25,Você já ouviu Hippy Fair?
+,1709217431245,0,415ms,14,1709217431248,1709217434565,O que é isso? ,50ms,11,What is it?
+,1709217437007,1,479ms,39,1709217437009,1709217440882,It is also one kind of shopping street.,89ms,34,É também um tipo de rua comercial.
+,1709217444645,1,384ms,11,1709217444646,1709217447243,Hippie fair,55ms,12,Hippie justo
+,1709217451446,0,452ms,28,1709217451450,1709217454685,O que você gostaria de faz? ,80ms,26,What would you like to do?
+,1709217456564,0,454ms,18,1709217456564,1709217459654,Não acho que não. ,83ms,17,I don't think so.
+,1709217467804,1,535ms,67,1709217467805,1709217474053,Okay can you tell me how much are the Rio caranwal parade tickets?,173ms,78,Ok você pode me dizer quanto são os ingressos para o desfile caranval do Rio?
+,1709217485324,0,521ms,42,1709217485325,1709217489845,Eu acho que é gratuito mas eu nunca fui. ,126ms,35,I think it's free but I never was.
+,1709217497042,1,539ms,86,1709217497043,1709217503925,Is there any restriction for the tourists to enter the night clubs especially in Rio?,152ms,91,Existe alguma restrição para os turistas entrarem nas casas noturnas especialmente no Rio?
+,1709217514243,0,447ms,37,1709217514244,1709217517773,Eu não conheço muito Rio de Janeiro. ,98ms,39,I don't know much about Rio de Janeiro.
+,1709217522930,1,473ms,38,1709217522946,1709217526206,You didn't say which city you live in.,96ms,40,Você não disse em qual cidade você mora.
+,1709217525484,0,495ms,73,1709217525488,1709217534483,Mais provavelmente a mesma coisa aqui em São Paulo eu moro em São Paulo. ,136ms,65,More likely the same thing here in São Paulo I live in São Paulo.
+,1709217529486,1,479ms,53,1709217529496,1709217533807,I still don't know anything about you where you live.,114ms,48,Eu ainda não sei nada sobre você onde você mora.
+,1709217541484,1,433ms,34,1709217541508,1709217544924,Okay how far will it be from Rio?,97ms,27,Ok quão longe será do Rio?
+,1709217550525,0,547ms,37,1709217550526,1709217556766,É bem longe mas é o estado do lado. ,145ms,52,It's a long way off but it's the state on the side.
+,1709217563288,1,489ms,36,1709217563289,1709217567406,How far is sau Paolo from sau Louis?,124ms,37,Até onde está Sau Paolo de Sau Louis?
+,1709217573244,0,477ms,20,1709217573245,1709217578124,É love muito love. ,86ms,21,It's love very love.
+,1709217583363,1,396ms,24,1709217583364,1709217586565,Is it close or very far?,70ms,23,É perto ou muito longe?
+,1709217591124,0,471ms,26,1709217591125,1709217594180,Muito longe que são Luis. ,101ms,32,Far away from that of St. Louis.
+,1709217601727,1,458ms,41,1709217601729,1709217605684,Have you heard of the place crocco beach?,99ms,42,Você já ouviu falar da Place Crocco Beach?
+,1709217610764,1,427ms,12,1709217610779,1709217612803,Crocko beach,61ms,12,Praia Crocko
+,1709217613685,0,444ms,18,1709217613687,1709217616322,Nunca ouvi falar. ,86ms,23,I've never heard of it.
+,1709217623368,1,427ms,13,1709217623369,1709217625682,Lapa district,51ms,16,Distrito da Lapa
+,1709217630048,1,402ms,69,1709217630049,1709217635761,I've heard the lapa district is famous for its nightlife. Is it true?,1709217636163ms,75,Ouvi dizer que o distrito da Lapa é famoso por sua vida noturna. É verdade?
+,1709217630212,0,527ms,24,1709217630219,1709217633321,Vê se eu já ouvi falar. ,107ms,29,See if I've ever heard of it.
+,1709217642885,0,415ms,23,1709217642886,1709217647986,Parece sim é verdade. ,90ms,23,It seems so it's true.
+,1709217658644,1,399ms,29,1709217658664,1709217662444,Shopping expensive in Brasil.,70ms,24,Compras caras no Brasil.
+,1709217666444,1,424ms,29,1709217666461,1709217670364,Shopping expensive in Brazil.,71ms,24,Compras caras no Brasil.
+,1709217677444,0,438ms,15,1709217677446,1709217683641,O que que tem? ,58ms,17,What do you have?
+,1709217678401,1,409ms,16,1709217678419,1709217680563,Do you think so?,65ms,18,Você acha que sim?
+,1709217684927,0,424ms,14,1709217684928,1709217690562,Sim eu acho. ,73ms,13,Yes I think.
+,1709217695641,1,583ms,93,1709217695657,1709217704806,Let's say I. Earn a monthly salary of 10000 BRL will be able to enjoy good life in Sao Paulo.,1709217705389ms,99,Digamos que eu. Ganhar um salário mensal de R$ 10000 poderá desfrutar de uma boa vida em São Paulo.
+,1709217714009,0,394ms,9,1709217714011,1709217716570,Não muito,44ms,9,Not much.
+,1709217714928,1,524ms,74,1709217714931,1709217722564,With 10000 BRL Mat salary will I be able to enjoy good life in sau Paulo?,185ms,74,Com 10000 BRL Mat salário poderei desfrutar de uma boa vida em São Paulo?
+,1709217720643,0,454ms,38,1709217720644,1709217724452,São Paulo viver em São Paulo é claro. ,104ms,38,St. Paul's life in São Paulo is clear.
+,1709217733926,0,440ms,44,1709217733927,1709217740016,Viviane São Paulo é caro do aluguel é caro. ,109ms,52,Viviane São Paulo is expensive to rent is expensive.
+,1709217734886,1,486ms,70,1709217734888,1709217741133,How much do you think I need to own to enjoy a good life in Sao Paulo?,171ms,84,Quanto você acha que eu preciso possuir para desfrutar de uma boa vida em São Paulo?
+,1709217740284,0,417ms,21,1709217740285,1709217743615,O transporte é caro. ,67ms,28,Transportation is expensive.
+,1709217754208,1,575ms,57,1709217754209,1709217758455,So how much I need to earn per month to have a good life.,225ms,62,Então quanto eu preciso ganhar por mês para ter uma boa vida.
+,1709217754885,0,472ms,20,1709217754939,1709217763056,Ham uns 15 e 20000. ,140ms,28,There are about 15 and 2000.
+,1709217773408,1,440ms,41,1709217773409,1709217779088,Is buying a house expensive in Sao Paulo?,99ms,37,Comprar uma casa é caro em São Paulo?
+,1709217784447,0,391ms,10,1709217784448,1709217786847,Muito caro,45ms,15,Very expensive.
+,1709217787130,0,436ms,45,1709217787130,1709217792904,As casas da boa é aproximadamente keith new. ,104ms,36,The good houses are about Keith New.
+,1709217801408,1,520ms,59,1709217801410,1709217807483,Are the coastal cities more expensive than the hilly areas?,138ms,64,As cidades costeiras são mais caras do que as áreas montanhosas?
+,1709217814606,0,424ms,3,1709217814619,1709217816613,Sim,50ms,4,Yes.
+,1709217822566,1,470ms,33,1709217822567,1709217825855,Do you stay in a rental property?,105ms,37,Você fica em uma propriedade alugada?
+,1709217832205,0,441ms,38,1709217832207,1709217836966,Sim por sorte eu consegui um barato. ,94ms,27,Luckily I got a cheap one.
+,1709217841243,1,485ms,59,1709217841244,1709217847447,How much is the average rental for a one bedroom apartment?,116ms,58,Quanto é o aluguel médio para um apartamento de um quarto?
+,1709217850003,0,406ms,7,1709217850004,1709217855135,Não sei,23ms,12,I don't know
+,1709217856768,0,431ms,18,1709217856769,1709217859174,A partir de 1000. ,46ms,10,From 1000.
+,1709217860408,0,387ms,18,1709217860409,1709217867523,A partir de 1000. ,19ms,10,From 1000.
+,1709217873405,0,452ms,15,1709217873410,1709217876447,Você é bonita? ,53ms,18,Are you beautiful?
+,1709217874804,1,453ms,36,1709217874807,1709217878170,Okay let's talk about some beaches.,101ms,37,Ok vamos falar sobre algumas praias.
+,1709217884643,1,454ms,50,1709217884652,1709217890244,Have you heard of the beach Florio Florina police?,137ms,55,Você já ouviu falar da polícia da praia Florio Florina?
+,1709217887804,0,351ms,2,1709217887805,1709217890812,Ok,20ms,3,OK.
+,1709217895123,1,387ms,14,1709217895125,1709217897645,Florina police,47ms,18,Polícia da Flórida
+,1709217897043,0,393ms,18,1709217897044,1709217899685,Nunca ouvi falar. ,26ms,23,I've never heard of it.
+,1709217903403,1,387ms,19,1709217903405,1709217909043,Fl OR IA NOPOL. IS.,1709217909430ms,18,FL OU IA NOPOL. É.
+,1709217917885,0,497ms,61,1709217917887,1709217924416,Nome de praia eu não sei. Nenhuma fase só do meu bairro vou. ,133ms,63,Name of beach I don't know. No phase of my neighborhood I will.
+,1709217931445,1,448ms,45,1709217931448,1709217935527,What is the nearest beach from your Hometown?,107ms,48,Qual é a praia mais próxima da sua cidade natal?
+,1709217941764,0,487ms,51,1709217941766,1709217949207,O nome dela é praia do sonho dá pra eu ir no ano. ,130ms,49,Her name is Praia do Sonho I can go in the year.
+,1709217956323,1,513ms,58,1709217956325,1709217960927,If I ever come to Brasil which beach will you take me to?,139ms,56,Se eu vier ao Brasil para qual praia você vai me levar?
+,1709217962487,0,587ms,8,1709217962487,1709217965567,Ler notí,71ms,14,Read the news.
+,1709217972963,0,509ms,93,1709217972965,1709217982243,As praias do Rio de Janeiro é bem mais bonita. Falhas as praias do norte é bem mais bonita. ,161ms,100,The beaches of Rio de Janeiro are much more beautiful. The northern beaches are much more beautiful.
+,1709217994686,1,404ms,30,1709217994688,1709217999805,How about this Florina police?,73ms,26,E essa polícia da Flórida?
+,1709218004006,1,373ms,14,1709218004007,1709218006618,Florina police,23ms,18,Polícia da Flórida
+,1709218005204,0,335ms,3,1709218005205,1709218008419,Não,21ms,4,Nope
+,1709218011049,1,449ms,79,1709218011050,1709218017404,The translation is taking the war wrong. I wanted to say the name of one beach.,1709218017853ms,77,A tradução está levando a guerra errado. Eu queria dizer o nome de uma praia.
+,1709218024168,0,336ms,10,1709218024170,1709218026729,Ah entendi,51ms,13,I understand.
+,1709218035007,1,506ms,37,1709218035010,1709218040003,Is Rio De Janeiro sasar then saupaul,158ms,42,É o sasar do Rio de Janeiro então saupaul
+,1709218043842,1,388ms,12,1709218043843,1709218046125,Is it safer?,60ms,14,É mais seguro?
+,1709218050685,0,488ms,54,1709218050686,1709218055609,Rio de Janeiro é bem feitoso mas São Paulo também é. ,124ms,49,Rio de Janeiro is well done but so is São Paulo.
+,1709218063046,1,660ms,132,1709218063048,1709218073844,If you ever get a job in one of the coastal cities of Brasil and for that you have to leave your house in Sao Paulo will you move?,271ms,139,Se você conseguir um emprego em uma das cidades costeiras do Brasil e para isso você tem que sair de casa em São Paulo você vai se mudar?
+,1709218085604,0,406ms,3,1709218085607,1709218087723,Sim,28ms,4,Yes.
+,1709218093444,1,397ms,18,1709218093445,1709218095923,You like clubbing?,80ms,23,Você gosta de clubbing?
+,1709218101368,0,467ms,43,1709218101370,1709218105083,Não eu não gosto muito de sair de música. ,119ms,44,No I don't really like to get out of music.
+,1709218105483,0,383ms,10,1709218105483,1709218107733,Pra festas,51ms,12,For parties.
+,1709218112522,1,489ms,43,1709218112523,1709218116964,How often in a week you go for night clubs?,132ms,58,Quantas vezes em uma semana você vai para clubes noturnos?
+,1709218124848,0,619ms,33,1709218124851,1709218128653,Eu não gosto de todos os nossos. ,93ms,25,I don't like all of ours.
+,1709218137729,1,521ms,63,1709218137731,1709218143085,If I ever come to Brasil which night club will you take me to?,148ms,64,Se eu vier ao Brasil para qual clube noturno você vai me levar?
+,1709218138327,0,635ms,14,1709218138327,1709218141903,Você é linda. ,54ms,18,You are beautiful.
+,1709218152124,0,445ms,39,1709218152126,1709218157485,Eu vou conhecer o clima clube noturno. ,93ms,34,I'm going to see the weather club.
+,1709218159086,0,489ms,28,1709218159087,1709218161968,Essa eu vou ficar te vendo. ,89ms,13,I'll see you.
+,1709218165523,1,446ms,43,1709218165525,1709218169365,What is so special about this weather club?,105ms,51,O que há de tão especial neste clube meteorológico?
+,1709218180005,0,543ms,81,1709218180007,1709218188923,Eu não tenho mais em São Paulo. Tem muitos clubes legais que durão até 24 horas. ,158ms,90,I don't have it in São Paulo anymore. There are many legal clubs that last up to 24 hours.
+,1709218196009,0,566ms,7,1709218196010,1709218198723,Gravata,63ms,8,Gravata.
+,1709218204844,1,393ms,21,1709218204845,1709218207327,Do you like shopping?,70ms,28,Você gosta de fazer compras?
+,1709218210688,0,534ms,3,1709218210689,1709218212845,Sim,17ms,4,Yes.
+,1709218214446,0,422ms,15,1709218214454,1709218216854,Quem eu gosto? ,74ms,14,Who do I like?
+,1709218220844,1,488ms,38,1709218220845,1709218224927,Which brand of cloth you like to wear?,109ms,38,Qual marca de pano você gosta de usar?
+,1709218235323,0,496ms,27,1709218235325,1709218238363,Marca de pano não entendi. ,126ms,38,I don't understand the brand of cloth.
+,1709218243688,1,459ms,57,1709218243689,1709218249485,Like is there any particular brand that you look to buy?,123ms,64,Tipo existe alguma marca em particular que você queira comprar?
+,1709218258563,0,502ms,50,1709218258564,1709218263722,Tô querendo comprar um tênis da Nike você gosta? ,129ms,42,I want to buy a Nike shoe do you like it?
+,1709218268324,1,464ms,31,1709218268325,1709218272088,Yes I totally like Nike issue.,98ms,44,Sim eu gosto totalmente da questão da Nike.
+,1709218276364,1,336ms,9,1709218276370,1709218279163,Nike shoe,52ms,11,Sapato Nike
+,1709218282089,1,484ms,51,1709218282091,1709218288081,How much does it cost to buy a Nike shoe in Brasil?,106ms,46,Quanto custa comprar um sapato Nike no Brasil?
+,1709218295607,0,525ms,38,1709218295626,1709218300528,Ah os mais legais assim são 800 BRL. ,133ms,43,Oh the coolest ones like that are 800 BRL.
+,1709218307005,1,544ms,63,1709218307007,1709218314483,Okay if I ever come to Brasil I'll give you one pair of Nike so,163ms,58,Ok se eu vier ao Brasil vou te dar um par de Nike então
+,1709218309721,0,398ms,9,1709218309724,1709218311848,Oi Galaxy,56ms,10,Hi Galaxy.
+,1709218317565,1,396ms,4,1709218317567,1709218320922,Nike,39ms,4,Nike
+,1709218321764,0,394ms,14,1709218321766,1709218324365,Muito obrigado,16ms,19,Thank you very much
+,1709218327645,1,401ms,115,1709218327646,1709218338243,Okay we can end up this call today. Its almost 20 minutes. Let's meet some other time. Let's talk some other time.,1709218338644ms,131,Ok podemos acabar com essa chamada hoje. São quase 20 minutos. Vamos nos encontrar em outro momento. Vamos falar em outro momento.
+,1709218339443,0,391ms,2,1709218339444,1709218343484,Ok,23ms,3,OK.
+,1709218345725,1,428ms,38,1709218345727,1709218350048,Thank you. Have a nice day take care.,1709218350476ms,37,Obrigado. Tenha um bom dia cuide-se.
+,1709218347127,0,458ms,9,1709218347130,1709218349726,Ok espera,58ms,11,OK waiting.
+,1709218350123,0,453ms,13,1709218350128,1709218354326,Brigado tchau,86ms,16,Bye-bye Brigade.
+,1709218354562,0,393ms,14,1709218354577,1709218358405,Dia até mais. ,57ms,14,day even more.
+,1709218356922,1,304ms,7,1709218356928,1709218359126,Bye bye,11ms,5,Tchau

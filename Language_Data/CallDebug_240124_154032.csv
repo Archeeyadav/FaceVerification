@@ -1,0 +1,25 @@
+﻿Reference,SpeechId,Direction,SttLatency,SttLength,beginOfSpeech,endOfSpeech,SttLocale,SttResult,TranslationLatency,TranslatedLength,TranslatedLocale,TranslatedResult,useless,translation comment
+1706090630565
+,1706090629240,1,742ms,5,1706090629243,1706090631079,en_IN,Hello,439ms,5,pl_PL,Witam
+,1706090641236,1,335ms,5,1706090641241,1706090643160,en_IN,Hello,19ms,5,pl_PL,Witam
+,1706090673556,0,538ms,4,1706090673557,1706090676560,pl_PL,Halo,236ms,13,en_IN,Halo Florida
+,1706090754881,0,501ms,61,1706090754883,1706090761404,pl_PL,Co robisz w Polsce Jestem w Polsce Wakacjach dwie zagrodzi. ,152ms,56,en_IN,What you do in Poland I am in Poland Vacation two pens.
+,1706090779118,0,339ms,11,1706090779120,1706090782240,pl_PL,Dzień dobry,11ms,12,en_IN,Good morning
+,1706090782759,0,492ms,51,1706090782761,1706090787372,pl_PL,Cześć tym razem ja umiem cię poznać skąd jesteś? ,124ms,49,en_IN,Hi this time I can meet you where are you from?
+,1706090788997,0,635ms,38,1706090788998,1706090792923,pl_PL,Mieszkam w Warszawie a ty nie wiesz. ,118ms,36,en_IN,I live in Warsaw and you don't know.
+,1706090795079,0,352ms,14,1706090795080,1706090797523,pl_PL,Mieszka między,54ms,16,en_IN,Lives between...
+,1706090797799,0,426ms,46,1706090797805,1706090804437,pl_PL,Jestem w Polsce na wakacje i odwiedza grocik. ,119ms,46,en_IN,I am in Poland for a holiday and visit Grocik.
+,1706090828402,0,680ms,31,1706090828404,1706090830598,pl_PL,To będziecie owocami Katowice. ,77ms,34,en_IN,You will be the fruit of Katowice.
+,1706090834402,0,707ms,47,1706090834404,1706090837205,pl_PL,Słucham jak sobie poczty? Jesteś pogadać coś? ,121ms,60,en_IN,Do I listen to the mail? Are you gonna talk about something?
+,1706090847686,0,364ms,19,1706090847687,1706090852246,pl_PL,Jesteśmy serdecznie,58ms,16,en_IN,We are heartfelt
+,1706090864599,0,720ms,52,1706090864601,1706090867483,pl_PL,Jeżeli sądzi rozmawiają ze sobą takie źle to jest. ,125ms,49,en_IN,If the judges talk so badly to each other it is.
+,1706090868037,0,597ms,17,1706090868038,1706090871218,pl_PL,Zasłabkimi ciężko,67ms,15,en_IN,Weaknesses hard
+,1706090880919,0,726ms,192,1706090880920,1706090897040,pl_PL,Jeżeli chcecie kogoś przekonać że polskimi czasami może brzymić troszeczkę jak język packi powiedzcie mu że mamy na przykład taki zwrot jako tak prawda że brzmi troszeczki linux ale bieg. ,395ms,203,en_IN,If you want to convince someone that Polish can sometimes sound a little like a packi language tell them that we have for example such a phrase as "yes" true that it sounds a little linux but a run.
+,1706090919038,0,611ms,155,1706090919041,1706090932037,pl_PL,W dzisiejszym odcinku wytłumaczymy wam jak używać tego orietalnie przynętego zwrotu także pokażemy wam 14 innych wyrażeń w których polacy bardzo często. ,287ms,154,en_IN,In today's episode we will explain to you how to use this originally baited phrase we will also show you 14 other expressions in which Poles very often.
+,1706090946200,0,544ms,136,1706090946203,1706090957276,pl_PL,Mają codziennie komunikacje a które mogą być troszeczkę problematyczne dla obcokrajowców mam nadzieję że po obejrzeniu tego odcinka. ,195ms,118,en_IN,They have daily communications that can be a little problematic for foreigners hopefully after watching this episode.
+,1706090968558,0,542ms,65,1706090968559,1706090975475,pl_PL,Nie widzicie już między tymi żadnych trochę zapraszamy jako tak. ,121ms,60,en_IN,You don't see any more a little welcome between them anyway.
+,1706090984478,0,385ms,40,1706090984480,1706090989005,pl_PL,No właśnie a co oznacza zwrot jako tak? ,71ms,26,en_IN,What does the return mean?
+,1706090997161,0,563ms,124,1706090997163,1706091006839,pl_PL,Jest to jedno z możliwych odpowiedzi na pytanie jak się masz i używamy ich wtedy kiedy jest tak sobie Ani dobrze Ani źle. ,224ms,109,en_IN,This is one of the possible answers to the question of how you are and we use them when it is so good or bad.
+,1706091007116,0,668ms,29,1706091007117,1706091010482,pl_PL,Słodkao jest na przykład to. ,101ms,24,en_IN,It's sweet for example.
+﻿Reference,SpeechId,Direction,SttLatency,SttLength,beginOfSpeech,endOfSpeech,SttLocale,SttResult,TranslationLatency,TranslatedLength,TranslatedLocale,TranslatedResult,useless,translation comment
+1706090630565

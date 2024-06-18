@@ -5,4 +5,5 @@ urlpatterns = [
     path("api/recognize/", face_recognition_api, name="face_recognition_api"),
     path('api/frame/', extract_first_frame, name='extract_first_frame'),
 
+
 ]

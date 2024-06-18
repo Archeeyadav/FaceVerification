@@ -1,0 +1,149 @@
+﻿Reference,SpeechId,Direction,SttLatency,length,beginOfSpeech,endOfSpeech,SttResult,TranslationLatency,length,TranslatedResult,useless,translation comment
+1709301719130
+,1709301717705,1,728ms,5,1709301717708,1709301719654,Hello,386ms,4,Olá!
+,1709301719909,0,529ms,3,1709301719910,1709301721892,Alô,207ms,6,Hello!
+,1709301720167,1,410ms,16,1709301720169,1709301722276,Can you hear me?,61ms,19,Você pode me ouvir?
+,1709301730335,0,427ms,2,1709301730336,1709301732359,Oi,45ms,3,Hi.
+,1709301734641,1,455ms,48,1709301734651,1709301738499,My name is Rakesh. May I know your name please?,1709301738954ms,53,Meu nome é Rakesh. Posso saber o seu nome por favor?
+,1709301741937,0,419ms,19,1709301741938,1709301747606,Meu nome é cauane. ,69ms,18,My name is Cauane.
+,1709301753240,1,371ms,73,1709301753242,1709301759735,Hope today we will be talking about the topic. Family love and relations.,1709301760106ms,78,Espero que hoje estejamos falando sobre o assunto. Amor e relações familiares.
+,1709301754966,0,371ms,16,1709301754967,1709301759229,Como você está? ,19ms,12,How are you?
+,1709301762941,1,395ms,20,1709301762942,1709301765687,Fine how about you?,68ms,17,Tudo bem e você?
+,1709301767980,0,437ms,19,1709301767982,1709301772198,Sim eu estou bem. ,91ms,14,Yes I'm fine.
+,1709301775718,1,447ms,31,1709301775720,1709301779383,What is the time now in Brazil?,85ms,30,Qual é a hora agora no Brasil?
+,1709301783180,0,483ms,26,1709301783181,1709301788299,Agora são 11:00 da manhã. ,89ms,30,Now it's 11:00 in the morning.
+,1709301792759,1,337ms,4,1709301792792,1709301794619,Okay,41ms,3,Ok!
+,1709301793420,0,451ms,21,1709301793424,1709301796103,E aí que horas são? ,71ms,16,What time is it?
+,1709301799096,1,453ms,46,1709301799098,1709301804321,I am calling from India and now it is 7:30 PM.,112ms,41,Estou ligando da Índia e agora são 19h30.
+,1709301812799,0,412ms,19,1709301812800,1709301815578,Caramba tá legal. ,79ms,16,Damn it's cool.
+,1709301820281,1,440ms,59,1709301820283,1709301824523,Shall we start discussing? I'm discussing about this topic.,1709301824963ms,62,Vamos começar a discutir? Estou discutindo sobre esse assunto.
+,1709301830716,0,369ms,13,1709301830717,1709301833123,Vamos começar,21ms,17,Let's get started
+,1709301837658,1,458ms,69,1709301837659,1709301846997,Okay are Brazilian people more fond of nuclear family or joint family,126ms,70,Ok os brasileiros gostam mais de família nuclear ou família conjunta?
+,1709301863523,1,437ms,32,1709301863525,1709301866683,So do you stay with your family?,85ms,32,Então você fica com sua família?
+,1709301864077,0,474ms,40,1709301864078,1709301868066,Brasileiros gostam de família conjunta. ,91ms,31,Brazilians like a joint family.
+,1709301874699,0,471ms,51,1709301874700,1709301879531,Sim gosto de passar momentos com a minha família. ,121ms,36,I like to spend time with my family.
+,1709301883639,1,437ms,36,1709301883640,1709301887243,Who are you doing now? Spend it now.,1709301887680ms,42,Quem você está fazendo agora? Gaste agora.
+,1709301892180,1,419ms,29,1709301892181,1709301895391,Who are you staying with now?,74ms,35,Com quem você está hospedado agora?
+,1709301893501,0,502ms,44,1709301893502,1709301897020,Agora no momento que eu estou trabalhando. ,104ms,31,Now at the moment I'm working.
+,1709301902737,0,484ms,38,1709301902738,1709301906354,Na verdade eu moro com o meu marido. ,86ms,32,I actually live with my husband.
+,1709301910516,1,474ms,52,1709301910519,1709301916099,And what about your mother Father Sister's Brother?,102ms,26,E a sua mãe irmão do pai?
+,1709301922836,0,515ms,44,1709301922838,1709301927481,Meus pais moram numa matar numa outra casa. ,122ms,45,My parents live in one kill in another house.
+,1709301932698,1,321ms,4,1709301932700,1709301934480,Okay,23ms,3,Ok!
+,1709301935056,1,501ms,57,1709301935057,1709301939198,So in this current house only you and your Husband leave.,138ms,61,Então nesta casa atual apenas você e seu Marido vão embora.
+,1709301947760,0,490ms,51,1709301947762,1709301952995,Sim tenho um gato também se faz parte da família. ,128ms,50,Yes I have a cat if it's also part of the family.
+,1709301957738,1,449ms,33,1709301957739,1709301961177,Yeah nice even I am fond of cat.,92ms,30,Sim bom até eu gosto de gato.
+,1709301966762,0,428ms,33,1709301966764,1709301971802,Legal você mora com a sua família,73ms,29,Do you live with your family?
+,1709301975319,1,523ms,61,1709301975320,1709301980501,Yes currently I'm staying with my Wife and my Father-in-Law.,155ms,66,Sim atualmente estou hospedado com minha esposa e meu pai-de-lei.
+,1709301985121,1,408ms,32,1709301985125,1709301988804,My parents stay in another city.,75ms,32,Meus pais ficam em outra cidade.
+,1709301988399,0,369ms,5,1709301988401,1709301990629,Legal,19ms,4,Cool
+,1709301995301,1,449ms,42,1709301995302,1709301999540,Can you tell me something about patrino's?,106ms,43,Você pode me dizer algo sobre o de Patrino?
+,1709302004078,1,426ms,9,1709302004081,1709302006036,Patrino's,62ms,9,Patrino's
+,1709302007183,0,408ms,22,1709302007185,1709302009977,Não entendi desculpa. ,78ms,25,I don't understand sorry.
+,1709302013403,1,421ms,8,1709302013405,1709302015500,Adrino's,60ms,8,Adrino's
+,1709302017979,1,350ms,16,1709302017981,1709302022078,PA DRI NH O. Yes,1709302022428ms,16,PADRI NH O. Sim!
+,1709302026498,1,397ms,32,1709302026499,1709302029363,What you call your grandparents.,82ms,28,Como vocês chamam seus avós.
+,1709302027256,0,366ms,8,1709302027257,1709302029501,Padrinho,55ms,10,Godfather.
+,1709302031562,1,486ms,37,1709302031563,1709302034200,Yeah yeah yeah Godfather correct.,120ms,33,Sim sim sim padrinho correto.
+,1709302034737,0,424ms,13,1709302034738,1709302039213,A meus avós. ,75ms,19,To my grandparents.
+,1709302042919,1,362ms,32,1709302042920,1709302045921,What you call your grandparents.,23ms,28,Como vocês chamam seus avós.
+,1709302061140,1,525ms,58,1709302061142,1709302065777,Is it common in Brazil for both the parents to be working?,133ms,56,É comum no Brasil que ambos os pais estejam trabalhando?
+,1709302080763,1,353ms,16,1709302080765,1709302082598,Can you hear me?,27ms,19,Você pode me ouvir?
+,1709302104218,1,388ms,17,1709302104220,1709302106478,Hello you there?,75ms,13,Olá você aí?
+,1709302109180,0,468ms,12,1709302109181,1709302111758,Não já viu? ,70ms,21,Have you seen it yet?
+,1709302117900,1,429ms,25,1709302117901,1709302121181,I am afraid of Christian.,68ms,22,Tenho medo do cristão.
+,1709302124559,1,376ms,22,1709302124561,1709302127639,I'm asking a question.,62ms,27,Estou fazendo uma pergunta.
+,1709302130719,1,384ms,58,1709302130721,1709302135040,Is it common in Brazil for both the parents to be working?,14ms,56,É comum no Brasil que ambos os pais estejam trabalhando?
+,1709302135837,0,493ms,29,1709302135839,1709302139502,Meus avós eles foram longe. ,93ms,31,My grandparents they went far.
+,1709302141678,0,521ms,45,1709302141686,1709302147801,Meus avós farão monge e alguns já morreram. ,121ms,61,My grandparents will make a monk and some have already died.
+,1709302153780,1,487ms,31,1709302153782,1709302157181,Okay okay sorry to hear that.,112ms,28,Ok ok desculpe ouvir isso.
+,1709302165839,1,515ms,34,1709302165852,1709302169499,Do you and your Husband both work?,162ms,28,Você e seu marido trabalham?
+,1709302174702,0,538ms,60,1709302174703,1709302180739,Sim ele trabalha numa academia e eu trabalho num pet shop. ,187ms,48,Yes he works in a gym and I work in a pet shop.
+,1709302186563,1,450ms,49,1709302186567,1709302191481,Oh nice. It must be cool walking in a patch up.,1709302191931ms,46,Oh bom. Deve ser legal andar em um patch up.
+,1709302195485,1,416ms,9,1709302195486,1709302197280,Tech shop,44ms,18,Loja de tecnologia
+,1709302198579,1,340ms,4,1709302198581,1709302203040,Shop,34ms,4,Loja
+,1709302198684,0,438ms,18,1709302198686,1709302201194,Sim é bem legal. ,88ms,22,Yes it's pretty cool.
+,1709302203042,0,456ms,28,1709302203047,1709302206127,E você o que que você faz? ,89ms,24,And you what do you do?
+,1709302209660,1,436ms,67,1709302209662,1709302215719,I work. Can a company called Samsung? The company that makes phone.,1709302216155ms,76,Eu trabalho. Uma empresa chamada Samsung pode? A empresa que faz o telefone.
+,1709302221900,0,372ms,10,1709302221901,1709302224353,Eu conheço,50ms,7,I know.
+,1709302230381,1,525ms,85,1709302230383,1709302238620,Is it common in Brazil? Uh for the children to get married like at a very early age.,1709302239145ms,83,É comum no Brasil? Uh para as crianças se casarem como em uma idade muito precoce.
+,1709302240138,0,426ms,26,1709302240139,1709302243873,Sim muita gente celular. ,92ms,27,A lot of cell phone people.
+,1709302247420,1,470ms,35,1709302247422,1709302250699,Yes yes we are cell phone people.,110ms,35,Sim sim somos pessoas de celular.
+,1709302248782,0,436ms,26,1709302248783,1709302252351,Não não é como o Brasil. ,106ms,25,No it's not like Brazil.
+,1709302257241,1,468ms,78,1709302257242,1709302262670,Actually I have read somewhere like Child. Marriage is very popular in Brasil.,1709302263138ms,85,Na verdade eu li em algum lugar como Criança. O casamento é muito popular no Brasil.
+,1709302260038,0,484ms,52,1709302260039,1709302264507,No Brasil normalmente as pessoas casam mais tarde. ,105ms,38,In Brazil people usually marry later.
+,1709302269378,1,467ms,50,1709302269380,1709302273599,Okay okay. Then I must have read wrong somewhere.,1709302274066ms,53,Ok ok. Então eu devo ter lido errado em algum lugar.
+,1709302281181,0,866ms,84,1709302281183,1709302291399,O Brasil ele quer uma cultura de de topicar com a pessoa e não se relacionar sério. ,163ms,73,Brazil wants a culture of topicing with the person and not being serious.
+,1709302281958,1,447ms,29,1709302281960,1709302285721,And as per the official data.,87ms,34,E de acordo com os dados oficiais.
+,1709302300283,1,384ms,19,1709302300286,1709302302236,What about divorce?,65ms,13,E o divórcio?
+,1709302308715,1,571ms,60,1709302308717,1709302313056,As per the official data Brazil has a high rate of divorce.,187ms,72,De acordo com os dados oficiais o Brasil tem uma alta taxa de divórcio.
+,1709302310338,0,620ms,56,1709302310340,1709302316907,No Brasil tem muita infidelidade tem muitas traições. ,184ms,66,In Brazil there is a lot of infidelity there are many betrayals.
+,1709302325019,1,359ms,12,1709302325021,1709302326959,I understand,52ms,10,Eu entendo
+,1709302331981,1,508ms,36,1709302331982,1709302335280,Have you heard of the state of Para?,126ms,38,Você já ouviu falar do estado do Pará?
+,1709302342218,0,486ms,37,1709302342220,1709302346937,Já mas é bem longe de onde eu moro. ,144ms,38,But it's a long way from where I live.
+,1709302350902,1,775ms,82,1709302350904,1709302355200,Yeah actually the state Farah has witnessed. The maximum percentage is up to the.,212ms,77,Sim na verdade o estado que Farah testemunhou. A porcentagem máxima é até o.
+,1709302355657,1,496ms,46,1709302355659,1709302359887,She was among all the other cities of brigade.,150ms,52,Ela estava entre todas as outras cidades da brigada.
+,1709302358081,0,523ms,14,1709302358087,1709302360600,Sei que é fé. ,124ms,18,I know it's faith.
+,1709302369216,0,640ms,54,1709302369217,1709302374918,Vai entendi é uma das cidades mais quente do Brasil. ,227ms,56,I understand it is one of the hottest cities in Brazil.
+,1709302381101,1,751ms,118,1709302381102,1709302390179,Yeah actually the state of Para as witnessed the maximum percentage of divorce among all the other cities of Brazil.,349ms,119,Sim na verdade o estado do Pará testemunhou a porcentagem máxima de divórcio entre todas as outras cidades do Brasil.
+,1709302402040,0,470ms,29,1709302402042,1709302406036,Por que será não faço ideia? ,119ms,24,Why am I having no idea?
+,1709302410417,1,561ms,46,1709302410419,1709302414383,Even I have no idea. I just read it somewhere.,1709302414944ms,51,Nem eu tenho ideia. Acabei de lê-lo em algum lugar.
+,1709302415362,0,506ms,29,1709302415364,1709302419618,Quais eram as notícias mas? ,126ms,23,What was the news but?
+,1709302420360,0,504ms,32,1709302420362,1709302423883,Mas você tem algum motivo será? ,138ms,27,But do you have any reason?
+,1709302423161,1,580ms,44,1709302423168,1709302427320,I was reading about marriages relationships.,153ms,51,Eu estava lendo sobre relacionamentos de casamento.
+,1709302436920,1,507ms,24,1709302436924,1709302440011,I don't have any reason.,137ms,27,Eu não tenho nenhuma razão.
+,1709302436996,0,519ms,40,1709302436998,1709302440600,E como que é o relacionamento na Índia? ,140ms,39,What is the relationship like in India?
+,1709302446421,1,522ms,30,1709302446423,1709302450520,Moreover same like in Brasil.,125ms,27,Além disso como no Brasil.
+,1709302451105,1,494ms,91,1709302451106,1709302460218,We prefer to stay as a live in couple for a couple of years. Then we decide to get married.,1709302460712ms,81,Nós preferimos ficar como um casal por um par de anos. Então decidimos nos casar.
+,1709302469323,1,528ms,45,1709302469326,1709302474504,Here also the diverse rate is higher nowadays,173ms,53,Aqui também a taxa diversificada é maior hoje em dia.
+,1709302473099,0,540ms,47,1709302473100,1709302476787,É verdade que os indianos têm muitas mulheres. ,174ms,40,It is true that Indians have many women.
+,1709302483519,1,576ms,42,1709302483520,1709302489739,Yes many and beautiful moment just like.,170ms,41,Sim muitos e belos momentos assim como.
+,1709302498581,1,530ms,66,1709302498583,1709302504778,I wanted to know is cousin. Marriage predominantly accepted there.,1709302505308ms,71,Eu queria saber que é primo. O casamento é predominantemente aceito lá.
+,1709302505400,0,409ms,7,1709302505403,1709302507783,Entendi,26ms,8,I got it
+,1709302514780,0,635ms,49,1709302514781,1709302519717,É proiemdo casar com cri mas tem jeito de casa. ,236ms,53,It's forbidden to marry a child but it's home-style.
+,1709302525757,1,483ms,52,1709302525759,1709302530863,Can you marry your cousin in Brazil? Is it accepted?,1709302531346ms,53,Você pode se casar com seu primo no Brasil? É aceito?
+,1709302529379,0,533ms,39,1709302529398,1709302533114,Tem gente que até tem filho com primo. ,168ms,53,There are people who even have a child with a cousin.
+,1709302538319,1,506ms,23,1709302538320,1709302541283,Is it accepted legally?,105ms,20,É aceito legalmente?
+,1709302542878,0,769ms,91,1709302542880,1709302554590,Eu já vi gente legalmente não é aceito mas não já vi casa. Tem gente que casou com frio. ,409ms,111,I've seen people legally it's not accepted but I haven't seen a house yet. There are people who married cold.
+,1709302570162,1,588ms,40,1709302570166,1709302574199,Brazilian law expects same-sex marriage.,176ms,64,A lei brasileira espera o casamento entre pessoas do mesmo sexo.
+,1709302580484,1,597ms,48,1709302580486,1709302586143,Does the Brazilian law accepts Sam sex marriage?,183ms,64,A lei brasileira aceita o casamento entre pessoas do mesmo sexo?
+,1709302582201,0,556ms,50,1709302582202,1709302587140,Sim isso foi aprovado aqui no Brasil legalmente. ,173ms,46,Yes this was approved here in Brazil legally.
+,1709302592176,1,394ms,9,1709302592178,1709302593984,Okay okay,101ms,7,Ok ok?
+,1709302597462,1,526ms,77,1709302597464,1709302603718,It is still under consideration in India. It has not yet fully accepted here.,1709302604244ms,76,Ainda está sendo considerado na Índia. Ainda não foi totalmente aceito aqui.
+,1709302611020,0,598ms,61,1709302611022,1709302618799,Mas tem muita gente que é relacionado a mesma sexo na Índia. ,210ms,67,But there are many people who are related to the same sex in India.
+,1709302625400,1,680ms,98,1709302625402,1709302635898,Yes let people stay together. Even though the law does not accept it still people stay together.,1709302636578ms,105,Sim deixem as pessoas ficarem juntas. Mesmo que a lei não a aceite ainda assim as pessoas ficam juntas.
+,1709302639320,0,473ms,8,1709302639321,1709302641374,Ler notí,124ms,14,Read the news.
+,1709302646779,1,594ms,42,1709302646780,1709302650945,Can I live in Brazil if I marry Brazilian?,199ms,52,Posso morar no Brasil se me casar com um brasileiro?
+,1709302650319,0,488ms,11,1709302650320,1709302652696,Estou certa,104ms,11,I am right.
+,1709302658061,0,573ms,44,1709302658062,1709302663538,Sim pode. Eu acho o Brasil muito flexível. ,174ms,46,Yes you can. I think Brazil is very flexible.
+,1709302671718,1,547ms,22,1709302671720,1709302675361,What is Hawk a hostel?,141ms,24,O que é o Hawk a Hostel?
+,1709302680822,1,351ms,7,1709302680857,1709302682862,Apostle,54ms,8,Apóstolo
+,1709302684082,0,530ms,7,1709302684084,1709302685832,Vai cho,84ms,7,Go Cho!
+,1709302686295,1,458ms,7,1709302686295,1709302689840,HAQ. UE,1709302690298ms,10,Haq. "Eu".
+,1709302692502,1,473ms,13,1709302692504,1709302696741,APO STI l. LE,1709302697214ms,13,APO STIl. LE!
+,1709302697340,0,457ms,11,1709302697341,1709302699770,Não entendi,123ms,19,I don't understand.
+,1709302704163,1,847ms,79,1709302704164,1709302709879,Okay I've read somewhere like in order to get a permanent residency I have to.,292ms,85,Ok eu li em algum lugar como a fim de obter uma residência permanente eu tenho que.
+,1709302711841,1,503ms,19,1709302711843,1709302714141,Do something messy.,94ms,18,Faça algo confuso.
+,1709302726168,1,304ms,3,1709302726170,1709302727886,Yes,23ms,4,Sim!
+,1709302726318,0,631ms,57,1709302726322,1709302731354,Eu acho que não tem muita porcracia procurar no Brasil. ,251ms,57,I don't think there's much porcracity looking in Brazil.
+,1709302738685,1,548ms,45,1709302738687,1709302743598,Dating before marriage a normal thing there.,183ms,48,Namorar antes do casamento uma coisa normal lá.
+,1709302747158,1,437ms,9,1709302747159,1709302749198,Is it so?,85ms,8,É assim?
+,1709302750657,0,473ms,16,1709302750658,1709302753240,Senha é normal. ,91ms,19,Password is normal.
+,1709302758319,1,327ms,4,1709302758321,1709302760018,Okay,13ms,3,Ok!
+,1709302762877,1,619ms,53,1709302762879,1709302767081,Brazilians greet each other with a kiss on the cheek.,221ms,56,Os brasileiros se cumprimentam com um beijo na bochecha.
+,1709302764103,0,671ms,19,1709302764104,1709302766230,O que é isso aqui? ,105ms,13,What is this?
+,1709302767060,0,455ms,4,1709302767062,1709302768763,Sexo,72ms,4,Sex.
+,1709302776899,1,432ms,11,1709302776900,1709302779000,Is it true?,84ms,10,É verdade?
+,1709302793899,0,493ms,19,1709302793900,1709302797143,Isso é muito lega. ,118ms,17,That's very cool.
+,1709302806420,1,623ms,78,1709302806423,1709302812683,How did you marry your Husband was it your love marriage or arranged marriage?,257ms,83,Como você se casou com seu marido foi seu casamento amoroso ou casamento arranjado?
+,1709302808480,0,425ms,10,1709302808481,1709302810199,Sim mulher,78ms,10,Yes Woman!
+,1709302815220,0,752ms,22,1709302815221,1709302817115,Não sei o que é isso. ,139ms,26,I don't know what that is.
+,1709302823559,0,603ms,14,1709302823560,1709302825362,Você é muito. ,82ms,13,You are very.
+,1709302834721,1,522ms,31,1709302834723,1709302837791,Sorry I did not understand you.,136ms,28,Desculpe eu não te entendi.
+,1709302838418,0,707ms,14,1709302838423,1709302841790,Vai se foder. ,124ms,30,You're going to fuck yourself.
+,1709302851699,1,454ms,49,1709302851701,1709302855983,Are you getting angry? Did I say something wrong?,1709302856437ms,50,Você está ficando com raiva? Eu disse algo errado?
+,1709302864040,0,690ms,19,1709302864042,1709302866005,Não é isso que eu. ,129ms,21,That's not what I do.
+,1709302871418,0,600ms,7,1709302871419,1709302873241,Oi amor,80ms,8,Hi love.
+,1709302873802,1,364ms,5,1709302873803,1709302875918,Let's,51ms,5,Vamos
+,1709302881903,1,563ms,38,1709302881904,1709302885182,Okay I think we had done for the day.,166ms,39,Ok acho que tínhamos feito para o dia.
+,1709302886117,1,485ms,47,1709302886118,1709302890621,Thank you. Thank you for the discussion Andrew.,1709302891106ms,41,Obrigado. Obrigado pela discussão Andrew.
+,1709302895940,1,498ms,15,1709302895941,1709302897657,Bye take care.,100ms,15,Adeus cuidado.

@@ -1,0 +1,14 @@
+﻿Reference,SpeechId,Direction,SttLatency,length,beginOfSpeech,endOfSpeech,SttResult,TranslationLatency,length,TranslatedResult,useless,translation comment
+1710428577511
+,1710428576168,1,853ms,5,1710428576182,1710428578090,Hello,530ms,4,Hola
+,1710428581730,1,386ms,12,1710428581731,1710428583856,How are you?,21ms,12,¿Cómo estás?
+,1710428588448,0,696ms,25,1710428588449,1710428592134,Hola buenos días bien? ,312ms,26,Hello good morning okay?
+,1710428599334,1,398ms,12,1710428599336,1710428601530,Good Morning,54ms,12,Buenos días.
+,1710428605372,1,506ms,65,1710428605374,1710428611013,Today's topic of discussion will be healthcare system and Mexico.,137ms,62,El tema de discusión de hoy será el sistema de salud y México.
+,1710428615612,1,430ms,21,1710428615613,1710428618372,Are you okay with it?,70ms,20,¿Estás bien con eso?
+,1710428623652,0,446ms,17,1710428623653,1710428626011,Sí ¿de acuerdo? ,61ms,11,Yeah okay?
+,1710428632010,1,485ms,46,1710428632012,1710428636609,How's the COVID situation in Mexico currently?,108ms,54,Cómo está la situación de COVID en México actualmente?
+,1710428645009,0,1388ms,521,1710428645010,1710428682490,Hoy creo que ya no hay casos de COVID al menos ya no se escucha. Creo que ya se quedó como una enfermedad más así como la influencia o como un resfriado común este entonces quizá a la gente a lo mejor si le sigue dando el cobi pero pues ya no es algo pues alarmante como cuando estuvo. La pandemia que pues. Si alguien le daba cobby pues era como que todos asustábamos y y este teníamos que tener a la persona alejada de los demás y proveeso entonces pues ya no salgo de lo que se esté hablando pues mucho la verdad.,928ms,534,Today I believe that there are no more cases of COVID at least it is no longer heard. I think it was already a disease as well as the influence or as a common cold this then maybe people maybe if they keep giving it the cobi but it is not something like alarming like when it was. The pandemic that then. If someone gave him a cobby because it was like we were all scared and this one we had to have the person away from the others and provide then I don't get out of what is being talked about anymore because the truth is that.
+,1710428721571,1,379ms,9,1710428721572,1710428724091,Yeah true,57ms,9,Sí cierto
+,1710428728290,1,506ms,46,1710428728292,1710428733327,How is the healthcare sector in Mumbai Mexico?,152ms,50,¿Cómo está el sector de la salud en Mumbai México?
+,1710428736054,1,504ms,40,1710428736055,1710428739371,How is the health care sector in Mexico?,118ms,43,¿Cómo está el sector de la salud en México?

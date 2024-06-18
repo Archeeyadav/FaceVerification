@@ -1,0 +1,70 @@
+﻿Reference,SpeechId,Direction,SttLatency,length,beginOfSpeech,endOfSpeech,SttResult,TranslationLatency,length,TranslatedResult,useless,translation comment
+1704454410116
+,1704454414698,0,842ms,12,1704454414704,1704454416974,I need you. ,459ms,11,I need you.
+,1704454420256,1,473ms,53,1704454420257,1704454425810,Hello how are you? I'm from Bangalore India Samsung.,1704454426283ms,55,Olá como você está? Eu sou da Bangalore India Samsung.
+,1704454432297,0,425ms,24,1704454432299,1704454435818,Olá tudo bem deslado. ,86ms,25,Hello all right by way.
+,1704454439894,1,438ms,17,1704454439896,1704454442936,My name is Vinay.,74ms,17,Meu nome é Vinay.
+,1704454449415,1,460ms,28,1704454449417,1704454452094,May I know what's your name?,88ms,30,Posso saber qual é o seu nome?
+,1704454449694,0,487ms,29,1704454449702,1704454454384,Prazer meu nome é é Sérgio. ,104ms,26,Please my name is Sergio.
+,1704454458372,1,472ms,38,1704454458374,1704454461893,Hello serjio hope you're doing great.,141ms,52,Olá querida espero que você esteja indo muito bem.
+,1704454459937,0,419ms,26,1704454459938,1704454463108,Claro meu nome é Sérgio. ,104ms,29,Of course my name is Sergio.
+,1704454471132,0,503ms,31,1704454471134,1704454474334,Está tudo bem graças de Deus. ,91ms,26,It's all right thank God.
+,1704454474734,0,408ms,15,1704454474746,1704454477097,Filho do lado. ,76ms,16,Son on the side.
+,1704454481533,1,463ms,83,1704454481535,1704454489015,Uh hello Sarju. I'm looking for a post-graduation course in University of brazila.,1704454489478ms,86,Uh olá Sarju. Estou à procura de um curso de pós-graduação na Universidade do Brasil.
+,1704454498616,0,509ms,81,1704454498619,1704454507294,Ah claro existem vários cores depois de graduação que curso gostaria de fazer. ,151ms,83,Oh of course there are several colors after graduation that I would like to take.
+,1704454516892,1,450ms,58,1704454516893,1704454521586,Can you come again? I'm not getting what exactly you said.,1704454522036ms,69,Você pode voltar? Eu não estou recebendo o que exatamente você disse.
+,1704454519774,0,602ms,31,1704454519775,1704454522653,Que tipo de curso gostaria já? ,87ms,39,What kind of course would you like now?
+,1704454528614,0,504ms,71,1704454528615,1704454535494,Perguntava qual é o curso depois graduação que gostaria de estudaram? ,134ms,72,I asked what is the course after graduation that I would like to study?
+,1704454529256,1,476ms,61,1704454529268,1704454534693,I'd like to enrol for post-graduation course in data science.,144ms,78,Eu gostaria de me inscrever para o curso de pós-graduação em ciência de dados.
+,1704454543692,0,557ms,133,1704454543696,1704454555779,É possível é possível que se revista várias universidades ainda que pode descrever por exemplo ao universo da cidade de São Paulo. ,209ms,132,It is possible that several universities are reviewed although it can describe for example the universe of the city of São Paulo.
+,1704454567093,1,445ms,49,1704454567095,1704454571694,I am actually looking for course in data science.,104ms,58,Na verdade estou procurando um curso de ciência de dados.
+,1704454580454,0,458ms,53,1704454580456,1704454585732,É possível sim escrever no curso de câncer de dados? ,103ms,50,Is it possible to write in the data cancer course?
+,1704454586174,0,522ms,66,1704454586186,1704454593416,Na Universidade de São Paulo ex curso de centro das 14 graduação. ,139ms,72,At the University of São Paulo ex-center course of the 14 undergraduate.
+,1704454592295,1,449ms,46,1704454592300,1704454598614,Now I am looking for data science in computer.,96ms,58,Agora estou procurando por ciência de dados em computador.
+,1704454605333,0,577ms,102,1704454605334,1704454616214,É possível o único requerimento que eles precisam equipes de baixa o baixado lado a ciência de dados. ,169ms,90,It is possible the only requirement that they need low- or low-side teams to data science.
+,1704454622818,0,484ms,18,1704454622819,1704454624536,Já eu sou vamos. ,84ms,15,I am let's go.
+,1704454635295,1,492ms,59,1704454635297,1704454639693,What kind of course available in the University of Brazil?,109ms,56,Que tipo de curso disponível na Universidade do Brasil?
+,1704454648456,0,1028ms,327,1704454648457,1704454679513,Na Universidade de Brasília vista vários cursos universidades de São Paulo dividos coros como dizer existe cena de computação que existem ciências biologias história cerrei existem vários cursos desse engenharia de legagens em Minas existem vários custos mais importante saber o qual é o curso. Que gostaria de fazer de fazer?,640ms,333,At the University of Brasilia we see several courses universities in São Paulo divided choirs as to say there is a computer scene that there are sciences biology history cerrei there are several courses of this legage engineering in Minas there are several more important costs to know what the course is. What would you like to do?
+,1704454690312,0,567ms,26,1704454690313,1704454692195,Você não pode ser uma já. ,85ms,25,You can't be one already.
+,1704454705473,1,510ms,115,1704454705475,1704454716191,Yes thank you for this details. Actually I'm looking for data science or artificial intelligence related courses.,1704454716701ms,133,Sim obrigado por esses detalhes. Na verdade estou procurando por cursos relacionados à ciência de dados ou inteligência artificial.
+,1704454730435,0,925ms,271,1704454730437,1704454756115,Então uma rua cidade na Universidade de São Paulo existe existem curso de centro de dados popsculação um caracteramento como desantoramento vai precisar de um baixar lá licidadora. Esse festa de comunicação para que facilitam fazer o curso de perigo em cerca de dados.,466ms,258,So a street city at the University of São Paulo exists there is a course of bodybuilding data center a character like de-disco will need a lower there licidator. This communication party so that they make it easier to make the danger course in about data.
+,1704454779400,1,484ms,42,1704454779402,1704454783918,Do do the college having laugh facilities?,84ms,37,A faculdade tem instalações para rir?
+,1704454788192,1,420ms,22,1704454788195,1704454791474,I mean lab facilities.,90ms,40,Quero dizer instalações de laboratório.
+,1704454791715,0,490ms,43,1704454791717,1704454795605,Desculpa pode fazer a pergunta novamente. ,108ms,38,Sorry you can ask the question again.
+,1704454797832,0,568ms,17,1704454797833,1704454800437,Sei sim vamos. ,101ms,22,I know yes let's go.
+,1704454800277,1,420ms,16,1704454800288,1704454802370,Do the you know?,71ms,10,Você sabe?
+,1704454800872,0,728ms,265,1704454800885,1704454823597,Sim existem vários laboratórios pra 10 ft como é um universado exatamente se deselaboradores para vários testes. Existem o cê está me pra inteligência artificial como o laboratório para contestar aeroportos que eles costumam fazer uma cidade estadual de São Paulo.,353ms,246,Yes there are several laboratories for 10 ft as it is a university exactly if undevisers for various tests. There are you're in the artificial intelligence as the laboratory to challenge airports that they usually make a state city of São Paulo.
+,1704454842156,1,417ms,65,1704454842158,1704454849031,I think are you getting what I'm saying? Or is there any problem?,1704454849448ms,77,Eu acho que você está recebendo o que eu estou dizendo? Ou há algum problema?
+,1704454852194,1,454ms,46,1704454852195,1704454855991,Whether the translation is happening properly.,90ms,44,Se a tradução está acontecendo corretamente.
+,1704454856833,0,575ms,26,1704454856834,1704454860240,No homem problema vamos. ,108ms,29,In the man problem let's go.
+,1704454861354,0,551ms,38,1704454861357,1704454864891,A tradição está perfeitamente vamos. ,104ms,37,The tradition is perfectly let's go.
+,1704454867038,0,453ms,24,1704454867040,1704454869888,Não há nenhum problema. ,71ms,20,There is no problem.
+,1704454872077,0,446ms,49,1704454872079,1704454878238,Consigo aparecer consigo perceber perfeitamente. ,99ms,43,I can show up with you to see it perfectly.
+,1704454884235,1,441ms,48,1704454884238,1704454888352,How's the weather currently in Brazil your area?,104ms,45,Como é o clima atualmente no Brasil sua área?
+,1704454896433,0,601ms,102,1704454896435,1704454909130,Atualmente o clima no Brasil tá quente né varia aí de seus trem há 35° no mosestado tá muito quente. ,214ms,108,Currently the climate in Brazil is hot and there is it varies from its trains 35° in the state is very hot.
+,1704454919628,1,437ms,20,1704454919628,1704454922551,Oh I see thank you.,75ms,22,Oh eu vejo obrigado.
+,1704454927712,1,470ms,74,1704454927713,1704454933513,By the way I am looking for some intensive programme with some companies.,112ms,76,A propósito estou procurando algum programa intensivo com algumas empresas.
+,1704454932672,0,421ms,30,1704454932674,1704454935924,De nada mas algumas questão. ,89ms,28,Nothing but a few questions.
+,1704454939834,1,427ms,36,1704454939835,1704454943354,I'm looking for intensive programme.,87ms,41,Estou à procura de um programa intensivo.
+,1704454942116,0,424ms,18,1704454942118,1704454944795,Como por exemplo. ,73ms,12,For example.
+,1704454949637,0,392ms,18,1704454949639,1704454952273,Como por exemplo. ,21ms,12,For example.
+,1704454956234,1,521ms,96,1704454956236,1704454964993,Yeah I am looking for some intensive programme in Computer Science in some companies in Brazil.,157ms,104,Sim estou à procura de algum programa intensivo em Ciência da Computação em algumas empresas no Brasil.
+,1704454960834,0,470ms,46,1704454960844,1704454964808,Que tipo de programa de cima está procurando? ,104ms,51,What kind of program from above is you looking for?
+,1704454966833,0,543ms,29,1704454966833,1704454969839,Pode detalhar por favor já. ,84ms,26,You can please detail now.
+,1704454977156,0,369ms,20,1704454977158,1704454979971,Então posso ajudar? ,61ms,11,Can I help?
+,1704454978072,1,488ms,40,1704454978073,1704454982803,Yeah actually I am looking for my Son.,122ms,44,Sim na verdade estou procurando meu Filho.
+,1704454980191,0,460ms,67,1704454980205,1704454988884,O curado de emprego é empresas e tudo que programas procura é sim. ,127ms,64,The job cure is companies and all that programs look for is yes.
+,1704454990833,0,775ms,221,1704454990834,1704455007555,Por favor a tradição não está muito correta peço pra repetir por favor quero diz que está procurador programe algumas empresas de tua procura do filho por favor peço pra gay. Posso esperar profetamento da sua questão. ,388ms,203,Please the tradition is not very correct I ask to repeat please say that you are a prosecutor schedule some companies of your child search please ask for gay. I can expect a promise of your question.
+,1704455000351,1,451ms,140,1704455000351,1704455009953,Actually in the college we used to do internship programme on the third year. So I am looking for same opportunity in the Brazil University.,1704455010404ms,156,Na verdade na faculdade costumávamos fazer um programa de estágio no terceiro ano. Então estou procurando a mesma oportunidade na Universidade do Brasil.
+,1704455025956,0,1131ms,390,1704455025958,1704455060366,Nada do percepbo da procura de uma oportunidade de estágio na saída mais de breve normalmente é pra deve resolver um programa de estágio. Eles procuram uma carta que venha da universidade de onde estudou a geração de computação eu preciso dar isso aqui a carta pra empresa né se a empresa avaliar as suas qualificações utilizam derretamento eles poderiam caçar segunda suas qualificações.,690ms,406,Nothing in the perception of the search for an internship opportunity at the most brief exit is usually to solve an internship program. They look for a letter that comes from the university from where they studied the generation of computing I need to give this here the letter to the company né if the company evaluates their qualifications use melting they could hunt according to their qualifications.
+,1704455088752,1,525ms,98,1704455088753,1704455096952,Perfectly fine. Uh I'll send you the letter of recommendation for my Son so that you can help me.,1704455097477ms,113,Perfeitamente bem. Uh Eu lhes enviarei a carta de recomendação para o Meu Filho para que vocês possam me ajudar.
+,1704455106797,0,486ms,71,1704455106799,1704455113085,Perfeito perfeita precisa de uma oportunidade para seu filho perfeito. ,122ms,60,Perfect perfect needs an opportunity for your perfect child.
+,1704455113273,0,473ms,43,1704455113273,1704455117915,Fizemos carta de Miguel para aqui empresa. ,122ms,49,We made a letter from Miguel to the company here.
+,1704455123553,1,494ms,44,1704455123554,1704455127311,Thank you so much for your support and help.,85ms,38,Muito obrigado pelo seu apoio e ajuda.
+,1704455124556,0,513ms,69,1704455124557,1704455131353,Ela sempre podemos ajudar. Podemos saber que qualificação Getúlio é. ,146ms,67,She can always help. We can know what the Getulio qualification is.
+,1704455133471,0,389ms,7,1704455133472,1704455135836,De nada,22ms,14,You're welcome
+,1704455136032,0,622ms,26,1704455136037,1704455138553,Segurança pra mim vamos. ,107ms,24,Safety for me let's go.
+,1704455142193,1,433ms,17,1704455142197,1704455144436,Have a great day.,69ms,20,Tenha um grande dia.
+,1704455148957,0,369ms,19,1704455148959,1704455151808,Obrigado igualmente,47ms,17,Thank you equally
+,1704455154430,1,381ms,7,1704455154431,1704455156550,Bye bye,19ms,5,Tchau
+,1704455160438,0,404ms,11,1704455160440,1704455162890,Tchau adeus,75ms,7,Goodbye

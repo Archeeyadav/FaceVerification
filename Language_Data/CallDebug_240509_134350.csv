@@ -1,0 +1,55 @@
+﻿Reference,SpeechId,Direction,SttLatency,length,beginOfSpeech,endOfSpeech,SttResult,TranslationLatency,length,TranslatedResult,useless,translation comment
+1715241719650
+,1715241716791,1,985ms,37,1715241716805,1715241720759,हाय क्या तुम्हे मेरी आवाज़ आ रही है?,1715241721744ms,34,Hi are you listening to my voice?
+,1715241720672,0,513ms,5,1715241720679,1715241722706,Hello,177ms,7,नमस्कार
+,1715241729791,0,397ms,10,1715241729794,1715241732345,Yes I am.,60ms,13,हाँ मैं हूँ।
+,1715241733308,1,489ms,95,1715241733310,1715241744487,अच्छामेरा नाम अफगान है। मैं इंडिया से बात कर रही हूँ और आजका। चर्चा का विषय है यात्रा और अवकाश।,1715241744976ms,98,My name is Afghan. I am talking to India and today. The topic of discussion is travel and leisure.
+,1715241741308,0,476ms,15,1715241741316,1715241743824,I can hear you.,64ms,25,मैं तुम्हें सुन सकता हूँ।
+,1715241754746,0,394ms,4,1715241754747,1715241757107,Okay,43ms,6,ठीक है
+,1715241760268,1,416ms,68,1715241760269,1715241768023,अच्छा यूके या स्कॉटलैंड जाने के लिए? साल का कौनसा समय सबसे अच्छा है?,1715241768439ms,64,Good to go to the UK or Scotland? What is the best time of year?
+,1715241766666,0,444ms,20,1715241766673,1715241769508,OK I can't hear you.,80ms,31,ठीक है मैं आपको नहीं सुन सकता।
+,1715241776748,0,468ms,128,1715241776749,1715241788828,I would recommend coming during summer. When the temperature is warm not too cold. It's for your visit. So many good best time.,1715241789296ms,130,मैं गर्मियों के दौरान आने की सलाह दूंगा। जब तापमान गर्म होता है बहुत ठंडा नहीं होता है। यह आपकी यात्रा के लिए है। इतना अच्छा समय।
+,1715241798870,1,538ms,66,1715241798871,1715241806466,मुझे भी समर पसंद है। वैसे ब्रिटेन में किस महीने में बारिश होती है?,1715241807004ms,62,I like the samar as well. What is the month of rain in the UK?
+,1715241814706,0,456ms,34,1715241814708,1715241817668,I didn't hear you. Can you repeat?,1715241818124ms,48,मैंने तुम्हें नहीं सुना। क्या आप दोहरा सकते हैं?
+,1715241822432,1,418ms,71,1715241822434,1715241830011,मुझे भी समर पसंद है। व्हाटवैसे ब्रिटेन में किस महीने में बारिश होती है?,1715241830429ms,69,I like the samar as well. What's the average time it rains in the UK?
+,1715241834513,0,349ms,4,1715241834515,1715241836390,Snow,43ms,4,बर्फ
+,1715241838033,0,451ms,220,1715241838034,1715241858549,Ring I'm the ring in the UK is not truly easily predictable. It could rain anytime of the season beef and winter spring summer. But I think he's small in the will. It fast in asro. It rained the laws and snows as well.,1715241859000ms,230,रिंग मैं ब्रिटेन में अंगूठी वास्तव में आसानी से अनुमानित नहीं है। यह मौसम बीफ और सर्दियों वसंत गर्मियों के किसी भी समय बारिश हो सकती है। लेकिन मुझे लगता है कि वह इच्छा में छोटा है। यह अरो में तेजी से। कानून और बर्फ भी बारिश हुई।
+,1715241870508,1,477ms,116,1715241870508,1715241882126,भारत से लंदन तक यात्रा करने के लिए लगभग 12 से 13 घंटे लगते हैं। मुझे यकीन नहीं है कि मैं कभी इतनी देर तक बैठ पाऊँगी।,1715241882603ms,104,It takes around 12 to 13 hours to travel from India to London. I'm not sure I'll ever sit for that long.
+,1715241897150,1,376ms,4,1715241897151,1715241899189,हेलो,1715241899565ms,4,Halo
+,1715241902426,0,446ms,21,1715241902429,1715241905151,Hello I can hear you.,81ms,27,हैलो मैं आपको सुन सकता हूं।
+,1715241909831,1,415ms,19,1715241909832,1715241913268,आप कभी भारत आई हैं।,1715241913683ms,26,You've ever been to India.
+,1715241917905,0,413ms,37,1715241917906,1715241922908,No I have not childhood India before.,86ms,37,मैंने पहले भारत का बचपन नहीं किया है।
+,1715241928869,1,461ms,56,1715241928871,1715241935469,ओके। अधिकांश ब्रिटिश लोग किस देश में जाना पसंद करते हैं?,1715241935930ms,49,OK. What country do most Britons prefer to go to?
+,1715241942866,0,571ms,126,1715241942867,1715241958310,We love the Islands the modest Mauritius. You know island to beaches Oliver that's really like to travel to during summer.,1715241958881ms,144,हम द्वीपों से प्यार करते हैं मामूली मॉरीशस। आप जानते हैं समुद्र तटों के लिए द्वीप ओलिवर यह वास्तव में गर्मियों के दौरान यात्रा करना पसंद है।
+,1715241970268,1,452ms,64,1715241970269,1715241977231,क्या आपको फरो द्वीप समूह की यात्रा के लिए वीजा की आवश्यकता होगी?,1715241977683ms,53,Will you need a visa for a trip to the Faroe Islands?
+,1715241985548,0,426ms,95,1715241985550,1715241993227,From for someone who is coming to who is the British citizen? You don't need any Visa for that.,1715241993653ms,103,किसी ऐसे व्यक्ति के लिए जो आ रहा है कि ब्रिटिश नागरिक कौन है? इसके लिए आपको किसी वीजा की जरूरत नहीं है।
+,1715242003785,1,469ms,61,1715242003786,1715242010393,मैं अपने जीवन में एक बार फॉरो द्वीप की यात्रा करना चाहती हूँ।,1715242010862ms,44,I want to visit Foro Island once in my life.
+,1715242011313,1,469ms,63,1715242011314,1715242017637,क्या मुझेलंदन पहुंचने के बाद क्वारेंटाइन में रहने की ज़रूरत है।,1715242018106ms,52,Do I need to be in quarantine after I get to London.
+,1715242016348,0,445ms,69,1715242016354,1715242023150,Okay you'll be needing a sadder. Then a city has a British passport.,1715242023595ms,73,ठीक है आपको एक दुखी की आवश्यकता होगी। एक शहर के पास ब्रिटिश पासपोर्ट है।
+,1715242024871,0,434ms,21,1715242024874,1715242027468,So I didn't hear you.,71ms,30,इसलिए मैंने तुम्हें नहीं सुना।
+,1715242036909,1,441ms,64,1715242036911,1715242043191,क्या मुझे लंडन पहुंचने के बाद क्वारेंटाइन में रहने की ज़रूरत है?,1715242043632ms,61,Do I have to stay in the quarantine after arriving in London?
+,1715242044547,1,350ms,9,1715242044548,1715242046959,स्वामित्व,1715242047309ms,9,Ownership
+,1715242049110,0,471ms,31,1715242049113,1715242053748,Notes no no not enough such.,92ms,33,नोट्स नहीं नहीं पर्याप्त नहीं।
+,1715242059072,1,460ms,49,1715242059074,1715242065345,ग्लास्को और बर्मिंघम में से। कौन अधिक किफायती है?,1715242065805ms,48,of Glasco and Birmingham. Who's more affordable?
+,1715242072871,0,504ms,196,1715242072872,1715242092908,Oh Glasgow is in Scotland um it's quite affordable compared to Birmingham. Ben hunts awesome and cheap. I think Scott law Tracy's machine beneath him has more job opportunities as well modestly.,1715242093412ms,186,ओह ग्लासगो स्कॉटलैंड उम में है यह बर्मिंघम की तुलना में काफी सस्ती है। बेन भयानक और सस्ते शिकार करता है। मुझे लगता है कि स्कॉट कानून ट्रेसी की मशीन उसके नीचे नौकरी के अवसर भी अधिक हैं।
+,1715242103427,1,459ms,59,1715242103428,1715242110669,किस देश के लोग लंदन में पर्यटक के रूप में सबसे अधिक आते है?,1715242111128ms,59,Which country's people come to London the most as tourists?
+,1715242119191,0,433ms,152,1715242119194,1715242130990,What I can only give is that a season that I know that most people all over the world to come to London. Call pakison university is some historic sites.,1715242131423ms,137,मैं केवल एक मौसम दे सकता हूं जो मुझे पता है कि दुनिया भर के अधिकांश लोग लंदन आने के लिए। कॉल Pakison विश्वविद्यालय कुछ ऐतिहासिक स्थल हैं।
+,1715242142627,1,412ms,79,1715242142628,1715242151802,क्या आपने अंतर्राष्ट्रीय छात्रों को ब्रिटेन में? अंशकालिक नौकरिया करते देखा है।,1715242152214ms,77,Have you received international students in the UK? I've seen part-time jobs.
+,1715242161429,0,484ms,189,1715242161431,1715242179707,You are even as she must ask to dance. I think depending on your country I know that us some us citizens do come to the UK to do some part job. You know both it depends on your nationality.,1715242180191ms,223,आप भी हैं क्योंकि उसे नृत्य करने के लिए पूछना चाहिए। मुझे लगता है कि आपके देश के आधार पर मुझे पता है कि हम कुछ अमेरिकी नागरिक कुछ भाग नौकरी करने के लिए ब्रिटेन आते हैं। आप जानते हैं कि यह आपकी राष्ट्रीयता पर निर्भर करता है।
+,1715242193790,1,532ms,90,1715242193792,1715242202349,मैंने ये सुना है कि आयरलैंड के लोगों को यूके जाने के लिए। वीजा की आवश्यकता है। क्या सच है?,1715242202881ms,87,I have heard that people from Ireland go to the UK. Visa is required. What's the truth?
+,1715242214110,0,428ms,230,1715242214111,1715242235830,For me if anyone wants to apply to this come to the UK. The best thing to do is to go on the UK sites and get all the necessary requirements so that we get it first time from their website and follow. Are they processed outlined?,1715242236258ms,255,मेरे लिए अगर कोई इस पर आवेदन करना चाहता है तो ब्रिटेन में आते हैं। सबसे अच्छी बात यह है कि यूके साइटों पर जाना और सभी आवश्यक आवश्यकताओं को प्राप्त करना है ताकि हम इसे पहली बार उनकी वेबसाइट से प्राप्त करें और अनुसरण करें। क्या उन्हें रेखांकित किया गया है?
+,1715242253590,1,446ms,66,1715242253591,1715242260757,क्या आपको यात्रा करना पसंद है? और अभी तक आप? कौनसे देश जा चुकी है?,1715242261203ms,59,Do you like to travel? And yet you? Which country has gone?
+,1715242269673,0,461ms,131,1715242269675,1715242279265,Um I love to travel football for now. I've not really done any much travelling though. I'm looking forward to travelling to steam.,1715242279726ms,137,मुझे अभी के लिए फुटबॉल यात्रा करना पसंद है। मैंने वास्तव में बहुत अधिक यात्रा नहीं की है। मैं स्टीम के लिए यात्रा करने के लिए उत्सुक हूं।
+,1715242290790,1,449ms,70,1715242290792,1715242298029,ब्रिटेन में लगभग 15 राष्ट्रीय उद्यान है। आप उनमें से कितने में गए हैं?,1715242298478ms,79,There are about 15 national parks in the UK. How many of them have you been to?
+,1715242306108,0,394ms,64,1715242306109,1715242313594,Hmm funny. No I've not been to any I'm not. I'm being to any.,1715242313988ms,92,हम्म मजाकिया. नहीं मैं किसी के पास नहीं गया हूं मैं नहीं हूं। मैं किसी के लिए जा रहा हूँ।
+,1715242323110,1,433ms,53,1715242323112,1715242328525,क्या यूके में कोई ऐसी सफारी है जिसे मैं देख सकती हूँ?,1715242328958ms,43,Is there a safari in the UK that I can see?
+,1715242336069,0,396ms,43,1715242336071,1715242340028,I didn't hear you. Can you repeat yourself?,1715242340424ms,55,मैंने तुम्हें नहीं सुना। क्या आप खुद को दोहरा सकते हैं?
+,1715242344949,1,435ms,52,1715242344950,1715242350664,क्या यूके मे कोई ऐसी सफारी है जिसे मैं देख सकती हूँ?,1715242351099ms,43,Is there a safari in the UK that I can see?
+,1715242356230,0,518ms,63,1715242356232,1715242368468,Safari I really need to normally have much again that fun mummy,137ms,74,सफारी मैं वास्तव में सामान्य रूप से बहुत फिर से है कि मज़ा माँ की जरूरत है
+,1715242378107,0,366ms,2,1715242378109,1715242379786,Ah,34ms,2,आह
+,1715242383948,1,524ms,106,1715242383950,1715242396188,कोई बात नहीं। हमें दिया हुआ समय अभी समाप्त होता है। तुमसे बात कर के अच्छा लगा। धन्यवादतुम्हारा दिन शुभ हो।,1715242396712ms,106,No problem. The time given to us is now over. It was nice to talk to you. Thank you for having a nice day.
+,1715242397350,0,397ms,13,1715242397354,1715242400188,Have no idea.,64ms,18,कोई विचार नहीं है।
+,1715242405146,0,448ms,27,1715242405147,1715242411149,YouTube has a nice day bye.,94ms,31,YouTube एक अच्छा दिन अलविदा है।
+,1715242412025,1,401ms,14,1715242412026,1715242414342,बाई बाई क्यों?,1715242414743ms,13,Why the left?
+,1715242418829,1,324ms,6,1715242418831,1715242420867,अलविदा,1715242421191ms,7,Goodbye
+,1715242424032,0,330ms,3,1715242424033,1715242426145,Bye,49ms,6,अलविदा

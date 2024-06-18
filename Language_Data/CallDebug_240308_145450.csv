@@ -1,0 +1,148 @@
+﻿Reference,SpeechId,Direction,SttLatency,length,beginOfSpeech,endOfSpeech,SttResult,TranslationLatency,length,TranslatedResult,useless,translation comment
+1709888686809
+,1709888685493,1,783ms,5,1709888685501,1709888687286,Hello,429ms,5,Witam
+,1709888694409,1,446ms,16,1709888694410,1709888696651,Can you hear me?,67ms,14,Słyszysz mnie?
+,1709888698369,0,541ms,7,1709888698371,1709888702059,Tak tak,217ms,10,Yes I do.
+,1709888706371,1,425ms,51,1709888706372,1709888711329,Hello my name is Prasanna. I'm calling from India.,1709888711754ms,45,Cześć nazywam się Prasanna. Dzwonię z Indii.
+,1709888717810,0,371ms,5,1709888717811,1709888720052,Cześć,42ms,5,Hello
+,1709888725331,0,407ms,11,1709888725333,1709888727608,Cześć cześć,62ms,8,Hi hello
+,1709888731490,1,474ms,45,1709888731493,1709888736302,May I know what is the time now in in Poland?,122ms,45,Czy mogę wiedzieć która jest teraz w Polsce?
+,1709888735489,0,335ms,4,1709888735490,1709888737418,Halo,34ms,5,Hello
+,1709888743172,0,297ms,5,1709888743174,1709888745848,10:05,17ms,5,10:05
+,1709888750851,1,376ms,4,1709888750852,1709888752771,Okay,49ms,5,Okej.
+,1709888754850,1,480ms,50,1709888754851,1709888760809,So today's topic will be movies and entertainment.,108ms,37,Dzisiejszy temat to filmy i rozrywka.
+,1709888766571,0,446ms,28,1709888766572,1709888769896,Świetnie mogę się doczekać. ,73ms,31,I can look forward to it great.
+,1709888776294,1,434ms,40,1709888776296,1709888780370,What is the official language of Poland?,84ms,32,Jaki jest język urzędowy Polski?
+,1709888785652,0,482ms,29,1709888785653,1709888789651,Polski to jest język Polski. ,72ms,33,Polish is the language of Poland.
+,1709888797529,1,430ms,38,1709888797531,1709888803050,Are there any police films on Netflix?,95ms,43,Czy są jakieś filmy policyjne na Netflixie?
+,1709888807693,1,423ms,41,1709888807710,1709888811133,Sorry there is a translation error here.,101ms,41,Przepraszamy jest tu błąd w tłumaczeniu.
+,1709888810330,0,472ms,25,1709888810331,1709888815299,Izby policyjne nie wiem. ,89ms,33,I don't know the police chambers.
+,1709888814970,1,396ms,15,1709888814983,1709888817409,I meant to say.,51ms,20,Chciałem powiedzieć.
+,1709888819213,1,446ms,9,1709888819214,1709888822453,PO LIS H.,70ms,9,PO LIS H.
+,1709888830413,0,469ms,24,1709888830415,1709888833326,Nie znam takiego Słowa. ,89ms,23,I don't know that word.
+,1709888838690,1,441ms,47,1709888838692,1709888845329,Are there any Poland specific films on Netflix?,105ms,52,Czy są jakieś konkretne filmy w Polsce na Netflixie?
+,1709888856292,0,729ms,75,1709888856295,1709888863411,Nie oglądam za dużo cliksa wydaje mi się że jest to bardzo dużo seriali. ,166ms,58,I don't watch too much Cliks I think it's a lot of shows.
+,1709888871051,1,448ms,72,1709888871052,1709888878612,There is a movie. It's called boys. Don't cry have you seen this movie?,1709888879060ms,58,Jest film. Nazywa się Boys. Nie płacz widziałaś ten film?
+,1709888882457,1,422ms,15,1709888882459,1709888885369,Boys don't cry.,73ms,19,Chłopcy nie płaczą.
+,1709888885411,0,500ms,26,1709888885412,1709888889174,Nie widziałam filmu tego. ,133ms,33,I haven't seen the movie of this.
+,1709888895494,1,410ms,36,1709888895495,1709888900575,What about the series of never lies?,93ms,24,A co z serią Never Lies?
+,1709888895729,0,469ms,27,1709888895730,1709888898568,A ty oglądałaś ten chill. ,81ms,28,And you watched that chill.
+,1709888905529,1,403ms,16,1709888905531,1709888908819,Love never lies.,70ms,24,Miłość nigdy nie kłamie.
+,1709888907732,0,599ms,49,1709888907733,1709888912970,O jej serii też nie oglądałem ja. Lubię horrory. ,1709888913569ms,48,I haven't seen her series either. I like horror.
+,1709888921569,1,507ms,61,1709888921570,1709888927693,Can you suggest me any horror movie which is based in Poland?,150ms,68,Czy może mi Pan polecić jakiś horror który jest fabularny w Polsce?
+,1709888937286,0,493ms,30,1709888937287,1709888940570,W lesie dziś nie zaśnie nikt. ,85ms,33,No one sleeps in the woods today.
+,1709888948129,1,450ms,55,1709888948130,1709888952849,Okay I'll definitely look forward to watch this movie.,119ms,54,Na pewno nie mogę się doczekać aby obejrzeć ten film.
+,1709888960572,1,436ms,21,1709888960573,1709888963288,Do you watch Netflix?,85ms,19,Oglądacie Netflixa?
+,1709888961491,0,637ms,52,1709888961493,1709888965855,Jak go obejrzesz to daj mi znać jak ci się podobał. ,121ms,48,When you watch it let me know how you liked it.
+,1709888970733,1,449ms,24,1709888970735,1709888973530,Sure I'll let you know.,89ms,20,Jasne dam Wam znać.
+,1709888980011,0,466ms,24,1709888980014,1709888982932,Upior ogląda netflixem. ,72ms,34,He watches the ghost with Netflix.
+,1709888989849,1,436ms,51,1709888989850,1709888995569,Do you know what Netflix series is based on Warsaw?,106ms,57,Czy wiecie jaki serial Netflix jest oparty na Warszawie?
+,1709889005493,0,582ms,52,1709889005496,1709889010378,Nie nie wiem który serial jest oparty do Warszawy. ,119ms,45,I don't know which series is based in Warsaw.
+,1709889016295,1,471ms,32,1709889016297,1709889020250,It's a series called hold tight.,104ms,36,Jest to seria o nazwie "Hold tight".
+,1709889026054,1,426ms,25,1709889026056,1709889028769,Have you not heard of it?,80ms,20,Nie słyszałeś o tym?
+,1709889028012,0,341ms,4,1709889028013,1709889030056,Jaka,57ms,6,What a
+,1709889030450,0,385ms,10,1709889030457,1709889032975,Jaka seria,54ms,12,What series?
+,1709889037173,1,490ms,104,1709889037175,1709889048172,Actually it's a series on Netflix. It's about a story of 2 brothers and the story is best out of Warsaw.,1709889048662ms,100,Właściwie to serial na Netflixie. Opowiada o dwóch braciach a z Warszawy najlepiej wypada historia.
+,1709889048291,0,417ms,19,1709889048293,1709889052464,A oglądałaś może. ,70ms,23,And you watched maybe.
+,1709889056409,1,482ms,47,1709889056412,1709889060692,I am not yet watched but I have read about it.,120ms,51,Nie jestem jeszcze obserwowana ale czytałam o tym.
+,1709889068251,0,491ms,29,1709889068253,1709889074094,Oglądałaś drogę bez powrotu. ,79ms,38,You watched the road without a return.
+,1709889080530,1,423ms,26,1709889080532,1709889083768,The road without a return.,62ms,18,Droga bez powrotu.
+,1709889084648,1,392ms,8,1709889084649,1709889086688,Isn't it,64ms,16,Czy to nie jest?
+,1709889095968,0,458ms,22,1709889095969,1709889098893,Oglądałaś ten horror. ,67ms,24,You watched that horror.
+,1709889103248,1,444ms,62,1709889103249,1709889109049,Yeah I remember the name. Nobody sleeps in the woods tonight.,1709889109493ms,49,Tak pamiętam to imię. Nikt dziś nie śpi w lesie.
+,1709889116849,0,519ms,37,1709889116850,1709889122104,Uprochę inny film pomyliłaś tytuły. ,113ms,50,I'm sorry you got another movie wrong the titles.
+,1709889127455,1,502ms,64,1709889127457,1709889131971,Can you repeat the title of the movie which you had referred me?,125ms,62,Czy może Pan powtórzyć tytuł filmu o którym mnie Pan polecił?
+,1709889139252,0,470ms,30,1709889139254,1709889144140,Jak się dziś nie zaśnie nikt. ,73ms,23,If no one sleeps today.
+,1709889153093,0,453ms,23,1709889153097,1709889156103,On gra Julia Wieniawa. ,83ms,24,He plays Julia Wieniawa.
+,1709889163135,1,375ms,4,1709889163137,1709889165088,Okay,19ms,5,Okej.
+,1709889167690,1,455ms,48,1709889167694,1709889172008,What you do for entertainment apart from movies.,94ms,38,Co robi Pan dla rozrywki poza filmami.
+,1709889172249,0,436ms,28,1709889172249,1709889175783,A oglądałeś serial chyba. ,86ms,36,And you watched the series I guess.
+,1709889184930,1,449ms,33,1709889184933,1709889188851,I have not yet but I will watch.,85ms,25,Jeszcze nie ale obejrzę.
+,1709889193769,0,504ms,39,1709889193771,1709889198064,Jest świetny polecam ci go serdecznie. ,81ms,33,It's great I highly recommend it.
+,1709889203928,1,445ms,31,1709889203929,1709889206731,Thanks for your recommendation.,66ms,23,Dzięki za rekomendację.
+,1709889213534,0,507ms,27,1709889213536,1709889216774,Jak często oglądasz jakby. ,86ms,29,How often do you watch as if.
+,1709889223653,1,402ms,19,1709889223654,1709889226173,Mainly on weekends.,77ms,19,Głównie w weekendy.
+,1709889232537,0,513ms,34,1709889232538,1709889235889,Masz jakiś swój ulubiony gatunek. ,68ms,26,You have a favorite genre.
+,1709889241171,1,363ms,7,1709889241173,1709889243294,ROM com,46ms,7,ROM com
+,1709889250095,1,419ms,30,1709889250097,1709889253087,Even I like the horror gender.,72ms,23,Nawet ja lubię horrory.
+,1709889251887,0,407ms,16,1709889251888,1709889254409,Możesz powtórzyć,58ms,14,You can repeat
+,1709889258289,1,420ms,56,1709889258291,1709889263773,I like the horror movies. I like Japanese horror movies.,1709889264193ms,39,Lubię horrory. Lubię japońskie horrory.
+,1709889268128,0,380ms,7,1709889268157,1709889270969,Świecie,43ms,9,The world
+,1709889269009,1,413ms,44,1709889269032,1709889272572,Have you watched any Japanese horror movies?,86ms,38,Oglądaliście jakieś japońskie horrory?
+,1709889277169,1,364ms,10,1709889277170,1709889279247,The grudge,49ms,4,Głód
+,1709889279529,0,499ms,21,1709889279530,1709889283255,Nie oglądałem tylko. ,66ms,20,I just didn't watch.
+,1709889287610,1,457ms,35,1709889287611,1709889291889,The movie the grudge is very scary.,102ms,39,Film "Grudge" jest bardzo przerażający.
+,1709889294689,1,464ms,31,1709889294693,1709889297893,It's based out of a true story.,88ms,34,Opiera się na prawdziwej historii.
+,1709889299649,0,469ms,20,1709889299651,1709889302169,Nie słyszałem bogi. ,87ms,23,I didn't hear the gods.
+,1709889304289,0,398ms,11,1709889304291,1709889306446,A o Dobre. ,58ms,17,And the good one.
+,1709889307767,0,550ms,34,1709889307768,1709889314251,A oglądałaś kiedyś dom. Z wosku. ,1709889314801ms,42,And you've seen once house. From the wax.
+,1709889320412,1,416ms,19,1709889320413,1709889323010,No I have not seen.,67ms,19,Nie nie widziałem.
+,1709889327610,1,487ms,120,1709889327611,1709889336380,I'm noting it down all the movie names that you are recommending. I'll try to watch those movies 1 / 1 over the weekend.,1709889336867ms,112,Odnotowuję to w wszystkich polecanych przez Ciebie nazwach filmów. Postaram się obejrzeć te filmy 1/1 w weekend.
+,1709889335607,0,370ms,8,1709889335607,1709889337732,Rozumiem,39ms,5,I see
+,1709889348292,0,568ms,52,1709889348294,1709889352730,Pearl to później daj mi informacje ci się podobały. ,99ms,45,Pearl then give me the information you liked.
+,1709889357293,1,331ms,4,1709889357295,1709889359212,Sure,12ms,5,Jasne
+,1709889361174,1,485ms,41,1709889361176,1709889365169,Have you seen any movies of Joanna Krupa?,113ms,39,Widzieliście jakieś filmy Joanny Krupy?
+,1709889371931,0,564ms,50,1709889371933,1709889375887,Jazda na Krupa chyba nigdy nie wygrała w ciebie. ,136ms,51,Riding to Krupa I don't think she ever won in you.
+,1709889382411,1,446ms,36,1709889382413,1709889386409,She was there in planet of the Apes.,87ms,26,Była tam na planecie małp.
+,1709889392450,0,500ms,26,1709889392453,1709889395849,Może była planeta singli. ,78ms,33,Maybe there was a singles planet.
+,1709889400493,1,429ms,35,1709889400495,1709889403889,Do you have a account on Instagram?,85ms,26,Masz konto na Instagramie?
+,1709889408294,1,460ms,40,1709889408297,1709889412451,Do you follow Joanna Krupa on Instagram?,120ms,38,Śledzicie Joannę Krupę na Instagramie?
+,1709889408532,0,427ms,19,1709889408533,1709889411498,Jak ma instagrama. ,60ms,16,How's Instagram?
+,1709889419055,0,381ms,7,1709889419057,1709889421413,Hesking,45ms,7,Hesking
+,1709889431136,1,478ms,46,1709889431137,1709889435771,She has almost 1.8 million followers on Insta.,108ms,45,Ma prawie 18 miliona obserwujących na Insta.
+,1709889443172,1,427ms,28,1709889443174,1709889446611,Do you know Anna lavandeska?,102ms,22,Znasz Annę Lavandeską?
+,1709889451293,0,459ms,27,1709889451295,1709889455014,Tak znam Anię lewandowską. ,76ms,24,I know Anne Lewandowska.
+,1709889459576,0,540ms,37,1709889459577,1709889463089,Jest nawet Roberta lerona dowskiego. ,100ms,33,There's even Robert Leron Dowski.
+,1709889460493,1,444ms,44,1709889460494,1709889465012,Yes yes I could not pronounce it properly.,114ms,48,Tak tak nie potrafiłam tego poprawnie wymówić.
+,1709889471650,1,499ms,47,1709889471652,1709889476851,Do you follow an Anna lewandowska on Instagram?,133ms,42,Śledzicie na Instagramie Annę Lewandowską?
+,1709889482411,0,465ms,28,1709889482412,1709889486291,Tak śledzaj na instagramie. ,70ms,20,Follow on Instagram.
+,1709889495451,1,612ms,42,1709889495454,1709889500532,Do you have account on TikTok or Snapchat?,237ms,36,Masz konto na TikTok lub Snapchacie?
+,1709889506328,0,626ms,43,1709889506329,1709889510932,Tak mam tam Konta bardzo lubię tę portale. ,176ms,52,I have accounts there and I really like this portal.
+,1709889520455,1,479ms,34,1709889520457,1709889524450,How do you pass time on Instagram?,108ms,34,Jak spędzacie czas na Instagramie?
+,1709889528575,1,463ms,37,1709889528576,1709889532166,What kind of reels you like to watch?,112ms,28,Jakie bębny lubicie oglądać?
+,1709889531737,0,485ms,21,1709889531738,1709889534943,Lubię oglądać rolki. ,86ms,20,I like to see rolls.
+,1709889541052,1,456ms,19,1709889541053,1709889543450,What kind of rails?,85ms,22,Jakiego rodzaju szyny?
+,1709889546410,1,429ms,19,1709889546412,1709889549452,What kind of reels?,105ms,22,Jakiego rodzaju bębny?
+,1709889556730,0,525ms,36,1709889556731,1709889562378,Lubię oglądać filmiki z gotowaniem. ,93ms,31,I like to watch cooking videos.
+,1709889569413,1,452ms,20,1709889569415,1709889571929,Do you like to cook?,85ms,15,Lubisz gotować?
+,1709889576854,0,691ms,50,1709889576857,1709889581129,Jak uwielbiam gotować dzisiaj będę robił makaron. ,172ms,57,As much as I love cooking today I'm going to make pasta.
+,1709889587730,1,362ms,11,1709889587731,1709889590014,Sounds nice,74ms,13,Brzmi ładnie.
+,1709889593014,1,520ms,39,1709889593017,1709889596693,May I ask you what you do for a living?,139ms,38,Mogę Was zapytać czym się zajmujecie?
+,1709889594409,0,458ms,14,1709889594410,1709889596971,Lubisz makaron,88ms,18,Do you like pasta?
+,1709889600371,1,482ms,15,1709889600372,1709889602931,Yes very much.,81ms,12,Tak bardzo.
+,1709889609289,0,484ms,24,1709889609291,1709889612456,Świetnie ja też lubię. ,99ms,21,Great I like it too.
+,1709889623050,1,479ms,96,1709889623051,1709889632488,I heard there is an app that's been used in Poland it's called gaadu gadu. Have you heard of it?,1709889632967ms,103,Słyszałem że jest aplikacja która jest używana w Polsce to się nazywa gaadu gadu. Słyszeliście o tym?
+,1709889641567,0,780ms,58,1709889641568,1709889646489,Tak kiedyś z tego korzysta bardzo dużo jak byłem młodszy. ,179ms,50,It used to be used to be a lot when I was younger.
+,1709889654255,1,462ms,16,1709889654257,1709889657854,Game of Thrones.,109ms,11,Gra o tron.
+,1709889660409,1,495ms,20,1709889660411,1709889662734,Have you watched it?,93ms,16,Oglądaliście go?
+,1709889664291,0,474ms,17,1709889664292,1709889666855,Był taki serial. ,107ms,19,There was a series.
+,1709889667049,0,523ms,16,1709889667056,1709889670138,Nie lubię tego. ,123ms,18,I don’t like this.
+,1709889676212,1,696ms,59,1709889676215,1709889684251,I've heard this series Game of Thrones was shot in crackle.,298ms,64,Słyszałem że ta seria "Gry o tron" została nakręcona w trzasku.
+,1709889686526,1,390ms,7,1709889686528,1709889688532,Crackle,65ms,7,Crackle
+,1709889690450,1,334ms,7,1709889690452,1709889692571,Crackle,19ms,7,Crackle
+,1709889695409,1,405ms,9,1709889695410,1709889698734,Kr AKO. W,1709889699139ms,10,Kr AKO. W.
+,1709889699053,0,577ms,19,1709889699054,1709889702049,Całkiem możliwe A. ,126ms,17,Quite possible A.
+,1709889702447,0,738ms,46,1709889702449,1709889708099,Oglądałaś ten serial był kręcony w Krakowie. ,171ms,46,You watched this series was filmed in Krakow.
+,1709889713969,1,457ms,9,1709889713971,1709889716050,Is it so?,97ms,13,Czy tak jest?
+,1709889724132,1,356ms,35,1709889724134,1709889727368,I just read about it. I don't know.,1709889727724ms,37,Właśnie o tym przeczytałam. Nie wiem.
+,1709889732649,0,540ms,25,1709889732650,1709889735611,A oglądałaś ten serial. ,114ms,28,And you watched that series.
+,1709889739495,1,474ms,20,1709889739498,1709889742211,Yes I watched that.,115ms,18,Tak oglądałem to.
+,1709889746850,0,531ms,15,1709889746852,1709889749372,Udobał ci się. ,160ms,13,You liked it.
+,1709889747133,1,493ms,21,1709889747149,1709889749332,Have you not seen it?,107ms,22,Nie widzieliście tego?
+,1709889757491,1,515ms,22,1709889757494,1709889760335,Nah I didn't like it.,159ms,28,Nie nie podobało mi się to.
+,1709889761169,0,507ms,19,1709889761170,1709889763574,Ja nie wiedziałem. ,106ms,14,I didn't know.
+,1709889765489,0,460ms,10,1709889765492,1709889767652,A dlaczego,71ms,7,And why
+,1709889770771,1,464ms,28,1709889770772,1709889773700,It was too much of violence.,113ms,28,To było zbyt wiele przemocy.
+,1709889781653,0,583ms,22,1709889781654,1709889784570,Nie lubisz przewróce. ,133ms,26,You don't like a rollover.
+,1709889788971,1,434ms,2,1709889788973,1709889791410,No,68ms,4,Nie.
+,1709889794127,1,567ms,37,1709889794129,1709889797493,By the way what you do for a living?,143ms,32,Przy okazji czym się zajmujesz?
+,1709889804174,0,388ms,6,1709889804176,1709889806328,Czasem,44ms,9,Sometimes
+,1709889818335,1,474ms,28,1709889818339,1709889821612,Does Poland have 2 capitals?,123ms,27,Czy Polska ma dwie stolice?
+,1709889827130,0,703ms,41,1709889827132,1709889831131,Polsko-jadą stolica i to jest Warszawa. ,167ms,41,Polish-going capital and this is Warsaw.
+,1709889839371,1,542ms,40,1709889839372,1709889844335,Okay it was really nice talking to you.,140ms,29,Miło było z tobą porozmawiać.
+,1709889844614,1,442ms,17,1709889844616,1709889847173,Which time is up?,108ms,21,Która godzina minęła?
+,1709889850533,1,506ms,19,1709889850535,1709889853852,Today's time is up.,126ms,29,Dzisiejszy czas się skończył.
+,1709889852290,0,373ms,7,1709889852307,1709889855388,10:24. ,25ms,6,10:24.
+,1709889859770,1,559ms,51,1709889859772,1709889863689,I'm looking forward to talk to you some other time.,194ms,58,Nie mogę się doczekać aby porozmawiać z Tobą innym razem.
+,1709889865736,1,591ms,57,1709889865737,1709889870088,Goodbye take care and thank you for all the information.,193ms,50,Żegnaj uważaj i dziękuję za wszystkie informacje.
+,1709889877369,0,501ms,16,1709889877371,1709889880048,Pa miłego dnia. ,118ms,23,Have a nice day by you.

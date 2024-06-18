@@ -1,0 +1,114 @@
+﻿Reference,SpeechId,Direction,SttLatency,length,beginOfSpeech,endOfSpeech,SttResult,TranslationLatency,length,TranslatedResult,useless,translation comment
+1708506094675
+,1708506093052,1,772ms,5,1708506093098,1708506095008,Hello,470ms,5,Witam
+,1708506103773,1,429ms,37,1708506103774,1708506107653,Hi Polina buses Prasanna from India.,113ms,40,Cześć Polina autobusy Prasanna z Indii.
+,1708506104571,0,466ms,3,1708506104572,1708506106468,Hej,202ms,3,Hey
+,1708506108090,0,370ms,9,1708506108090,1708506110269,Halo halo,54ms,11,Hello Hello
+,1708506119375,1,428ms,16,1708506119376,1708506121532,Can you hear me?,70ms,14,Słyszysz mnie?
+,1708506125571,0,394ms,18,1708506125573,1708506128214,I tak tak słyszę. ,69ms,26,That's what I hear anyway.
+,1708506133094,1,425ms,57,1708506133095,1708506138573,Okay so today's topic is digital world use of smartphones,104ms,53,Dzisiejszy temat to cyfrowe wykorzystanie smartfonów.
+,1708506134009,0,341ms,4,1708506134010,1708506136092,Halo,43ms,5,Hello
+,1708506139775,0,322ms,4,1708506139777,1708506141778,Halo,23ms,5,Hello
+,1708506145413,0,304ms,2,1708506145422,1708506147462,OK,40ms,9,OK okay?
+,1708506151052,1,436ms,31,1708506151053,1708506155574,So which smartphone do you use?,75ms,31,Z jakiego smartfona korzystasz?
+,1708506160977,0,390ms,33,1708506160980,1708506165616,W tym momencie Iphone 14 promax. ,65ms,21,The iPhone 14 Promax.
+,1708506173297,1,404ms,38,1708506173300,1708506176652,Okay what was the cost of this phone?,86ms,29,Jaki był koszt tego telefonu?
+,1708506183694,0,434ms,45,1708506183695,1708506189416,Muszę sprawdzić że nie pamiętam chwileczkę. ,110ms,47,I need to check that I don’t recall the moment.
+,1708506194859,1,366ms,13,1708506194861,1708506197329,Approximately,52ms,14,W przybliżeniu
+,1708506202250,0,395ms,25,1708506202252,1708506205411,3 i pół tysiąca złotych. ,67ms,30,3 and a half thousand dollars.
+,1708506211371,1,471ms,65,1708506211373,1708506218894,In poll and do you get operator locked phones or unlocked phones?,143ms,68,W ankiecie i czy masz zablokowane telefony lub odblokowane telefony?
+,1708506227851,0,460ms,64,1708506227852,1708506234451,Jeżeli chodzi o blokady telefonu to go to tak na kod i saidey. ,122ms,52,When it comes to phone locks go to code and saidey.
+,1708506239693,1,412ms,352,1708506239695,1708506268693,No no in US if you buy a phone uh you'll get locked phones from the operator like if you buy from tmobile you can't use any other SIM in that phone you have to use the tmobile SIM only and like in other countries France if you are buying from orange operator then. You can use it only for orange SIM. So here in Poland can you use aps SIM cards?,1708506269105ms,363,Nie nie w USA jeśli kupisz telefon uh dostaniesz zablokowane telefony od operatora jak jeśli kupujesz od tmobile nie możesz używać żadnej innej karty SIM w tym telefonie musisz używać tylko tmobile SIM i jak w innych krajach Francja jeśli kupujesz od operatora pomarańczowego. Można go używać tylko do Orange SIM. Czy w Polsce można korzystać z kart SIM?
+,1708506293574,1,483ms,52,1708506293577,1708506299933,I mean can you use any operator same in your phone?,109ms,51,Czy w telefonie może być używany taki sam operator?
+,1708506304819,1,423ms,17,1708506304821,1708506307772,Any operator SIM?,65ms,19,Jakiś operator SIM?
+,1708506308651,0,306ms,3,1708506308652,1708506310495,Tak,24ms,9,Yes I do
+,1708506313692,1,382ms,4,1708506313694,1708506315651,Okay,43ms,5,Okej.
+,1708506321852,1,474ms,80,1708506321868,1708506330974,Which mode do you like to click photos more often in photo mode R portrait mode.,136ms,72,W którym trybie częściej klikają Państwo zdjęcia w trybie portretowym R.
+,1708506339612,0,418ms,39,1708506339613,1708506343292,Nie używam trybu portretowego w ogóle. ,89ms,33,I don't use portrait mode at all.
+,1708506349010,1,442ms,97,1708506349012,1708506362571,Even even if you are clicking photos of human beings. Or pets still you don't use portrait mode.,1708506363013ms,91,Nawet jeśli klikasz zdjęcia ludzi. A może zwierzęta domowe nie używasz trybu portretowego.
+,1708506363420,0,398ms,15,1708506363447,1708506365858,Ja nie używam. ,69ms,15,I don't use it.
+,1708506369894,1,353ms,4,1708506369896,1708506371811,Okay,25ms,5,Okej.
+,1708506369970,0,424ms,16,1708506369972,1708506372410,Nie nie używam. ,91ms,19,No I don't use it.
+,1708506377457,1,417ms,70,1708506377458,1708506384371,So what are your main activities in the phone? What do you usually do?,1708506384788ms,70,Jakie są zatem Pana główne działania w telefonie? Co zazwyczaj robisz?
+,1708506394049,0,685ms,209,1708506394051,1708506415255,To zawsze czyli po prostu zwolnienie pisanie wiadomości kontakt z klientami z rodziną używam też telefonu żeby robić riser jeżeli czegoś potrzebuje używam czapu gt przez telefon przeglądam cukru się milia. ,344ms,204,It's always which is just slowing down writing messages contacting customers with family I also use my phone to make riser if I need something I use a GT cap over the phone I browse sugar for a million.
+,1708506415851,0,448ms,66,1708506415852,1708506422865,Informacje właściwe telefon troszeczkę mi jak taki Mały Komputer. ,115ms,66,The right phone information is a little bit like a small computer.
+,1708506437410,1,443ms,27,1708506437418,1708506440612,Okay what you normally do.,84ms,24,Dobra co zwykle robisz.
+,1708506438131,0,549ms,84,1708506438132,1708506444736,A i właśnie płacę również telefonem nie zasada Ani kart bo mam wszystko podpięte. ,167ms,97,And I also pay with my phone not the rule of neither cards because I have everything connected.
+,1708506447052,0,451ms,69,1708506447053,1708506454419,Najczęściej większość czasu przez telefon korzystam z social mediów. ,118ms,49,Most of the time I use social media on the phone.
+,1708506462969,1,515ms,74,1708506462971,1708506470532,Are you a fan of clicking pictures with any filters like Snapchat filters?,178ms,71,Czy jesteś fanem klikania zdjęć z filtrami takimi jak filtry Snapchat?
+,1708506479973,0,530ms,111,1708506479975,1708506489096,Nie używam smarczaka ale prowadzę pracę na instagramie i czasem faktycznie ulewa jutro do przerabiania zdjęć. ,198ms,96,I don't use a wrinkle but I do work on Instagram and sometimes I actually pour photos tomorrow.
+,1708506503491,1,469ms,42,1708506503492,1708506507853,Do you I like watching reels on Instagram.,105ms,35,Lubię oglądać bębny na Instagramie.
+,1708506516972,1,465ms,40,1708506516973,1708506521054,Do you like watching reels on Instagram?,104ms,37,Lubicie oglądać bębny na Instagramie?
+,1708506527494,0,504ms,57,1708506527495,1708506532014,Ja robię pytania chyba tłumacz to coś dla przetłumaczy. ,117ms,77,I'm making questions I think the translator is something for the translator.
+,1708506542375,0,439ms,47,1708506542377,1708506547499,Oglądamy instagramie czego dokładnie richard. ,109ms,59,We're watching Instagram which is exactly what Richard is.
+,1708506554814,0,544ms,137,1708506554816,1708506571348,OK tak przeglądam ril głównie w czasie wolnym żeby się trochę zrelaksować ale bardzo dużo instagram poszukuje z ciekawych przepisów. ,229ms,123,OK yes I browse ril mainly in my free time to relax a little but very much Instagram is looking for interesting recipes.
+,1708506587494,1,431ms,102,1708506587496,1708506596774,There is a smartphone recently launched by Samsung. It's called Galaxy S24 ultra. Are you aware of it?,1708506597205ms,119,Niedawno pojawił się smartfon wprowadzony przez Samsunga. Nazywa się Galaxy S24 Ultra. Czy zdajesz sobie z tego sprawę?
+,1708506608412,0,454ms,61,1708506608447,1708506614173,Byłam świadoma że w samym środalnie znałam do końca modelu. ,116ms,48,I was aware that I knew the model in the middle.
+,1708506623335,1,495ms,77,1708506623336,1708506630891,Do you have any idea like what will be the price of this S24 ultra in Warsaw?,143ms,62,Czy ma Pan pomysł jaka będzie cena tego S24 ultra w Warszawie?
+,1708506640333,0,416ms,60,1708506640334,1708506645494,Nie mam Zielonego pojęcia może koło pięciu sześciu tysięcy. ,85ms,35,I have no idea about five thousand.
+,1708506657172,1,511ms,109,1708506657174,1708506669215,How do you normally buy phone in in Poland do you prefer to buy it from online or from offline retail stores?,168ms,100,Jak zazwyczaj kupujesz telefon w Polsce czy wolisz kupować go w sklepach internetowych czy offline?
+,1708506679492,0,418ms,46,1708506679493,1708506683452,Sprzątane elektroniczne zawsze kupują online. ,90ms,38,Electronic cleaners always buy online.
+,1708506693295,1,417ms,33,1708506693297,1708506696412,I did not understand your answer.,75ms,33,Nie rozumiałem Twojej odpowiedzi.
+,1708506702772,0,395ms,23,1708506702773,1708506705732,Kupuje telefon online. ,64ms,25,He buys his phone online.
+,1708506713774,1,531ms,138,1708506713776,1708506725816,What do you think is the best smartphone available in the market? Currently Galaxy S24 ultra are iPhone 5 impromax or pick a light brow.,1708506726347ms,133,Jak według Ciebie jest najlepszy smartfon dostępny na rynku? Obecnie Galaxy S24 ultra to iPhone 5 impromax czyli wybierz lekki brwi.
+,1708506728293,0,423ms,20,1708506728294,1708506731226,Jak jest najlepszy? ,74ms,16,What's the best?
+,1708506735494,1,550ms,86,1708506735496,1708506745691,Yeah tell me what is the best iPhone 50 Pro Max are pixel 8 pro for Galaxy S24 ultra.,189ms,92,Tak powiedz mi jaki jest najlepszy iPhone 50 Pro Max to piksel 8 pro dla Galaxy S24 ultra.
+,1708506735895,0,595ms,103,1708506735905,1708506745223,Okej nie mam niedzielnego pojęcia jak jest najlepszy ale ja od 2016. Korzystam tylko tyków iphone'a. ,244ms,100,Okay I don't have a Sunday idea what the best is but I've been since 2016. I only use iPhone tics.
+,1708506755333,1,386ms,9,1708506755334,1708506757131,Okay okay,62ms,9,Okej ok.
+,1708506758856,0,412ms,30,1708506758857,1708506763052,Nie mam pojęcia jakie alkom. ,93ms,36,I have no idea what kind of alcoves.
+,1708506771212,1,500ms,43,1708506771213,1708506775495,Have you seen me brand available in Poland?,121ms,42,Widzieliście moją markę dostępną w Polsce?
+,1708506772773,0,464ms,39,1708506772776,1708506776296,Ale najnowszym na rynku to piętnastka. ,102ms,35,But the latest on the market is 15.
+,1708506780696,1,409ms,34,1708506780698,1708506786929,Yes are you aware of saume brand?,100ms,29,Tak czy zna Pan markę Saume?
+,1708506783971,0,395ms,19,1708506783972,1708506786690,O jaką markę Mali? ,55ms,19,What brand of Mali?
+,1708506792372,1,489ms,10,1708506792373,1708506796138,X IA Omi.,88ms,10,X IA Omi.
+,1708506793816,0,401ms,21,1708506793827,1708506797508,Muszę tutaj i nagle. ,71ms,28,I have to here and suddenly.
+,1708506803615,0,463ms,64,1708506803617,1708506808032,Nie znam tej Marki ale nie wiem czy dobrze zrozumiałem nagle. ,154ms,70,I don't know this brand but I don't know if I understood it suddenly.
+,1708506817609,1,541ms,77,1708506817611,1708506825892,Okay in Poland which telecom operator provides the best 4GL TE connectivity?,169ms,81,Ok w Polsce który operator telekomunikacyjny zapewnia najlepszą łączność 4GL TE?
+,1708506837291,0,402ms,40,1708506837293,1708506841975,Wydaje mi się tak tak tak na pewno tak? ,76ms,19,I think so surely?
+,1708506845770,1,442ms,43,1708506845772,1708506851009,Do your phone has this 4GL TE connectivity?,118ms,36,Czy Twój telefon ma łączność 4GL TE?
+,1708506857533,0,302ms,3,1708506857534,1708506859331,Tak,20ms,9,Yes I do
+,1708506863932,1,450ms,29,1708506863934,1708506867175,What is this Bobby water app?,89ms,34,Czym jest ta aplikacja wody Bobby?
+,1708506871053,1,428ms,10,1708506871055,1708506875330,Mobi Watel,86ms,11,Mobi Watel.
+,1708506874050,0,353ms,14,1708506874051,1708506876703,Jaka aplikacja,53ms,17,What application?
+,1708506883694,0,412ms,24,1708506883696,1708506887376,Mamy aplikację obywatą. ,76ms,30,We have a citizen application.
+,1708506892336,1,457ms,12,1708506892338,1708506896297,MOBYW ATE L.,81ms,16,MOBYW SIĘ POBIŁ.
+,1708506902893,1,381ms,17,1708506902894,1708506905292,What is this app?,70ms,23,Czym jest ta aplikacja?
+,1708506911736,0,697ms,187,1708506911739,1708506935054,Ko sytuacja w której można ładować się do banku albo na Tokio obywatelski i też do można tą sprawdzać na przykład recepty można mieć tą wpisaną twój dowód afrodukacji mobilną paszport. ,329ms,191,Who is a situation where you can load into a bank or Tokyo citizen and you can also check it for for example prescriptions you can have this entered your proof of education mobile passport.
+,1708506950413,1,474ms,68,1708506950415,1708506956424,Okay it basically stores all the information of a particular citizen,123ms,70,Ok w zasadzie przechowuje wszystkie informacje konkretnego obywatela.
+,1708506968690,1,517ms,40,1708506968692,1708506973093,What is the best dating app in rock law?,138ms,57,Jaka jest najlepsza aplikacja randkowa w prawie rockowym?
+,1708506978255,1,347ms,9,1708506978257,1708506980731,In Warsaw,58ms,12,W Warszawie
+,1708506981295,0,422ms,44,1708506981295,1708506986173,Bądź upoliwiony najpopularniejszy splinger. ,106ms,29,Be the most popular splinger.
+,1708506987050,0,524ms,74,1708506987051,1708506991939,Nie mam pojęcia bo nie mieszkam w Warszawie ale podejrzewam że tinter. ,191ms,68,I have no idea because I don't live in Warsaw but I suspect tinter.
+,1708506998852,1,554ms,15,1708506998853,1708507001052,Where you live.,163ms,16,Gdzie mieszkasz.
+,1708507005575,0,437ms,10,1708507005577,1708507007732,W Poznaniu,132ms,10,In Poznań.
+,1708507011135,1,529ms,44,1708507011136,1708507015451,So how far postponement will be from worsha?,157ms,39,Jak daleko będzie odroczenie od Worsha?
+,1708507019410,1,537ms,39,1708507019413,1708507023531,How far will be your place from Warsaw?,141ms,40,Jak daleko będzie do Ciebie od Warszawy?
+,1708507023735,0,434ms,22,1708507023736,1708507026472,Nie rozumiem do pana. ,121ms,22,I don’t get it to you.
+,1708507030936,0,559ms,67,1708507030937,1708507040572,W kilometrach 300 kilom może więcej pociągiem około 3 pół godziny. ,196ms,68,In kilometers 300 kilometers can more by train about 3 half an hour.
+,1708507051053,1,614ms,55,1708507051054,1708507056413,In your city which dating app is the most popular app?,239ms,75,W Twoim mieście która aplikacja randkowa jest najpopularniejszą aplikacją?
+,1708507084291,1,513ms,23,1708507084293,1708507086851,Hello can you hear me?,120ms,21,Cześć słyszysz mnie?
+,1708507095371,1,478ms,27,1708507095372,1708507098893,Which apps do you use most?,123ms,44,Z jakich aplikacji korzysta Pan najczęściej?
+,1708507106179,0,504ms,24,1708507106180,1708507111851,W tym momencie ta. Drona,1708507112355ms,30,At this point this one. Drone
+,1708507122654,1,527ms,67,1708507122655,1708507129490,I've heard the lowest temperature recorded. Is some water on −40°C?,1708507130017ms,74,Słyszałem najniższą odnotowaną temperaturę. Czy trochę wody jest na -40oC?
+,1708507132816,1,506ms,46,1708507132817,1708507137770,Do you phone work properly in the temperature?,137ms,45,Czy telefon działa prawidłowo w temperaturze?
+,1708507145453,0,459ms,22,1708507145454,1708507148730,Jak nie liczą takich. ,123ms,25,If they don't count them.
+,1708507153534,1,585ms,57,1708507153535,1708507160213,No no. Do your phone work properly in −40°C temperature?,1708507160798ms,66,Nie nie. Czy Twój telefon działa prawidłowo w temperaturze -40oC?
+,1708507168977,0,649ms,69,1708507168979,1708507174215,Nie mam ziarna pojedynku bo w Polsce tu nie mamy takich temperatów. ,277ms,80,I do not have the seed of a duel because in Poland we do not have such tempers.
+,1708507182335,1,671ms,73,1708507182337,1708507189608,What what is the lowest temperature in Poland how much do it goes down to,232ms,69,Jaka jest najniższa temperatura w Polsce do jakiej to się sprowadza.
+,1708507198532,0,537ms,46,1708507198535,1708507203932,Lewa od roku w tym pół roku ma ten 10 takich. ,173ms,48,Left for a year this six months has had 10 such.
+,1708507204330,0,434ms,15,1708507204346,1708507207145,Może minąć 15? ,84ms,15,Could it be 15?
+,1708507210934,1,458ms,7,1708507210936,1708507214212,5015°C.,97ms,7,5015OC.
+,1708507217811,1,487ms,5,1708507217813,1708507220735,15°C.,93ms,5,15OC.
+,1708507227651,0,511ms,54,1708507227653,1708507232814,Minut 15 najniższa temperatura odnotowana w tym roku. ,161ms,52,Minute 15 the lowest temperature recorded this year.
+,1708507240850,1,353ms,4,1708507240851,1708507242771,Okay,14ms,5,Okej.
+,1708507246855,1,567ms,34,1708507246857,1708507251251,Do you use scene app for shopping?,155ms,38,Czy używasz aplikacji Scene na zakupy?
+,1708507255413,1,424ms,8,1708507255415,1708507259572,SH. EIN.,1708507259996ms,8,Sh. Ein.
+,1708507263850,0,577ms,67,1708507263851,1708507271848,Wiem jakie komary klasowe przychodzą jeśli chodzi o taktyki to. ,214ms,59,I know what class mosquitoes come when it comes to tactics.
+,1708507280210,1,423ms,34,1708507280211,1708507284734,Do you use scene app for shopping?,17ms,38,Czy używasz aplikacji Scene na zakupy?
+,1708507288733,1,435ms,19,1708507288735,1708507293941,Spelling is SHEI. N,1708507294376ms,20,Pisownia to SHEI. N.
+,1708507291134,0,556ms,26,1708507291135,1708507295259,Ten a zakład o co chodzi. ,158ms,25,This bet what it's about.
+,1708507300891,0,526ms,27,1708507300892,1708507303865,Nadal nie mówię o pytaniu. ,154ms,41,I'm still not talking about the question.
+,1708507309776,1,589ms,87,1708507309779,1708507318012,Okay I think this is all we can talk today. The time is up it was not talking to you.,1708507318601ms,96,Myślę że to wszystko o czym możemy dzisiaj porozmawiać. Czas minął nie rozmawiało się z Tobą.
+,1708507323095,1,404ms,27,1708507323098,1708507325892,It was nice talking to you.,19ms,22,Miło było porozmawiać.
+,1708507325974,0,389ms,2,1708507325975,1708507327989,OK,92ms,9,OK okay?
+,1708507334415,0,362ms,11,1708507334420,1708507336933,OK dziękuję,75ms,12,OK thank you

@@ -1,0 +1,98 @@
+﻿Reference,SpeechId,Direction,SttLatency,length,beginOfSpeech,endOfSpeech,SttResult,TranslationLatency,length,TranslatedResult,useless,translation comment
+1708061489603
+,1708061488303,1,1048ms,5,1708061488311,1708061490190,Hello,483ms,4,Hola
+,1708061490858,0,492ms,4,1708061490875,1708061493304,Hola,174ms,5,Hello
+,1708061496420,1,423ms,81,1708061496426,1708061502739,Yeah my name is Prasanna. I am calling from India. May I know your name please?,1708061503162ms,96,Sí mi nombre es Prasanna. estoy llamando desde la india. ¿puedo saber cómo se llama por favor?
+,1708061498386,0,486ms,19,1708061498387,1708061500945,Hola ¿Cómo estás? ,87ms,16,Hi how are you?
+,1708061505182,1,371ms,30,1708061505184,1708061509708,I'm doing good. How about you?,1708061510079ms,39,Estoy haciendo bien. ¿Qué onda contigo?
+,1708061510022,0,473ms,29,1708061510023,1708061513028,Claro mi nombre es ariette. ,108ms,25,Sure my name is Ariette.
+,1708061514945,0,401ms,23,1708061514946,1708061517962,Está muy bien gracia. ,87ms,22,It's all right grace.
+,1708061522859,1,543ms,95,1708061522861,1708061532301,Okay so today's topic is educational consultation programs to study job opportunities like that,160ms,122,de acuerdo entonces el tema de hoy son los programas de consulta educativa para estudiar oportunidades de trabajo como esa
+,1708061544861,0,479ms,50,1708061544862,1708061549024,¿Perfecto qué tipo de trabajo te gustaría hablar. ,113ms,50,Perfect what kind of job you'd like to talk about.
+,1708061555741,1,418ms,80,1708061555742,1708061563060,Firstly to walk in Mexico. Do I need to apply for a temporary residency permit?,1708061563478ms,90,En primer lugar caminar en México. ¿Necesito solicitar un permiso de residencia temporal?
+,1708061570901,1,386ms,25,1708061570902,1708061573741,I need to work in Mexico.,68ms,28,Necesito trabajar en México.
+,1708061574024,0,471ms,25,1708061574025,1708061577262,Para trabajar en México. ,71ms,18,To work in Mexico.
+,1708061579944,0,542ms,67,1708061579945,1708061587919,Si quieres trabajar en México si si se necesita sacar un permiso. ,139ms,59,If you want to work in Mexico if you need to get a permit.
+,1708061604784,1,447ms,37,1708061604785,1708061608141,Is it the temporary residency permit?,79ms,38,¿Es el permiso de residencia temporal?
+,1708061615224,0,790ms,217,1708061615225,1708061632300,Hay varios tipos de permisos de residencia por ejemplo por supervivencia económica o por unidad familiar o también se realizan inversiones en México o a subscribir inmuebles puedes obtener una residencia temporal. ,323ms,208,There are several types of residence permits for example for economic survival or for family unit or investments are also made in Mexico or to subscribe to real estate you can obtain a temporary residence.
+,1708061651780,1,450ms,41,1708061651782,1708061656619,Okay let's talk about some universities.,87ms,40,Bien hablemos de algunas universidades.
+,1708061662180,1,503ms,89,1708061662181,1708061669586,Do the national AUTONOMOUS University of Mexico has campus only in the capital of Mexico?,188ms,88,¿La Universidad Nacional AUTONOMOUS de México tiene campus sólo en la capital de México?
+,1708061664020,0,583ms,135,1708061664036,1708061674917,Por supuesto México tiene una de las universidades más importantes de América Latina de las que están mejor con mejores puntuaciones. ,198ms,117,Of course Mexico has one of the most important universities in Latin America that are better off with better scores.
+,1708061685747,0,546ms,62,1708061685749,1708061690904,No no solo tienen en la Ciudad de México tiene variaciones. ,135ms,62,No they don't just have in Mexico City they have variations.
+,1708061698181,1,543ms,76,1708061698183,1708061706140,I I have heard they have their centres in Chicago chilly nails is it true?,177ms,76,Yo he oído que tienen sus centros en las uñas frías de Chicago ¿es verdad?
+,1708061717061,0,536ms,81,1708061717062,1708061724902,No no hay alguna sede de la Universidad Nacional autónoma de México en Chicago. ,141ms,88,No there is no headquarters of the National Autonomous University of Mexico in Chicago.
+,1708061717464,1,453ms,22,1708061717466,1708061720781,Chicago and illinious.,68ms,19,Chicago e ilusorio.
+,1708061732703,1,418ms,7,1708061732704,1708061735066,Oh okay,61ms,14,Oh está bien.
+,1708061738785,1,367ms,26,1708061738786,1708061743184,Have you heard of I? T's m,1708061743551ms,30,¿Has oído hablar de mí? T es m
+,1708061745220,1,443ms,33,1708061745221,1708061750540,Itesm the University of Monterey.,86ms,31,Es la Universidad de Monterrey.
+,1708061749663,0,541ms,53,1708061749664,1708061754310,No no escucho hablar de eso me puedes contar algo. ,142ms,53,No I don't hear about it you can tell me something.
+,1708061756344,0,439ms,40,1708061756344,1708061761192,Ah claro la universidad de Monterrey. ,107ms,43,Oh of course the University of Monterrey.
+,1708061771944,1,488ms,55,1708061771945,1708061776418,What is the duration for a Bachelor's degree in Mexico?,102ms,51,¿Cuál es la duración de una licenciatura en México?
+,1708061777859,0,437ms,39,1708061777861,1708061781234,Esta universidad tiene varios correos. ,91ms,35,This university has several emails.
+,1708061783104,0,600ms,114,1708061783105,1708061792597,La duración con una licenciatura en México que puede ser de 4 hasta 6 años dependiendo del tipo de licenciatura. ,219ms,117,The duration with a bachelor's degree in Mexico can be from 4 to 6 years depending on the type of bachelor's degree.
+,1708061804584,1,499ms,78,1708061804586,1708061812222,Which University had you attended or are you have not attended any University?,134ms,75,¿A qué Universidad habías asistido o no has asistido a ninguna Universidad?
+,1708061820383,0,548ms,96,1708061820385,1708061829501,Yo asistió a la Universidad Nacional autónoma autónoma de México estiré la carrera de biología. ,142ms,89,I attended the National Autonomous University of Mexico and stretched the biology course.
+,1708061838139,1,461ms,61,1708061838141,1708061844100,How are the job opportunities in Mexico for biology students?,124ms,82,¿Cómo son las oportunidades de trabajo en México para los estudiantes de biología?
+,1708061853662,0,687ms,172,1708061853664,1708061866939,Las oportunidades son muy variadas es una carrera que tiene una oportunidad de trabajo muy amplia puede ser desde docente hasta trabajar en el campo o en un laboratorio. ,272ms,155,The opportunities are very varied it is a career that has a very wide job opportunity it can be from teaching to working in the field or in a laboratory.
+,1708061880101,1,430ms,78,1708061880103,1708061888342,How much someone can expect as an average salary? A fresher in biology stream.,1708061888772ms,86,¿Cuánto puede esperar alguien como salario promedio? Un arroyo más fresco en biología.
+,1708061898145,0,735ms,154,1708061898147,1708061913143,Para biología los solares no son tan altos como en otras carreras puedes esperar desde 8000 MXN por un recién ingresado hasta alrededor de 30000 pesos. ,285ms,124,For biology the plots are not as high as in other races you can expect from 8000 MXN for a newcomer to around 30000 pesos.
+,1708061928020,1,351ms,62,1708061928022,1708061935103,Do you get salary in US Dollars or Mexican dollars or peso? So,1708061935454ms,81,¿Obtienes salario en dólares estadounidenses o dólares mexicanos o pesos? Así que
+,1708061944462,0,566ms,85,1708061944463,1708061952986,Sería ante pesos mexicanos de 8000 MXN hasta 30000 países mexicanos aproximadamente. ,160ms,86,It would be before Mexican pesos of 8000 MXN to approximately 30000 Mexican countries.
+,1708061963940,1,388ms,4,1708061963942,1708061965822,Okay,41ms,9,está bien
+,1708061971823,1,539ms,93,1708061971825,1708061980660,Do you know how many Mexican universities are ranked within the QS World University Rankings?,168ms,98,¿Sabes cuántas universidades mexicanas están clasificadas dentro del QS World University Rankings?
+,1708061986542,1,423ms,18,1708061986544,1708061988358,Go to selfie mode.,73ms,18,Ve al modo selfie.
+,1708061995060,0,650ms,140,1708061995063,1708062005983,Y me parece que recuerdo que la universidad autónoma nacional de México está dentro de esta clasificación pero me parece que hay otra más. ,246ms,161,And it seems to me that I remember that the National Autonomous University of Mexico is within this classification but it seems to me that there is another one.
+,1708062019981,1,373ms,4,1708062019982,1708062021828,Okay,22ms,9,está bien
+,1708062020300,0,487ms,44,1708062020302,1708062024112,Sé que también el tecnológico de Monterrey. ,122ms,48,I know that the technology of Monterrey as well.
+,1708062029421,1,444ms,26,1708062029422,1708062032582,ISIS it a nice University?,78ms,31,¿ISIS es una buena universidad?
+,1708062036821,1,397ms,24,1708062036823,1708062039663,Is it a nice University?,71ms,26,¿Es una buena universidad?
+,1708062040262,0,471ms,34,1708062040263,1708062043793,Para el tecnológico de Monterrey. ,86ms,29,For the Monterrey technology.
+,1708062044262,0,435ms,34,1708062044277,1708062047475,Sí es una muy buena universidad. ,101ms,34,Yeah it's a very good university.
+,1708062052781,1,373ms,4,1708062052782,1708062054542,Okay,20ms,9,está bien
+,1708062055824,1,491ms,55,1708062055825,1708062061980,And let's talk about something regarding job and wages.,114ms,58,Y hablemos de algo con respecto al trabajo y los salarios.
+,1708062068345,1,507ms,79,1708062068347,1708062080459,I have read that the minimum wages vary from 207 Mexican 2 248 Mexican per day.,161ms,82,He leído que los salarios mínimos varían de 207 mexicanos 2 248 mexicanos por día.
+,1708062072947,0,355ms,12,1708062072947,1708062075271,Por supuesto,23ms,9,Of course
+,1708062092023,1,559ms,49,1708062092025,1708062098995,So it's Mex$207 or some how how it how how it is.,212ms,42,Así que es Mex$207 o algo cómo es cómo es.
+,1708062093138,0,686ms,79,1708062093139,1708062103626,Sí así es los salarios el salario mínimo en México e S248.93 pesos diarios. ,267ms,80,Yes that's right the wages the minimum wage in Mexico is S248.93 pesos a day.
+,1708062117702,1,464ms,62,1708062117703,1708062124580,How is the University of godalajara for any masters programme?,144ms,74,¿Cómo es la Universidad de Godalajara para cualquier programa de maestría?
+,1708062126062,1,457ms,44,1708062126064,1708062131623,Poems are meeting University of wadala Zara.,125ms,59,Los poemas se encuentran con la Universidad de Wadala Zara.
+,1708062137941,1,553ms,65,1708062137942,1708062144142,How is the University of guwadala Jara for any master programmes?,149ms,79,¿Cómo está la Universidad de Guwadala Jara para cualquier programa de maestría?
+,1708062142907,0,541ms,64,1708062142907,1708062148862,Que yo recuerde las maestrías en la universidad de Guadalajara. ,126ms,69,May I remember the master's degrees at the University of Guadalajara.
+,1708062156864,0,659ms,144,1708062156866,1708062169179,Son bastante buenas tienen una gran cantidad de maestrías por ejemplo esta la de psicología ciencias políticas tienen una una gran variedad. ,245ms,133,They're pretty good they have a lot of master's degrees for example this one in political science psychology has a lot of variety.
+,1708062180981,1,446ms,45,1708062180983,1708062187504,Which kind of job pace the highest in Mexico?,123ms,55,¿Qué tipo de ritmo de trabajo es el más alto en México?
+,1708062191903,1,457ms,31,1708062191904,1708062196543,Which kind of job page highest?,95ms,40,¿Qué tipo de página de trabajo más alto?
+,1708062196544,0,423ms,20,1708062196545,1708062200872,Más alto en cuanto. ,74ms,19,Higher in terms of.
+,1708062202783,0,447ms,45,1708062202783,1708062206700,De página de trabajo para encontrar trabajo. ,77ms,24,Work page to find a job.
+,1708062203503,1,327ms,6,1708062203506,1708062205583,Salary,41ms,7,Salario
+,1708062209542,0,630ms,95,1708062209544,1708062225022,De salarios el salario máximo en México. no estoy muy segura pero como 50000 MXN mensuales. ,217ms,93,Of salaries the maximum salary in Mexico I'm not quite sure but like 50000 MXN per month.
+,1708062238023,1,463ms,63,1708062238024,1708062243662,Is it true that the teachers in Mexico are referred as maestro?,134ms,67,¿Es cierto que a los maestros en México se les hace llamar maestro?
+,1708062250980,0,488ms,40,1708062250982,1708062254665,Sí es correcto se les llama maestros. ,111ms,44,Yeah that's right they're called teachers.
+,1708062261341,1,481ms,69,1708062261343,1708062269902,Okay because in India maestro is referred only for the music teachers,124ms,85,vale porque en la India maestro se hace referencia sólo para los profesores de música
+,1708062282744,0,537ms,59,1708062282746,1708062287426,No entiendo muy bien esa pregunta ¿Qué te gustaría saber? ,138ms,68,I don't quite understand that question what would you like to know?
+,1708062294306,1,430ms,173,1708062294307,1708062311701,Ah no no no like you said you refer teachers as my stroke in India we call only the music teachers as maestro the other teachers. We refer them as simple teachers or sir.,1708062312131ms,206,ah no no no como dijiste que refieres a los profesores como mi golpe en la india llamamos sólo a los profesores de música como maestro a los demás profesores. Los referimos como simples maestros o señor.
+,1708062327822,0,770ms,198,1708062327823,1708062343422,Ah ya veo sí en México les decimos maestros a las personas que enseñan a otras personas y profesores los utilizamos más para las personas que enseñan a nivel licenciatura como maestría doctoral. ,338ms,180,Ah I see yes in Mexico we say teachers to people who teach other people and teachers we use them more for people who teach at the bachelor's level as a doctoral master's degree.
+,1708062364181,1,445ms,62,1708062364183,1708062371021,Shall we talk about some beaches or places to visit in Mexico?,124ms,61,¿Hablamos de algunas playas o lugares para visitar en México?
+,1708062378501,0,471ms,45,1708062378503,1708062382359,Por supuesto hay playas hermosas en México. ,89ms,49,Of course there are beautiful beaches in Mexico.
+,1708062382863,0,473ms,47,1708062382864,1708062387591,Por ejemplo están las playas la reviera Maya. ,126ms,55,For example there are the beaches of the Reviera Maya.
+,1708062395180,1,444ms,23,1708062395182,1708062398380,Is it sea seaweed free?,79ms,21,¿Está libre de algas?
+,1708062402941,1,467ms,89,1708062402942,1708062409428,Because I have read somewhere. There were some sea weed issues in some beaches of Mexico.,1708062409895ms,95,porque he leído en alguna parte. Hubo algunos problemas de malezas en algunas playas de México.
+,1708062404264,0,510ms,65,1708062404264,1708062410662,Depende algunas playas por ejemplo en la riviera Maya algunas. ,143ms,66,It depends on some beaches for example in the Riviera Maya some.
+,1708062411619,1,337ms,7,1708062411620,1708062413464,Play my,43ms,12,Reproduce mi
+,1708062419938,0,655ms,130,1708062419939,1708062432663,Si tienes razón tuvimos ese problema con las algas marinas se Halle manzazo y algunas de las playas estaban cubiertos de esto. ,265ms,116,If you're right we had that problem with seaweed it's found manzazo and some of the beaches were covered in this.
+,1708062448339,1,489ms,50,1708062448341,1708062454142,Can you say something about kankoon and quitanaru?,125ms,45,¿Puedes decir algo sobre kankoon y quitanaru?
+,1708062461629,0,820ms,195,1708062461631,1708062475779,Por supuesto es un lugar muy bonito tiene de todo tiene la parte de las playas pero también tiene una Gran Vía nocturna. Tiene muchos restaurantes y puedes hacer muchas actividades en campo. ,366ms,197,Of course it's a very nice place it has everything it has the part of the beaches but it also has a Gran Vía nocturna. It has many restaurants and you can do many activities in the countryside.
+,1708062491783,1,609ms,146,1708062491785,1708062503823,Do they provide any ferries or boats or yachts to go to the centre of the sea and have some sports activities in there and come back to the beach.,260ms,137,¿Proporcionan transbordadores o barcos o yates para ir al centro del mar y tener algunas actividades deportivas allí y volver a la playa?
+,1708062516022,0,788ms,181,1708062516024,1708062534461,Sí es correcto hay varios viajes que te pueden llevar a conocer parte en el mar y después regresar y la mayoría de estos también incluyen barro libre de vigas son muy divertidos. ,351ms,171,Yes it's right there are several trips that can take you to get to know part of the sea and then come back and most of these also include beam-free mud are a lot of fun.
+,1708062551023,1,451ms,102,1708062551025,1708062563343,Which airline is good for affordable flights in Mexico? Is it Aeroméxico or voila? Is or Viva aerobss.,1708062563794ms,100,¿Qué aerolínea es buena para vuelos asequibles en México? ¿Es Aeroméxico o voila? Es o Viva aerobss.
+,1708062571142,0,642ms,130,1708062571145,1708062582503,Si puedes utilizar aerolíneas para viajar por ejemplo para viajar a Cancún cuenta con su propio aeropuerto puedes llegar ahí. ,252ms,111,If you can use airlines to travel for example to travel to Cancun it has its own airport you can get there.
+,1708062599981,1,418ms,104,1708062599984,1708062609503,Okay have you heard of one guesthouse that is present in tulum? It's called Malakai hostel guest house.,1708062609921ms,118,¿Has oído hablar de una casa de huéspedes que está presente en tulum? se llama casa de huéspedes del albergue malakai.
+,1708062619825,0,453ms,32,1708062619828,1708062623223,No no había escuchado de esto. ,105ms,27,No I hadn't heard of this.
+,1708062628742,1,434ms,39,1708062628744,1708062634263,And what about the mayan monkey hostel?,107ms,39,¿Y qué hay del albergue de monos mayas?
+,1708062645060,0,724ms,155,1708062645061,1708062660102,Bueno para este albergue este es bueno en realidad es una reserva natural y esta protegia a los monos araña que es una especie en peligro de extinción. ,272ms,139,Well for this lodge this is good it's actually a nature reserve and this one protects the spider monkeys which is an endangered species.
+,1708062673663,1,359ms,16,1708062673664,1708062676181,Nice information,48ms,17,Buena información
+,1708062679224,1,544ms,88,1708062679225,1708062686340,Okay so we are done for today I think the time is over it was really nice talking to you,184ms,114,de acuerdo asi que ya estamos por hoy creo que ya se acabó el tiempo fue realmente agradable hablando con vosotras
+,1708062682025,0,361ms,8,1708062682026,1708062684380,Gracias.,13ms,10,Thank you.
+,1708062693701,1,436ms,32,1708062693703,1708062697152,Have a great day bye take care.,120ms,48,Que tengas un gran día de descanso ten cuidado.
+,1708062695940,0,564ms,81,1708062695941,1708062701103,A mi también me gusta hablar contigo espero que podamos hablar pronto de nuevo. ,150ms,65,I also like to talk to you I hope we can talk to you again soon.
+,1708062703701,0,419ms,19,1708062703702,1708062706750,Gracias igualmente.,53ms,15,Thank you also.
+,1708062707025,1,319ms,4,1708062707035,1708062708903,Sure,9ms,6,¡Claro

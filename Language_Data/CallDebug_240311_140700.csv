@@ -1,0 +1,140 @@
+﻿Reference,SpeechId,Direction,SttLatency,length,beginOfSpeech,endOfSpeech,SttResult,TranslationLatency,length,TranslatedResult,useless,translation comment
+1710145039615
+,1710145038040,1,585ms,5,1710145038058,1710145039982,Hello,372ms,5,Hallo
+,1710145048219,1,376ms,16,1710145048222,1710145050417,Can you hear me?,78ms,15,Hören Sie mich?
+,1710145049578,0,475ms,5,1710145049579,1710145051499,Hallo,177ms,5,Hello
+,1710145053739,0,416ms,24,1710145053741,1710145056623,Ja ich kann sie hören? ,83ms,21,Yes I can hear them.
+,1710145060579,1,431ms,111,1710145060581,1710145068148,Ah apology for the delay. Actually I got a different number of yours. That's why I was not able to reach you.,1710145068579ms,137,Ah entschuldigen Sie sich für die Verzögerung. Eigentlich habe ich eine andere Anzahl von Ihnen. Deshalb konnte ich Sie nicht erreichen.
+,1710145068021,0,436ms,27,1710145068023,1710145070866,Hallo ich kann sie hören? ,90ms,22,Hello I can hear them.
+,1710145071898,0,389ms,5,1710145071899,1710145073862,Gerne,68ms,7,gladly.
+,1710145078877,0,440ms,35,1710145078878,1710145081719,Dachte ich ist doch kein Problem. ,90ms,30,I thought it wasn't a problem.
+,1710145087519,1,495ms,69,1710145087520,1710145092957,So today's are the topic of discussion will be travelled and leisure.,119ms,64,So ist heute das Thema der Diskussion wird gereist und Freizeit.
+,1710145100079,0,348ms,5,1710145100080,1710145101999,Schön,38ms,10,Beautiful!
+,1710145105003,1,502ms,201,1710145105004,1710145121756,Actually I'm planning to visit Germany in another couple of years so I am curious to know something about Germany. So basically today's all my queries. Our discussion will be centered around Germany.,1710145122258ms,221,Eigentlich plane ich Deutschland in ein paar Jahren zu besuchen also bin ich neugierig etwas über Deutschland zu erfahren. Also im Grunde sind heute alle meine Fragen. Im Mittelpunkt Ihrer Diskussion steht Deutschland.
+,1710145129958,1,446ms,28,1710145129959,1710145133040,I hope you are okay with it.,84ms,40,Ich hoffe Sie sind damit einverstanden.
+,1710145140160,0,408ms,17,1710145140162,1710145142571,Aber gerne doch. ,54ms,11,But gladly.
+,1710145146000,1,477ms,36,1710145146001,1710145149439,May I know where you stay currently?,104ms,46,Kann ich wissen wo Sie sich gerade aufhalten?
+,1710145154638,0,387ms,21,1710145154640,1710145157439,Ich bin in Hannover. ,59ms,16,I am in Hanover.
+,1710145163920,1,375ms,17,1710145163921,1710145166439,Is it in Germany?,63ms,22,Ist es in Deutschland?
+,1710145170837,0,388ms,32,1710145170839,1710145174118,Ja Hannover ist in Deutschland. ,65ms,22,Hanover is in Germany.
+,1710145177401,1,363ms,7,1710145177402,1710145179649,Oh okay,51ms,7,Oh okay
+,1710145182841,1,430ms,127,1710145182843,1710145195438,Let's say I have a budget of almost €100 per day for lodging. Which cities like consist? Which cities like consider staying in?,1710145195868ms,143,Nehmen wir an ich habe ein Budget von fast 100 € pro Tag für die Unterkunft. Welche Städte wie bestehen? In welchen Städten bleiben Sie gerne?
+,1710145208836,0,470ms,75,1710145208838,1710145215519,Auch mit 100 Euro kann man es eigentlich in jeder Stadt ein Zimmer finden? ,130ms,63,Even with 100 euros you can actually find a room in every city.
+,1710145231560,1,504ms,100,1710145231562,1710145242399,Are there cities around the coastal side of Germany more affordable as compared to the capital city?,139ms,81,Gibt es Städte rund um die Küstenseite Deutschlands günstiger als die Hauptstadt?
+,1710145250918,0,571ms,139,1710145250919,1710145263493,Das glaube ich nicht weil man in der Hauptstadt günstige Zimmer bekommt und am Meer ist es an der Küste ist es dann doch meistens Teurer. ,246ms,123,I don't think so because you get cheap rooms in the capital and by the sea it is on the coast it is usually more expensive.
+,1710145272799,1,399ms,4,1710145272802,1710145275759,Okay,44ms,4,Okay
+,1710145278158,1,352ms,52,1710145278160,1710145283117,Does any hotel in Germany offer a room with AC? View,1710145283469ms,72,Bietet ein Hotel in Deutschland ein Zimmer mit Klimaanlage an? Sehen Sie
+,1710145287279,1,321ms,13,1710145287280,1710145290677,With AC. View,1710145290998ms,17,Mit AC. Sehen Sie
+,1710145293762,1,400ms,19,1710145293764,1710145296797,With view of a sea.,80ms,23,Mit Blick auf ein Meer.
+,1710145297680,0,424ms,18,1710145297680,1710145300684,Nicht alle Hotel. ,74ms,15,Not all hotels.
+,1710145312320,1,463ms,54,1710145312322,1710145317998,Is there a Rhine river cruise from Frankfurt Germany?,101ms,47,Gibt es eine Rheinkreuzfahrt von Frankfurt aus?
+,1710145325118,0,487ms,79,1710145325119,1710145331716,Bin nicht sicher aber ich glaube schon es gibt ausdrucksboote von Frankfurt. ,142ms,67,I'm not sure but I think there are expressive boats from Frankfurt.
+,1710145340924,1,466ms,41,1710145340926,1710145346281,Okay I was planning to book this cruise.,111ms,48,Okay ich hatte vor diese Kreuzfahrt zu buchen.
+,1710145347760,1,388ms,78,1710145347762,1710145352919,So wanted to know some more information about it. Will you be able to help me?,1710145353307ms,57,Wollten Sie mehr darüber erfahren. Können Sie mir helfen?
+,1710145359800,1,519ms,70,1710145359802,1710145365840,Like through this river cruise will I be able to see amsterdams also?,154ms,63,Wie bei dieser Flusskreuzfahrt kann ich auch Amsterdams sehen?
+,1710145360279,0,452ms,66,1710145360281,1710145368651,Königsreisen ist ein Veranstalter für deutsche Flusskreuzfahrten. ,121ms,54,Königsreisen is an organizer for German river cruises.
+,1710145377839,0,490ms,77,1710145377840,1710145385276,Glaub ich Da will ich nicht aber rein sie können von der Frankfurter Min. ,162ms,73,I don't think I want to get in there but they can from the Frankfurt Min.
+,1710145378039,1,428ms,29,1710145378040,1710145381439,Does it cover Amsterdam also?,78ms,27,Deckt es auch Amsterdam ab?
+,1710145385957,0,467ms,39,1710145385957,1710145389564,Nein ich glaube nicht das Amsterdam. ,101ms,34,No I don't believe the Amsterdam.
+,1710145396800,1,377ms,70,1710145396801,1710145403360,I've heard it covers some part of Switzerland and as well. Is it true?,1710145403737ms,71,Ich habe gehört es deckt einige Teile der Schweiz und auch. Stimmt es?
+,1710145409762,0,426ms,48,1710145409764,1710145413999,In der Schweiz gibt es keine Flusskreuzfahrten? ,113ms,42,There are no river cruises in Switzerland.
+,1710145419198,1,445ms,78,1710145419199,1710145427479,Actually I have read somewhere. This rain river cruise is almost a 7 day trip.,1710145427924ms,96,Eigentlich habe ich irgendwo gelesen. Diese Regenflusskreuzfahrt ist fast ein 7-tägiger Ausflug.
+,1710145432640,1,396ms,18,1710145432642,1710145435636,Ryan river cruise.,76ms,30,Fahren Sie auf dem Ryan River.
+,1710145440882,0,488ms,52,1710145440884,1710145447176,Auf dem Flug Rein Fluss gibt es viele Kreuzfahrten? ,128ms,48,On the flight Rein River there are many cruises.
+,1710145455718,1,435ms,34,1710145455720,1710145459844,Have you ever been to this cruise?,92ms,45,Waren Sie schon einmal auf dieser Kreuzfahrt?
+,1710145465485,0,446ms,52,1710145465486,1710145469281,Nein ich habe noch keine Fluss kreuzfahrt gemacht? ,115ms,38,No I haven't done a river cruise yet.
+,1710145474479,1,351ms,4,1710145474481,1710145476360,Okay,20ms,4,Okay
+,1710145480641,1,561ms,82,1710145480644,1710145489247,Have you heard there is a famous lake in Switzerland it's known as lake Constance.,186ms,96,Haben Sie gehört dass es in der Schweiz einen berühmten See gibt der als Bodensee bekannt ist?
+,1710145497719,0,456ms,65,1710145497720,1710145503481,Ja der Boden Sie berührt die Schweiz Österreich und Deutschland. ,118ms,54,Yes the soil touches Switzerland Austria and Germany.
+,1710145512400,1,417ms,101,1710145512402,1710145523240,As Germany is surrounded by Switzerland Austria Belgium. Have you ever been to these countries ever?,1710145523657ms,109,So wie Deutschland von der Schweiz Österreich Belgien umgeben ist. Waren Sie schon einmal in diesen Ländern?
+,1710145531598,0,444ms,41,1710145531599,1710145535317,Ja ich war schon in all diesen Ländern. ,98ms,38,Yes I've been to all these countries.
+,1710145541723,1,542ms,74,1710145541724,1710145547676,Can you tell me how do I travel from Germany to Switzerland without a car?,166ms,77,Können Sie mir sagen wie ich ohne Auto von Deutschland in die Schweiz reise?
+,1710145556045,0,440ms,48,1710145556048,1710145560241,Sie können mit dem Zug fahren oder mit dem Bus. ,95ms,34,You can take the train or the bus.
+,1710145568923,1,434ms,76,1710145568924,1710145574645,You have any idea? How much is the train ticket from Germany to Switzerland?,1710145575079ms,82,Haben Sie eine Idee? Wie viel kostet das Zugticket von Deutschland in die Schweiz?
+,1710145582039,0,445ms,74,1710145582041,1710145587526,Das kommt darauf an von welchem Ort sie fahren wie weit die Strecke ist? ,129ms,53,It depends on where they drive how far the route is.
+,1710145593119,1,467ms,54,1710145593122,1710145597281,Is there any direct train from Germany to Switzerland?,117ms,58,Gibt es einen direkten Zug von Deutschland in die Schweiz?
+,1710145604203,0,472ms,70,1710145604204,1710145609319,Ja es gibt verschiedene Direkte Züge von Deutschland in die Schweiz. ,121ms,65,Yes there are various direct trains from Germany to Switzerland.
+,1710145617160,1,473ms,36,1710145617162,1710145620398,And normally how much time it takes.,110ms,44,Und normalerweise wie viel Zeit es braucht.
+,1710145627281,0,445ms,49,1710145627283,1710145631518,Das hängt auch wieder davon ab wo man losfährt? ,105ms,32,It also depends on where you go.
+,1710145637678,1,300ms,4,1710145637680,1710145639443,Okay,22ms,4,Okay
+,1710145643720,1,466ms,36,1710145643722,1710145648002,Have you heard of the Bavarian arts?,101ms,34,Kennen Sie die bayerischen Künste?
+,1710145650279,1,420ms,6,1710145650296,1710145653236,ALP s.,75ms,5,ALPs.
+,1710145654760,0,373ms,6,1710145654762,1710145656808,Ja ich,67ms,5,Yes I
+,1710145657761,0,415ms,16,1710145657763,1710145660324,Bitte noch mal. ,64ms,13,Please again.
+,1710145666359,1,630ms,64,1710145666361,1710145674077,If I chose to stay in Berlin how do I get to the Bavarian Alps?,252ms,101,Wenn ich mich für einen Aufenthalt in Berlin entscheide wie komme ich dann in die bayerischen Alpen?
+,1710145684561,0,654ms,100,1710145684561,1710145693842,Entweder mit dem Zug Oh da wird im Flugzeug bis münchen und dann weiter mit dem Zug oder dem Auto. ,268ms,90,Either by train Oh there will be on the plane to Munich and then continue by train or car.
+,1710145706923,1,658ms,74,1710145706925,1710145713679,Any idea how much will be the distance from Berlin to this babvarian Alps?,277ms,90,Irgendeine Idee wie weit wird die Entfernung von Berlin zu diesen bayerischen Alpen sein?
+,1710145722203,0,508ms,34,1710145722205,1710145728242,Das sind 800 km würde ich sagen. ,140ms,26,That's 800 km I would say.
+,1710145736605,1,638ms,56,1710145736609,1710145743080,Is this Bavarian Alps spread across Germany and Austria?,270ms,71,Verbreiten Sie diese bayerischen Alpen über Deutschland und Österreich?
+,1710145751397,0,657ms,48,1710145751398,1710145755477,Die beiden schon alten sind nur in Deutschland. ,274ms,37,The two old ones are only in Germany.
+,1710145763958,1,642ms,29,1710145763961,1710145768156,What it means by 2 old worms.,231ms,36,Was es bedeutet mit 2 alten Würmern.
+,1710145771200,1,491ms,11,1710145771203,1710145774479,2 old ones.,88ms,7,2 Alte.
+,1710145775118,0,493ms,31,1710145775119,1710145778127,Das habe ich nicht verstanden? ,127ms,25,I didn't understand that.
+,1710145782959,1,509ms,61,1710145782961,1710145788639,You said something right? The 2 old ones are only in Germany.,1710145789148ms,61,Sagen Sie etwas richtig? Die 2 alten sind nur in Deutschland.
+,1710145791477,1,526ms,37,1710145791478,1710145795198,So I didn't understand what it means.,172ms,48,Also habe ich nicht verstanden was es bedeutet.
+,1710145796199,0,454ms,23,1710145796200,1710145799081,Die Bayerischen Alpen. ,104ms,18,The Bavarian Alps.
+,1710145800041,0,609ms,74,1710145800041,1710145806364,Die Badischen Alpen sind in Deutschland in Österreich gibt es auch baden? ,242ms,63,The Baden Alps are in Germany in Austria there is also bathing.
+,1710145814479,1,590ms,48,1710145814481,1710145818842,Is it one of the most visited places in Germany?,183ms,52,Ist es einer der meistbesuchten Orte in Deutschland?
+,1710145826516,0,623ms,67,1710145826518,1710145831041,Es ist nicht der meistbesuchte Ort aber ein sehr gut besuch. Dort,1710145831664ms,62,It is not the most visited place but a very good visit. there.
+,1710145848043,1,631ms,53,1710145848045,1710145853956,I've heard there's a forest called palatineet forest.,222ms,53,Ich habe gehört es gibt einen Wald namens Pfalzwald.
+,1710145861079,1,590ms,51,1710145861080,1710145865653,Can you tell me something about this palati forest?,205ms,54,Können Sie mir etwas über diesen Palati-Wald erzählen?
+,1710145862597,0,496ms,25,1710145862598,1710145866120,Pfeil 2 kenne ich nicht. ,130ms,21,I don't know arrow 2.
+,1710145870161,1,388ms,15,1710145870162,1710145873370,Palatine forest,80ms,11,Palatinwald
+,1710145872641,0,533ms,30,1710145872643,1710145876052,Ich kenne den Fall Waldlicht. ,149ms,32,I know the case of forest light.
+,1710145882240,1,732ms,85,1710145882242,1710145889558,Okay actually one of my friends he had suggested me to go for hiking to this forest.,309ms,97,Okay eigentlich einer meiner Freunde die er mir vorgeschlagen hatte in diesen Wald zu wandern.
+,1710145885519,0,517ms,33,1710145885520,1710145889159,Ich kenne den falten bald nicht. ,157ms,27,I don't know the fold soon.
+,1710145898718,0,480ms,32,1710145898719,1710145901880,Weit zu warnen ist nicht schön. ,141ms,24,Far to warn is not nice.
+,1710145903200,1,975ms,27,1710145903201,1710145906124,Search on Hotstar services.,143ms,31,Suchen Sie auf Hotstar-Dienste.
+,1710145912323,0,506ms,27,1710145912325,1710145915247,Nein das kenne ich nicht. ,156ms,22,No I don't know that.
+,1710145914320,1,562ms,74,1710145914322,1710145920598,Kindly ignore this treatment. It is because of bubbled in the translation.,1710145921160ms,81,Bitte ignorieren Sie diese Behandlung. Es ist wegen der Blase in der Übersetzung.
+,1710145926559,1,568ms,44,1710145926561,1710145932077,So let me get back to the palatineet forest.,196ms,89,Lassen Sie mich zurück zum A kommen. Lassen Sie mich also zurück in den Pfalzwald kommen.
+,1710145934004,1,522ms,33,1710145934017,1710145938567,Is there not such a forest there?,156ms,38,Gibt es dort nicht einen solchen Wald?
+,1710145937437,0,420ms,14,1710145937439,1710145939484,Geht es dann. ,88ms,13,Then it goes.
+,1710145943920,0,652ms,56,1710145943923,1710145948363,Ich kenne die Pfalz und es wird dort auch Wälder geben. ,223ms,54,I know the Palatinate and there will be forests there.
+,1710145956722,1,542ms,26,1710145956724,1710145960357,Is it not safe for hiking?,141ms,32,Ist es nicht sicher zum Wandern?
+,1710145966320,0,476ms,22,1710145966322,1710145969297,Topfeifer ist sicher. ,107ms,14,Potty is safe.
+,1710145979279,1,513ms,33,1710145979281,1710145983280,Have you ever been to flamesburg?,151ms,37,Waren Sie schon einmal in Flamesburg?
+,1710145985356,1,458ms,12,1710145985358,1710145987761,Flames Burns,107ms,16,Flammen brennen!
+,1710145988961,0,458ms,17,1710145988963,1710145991560,Bitte wiederholen,89ms,14,Please repeat.
+,1710145991318,1,422ms,8,1710145991328,1710145994127,Flanzbar,88ms,8,Flanzbar
+,1710145992959,0,345ms,17,1710145992961,1710145995494,Bitte wiederholen,29ms,14,Please repeat.
+,1710145995563,1,574ms,33,1710145995577,1710146000080,I'm trying to stay the city name.,164ms,45,Ich versuche den Namen der Stadt zu bleiben.
+,1710146001682,1,732ms,71,1710146001683,1710146008238,Edit what's the North of Germany and is very near to the coastal area?,308ms,93,Bearbeiten Sie was ist der Norden Deutschlands und liegt ganz in der Nähe des Küstengebiets?
+,1710146009922,0,405ms,7,1710146009923,1710146012040,Welchen,88ms,6,Which?
+,1710146014757,1,411ms,10,1710146014759,1710146016961,Flamesburg,76ms,10,Flamesburg
+,1710146017762,1,319ms,10,1710146017763,1710146021437,Flamesburg,13ms,10,Flamesburg
+,1710146022042,0,424ms,11,1710146022043,1710146024559,Flammesburg,86ms,10,Flamesburg
+,1710146023641,1,608ms,13,1710146023648,1710146027361,Fl ENS BUR g.,173ms,13,Fl ENS BUR g.
+,1710146025277,0,471ms,21,1710146025279,1710146028078,Ich kenne Flensburg. ,121ms,17,I know Flensburg.
+,1710146029518,1,584ms,35,1710146029519,1710146033958,Yes yes this city I meant to set.,176ms,41,Ja ja diese Stadt wollte ich festlegen.
+,1710146039999,0,359ms,5,1710146040001,1710146041960,Schön,30ms,10,Beautiful!
+,1710146046798,1,548ms,25,1710146046799,1710146050280,Is there it lubmin beach?,143ms,33,Gibt es einen leuchtenden Strand?
+,1710146054801,1,590ms,34,1710146054803,1710146058684,Have you ever been to lumin beach?,190ms,43,Waren Sie schon einmal am Strand von Lumin?
+,1710146057522,0,552ms,25,1710146057523,1710146062961,Ostseest dann Flensburg. ,172ms,28,Baltic Seast then Flensburg.
+,1710146060519,1,389ms,8,1710146060533,1710146063001,Luckmein,69ms,16,Glücklicherweise
+,1710146064397,0,389ms,4,1710146064399,1710146066530,Nein,73ms,3,No.
+,1710146071042,1,731ms,67,1710146071043,1710146077286,Which beach place is a better option to visit lukmin or fleshbourg?,297ms,83,Welcher Strandplatz ist eine bessere Option um Lukmin oder Fleshbourg zu besuchen?
+,1710146080960,1,347ms,10,1710146080963,1710146083916,L UBM I. N,1710146084263ms,17,BEENDEN SIE ES. N
+,1710146087277,0,438ms,19,1710146087278,1710146090360,Typinnen Bindendorf,111ms,21,Typinnen bindendorf.
+,1710146096520,1,654ms,134,1710146096522,1710146108199,Actually I this translation is not happening properly. I wanted to say about the 2 places and which place is a better place to visit?,1710146108853ms,136,Eigentlich passiert diese Übersetzung nicht richtig. Ich wollte über die 2 Orte sagen und welcher Ort ist ein besserer Ort zu besuchen?
+,1710146109039,1,580ms,39,1710146109040,1710146114337,One is lakmin and the second is flesh.,217ms,45,Einer ist Lakmin und der zweite ist Fleisch.
+,1710146112524,0,453ms,18,1710146112525,1710146115366,Timendorfer Strand,119ms,18,Timendorfer beach.
+,1710146120480,1,335ms,9,1710146120482,1710146123214,LUB MI. N,1710146123549ms,16,SETZEN SIE MI. N
+,1710146122356,0,524ms,28,1710146122358,1710146125165,Ich kenne diese Orte nicht. ,142ms,26,I don't know these places.
+,1710146129397,1,543ms,86,1710146129399,1710146134680,Yeah actually there is a issue from my side. I am not able to say the names properly.,1710146135223ms,92,Ja eigentlich gibt es ein Problem von meiner Seite. Ich kann die Namen nicht richtig sagen.
+,1710146141679,1,574ms,30,1710146141680,1710146144597,One is the name that you said.,176ms,35,Einer ist der Name den Sie sagten.
+,1710146143001,0,560ms,52,1710146143002,1710146146680,Ja dann kann ich sie auch nicht richtig verstehen? ,195ms,50,Yes then I can't understand them properly either.
+,1710146152879,1,524ms,36,1710146152880,1710146157453,The little beach its name is lakmin.,169ms,37,Den kleinen Strand nennen Sie Lakmin.
+,1710146154680,0,453ms,19,1710146154681,1710146158289,Timmendorfer Strand,139ms,19,Timmendorfer beach.
+,1710146158518,1,403ms,7,1710146158524,1710146160798,Luv min,77ms,7,Luv min
+,1710146165479,0,440ms,6,1710146165481,1710146167921,Lasmin,90ms,6,Lasmin
+,1710146171083,1,401ms,6,1710146171085,1710146173400,Lovema,76ms,15,Lieben Sie Mama
+,1710146174483,1,539ms,105,1710146174484,1710146183037,Okay it's okay let's conclude our discussion here. Because the names are not being translated properly.,1710146183576ms,116,Okay es ist okay lassen Sie uns unsere Diskussion hier abschließen. Denn die Namen werden nicht richtig übersetzt.
+,1710146178081,0,489ms,27,1710146178083,1710146182116,Ja ich. Liebe meine Mama. ,1710146182605ms,19,Yes I. Love my mom.
+,1710146188480,0,356ms,2,1710146188481,1710146190608,OK,24ms,2,OK
+,1710146192803,1,608ms,90,1710146192804,1710146198478,Thank you for the patience. And thank you for all the information that you shared with me.,1710146199086ms,101,Vielen Dank für die Geduld. Und vielen Dank für all die Informationen die Sie mit mir geteilt haben.
+,1710146194122,0,341ms,8,1710146194123,1710146196248,Verstehe,28ms,5,I see
+,1710146201519,0,391ms,17,1710146201520,1710146203923,Aber gerne doch. ,20ms,11,But gladly.
+,1710146202203,1,557ms,34,1710146202206,1710146205281,It was really nice talking to you.,160ms,45,Es war wirklich schön mit Ihnen zu sprechen.
+,1710146208117,1,541ms,21,1710146208120,1710146210887,Thank you take care.,125ms,22,Vielen Dank Vorsicht.
+,1710146210797,0,440ms,15,1710146210805,1710146213571,Danke ebenfalls,108ms,15,Thank you also!

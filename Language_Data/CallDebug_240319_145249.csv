@@ -1,0 +1,141 @@
+﻿Reference,SpeechId,Direction,SttLatency,length,beginOfSpeech,endOfSpeech,SttResult,TranslationLatency,length,TranslatedResult,useless,translation comment
+1710839020429
+,1710839019073,1,762ms,5,1710839019082,1710839021067,Hello,444ms,5,Witam
+,1710839024550,1,409ms,45,1710839024551,1710839029388,My name is Prasanna. I am calling from India.,1710839029797ms,38,Nazywam się Prasanna. Dzwonię z Indii.
+,1710839029632,1,448ms,24,1710839029633,1710839032147,Are you able to hear me?,78ms,34,Czy jesteś w stanie mnie usłyszeć?
+,1710839037186,0,548ms,10,1710839037188,1710839039510,Tak słyszę,229ms,18,That's what I hear
+,1710839046430,1,404ms,28,1710839046432,1710839049227,May I know your name please?,73ms,23,Mogę poznać twoje imię?
+,1710839054191,0,417ms,20,1710839054194,1710839058347,Jestem Dawid. Adrian,1710839058764ms,17,I'm David. Adrian
+,1710839063349,1,481ms,22,1710839063351,1710839066389,Hi Dion how are you?,102ms,26,Cześć Dion jak się masz?
+,1710839071670,0,467ms,29,1710839071672,1710839075908,Jest bezpiecznie udzielając. ,67ms,18,It's safe to give.
+,1710839076107,0,620ms,47,1710839076109,1710839082756,Wszystko w porządku dobrze się a co u ciebie. ,120ms,28,You're fine what about you?
+,1710839086434,1,451ms,15,1710839086435,1710839088829,Yeah I'm good.,94ms,18,Tak jestem dobry.
+,1710839089228,1,523ms,42,1710839089229,1710839092835,May I know what is the time now in Poland?,140ms,45,Czy mogę wiedzieć która jest teraz w Polsce?
+,1710839094949,0,407ms,5,1710839094950,1710839097004,Super,73ms,5,Super
+,1710839100831,0,297ms,2,1710839100833,1710839103629,54,10ms,2,54
+,1710839112750,1,458ms,4,1710839112753,1710839114591,Okay,89ms,4,Okej
+,1710839115429,1,623ms,72,1710839115430,1710839123390,So today's topic of discussion going to be shopping brands and clubbing.,248ms,69,Dzisiejszy temat dyskusji będzie więc o markach zakupowych i klubach.
+,1710839127870,1,492ms,28,1710839127872,1710839130507,Are you comfortable with it?,125ms,26,Czy jest Wam z tym dobrze?
+,1710839135625,0,547ms,17,1710839135627,1710839138226,Tak jest dobrze. ,124ms,23,I do what a good thing.
+,1710839144232,1,692ms,77,1710839144234,1710839150309,Okay can you tell me what is the most popular street in Poland for shopping?,312ms,84,Ok czy może mi Pan powiedzieć jaka jest najpopularniejsza ulica w Polsce na zakupy?
+,1710839166149,0,530ms,19,1710839166151,1710839168869,Złota w Warszawie. ,106ms,15,Gold in Warsaw.
+,1710839177428,1,545ms,50,1710839177431,1710839183431,I heard there's a street none. As pitakosa street.,1710839183976ms,47,Słyszałem że nie ma ulicy. Jak ulica Pitakosa.
+,1710839189193,1,655ms,52,1710839189195,1710839195308,I heard there's a street known as pitarkoska street.,255ms,48,Słyszałem że jest ulica zwana ulicą Pitarkoską.
+,1710839192588,0,570ms,25,1710839192589,1710839196074,Ulica złota w Warszawie. ,103ms,22,Gold Street in Warsaw.
+,1710839200228,1,447ms,9,1710839200245,1710839202428,Okay okay,115ms,8,Okej ok
+,1710839211228,1,548ms,32,1710839211230,1710839214787,Do you know where is this place?,155ms,33,Czy wiesz gdzie jest to miejsce?
+,1710839215146,1,467ms,17,1710839215148,1710839218348,Uttarakosa street,127ms,16,Uttarakosa ulica
+,1710839219668,0,585ms,18,1710839219669,1710839222547,Nie wiem pojęcia. ,120ms,25,I don't know the concept.
+,1710839221951,1,473ms,9,1710839221952,1710839224469,Putrocosa,106ms,9,Putrocosa
+,1710839229346,1,531ms,45,1710839229348,1710839232910,I am not able to pronounce the name properly.,160ms,44,Nie jestem w stanie poprawnie wymówić nazwy.
+,1710839235151,1,646ms,119,1710839235153,1710839246266,It's known as the longest street in Europe. It's something around 4.2 km or something and it's present in Lord's city.,1710839246912ms,94,Jest to najdłuższa ulica w Europie. To coś około 42 km czy coś i jest obecny w mieście Pana.
+,1710839247908,0,576ms,20,1710839247917,1710839250552,Nie wiem gdzie ad. ,127ms,22,I don't know where ad.
+,1710839248388,1,505ms,7,1710839248397,1710839250948,LOD Ja.,100ms,7,LOD Ja.
+,1710839259829,1,482ms,5,1710839259831,1710839262510,LODZ.,71ms,5,ŁÓDŹ.
+,1710839266749,0,481ms,12,1710839266751,1710839269151,A złodziejch,81ms,16,And the thieves?
+,1710839276590,1,491ms,66,1710839276592,1710839284872,You said the gold street is the best place for shopping. Isn't it?,1710839285363ms,72,Mówiłeś że złota ulica to najlepsze miejsce na zakupy. Czy to nie jest?
+,1710839296590,0,740ms,48,1710839296592,1710839300789,To jest najlepsze miejscowe zakupy w Warszawie. ,133ms,42,This is the best local shopping in Warsaw.
+,1710839306149,1,562ms,41,1710839306151,1710839310554,Is it very expensive or it is affordable?,189ms,50,Czy jest bardzo drogi czy jest przystępny cenowo?
+,1710839317986,0,615ms,29,1710839317987,1710839322474,To zależy jest tam wszystko. ,113ms,31,It depends on everything there.
+,1710839331115,1,512ms,38,1710839331116,1710839335230,How far will it be from fastland city?,145ms,35,Jak daleko będzie od Fastland City?
+,1710839337507,1,464ms,9,1710839337509,1710839339665,Pause man,108ms,14,Pauza człowiek
+,1710839340749,1,416ms,7,1710839340752,1710839342873,Postman,88ms,10,Listonosza
+,1710839345709,1,403ms,12,1710839345711,1710839348511,Postman city,81ms,12,Postman City
+,1710839349229,0,639ms,25,1710839349230,1710839351885,Nie wiem o czym mówisz. ,173ms,39,I don't know what you're talking about.
+,1710839350709,1,473ms,7,1710839350710,1710839354267,PUZNAN.,108ms,7,PUZNAN.
+,1710839357869,1,596ms,158,1710839357870,1710839370789,I'm trying to pronounce the city name. But I'm not able to say it properly. Yes yes that's what I meant to say. How far will be gold street from this place?,1710839371385ms,169,Próbuję wymówić nazwę miasta. Ale nie jestem w stanie powiedzieć tego poprawnie. Tak tak to właśnie chciałem powiedzieć. Jak daleko będzie Złota Ulica od tego miejsca?
+,1710839358349,0,474ms,11,1710839358363,1710839360761,Od Poznania,76ms,11,From Poznań
+,1710839379469,0,649ms,29,1710839379471,1710839383909,Trochę daleko to pół Polski. ,127ms,33,A little far away is half Poland.
+,1710839393793,1,570ms,34,1710839393795,1710839397509,How about the nightlife in Warsaw?,160ms,33,A co z życiem nocnym w Warszawie?
+,1710839400428,1,527ms,38,1710839400429,1710839404645,Are the clubs open till late midnight?,163ms,39,Czy kluby są otwarte do późnej północy?
+,1710839403909,0,834ms,54,1710839403914,1710839409198,No to bardzo dużo się dzieje jest bardzo dużo klubów. ,185ms,43,There is a lot going on and a lot of clubs.
+,1710839410907,0,643ms,36,1710839410908,1710839415321,Tak są otwarte wety do piątej rano. ,177ms,31,So are the open vets until 5am.
+,1710839419990,1,452ms,7,1710839419991,1710839422749,Oh nice,100ms,9,Och ładne
+,1710839427875,1,622ms,44,1710839427878,1710839432355,Can a twelve-year-old enter a pub in Poland?,216ms,46,Czy dwunastolatek może wejść do pubu w Polsce?
+,1710839429274,0,472ms,9,1710839429278,1710839431560,Zgromadza,94ms,10,He gathers
+,1710839440788,0,776ms,41,1710839440790,1710839444518,Podobnie jak woda swojego możliwe wejść. ,142ms,45,Like the water of your own possible entrance.
+,1710839453312,1,588ms,45,1710839453313,1710839458232,Can it twelve-year-old enter a pub in Poland?,216ms,46,Czy dwunastolatek może wejść do pubu w Polsce?
+,1710839466626,1,565ms,71,1710839466628,1710839471996,What is the minimum age requirement? I need to enter any pub in Poland.,1710839472561ms,74,Jaki jest wymóg minimalnego wieku? Muszę wejść do dowolnego pubu w Polsce.
+,1710839466666,0,589ms,30,1710839466667,1710839471480,A mnie ale z dorosłych tak. ,123ms,19,Of the adults yes.
+,1710839479589,0,589ms,26,1710839479591,1710839483909,18 lat żeby wejść do le. ,127ms,29,18 years to enter the forest.
+,1710839487713,1,574ms,45,1710839487715,1710839493150,Okay I think it's the same in India as well.,181ms,33,Myślę że w Indiach też tak jest.
+,1710839501427,0,489ms,8,1710839501429,1710839503472,To super,104ms,12,That's great
+,1710839509748,1,622ms,74,1710839509750,1710839514791,I've heard something. Can you please tell me whether it is correct or not?,1710839515413ms,73,Coś słyszałem. Czy może mi Pan powiedzieć czy jest to poprawne czy nie?
+,1710839517793,1,546ms,39,1710839517795,1710839521791,Cracko is known as the land of dragons.,174ms,37,Cracko jest znany jako kraina smoków.
+,1710839522986,0,573ms,22,1710839522988,1710839525908,Tak to jest poprawne. ,111ms,25,That's how correct it is.
+,1710839524549,1,391ms,6,1710839524568,1710839526472,Cracko,66ms,6,Cracko
+,1710839536710,1,682ms,66,1710839536712,1710839541950,Is it true that cracko is home to at least one fully grown dragon?,290ms,84,Czy to prawda że cracko jest domem dla co najmniej jednego w pełni dorosłego smoka?
+,1710839538189,0,591ms,20,1710839538191,1710839540953,Chodzi ci o Kraków. ,107ms,16,You mean Krakow.
+,1710839543828,1,389ms,3,1710839543829,1710839545752,Yes,69ms,3,Tak
+,1710839552510,0,530ms,15,1710839552512,1710839555070,Tak to prawda. ,113ms,17,Yes that's true.
+,1710839564867,1,651ms,46,1710839564868,1710839570709,Was the series Game of Thrones shot in woland?,235ms,50,Czy seria "Gry o tron" została nakręcona w Polsce?
+,1710839573112,1,390ms,6,1710839573113,1710839575106,Poland,56ms,6,Polska
+,1710839579707,0,681ms,27,1710839579709,1710839582871,Tak nagrywali to w Polsce. ,167ms,38,That's how they recorded it in Poland.
+,1710839593707,1,675ms,92,1710839593708,1710839600789,Are there any restrictions for the tourists there to enter any of the night clubs in Poland?,282ms,89,Czy są jakieś ograniczenia dla turystów aby wejść do któregoś z klubów nocnych w Polsce?
+,1710839611785,0,872ms,57,1710839611786,1710839617521,Nie ma żadnych ograniczeń mówić tylko skończono się lat. ,184ms,55,There are no restrictions to say only years have ended.
+,1710839625789,1,528ms,22,1710839625790,1710839628510,Can you smoke in bars?,138ms,25,Czy można palić w barach?
+,1710839629913,1,472ms,18,1710839629914,1710839632269,Is it aloud there?,104ms,16,Jest tam głośno?
+,1710839633789,0,522ms,18,1710839633790,1710839636269,W niektórych tak. ,108ms,13,In some yes.
+,1710839641191,1,629ms,44,1710839641193,1710839645230,I've heard the e cigarettes are also banned.,221ms,46,Słyszałem że e-papierosy są również zakazane.
+,1710839647272,1,513ms,11,1710839647278,1710839649389,Is it true?,101ms,14,Czy to prawda?
+,1710839653992,0,391ms,3,1710839653993,1710839655946,Nie,59ms,2,No
+,1710839657151,0,623ms,37,1710839657153,1710839660749,W niektórych można z niektórych nie. ,113ms,13,Some may not.
+,1710839667669,1,531ms,31,1710839667671,1710839671149,How do you spend your weekends?,138ms,23,Jak spędzacie weekendy?
+,1710839672351,1,542ms,27,1710839672352,1710839675549,Do you like going clubbing?,127ms,16,Lubisz klubować?
+,1710839682229,0,722ms,38,1710839682231,1710839687507,Nigdy nie wiadomo nie lubię próbować. ,165ms,35,You never know I don't like to try.
+,1710839697353,1,582ms,41,1710839697355,1710839700467,What is your favourite past time in Jeth?,164ms,36,Jaki jest Twój ulubiony czas w Jeth?
+,1710839703552,1,537ms,38,1710839703553,1710839706913,What is your favourite past time then?,154ms,35,Jaki jest wtedy Twój ulubiony czas?
+,1710839711032,1,391ms,9,1710839711034,1710839713028,Past time,89ms,13,Czas przeszły
+,1710839715789,1,541ms,22,1710839715790,1710839718587,How do your time pass?,134ms,18,Jak Wam mija czas?
+,1710839720191,0,963ms,74,1710839720194,1710839729435,Lubię siedzieć dobrze mi na czas lubię siedzieć w domu i oglądać seriale. ,262ms,70,I like to sit well on time and like to sit at home and watch TV shows.
+,1710839736271,1,471ms,4,1710839736273,1710839738235,Nice,97ms,6,Ładnie
+,1710839738708,1,513ms,26,1710839738721,1710839741748,This sounds very relaxing.,129ms,25,Brzmi bardzo relaksująco.
+,1710839746950,0,601ms,21,1710839746952,1710839750029,Tak jak z perfolins. ,118ms,20,Just like perfolins.
+,1710839756947,1,393ms,4,1710839756949,1710839758752,Okay,19ms,4,Okej
+,1710839762427,1,561ms,55,1710839762429,1710839768310,How popular is online shopping among the police people?,158ms,49,Jak popularne są zakupy online wśród policjantów?
+,1710839774429,1,394ms,6,1710839774431,1710839776550,Police,63ms,7,Policja
+,1710839777107,1,513ms,7,1710839777108,1710839780110,PL ISH.,108ms,6,PLISZ.
+,1710839781988,1,526ms,8,1710839781989,1710839785947,P4L ISH.,122ms,8,P4L ISH.
+,1710839786586,0,648ms,32,1710839786587,1710839790486,Wydaje mi się że popularne są. ,132ms,24,I think they're popular.
+,1710839798193,1,507ms,28,1710839798195,1710839802072,I didn't mean to say police.,135ms,34,Nie chciałem powiedzieć o policji.
+,1710839810510,1,562ms,45,1710839810512,1710839815235,I am not able to pronounce the word properly.,190ms,49,Nie jestem w stanie poprawnie wymówić tego słowa.
+,1710839813908,0,488ms,10,1710839813912,1710839816158,To zdrowie,105ms,11,It's health
+,1710839823588,1,510ms,26,1710839823590,1710839828756,Zara a brand from Poland.,156ms,21,Zara marka z Polski.
+,1710839827546,0,639ms,26,1710839827547,1710839830874,Może mogę jakoś ci pomóc. ,120ms,21,Maybe I can help you.
+,1710839833750,0,422ms,8,1710839833751,1710839835829,Analogii,70ms,7,Analogy
+,1710839839266,1,573ms,23,1710839839267,1710839844828,Is Zara a police brand?,168ms,30,Czy Zara jest marką policyjną?
+,1710839846514,1,373ms,6,1710839846515,1710839848708,Police,28ms,7,Policja
+,1710839849587,1,513ms,7,1710839849589,1710839852630,PL ISH.,106ms,6,PLISZ.
+,1710839850908,0,954ms,58,1710839850909,1710839858321,1 w zarazie słabego policyjnego ona jest z barką Polską. ,270ms,72,1 in the plague of a weak police officer she is with a barge of Poland.
+,1710839867025,0,997ms,74,1710839867026,1710839873427,Ona w Polsce jest ale to nie jest Polska Marka ale policjanci ją lubią. ,259ms,69,She is in Poland but it is not Polish Mark but the police like her.
+,1710839882627,1,397ms,4,1710839882628,1710839884433,Okay,22ms,4,Okej
+,1710839885027,1,597ms,42,1710839885028,1710839889266,Can you tell me something about the Zupan?,179ms,34,Czy możesz powiedzieć coś o Zupan?
+,1710839900190,0,518ms,8,1710839900192,1710839902430,O zupach,90ms,11,About Soups
+,1710839910749,1,653ms,70,1710839910751,1710839918109,I think it's a kind of clothing very specific to the people of Poland.,226ms,75,Myślę że jest to rodzaj odzieży bardzo specyficzny dla mieszkańców Polski.
+,1710839933267,0,484ms,25,1710839933269,1710839936070,Nie wiem o czym mówisz. ,13ms,39,I don't know what you're talking about.
+,1710839945468,1,556ms,38,1710839945470,1710839949228,Okay maybe I've read something wrong.,150ms,30,Może coś przeczytałem nie tak.
+,1710839959666,1,731ms,122,1710839959668,1710839972027,Are you aware of a very tiny village? In Poland with crooked houses and beautifully painted quit delete images of flowers.,1710839972758ms,113,Czy zna Pan bardzo małą wioskę? W Polsce z krzywymi domami i pięknie pomalowanymi przestań usuwać obrazy kwiatów.
+,1710839985073,0,676ms,40,1710839985076,1710839989557,Do takiej wioski nie kojarzeń niestety. ,142ms,45,There are no associations for such a village.
+,1710840000507,1,404ms,9,1710840000508,1710840002791,Jelly pie,76ms,9,Jelly Pie
+,1710840005709,1,332ms,9,1710840005710,1710840007869,Jelly pie,20ms,9,Jelly Pie
+,1710840008587,1,321ms,9,1710840008588,1710840011270,Jelly pie,23ms,9,Jelly Pie
+,1710840012026,1,480ms,15,1710840012027,1710840015948,Jeth ail IPI e.,120ms,12,Zarówno IPI.
+,1710840021069,1,416ms,5,1710840021070,1710840023028,Sorry,74ms,11,Przepraszam
+,1710840023230,0,645ms,36,1710840023233,1710840026399,Nie wam powiedzieć o co ci chodzi. ,129ms,30,Not telling you what you mean.
+,1710840023545,1,606ms,95,1710840023546,1710840030364,Forgive me I am not able to pronounce the name of the village. It may sound very weird to you.,1710840030970ms,95,Wybaczcie nie jestem w stanie wymówić nazwy wioski. Może to dla Ciebie zabrzmi bardzo dziwnie.
+,1710840043750,0,779ms,57,1710840043752,1710840048281,Nic się nie stało powiedz chociaż gdzie ta wioska leży. ,160ms,46,Nothing happened say where this village lies.
+,1710840060430,1,394ms,12,1710840060431,1710840064671,Z Ali Pi. E!,1710840065065ms,12,Z ali pi. E!
+,1710840075470,0,409ms,2,1710840075471,1710840077513,OK,73ms,9,OK OKAY?
+,1710840081272,1,526ms,34,1710840081273,1710840085111,Is there a village name like this?,138ms,24,Czy jest taka nazwa wsi?
+,1710840090667,0,581ms,21,1710840090669,1710840093469,Nie znam takiej wsi. ,123ms,28,I don't know such a village.
+,1710840099189,1,542ms,44,1710840099191,1710840105350,Okay okay. I think we are done for the day.,1710840105892ms,50,Ok ok. Myślę że jesteśmy skończeni na ten dzień.
+,1710840105633,1,489ms,39,1710840105634,1710840109356,Thank you for having this conversation.,122ms,23,Dziękuję za tę rozmowę.
+,1710840107990,0,664ms,29,1710840107991,1710840111674,Chodzi ci o wioskę za Lipie. ,147ms,34,You mean the village behind Lipie.
+,1710840112711,1,526ms,16,1710840112711,1710840115591,I know it quiet.,119ms,15,Wiem że cicho.
+,1710840119227,1,649ms,54,1710840119228,1710840123030,Yeah the village name was something called jelly pie.,251ms,56,Tak nazwa wioski była czymś co nazywało się Jelly Pie.
+,1710840124627,1,446ms,15,1710840124628,1710840128269,Jeth ail IPI e.,28ms,12,Zarówno IPI.
+,1710840131589,1,460ms,133,1710840131590,1710840141308,It's OK. I am not able to pronounce the name correctly. Now I'll try to have this conversation some other time. Maybe some other day.,1710840141768ms,123,Jest ok. Nie jestem w stanie poprawnie wymówić nazwy. Teraz postaram się przeprowadzić tę rozmowę innym razem. Może kiedyś.
+,1710840147393,1,418ms,39,1710840147394,1710840150670,Thank you for having this conversation.,20ms,23,Dziękuję za tę rozmowę.
+,1710840150708,0,555ms,8,1710840150709,1710840153563,OK super,188ms,8,OK Super
+,1710840156109,0,622ms,24,1710840156110,1710840160349,Dziękuję dziękuję też. ,169ms,25,Thank you thank you too.
+,1710840157593,1,601ms,15,1710840157595,1710840160268,Bye take care.,237ms,15,Żegnaj uważaj.

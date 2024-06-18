@@ -1,0 +1,110 @@
+﻿Reference,SpeechId,Direction,SttLatency,length,beginOfSpeech,endOfSpeech,SttResult,TranslationLatency,length,TranslatedResult,useless,translation comment
+1713349894393
+,1713349892750,1,710ms,5,1713349892761,1713349894701,Hello,465ms,3,Olá
+,1713349901989,1,656ms,42,1713349901996,1713349906108,My name is Dheeraj I'm calling from India.,289ms,47,Meu nome é Dheeraj que estou chamando da Índia.
+,1713349904148,0,535ms,3,1713349904159,1713349906108,Olá,186ms,2,Hi
+,1713349912946,1,408ms,12,1713349912947,1713349914985,How are you?,10ms,9,Como vai?
+,1713349914950,0,435ms,42,1713349914951,1713349921189,Teu Jefferson aumenta o Brasil tudo bem. ,102ms,43,Your Jefferson increases Brazil all right.
+,1713349930308,1,518ms,45,1713349930310,1713349934722,Today's topic of discussion is digital world.,133ms,46,O tema de discussão de hoje é o mundo digital.
+,1713349931068,0,486ms,50,1713349931085,1713349935753,Não consigo entender a ligação pra baixo o áudio. ,120ms,52,I can't understand the connection down to the audio.
+,1713349943948,0,383ms,2,1713349943949,1713349946026,Ok,50ms,4,Okay
+,1713349952144,1,458ms,51,1713349952145,1713349957066,Can you please tell me which smartphone do you use?,114ms,44,Você pode me dizer qual smartphone você usa?
+,1713349954026,0,410ms,15,1713349954032,1713349956426,Podemos começar,70ms,12,We can start
+,1713349964867,0,451ms,33,1713349964869,1713349968187,É utiliza atualmente o Motorola. ,83ms,27,It currently uses Motorola.
+,1713349976627,1,426ms,11,1713349976628,1713349978984,Which model,50ms,11,Qual modelo
+,1713349985909,0,451ms,16,1713349985911,1713349988361,Puta que pariu. ,84ms,11,Who's left.
+,1713349994910,1,466ms,59,1713349994912,1713350001200,I wanted to ask you. Which model of Motorola are you using?,1713350001666ms,65,Eu queria te perguntar. Qual modelo da Motorola você está usando?
+,1713349995907,0,737ms,31,1713349995917,1713350001432,Qual é o tempo de apresentada? ,104ms,27,What is the time presented?
+,1713350007504,0,842ms,22,1713350007506,1713350014465,Motorola gifrica mel. ,82ms,20,Motorola is a honey.
+,1713350023145,1,505ms,22,1713350023146,1713350025914,How old is your phone?,135ms,32,Quantos anos tem o seu telefone?
+,1713350025071,0,592ms,39,1713350025072,1713350029745,O modelo é um Motorola é de 30 nelmo. ,175ms,42,The model is a Motorola it's 30-year-old.
+,1713350038708,0,576ms,75,1713350038710,1713350047866,Meu telefone tem meu smartphone tem aproximadamente 6 mesmo de utilização. ,151ms,43,My phone has my smartphone is about 6 even.
+,1713350053265,1,415ms,4,1713350053268,1713350055186,Okay,53ms,2,Ok
+,1713350058588,1,557ms,37,1713350058589,1713350063186,Have you ever used any Realme phones?,146ms,35,Você já usou algum telefone Realme?
+,1713350072949,0,550ms,52,1713350072951,1713350080106,Nunca utilizei sempre utilizei Samsung e Motorola. ,195ms,58,I've never used it I've always used Samsung and Motorola.
+,1713350088349,0,1552ms,64,1713350088349,1713350096586,O que dizer guri do hardware eu fui lá e tu atravessou pra cá. ,1141ms,53,What to say hardware I went there and you went here.
+,1713350089230,1,575ms,48,1713350089231,1713350094385,Is there a mobile operator named Vivo in Brazil?,189ms,63,Existe uma operadora de telefonia móvel chamada Vivo no Brasil?
+,1713350110308,0,488ms,26,1713350110309,1713350115278,Existe um número 7 vezes? ,131ms,26,Is there a number 7 times?
+,1713350122350,1,574ms,42,1713350122353,1713350126307,Sorry I did not understand your question.,150ms,35,Desculpe não entendi sua pergunta.
+,1713350135788,0,577ms,54,1713350135789,1713350141026,Existe mais operadora inclusive utiliza ela é vivo. ,163ms,47,There is more operator even uses it is alive.
+,1713350147670,0,455ms,10,1713350147671,1713350150585,Rua Escola,71ms,13,Street School
+,1713350151431,1,654ms,58,1713350151436,1713350157882,How much is the average monthly cost to Avail 5G services?,220ms,62,Quanto é o custo médio mensal para os serviços 5G disponíveis?
+,1713350153430,0,903ms,42,1713350153433,1713350160349,Aline olá. Além da operadora e o frutil. ,203ms,56,Aline hello. In addition to the operator and the fruit.
+,1713350171185,0,535ms,10,1713350171186,1713350173030,Jogos mais,81ms,10,Games More
+,1713350173304,0,535ms,29,1713350173305,1713350176705,Falar um pouco de 30 40 BRL? ,151ms,31,Talk a little bit of 30 40 BRL?
+,1713350184555,1,584ms,46,1713350184556,1713350189348,Which mobile operator are you using currently?,171ms,62,Qual operadora de telefonia móvel você está usando atualmente?
+,1713350200023,0,536ms,46,1713350200024,1713350206279,Ele utilizava qual o rango quer vir viadinho? ,185ms,48,Did he use which rank he wants to come viadinho?
+,1713350213627,1,526ms,51,1713350213629,1713350218228,Sorry once again. I did not understand your answer.,1713350218754ms,48,Desculpe mais uma vez. Não entendi sua resposta.
+,1713350224348,1,444ms,46,1713350224350,1713350228525,Which mobile operator are you using currently?,26ms,62,Qual operadora de telefonia móvel você está usando atualmente?
+,1713350230186,0,491ms,24,1713350230187,1713350233443,Eu tenho utilizado até. ,126ms,24,I've been using it even.
+,1713350238268,1,555ms,33,1713350238269,1713350242424,The mobile operator name is even.,156ms,45,O nome da operadora de telefonia móvel é par.
+,1713350240705,0,472ms,15,1713350240708,1713350243123,Eu pego chuva. ,88ms,11,I get rain.
+,1713350257187,0,534ms,31,1713350257188,1713350261549,O nome do prador é vivo e TIM. ,163ms,35,The Prador's name is alive and TIM.
+,1713350266864,1,331ms,4,1713350266865,1713350268745,Okay,14ms,2,Ok
+,1713350272507,1,557ms,49,1713350272510,1713350277512,Do you like clicking pictures in your smartphone?,169ms,48,Você gosta de clicar em fotos no seu smartphone?
+,1713350288148,0,453ms,9,1713350288150,1713350290392,Gosto sim,78ms,13,I like it yes
+,1713350297068,1,517ms,74,1713350297069,1713350303989,Do you use any filters to click photos or you? Just click photos normally.,1713350304506ms,89,Você usa algum filtro para clicar em fotos ou em você? Basta clicar em fotos normalmente.
+,1713350316386,0,741ms,106,1713350316388,1713350325117,Geralmente não utiliza o filtro para poder tirar as portas não é conferi os recursos naturais da Câmera. ,325ms,116,Generally does not use the filter to be able to take the doors it is not given the natural resources of the Camera.
+,1713350323946,1,599ms,49,1713350323948,1713350328789,I believe you are aware of the many filters that.,183ms,56,Eu acredito que você está ciente dos muitos filtros que.
+,1713350337070,1,406ms,15,1713350337072,1713350339627,Okay understood,93ms,13,Ok entendido
+,1713350346190,1,478ms,102,1713350346193,1713350356630,There is a smartphone recently launched by Samsung. It's called Galaxy S24 ultra. Are you aware of it?,1713350357108ms,102,Há um smartphone lançado recentemente pela Samsung. Chama-se Galaxy S24 ultra. Você está ciente disso?
+,1713350369985,0,519ms,38,1713350369987,1713350374625,O S24 Ultra foi lançado recentemente. ,128ms,36,The S24 Ultra was recently launched.
+,1713350375664,0,513ms,49,1713350375665,1713350379633,Pontualmente atribuído nas lojas aqui no Brasil. ,147ms,45,Punctually assigned in stores here in Brazil.
+,1713350387470,1,542ms,39,1713350387474,1713350391867,Do you have any idea how much it costs?,140ms,38,Você tem alguma ideia de quanto custa?
+,1713350396947,1,585ms,45,1713350396949,1713350401189,I'm just curious to know its price in Brazil.,179ms,54,Estou apenas curioso para saber o seu preço no Brasil.
+,1713350401907,0,508ms,30,1713350401908,1713350405348,Acredito que esse modelo foi. ,126ms,23,I think that model was.
+,1713350411069,0,806ms,152,1713350411070,1713350425067,Acredito que o preço atirem em torno de 6000 BRL 3500 pode ter esse aparelho nesse modelo open então o que é o modelo recente costuma ser mais claro. ,413ms,138,I believe that the price is around 6000 BRL 3500 can have this device in this open model so what is the recent model is usually clearer.
+,1713350445706,1,575ms,53,1713350445708,1713350450906,Do you think this price is too much for a smartphone?,184ms,53,Você acha que esse preço é demais para um smartphone?
+,1713350463909,0,376ms,7,1713350463911,1713350465832,Futebol,46ms,8,Football
+,1713350476550,1,498ms,31,1713350476556,1713350480828,Did not understand your answer.,102ms,25,Não entendi sua resposta.
+,1713350495704,1,574ms,63,1713350495705,1713350501344,How much money are you comfortable in spending for a new phone?,190ms,69,Quanto dinheiro você está confortável em gastar com um novo telefone?
+,1713350495785,0,555ms,48,1713350495786,1713350499746,Não entendi a pergunta pode repetir por favor? ,170ms,55,I don't understand the question can you repeat please?
+,1713350514106,0,485ms,27,1713350514108,1713350518913,Em torno de 2500 no macho. ,114ms,24,Around 2500 in the male.
+,1713350528469,1,537ms,36,1713350528470,1713350532988,Are Realme phones popular in Brazil?,155ms,44,Os telefones Realme são populares no Brasil?
+,1713350542505,0,777ms,117,1713350542506,1713350556426,Eles são bem populares. A média de é dispositivos no Brasil é maior do que a o número de habitação tem geral no pai. ,374ms,126,They are very popular. The average number of devices in Brazil is higher than the number of housing has overall in the father.
+,1713350578104,1,620ms,65,1713350578106,1713350583313,What do you think is the best smartphone available in the market?,189ms,63,Qual você acha que é o melhor smartphone disponível no mercado?
+,1713350583903,1,586ms,38,1713350583904,1713350590224,Galaxy S24 ultra or iPhone 15 Pro Max.,159ms,38,Galaxy S24 ultra ou iPhone 15 Pro Max.
+,1713350601670,0,574ms,49,1713350601672,1713350608108,Acredito que o Galaxy é 24 ou outra seja melhor. ,157ms,48,I think the Galaxy is 24 or something is better.
+,1713350610952,0,455ms,11,1713350610954,1713350613484,Me ofereceu,88ms,10,offered me
+,1713350616306,0,405ms,7,1713350616308,1713350618200,Jogo do,72ms,11,Game of the
+,1713350624585,1,559ms,37,1713350624586,1713350629109,Have you ever used any iPhone before?,134ms,32,Você já usou algum iPhone antes?
+,1713350637831,0,714ms,81,1713350637833,1713350643789,Não nunca utilizei iPhone. Não sempre dizem que os estilos são cinemas por favor,248ms,76,I've never used an iPhone. They don't always say styles are cinemas please.
+,1713350647387,0,611ms,48,1713350647388,1713350652521,Como é seu jogar na coisa muito zoada esqueci? ,178ms,52,How is it to play in the very funny thing I forgot?
+,1713350660632,1,540ms,45,1713350660634,1713350665269,Do you like playing games in the smartphones?,143ms,36,Você gosta de jogar nos smartphones?
+,1713350666985,0,503ms,21,1713350666986,1713350671192,Você gosta de jogar? ,102ms,20,Do you like to play?
+,1713350674467,0,528ms,36,1713350674469,1713350678908,Moça o assunto foi como isso aqui. ,132ms,28,Girl it was like this here.
+,1713350680148,0,510ms,55,1713350680149,1713350685592,O estado vindo geralmente próximo a pesquisa ligações. ,129ms,49,The state usually coming close to research links.
+,1713350698108,1,586ms,58,1713350698109,1713350703905,What is the most popular app that is being used in Brazil?,203ms,64,Qual é o aplicativo mais popular que está sendo usado no Brasil?
+,1713350707347,0,455ms,21,1713350707349,1713350709996,Qual é o aplicativo? ,87ms,24,What is the application?
+,1713350712348,0,380ms,1,1713350712349,1713350714228,É,61ms,4,It's
+,1713350716308,0,729ms,146,1713350716309,1713350730546,O aplicativo mais utilizado no Brasil atualmente é WhatsApp é todos os os serviços. Aliás a maioria dos serviços são feitos pelo pelo WhatsApp. ,313ms,126,The most used application in Brazil today is WhatsApp it is all services. In fact most of the services are made by WhatsApp.
+,1713350746667,0,522ms,45,1713350746669,1713350750146,Inclusive foi um grande número de chamadas. ,143ms,36,It was also a large number of calls.
+,1713350750786,0,514ms,59,1713350750787,1713350756358,De comunicação entre amigos e parentes aqui pelo WhatsApp. ,149ms,61,Communication between friends and relatives here on WhatsApp.
+,1713350762385,1,667ms,42,1713350762386,1713350767585,Do you use video calling also on WhatsApp?,274ms,46,Você usa chamadas de vídeo também no WhatsApp?
+,1713350776869,0,754ms,127,1713350776870,1713350790120,Sim utiliza chamadas de vídeo também mas utilizo com mais frequência chamadas de voz e mensagens de texto mensagem de áudio. ,355ms,81,Yes it uses video calls too but I use voice calls and text messages more often.
+,1713350801583,1,517ms,21,1713350801584,1713350804428,Are you on Instagram?,105ms,23,Você está no Instagram?
+,1713350802786,0,598ms,64,1713350802787,1713350809591,As chamadas de vípcio são utilizadas mais em contexto familiar. ,183ms,48,Voician calls are used more in a family context.
+,1713350812108,0,455ms,33,1713350812110,1713350815242,Quem utiliza o Instagram também? ,108ms,23,Who uses Instagram too?
+,1713350820592,1,517ms,24,1713350820593,1713350823785,Don't you use Instagram?,119ms,25,Você não usa o Instagram?
+,1713350827104,1,573ms,39,1713350827106,1713350831150,I've heard it's very popular in Brazil.,176ms,41,Ouvi dizer que é muito popular no Brasil.
+,1713350830586,0,537ms,50,1713350830587,1713350837431,Quem utiliza o Instagram também para tirar fotos? ,121ms,36,Who uses Instagram to take pictures?
+,1713350838986,0,1119ms,351,1713350839000,1713350868865,Tem o Instagram é muito popular no Brasil também assim como o WhatsApp as pessoas utilizam geralmente para postar fotos. Acompanhar vídeo acompanhar páginas troca de mensagens também é apesar do WhatsApp se um grande e aplicativo para troca de mensagens e o Instagram também utilizado com esse recurso. Mas é mais utilizado para é postagem de fotos.,697ms,292,Instagram is very popular in Brazil too just like WhatsApp people usually use it to post photos. Tracking video and following message exchange pages is also despite WhatsApp's large and application for messaging and Instagram also used with this feature. But it is more used to post photos.
+,1713350892471,1,521ms,24,1713350892473,1713350895587,Yes you are very right.,126ms,26,Sim você tem muita razão.
+,1713350902626,1,525ms,35,1713350902627,1713350906188,Have you ever used any smart watch?,134ms,39,Você já usou algum relógio inteligente?
+,1713350915747,0,663ms,83,1713350915749,1713350923832,Não nunca utilizei mas e conheço que eles têm muitos recursos o tesmo dia a dia. ,285ms,81,No I've never used it but I know they have a lot of resources on a daily basis.
+,1713350933911,1,815ms,114,1713350933912,1713350950547,Yes it tracks your moments your vital's and it tells you about weather precipitation temperature your calories.,358ms,115,Sim ele rastreia seus momentos seus vitais e informa sobre a temperatura da precipitação do tempo suas calorias.
+,1713350961664,1,564ms,41,1713350961665,1713350965865,It also tells you about your sleep cycle.,170ms,42,Ele também fala sobre o seu ciclo de sono.
+,1713350968187,0,472ms,20,1713350968189,1713350971153,21 e outro recurso. ,106ms,22,21 and another appeal.
+,1713350973469,0,525ms,33,1713350973471,1713350976754,Quem tem outros recursos também? ,110ms,32,Who has other resources as well?
+,1713350978626,0,561ms,58,1713350978627,1713350984804,Outros recursos como administro de notificações do hotel. ,146ms,57,Other features such as hotel notifications administrator.
+,1713350990784,1,422ms,3,1713350990786,1713350992745,Yes,63ms,3,Sim
+,1713350993104,1,799ms,156,1713350993105,1713351005472,Smart watch is generally sync to your smartphone. So if you have made any bookings or any upcoming appointments it will let you know through notifications.,1713351006271ms,182,O relógio inteligente geralmente é sincronizado com o seu smartphone. Então se você fez alguma reserva ou quaisquer compromissos futuros ele irá informá-lo através de notificações.
+,1713351021509,1,589ms,38,1713351021512,1713351025429,Okay let me ask you my last question.,163ms,41,Ok deixe-me fazer minha última pergunta.
+,1713351023867,0,531ms,36,1713351023873,1713351029438,Exatamente é muito útil no dia a dia,165ms,43,Exactly it is very useful on a daily basis.
+,1713351035027,1,582ms,47,1713351035029,1713351039990,How much time a day do you use your smartphone?,151ms,45,Quanto tempo por dia você usa seu smartphone?
+,1713351049950,0,840ms,159,1713351049952,1713351066669,Eu utilizo por dia em média um tempo total de cerca de 8 9 horas mas os estudos dizem que a média geral de utilização no Brasil é de cerca de 5 horas e meia. ,443ms,138,I use a total time per day of about 8.9 hours per day but studies say that the overall average use in Brazil is about 5 and a half hours.
+,1713351079868,1,367ms,4,1713351079871,1713351081785,Okay,28ms,2,Ok
+,1713351086351,1,547ms,84,1713351086352,1713351094469,I believe today's time is up for this discussion. It was really nice talking to you.,1713351095016ms,95,Acredito que o tempo de hoje está pronto para essa discussão. Foi muito bom conversar com você.
+,1713351104108,1,559ms,37,1713351104110,1713351108313,Thank you. Have a nice day take care.,1713351108872ms,37,Obrigado. Tenha um bom dia cuide-se.
+,1713351107431,0,580ms,30,1713351107433,1713351112521,Ok muito obrigado. Agradeço. ,164ms,37,Okay thank you very much. Thank you.
+,1713351114467,0,471ms,19,1713351114468,1713351117122,Obrigado bom dia. ,105ms,24,Thank you good morning.

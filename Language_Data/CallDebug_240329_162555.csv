@@ -1,0 +1,141 @@
+﻿Reference,SpeechId,Direction,SttLatency,length,beginOfSpeech,endOfSpeech,SttResult,TranslationLatency,length,TranslatedResult,useless,translation comment
+1711708573764
+,1711708572148,1,414ms,62,1711708572157,1711708578305,Hello Hey my name is Partha. I'm calling from Samsung India.,1711708578719ms,65,Hallo Hey mein Name ist Partha. Ich rufe aus Samsung Indien an.
+,1711708574383,0,674ms,5,1711708574501,1711708576477,Hallo,391ms,5,Hello
+,1711708584147,1,456ms,36,1711708584148,1711708587231,Would you mind to tell me your name?,82ms,34,Würden Sie mir Ihren Namen nennen?
+,1711708589186,0,467ms,39,1711708589187,1711708594242,Hallo Bartha hallo. Ich bin Georgion. ,1711708594709ms,34,Hello Bartha hello. I am Georgion.
+,1711708599987,1,397ms,12,1711708599989,1711708602151,How are you?,62ms,18,Wie geht es Ihnen?
+,1711708605748,0,425ms,34,1711708605749,1711708609510,Mir geht es gut danke und Ihnen. ,86ms,27,I'm fine thank you and you.
+,1711708613831,1,505ms,46,1711708613832,1711708617354,Yeah I am also doing good thank you for asking,101ms,44,Ja ich mache auch gut danke für Ihre Frage
+,1711708621911,1,458ms,56,1711708621913,1711708627545,As you may be aware that today's topic is digital world.,121ms,67,Wie Sie vielleicht wissen ist das heutige Thema die digitale Welt.
+,1711708632466,1,401ms,36,1711708632467,1711708635390,Are you comfortable with this topic?,81ms,38,Fühlen Sie sich mit diesem Thema wohl?
+,1711708634708,0,398ms,25,1711708634709,1711708637685,Ja das habe ich gehört? ,87ms,18,Yes I heard that.
+,1711708642510,0,440ms,55,1711708642513,1711708646667,Ja es wird besser am Anfang war ich nicht so einfach. ,114ms,51,It gets better in the beginning I wasn't that easy.
+,1711708642904,1,370ms,5,1711708642905,1711708644748,Great,41ms,9,Großartig
+,1711708656305,1,446ms,36,1711708656306,1711708660791,It will just be a casual discussion.,91ms,43,Es wird nur eine zwanglose Diskussion sein.
+,1711708665865,1,589ms,103,1711708665866,1711708672308,I'll try to get some information from you and if you want to ask me any question you are free to do so.,210ms,129,Ich werde versuchen einige Informationen von Ihnen zu bekommen und wenn Sie mir eine Frage stellen möchten können Sie dies tun.
+,1711708666870,0,386ms,17,1711708666871,1711708669434,Oh das ist gut. ,75ms,15,Oh that's good.
+,1711708682426,0,372ms,10,1711708682428,1711708684785,Sehr gerne,59ms,16,Very much likes.
+,1711708690068,1,424ms,39,1711708690069,1711708693990,May I know which smartphone do you use?,93ms,50,Kann ich wissen welches Smartphone Sie verwenden?
+,1711708700189,0,399ms,15,1711708700191,1711708704386,Motorola 4 60. ,71ms,14,Motorola 4 60.
+,1711708710510,1,479ms,45,1711708710511,1711708714788,Are Motorola phones still popular in Germany?,110ms,55,Sind Motorola-Handys in Deutschland immer noch beliebt?
+,1711708720668,0,423ms,43,1711708720669,1711708724678,Ja sind Recht beliebt Modus oder Handys. ,94ms,41,Yes quite popular mode or mobile phones.
+,1711708731427,1,470ms,68,1711708731428,1711708740367,In India the Motorola phones were popular before 7 or 8 years back.,144ms,64,In Indien waren die Motorola-Handys vor 7 oder 8 Jahren beliebt.
+,1711708747467,1,433ms,34,1711708747468,1711708752704,Now everybody is a fan of iphones.,92ms,36,Jetzt ist jeder ein Fan von iPhones.
+,1711708748828,0,405ms,22,1711708748830,1711708751509,Und jetzt nicht mehr. ,72ms,16,And now no more.
+,1711708760030,0,453ms,39,1711708760031,1711708763905,Ja ich. Habe mich an Android Gewöhnt? ,1711708764358ms,30,Yes me. I got used to Android.
+,1711708772785,1,451ms,48,1711708772786,1711708777110,How much money have you paid for the smartphone?,99ms,51,Wie viel Geld haben Sie für das Smartphone bezahlt?
+,1711708782633,0,368ms,10,1711708782635,1711708786109,200 Euro. ,44ms,10,200 euros.
+,1711708791665,1,433ms,43,1711708791666,1711708795630,Have you ever used any Nokia feature phone?,107ms,53,Haben Sie jemals ein Nokia-Feature-Telefon verwendet?
+,1711708801269,0,449ms,63,1711708801270,1711708808629,Nein ich hatte früher Nokia aber das war kein Nokia Feature. ,127ms,58,No I used to have Nokia but this was not a Nokia feature.
+,1711708819466,1,473ms,39,1711708819467,1711708824188,Her Nokia phones still sold in Germany.,105ms,60,Ihre Nokia-Handys wurden immer noch in Deutschland verkauft.
+,1711708829507,1,453ms,35,1711708829508,1711708834266,Nokia phones still sold in Germany.,97ms,55,Nokia-Handys werden immer noch in Deutschland verkauft.
+,1711708831351,0,386ms,43,1711708831371,1711708835567,Ja ich glaube schon dass es noch Nokia gibt,86ms,33,Yes I think there is still Nokia
+,1711708841143,1,366ms,4,1711708841145,1711708842991,Okay,45ms,5,Okay
+,1711708846230,1,491ms,62,1711708846232,1711708851469,What is the costcotist smartphone that you had ever purchased?,129ms,64,Was ist das Costcotist-Smartphone das Sie jemals gekauft haben?
+,1711708853346,1,338ms,9,1711708853356,1711708855749,Costcoist,45ms,14,Kostenkosmetik
+,1711708856628,1,332ms,9,1711708856629,1711708859067,Costcoist,13ms,14,Kostenkosmetik
+,1711708860349,0,544ms,28,1711708860365,1711708862630,Das habe ich nicht deshalb? ,80ms,22,That's not why I have.
+,1711708862872,0,405ms,30,1711708862873,1711708866678,Nicht verstanden kostenlosig. ,72ms,24,Not understood for free.
+,1711708871271,1,451ms,57,1711708871273,1711708876507,What is the costliest smartphone you have ever purchased?,121ms,62,Was ist das teuerste Smartphone das Sie jemals gekauft haben?
+,1711708883345,0,336ms,10,1711708883346,1711708886836,200 Euro. ,20ms,10,200 euros.
+,1711708890384,1,343ms,4,1711708890385,1711708892067,Okay,10ms,5,Okay
+,1711708893070,1,440ms,28,1711708893071,1711708896122,Do you like to click photos?,106ms,28,Klicken Sie gerne auf Fotos?
+,1711708901148,0,417ms,26,1711708901149,1711708904589,Ja ich klicke auf Fotos. ,92ms,23,Yes I click on photos.
+,1711708908988,1,454ms,78,1711708908989,1711708917107,Do you use a proper digital camera? Are you click photos from your smartphone?,1711708917561ms,86,Verwenden Sie eine richtige Digitalkamera? Klicken Sie auf Fotos von Ihrem Smartphone?
+,1711708924631,0,409ms,37,1711708924632,1711708928956,Ich klicke auf Fotos vom Smartphone. ,78ms,37,I click on photos from my smartphone.
+,1711708935548,1,442ms,39,1711708935550,1711708940367,Is there a portrait mode in your phone?,92ms,44,Gibt es einen Porträtmodus in Ihrem Telefon?
+,1711708946831,0,443ms,50,1711708946832,1711708951306,Weiß ich nicht ich benutze den eigentlich nicht. ,107ms,37,I don't know I don't actually use it.
+,1711708955910,1,354ms,4,1711708955911,1711708957745,Okay,20ms,5,Okay
+,1711708964267,1,539ms,89,1711708964269,1711708974345,Which phone brand do you think people in Germany mostly use Apple or Samsung or Motorola.,165ms,124,Welche Telefonmarke verwenden Ihrer Meinung nach die Menschen in Deutschland hauptsächlich Apple oder Samsung oder Motorola?
+,1711708984870,0,411ms,35,1711708984870,1711708988467,Ich könnte mir vorstellen Samsung? ,68ms,24,I could imagine Samsung.
+,1711708994547,1,408ms,4,1711708994549,1711708996668,Nice,46ms,6,Nizza
+,1711709000147,1,449ms,81,1711709000149,1711709007870,There is a smartphone recently launched by Samsung. It's called Galaxy S24 ultra.,1711709008319ms,106,Es gibt ein Smartphone das kürzlich von Samsung auf den Markt gebracht wurde. Das Galaxy S24 ultra heißt.
+,1711709003028,0,351ms,6,1711709003028,1711709004996,Niklas,50ms,7,Niklas.
+,1711709009946,1,435ms,20,1711709009948,1711709012625,Are you aware of it?,64ms,29,Sind Sie sich dessen bewusst?
+,1711709019633,0,418ms,41,1711709019634,1711709023362,Nein davon habe ich noch nicht gehört? ,106ms,32,No I haven't heard of that yet.
+,1711709032267,1,413ms,53,1711709032269,1711709037108,Have you ever used any smartphone Samsung smartphone?,93ms,61,Haben Sie jemals ein Smartphone Samsung Smartphone verwendet?
+,1711709045146,0,428ms,41,1711709045148,1711709048349,Das kann ich gar nicht richtig erinnern? ,79ms,31,I can't remember that properly.
+,1711709060543,1,400ms,27,1711709060544,1711709063750,Do you use any smart watch?,69ms,30,Verwenden Sie eine Smartwatch?
+,1711709068669,0,435ms,33,1711709068670,1711709071828,Nein ich habe keine Smartwatch? ,92ms,30,No I don't have a smartwatch.
+,1711709081790,1,456ms,40,1711709081792,1711709085189,Do you like playing games in your phone?,88ms,41,Spielen Sie gerne Spiele auf Ihrem Handy?
+,1711709087429,1,432ms,56,1711709087430,1711709093271,I've heard people in Germany love to plan. Okay man go.,1711709093703ms,86,Ich habe gehört dass die Menschen in Deutschland gerne planen. Okay Mann gehen Sie.
+,1711709090550,0,454ms,42,1711709090553,1711709094920,NA ein bisschen Spiegel ich optimide ja. ,138ms,34,NA a bit of mirror I optimide yes.
+,1711709100028,1,419ms,56,1711709100030,1711709105035,I have heard people in Germany love to play. Pokémon GO.,1711709105454ms,76,Ich habe gehört dass die Menschen in Deutschland gerne spielen. Pokémon GO.
+,1711709102308,0,403ms,21,1711709102309,1711709104952,Ich spiele Manchmal. ,69ms,17,I play sometimes.
+,1711709108907,0,414ms,50,1711709108910,1711709113633,Ja es wird es wird viel gespielt in Deutschland. ,107ms,39,Yes there is a lot of play in Germany.
+,1711709124346,1,431ms,37,1711709124356,1711709127985,In which city of Germany do you stay?,83ms,42,In welcher Stadt Deutschlands bleiben Sie?
+,1711709133790,0,425ms,21,1711709133791,1711709136385,Ich bin in Bayreuth. ,99ms,16,I'm in Bayreuth.
+,1711709140110,1,453ms,31,1711709140112,1711709143547,How far will it be from Berlin?,90ms,42,Wie weit wird es von Berlin entfernt sein?
+,1711709149268,0,401ms,17,1711709149270,1711709152950,Das sind 400 km. ,72ms,14,That's 400 km.
+,1711709159351,1,478ms,32,1711709159380,1711709162907,It's quite far from Berlin then.,92ms,48,Damals ist es ziemlich weit von Berlin entfernt.
+,1711709170027,1,436ms,44,1711709170029,1711709174629,Which app do you use the most in your phone?,95ms,53,Welche App verwenden Sie am meisten in Ihrem Telefon?
+,1711709171469,0,399ms,31,1711709171480,1711709174285,Das habe ich nicht verstanden? ,73ms,25,I didn't understand that.
+,1711709180746,0,458ms,70,1711709180747,1711709185913,Ich glaube die meisten ist WhatsApp weil ich das jeden Tag benutze. ,120ms,58,I think most of it is WhatsApp because I use it every day.
+,1711709191991,1,616ms,82,1711709191993,1711709198865,There is a new feature in WhatsApp by means of which you can pay money to someone.,236ms,83,Es gibt eine neue Funktion in WhatsApp mit der Sie Geld an jemanden zahlen können.
+,1711709204426,1,385ms,85,1711709204427,1711709212788,Do you use any other app for money transaction or use? Can you use WhatsApp for this?,1711709213173ms,98,Verwenden Sie eine andere App für Geldtransaktion oder -nutzung? Können Sie dafür WhatsApp nutzen?
+,1711709207791,0,460ms,23,1711709207792,1711709210364,Das brauche ich nicht. ,128ms,18,I don't need that.
+,1711709221189,0,486ms,47,1711709221191,1711709225872,Nein ich transfer ihre Gehälme über die Bank. ,113ms,47,No I transfer their salaries through the bank.
+,1711709231304,1,362ms,4,1711709231306,1711709233266,Okay,26ms,5,Okay
+,1711709241948,1,437ms,42,1711709241950,1711709246788,Which app do you prefer for video calling?,104ms,42,Welche App bevorzugen Sie für Videoanrufe?
+,1711709255588,0,401ms,37,1711709255589,1711709259506,Videoanrufe tätige ich mit WhatsApp. ,78ms,33,I made video calls with WhatsApp.
+,1711709265469,1,475ms,44,1711709265470,1711709270106,Are you there on any social media platforms?,101ms,41,Gibt es Sie auf Social-Media-Plattformen?
+,1711709271704,1,451ms,37,1711709271705,1711709276108,Like Snapchat Facebook or Instagram.,87ms,44,Liken Sie Snapchat Facebook oder Instagram.
+,1711709281949,0,391ms,23,1711709281950,1711709285347,Ich habe nur Facebook? ,60ms,21,I only have Facebook.
+,1711709298268,1,498ms,61,1711709298271,1711709302949,Would you like to upload your photos or memories on Facebook?,114ms,64,Möchten Sie Ihre Fotos oder Erinnerungen auf Facebook hochladen?
+,1711709310829,0,416ms,45,1711709310830,1711709315115,Ab und zu Lade ich fotos auf Facebook hoch. ,102ms,46,From time to time I upload photos to Facebook.
+,1711709326190,1,409ms,31,1711709326192,1711709329871,Who do you stay within Germany?,80ms,31,Wen bleiben Sie in Deutschland?
+,1711709331786,1,433ms,40,1711709331795,1711709336027,Your family or your partner or siblings.,92ms,52,Ihre Familie oder Ihr Partner oder Ihre Geschwister.
+,1711709337389,0,403ms,21,1711709337390,1711709339960,Noch einmal gebucht. ,71ms,13,Booked again.
+,1711709343267,0,403ms,41,1711709343268,1711709346465,Ich habe die Geschwister in Deutschland? ,79ms,31,I have the siblings in Germany.
+,1711709353065,1,405ms,31,1711709353066,1711709355989,Do you stay with your siblings?,80ms,35,Bleiben Sie bei Ihren Geschwistern?
+,1711709363907,0,411ms,40,1711709363909,1711709367236,Ja ich bleibe bei meinen Geschwistern. ,94ms,34,Yes I'm staying with my siblings.
+,1711709374268,1,462ms,32,1711709374269,1711709378188,What brand of phone do they use?,85ms,39,Welche Marke von Telefon verwenden sie?
+,1711709383671,0,467ms,26,1711709383672,1711709386584,Ich habe einen Motorolam? ,81ms,19,I have a motorolam.
+,1711709390391,1,404ms,18,1711709390392,1711709392831,And your siblings.,61ms,21,Und Ihre Geschwister.
+,1711709399590,0,448ms,62,1711709399591,1711709404711,Ich weiss nicht welches Telefon meine Geschwister versenden. ,109ms,49,I don't know which phone my siblings are sending.
+,1711709410673,1,367ms,4,1711709410674,1711709412545,Okay,16ms,5,Okay
+,1711709421907,1,463ms,36,1711709421908,1711709425030,May I know what you do for a living?,113ms,55,Darf ich wissen was Sie für Ihren Lebensunterhalt tun?
+,1711709431789,0,356ms,11,1711709431790,1711709434387,Ich arbeite,49ms,7,I work.
+,1711709440513,1,462ms,51,1711709440516,1711709445948,How many hours in a day do you spend on your phone?,120ms,64,Wie viele Stunden an einem Tag verbringen Sie auf Ihrem Telefon?
+,1711709453066,0,363ms,16,1711709453068,1711709457350,2 Stunden etwa. ,60ms,14,2 hours about.
+,1711709462029,1,500ms,51,1711709462030,1711709466230,Then I must say you are not addicted to your phone.,138ms,68,Dann muss ich sagen dass Sie nicht süchtig nach Ihrem Telefon sind.
+,1711709467947,1,395ms,10,1711709467947,1711709470148,It's great,56ms,16,Es ist großartig
+,1711709475306,0,425ms,40,1711709475308,1711709479191,Ja ein bisschen süchtig bin ich schon. ,83ms,19,I'm a bit addicted.
+,1711709483186,1,442ms,24,1711709483187,1711709485748,For 2 hours is too less.,80ms,29,Für 2 Stunden ist zu weniger.
+,1711709491027,0,417ms,22,1711709491029,1711709494518,Da bin ich aber froh. ,68ms,14,But I am glad.
+,1711709498425,1,382ms,3,1711709498426,1711709500229,Yes,47ms,7,Ja Sie
+,1711709503309,1,521ms,56,1711709503310,1711709508389,Do you like edit taking pictures with different filters?,122ms,54,Bearbeiten Sie gerne Bilder mit verschiedenen Filtern?
+,1711709507108,0,371ms,16,1711709507109,1711709509471,Bitte noch mal. ,54ms,13,Please again.
+,1711709514826,0,408ms,44,1711709514826,1711709519030,Nein ich bearbeite Bilde das sehr selten. ,91ms,23,No I rarely edit this.
+,1711709529148,1,509ms,92,1711709529150,1711709538147,If ever you are going to buy a new phone? May I know what brand of phone if you want to buy?,1711709538656ms,115,Wenn Sie jemals ein neues Telefon kaufen werden? Kann ich wissen welche Marke von Telefon wenn Sie kaufen wollen?
+,1711709547232,0,470ms,39,1711709547233,1711709550666,Ich glaube ich kaufe wieder Motorola. ,114ms,32,I think I'll buy Motorola again.
+,1711709556109,1,337ms,4,1711709556110,1711709558066,Nice,14ms,6,Nizza
+,1711709561549,1,403ms,24,1711709561550,1711709564796,Do you not like iphones?,76ms,24,Mögen Sie keine iPhones?
+,1711709564147,0,393ms,9,1711709564148,1711709566596,In Vietra,94ms,10,In Vietra.
+,1711709570348,0,480ms,57,1711709570362,1711709575189,Nein das kenne ich nicht dass das war keine Einführung. ,134ms,51,No I don't know that this was not an introduction.
+,1711709592310,1,487ms,45,1711709592314,1711709596425,Are Google Pixel phones available in Germany?,114ms,50,Sind Google Pixel-Handys in Deutschland verfügbar?
+,1711709603109,0,414ms,20,1711709603110,1711709605430,Das weiß ich nicht. ,69ms,13,I don't know.
+,1711709610268,1,507ms,71,1711709610269,1711709616987,How how did you purchase your phone from retail shop or through online?,129ms,62,Wie haben Sie Ihr Telefon im Einzelhandel oder online gekauft?
+,1711709625590,0,427ms,37,1711709625592,1711709628945,Ich habe es im Einzelhandel gekauft? ,86ms,22,I bought it at retail.
+,1711709635067,1,487ms,38,1711709635069,1711709639630,Is there a shop called hookah he shop?,117ms,42,Gibt es einen Laden namens Shisha He Shop?
+,1711709645388,0,351ms,31,1711709645390,1711709647747,Das habe ich nicht verstanden? ,10ms,25,I didn't understand that.
+,1711709653147,1,478ms,56,1711709653148,1711709659269,Is there any retail shop called as go to flagship store?,143ms,61,Gibt es einen Einzelhandelsladen namens Go to Flagship Store?
+,1711709661148,1,466ms,18,1711709661149,1711709665072,02 flagship store.,92ms,18,02 Flagship-Store.
+,1711709666786,0,454ms,21,1711709666787,1711709669231,Ich kenne ihn nicht. ,88ms,17,I don't know him.
+,1711709669787,0,435ms,21,1711709669788,1711709672150,Ich kenne das nicht. ,87ms,18,I don't know that.
+,1711709676228,1,544ms,61,1711709676230,1711709681145,Okay these retail shops are quite famous in Berlin I think.,192ms,78,Okay diese Einzelhandelsgeschäfte sind in Berlin ziemlich berühmt denke ich.
+,1711709689270,1,460ms,28,1711709689273,1711709693186,Have you ever used demo app?,134ms,46,Haben Sie schon einmal die Demo-App verwendet?
+,1711709689709,0,454ms,20,1711709689711,1711709692269,Das mag schon sein. ,86ms,12,That may be.
+,1711709696467,1,421ms,6,1711709696468,1711709699070,P EMU.,81ms,6,P EMU.
+,1711709699748,0,471ms,27,1711709699749,1711709702476,Nein die kenne ich nicht. ,120ms,22,No I don't know them.
+,1711709701906,1,436ms,4,1711709701914,1711709703869,EMU.,64ms,4,Emu.
+,1711709704507,0,495ms,31,1711709704510,1711709709642,Atmo Demo Timo habe ich ja? ,146ms,22,I have Atmo Demo Timo.
+,1711709718946,1,568ms,44,1711709718948,1711709723988,Okay thank you. I think today's time is up.,1711709724556ms,56,Okay danke. Ich denke die heutige Zeit ist abgelaufen.
+,1711709724348,1,541ms,33,1711709724349,1711709727232,It is really nice talking to you.,155ms,45,Es ist wirklich schön mit Ihnen zu sprechen.
+,1711709729708,0,439ms,9,1711709729709,1711709732031,Oh Schade,104ms,11,Oh a pity!
+,1711709732667,1,365ms,9,1711709732668,1711709734508,Take care,16ms,10,Mach's gut
+,1711709733986,0,488ms,28,1711709733987,1711709736714,Danke ich freue mich auch. ,121ms,26,Thank you I am also happy.
+,1711709739190,0,456ms,21,1711709739192,1711709742349,so auch alles gute. ,99ms,21,So also all the good.
+,1711709740067,1,493ms,21,1711709740068,1711709742828,Bye have a good day.,151ms,35,Tschüss haben Sie einen guten Tag.
+,1711709747827,0,439ms,15,1711709747828,1711709750430,Danke ebenfalls,96ms,14,Thank you too!

@@ -1,0 +1,106 @@
+﻿Reference,SpeechId,Direction,SttLatency,length,beginOfSpeech,endOfSpeech,SttResult,TranslationLatency,length,TranslatedResult,useless,translation comment
+1711981874756
+,1711981873080,1,703ms,5,1711981873085,1711981875001,Hello,516ms,4,Hola
+,1711981875320,0,619ms,16,1711981875321,1711981877762,Según los días. ,233ms,22,According to the days.
+,1711981875679,1,655ms,16,1711981875686,1711981877880,Can you hear me?,349ms,14,¿Puedes oírme?
+,1711981883566,1,448ms,46,1711981883568,1711981887965,Hi my name is sai and I'm calling from India.,136ms,48,hola me llamo sai y estoy llamando de la india.
+,1711981884483,0,402ms,11,1711981884507,1711981887566,Sí perfecto,52ms,11,Yes Perfect
+,1711981890568,1,438ms,29,1711981890569,1711981893400,May I know your name please?,107ms,39,¿puedo saber cómo te llamas por favor?
+,1711981898805,0,528ms,32,1711981898806,1711981902658,Hola yo me llamo farras entregas,108ms,34,Hello I'm called farras deliveries
+,1711981912282,1,496ms,16,1711981912285,1711981914967,Hi how are you?,109ms,18,Hola ¿cómo estás?
+,1711981914201,0,391ms,4,1711981914202,1711981916405,Hola,24ms,5,Hello
+,1711981920004,0,525ms,24,1711981920006,1711981923281,Estoy muy bien gracia. ,120ms,16,I'm fine grace.
+,1711981931202,1,628ms,79,1711981931204,1711981938444,You must be aware that today's topic is a digital world end use of smartphones.,258ms,101,Debes ser consciente de que el tema de hoy es un mundo digital para el uso de teléfonos inteligentes.
+,1711981942002,1,472ms,28,1711981942003,1711981944724,Are you comfortable with it?,111ms,27,¿Te sientes cómodo con eso?
+,1711981950843,0,621ms,41,1711981950844,1711981954090,Si bien la verdad me siento muy cómoda. ,171ms,44,While the truth is I feel very comfortable.
+,1711981959962,1,467ms,16,1711981959963,1711981962604,This is so nice.,94ms,22,Esto es tan agradable.
+,1711981968081,1,474ms,153,1711981968082,1711981980246,It will just be like a casual discussion between both of us. If you want to ask me anything you can ask if I'll have to ask you anything. I'll just ask.,1711981980720ms,147,Será como una discusión casual entre los dos. Si quieres preguntarme algo puedes preguntarte si tendré que preguntarte algo. Sólo voy a preguntar.
+,1711981981600,0,420ms,2,1711981981601,1711981984013,Ok,88ms,3,OK.
+,1711981987561,1,571ms,46,1711981987562,1711981991521,A may know which smartphone are you using now?,156ms,61,A puede saber qué teléfono inteligente está utilizando ahora?
+,1711981997164,0,474ms,10,1711981997166,1711982000969,Uua iPhone,92ms,9,Ua iPhone
+,1711982005527,1,510ms,23,1711982005528,1711982009162,May I know which model?,107ms,24,¿Puedo saber qué modelo?
+,1711982009243,0,488ms,14,1711982009244,1711982012493,Un iPhone 11. ,89ms,13,An iPhone 11.
+,1711982013520,0,405ms,2,1711982013528,1711982015728,11,23ms,2,11
+,1711982019642,1,583ms,58,1711982019644,1711982025563,And what will be the approxprise of your phone in dollars?,196ms,55,¿Y cuál será la aproximación de su teléfono en dólares?
+,1711982032122,1,415ms,17,1711982032124,1711982034443,Approximate price,79ms,17,Precio aproximado
+,1711982033603,0,606ms,57,1711982033604,1711982044606,Me creo que aproximados ¿Aproximadamente debe estar eh? ,172ms,39,I think approximates should it be huh?
+,1711982045401,0,480ms,24,1711982045402,1711982049465,Los 2000 libros exacto. ,89ms,21,The exact 2000 books.
+,1711982059280,1,535ms,24,1711982059282,1711982062525,A bit costlier I think.,128ms,26,Un poco más costoso creo.
+,1711982065684,1,506ms,24,1711982065695,1711982068488,But it must be worth it.,122ms,24,Pero debe valer la pena.
+,1711982068163,0,682ms,46,1711982068164,1711982072603,Sí puede ser. Puede ser la verdad no estoy. ,214ms,45,Yes it can be. It may be the truth I'm not.
+,1711982081321,1,527ms,33,1711982081323,1711982085083,Have you ever used a smart watch?,127ms,43,¿Alguna vez has usado un reloj inteligente?
+,1711982091158,0,511ms,28,1711982091160,1711982094482,Un renglón inteligente no? ,112ms,20,A smart line right?
+,1711982095054,0,558ms,16,1711982095055,1711982097650,No lo he usado. ,108ms,18,I haven't used it.
+,1711982103763,1,408ms,4,1711982103765,1711982105519,Okay,66ms,9,Está bien
+,1711982107004,1,570ms,36,1711982107005,1711982110562,May I know what you do for a living?,165ms,47,¿Puedo saber lo que haces para ganarte la vida?
+,1711982117684,0,1323ms,329,1711982117686,1711982147446,Hago varias actividades al mismo tiempo me gusta el emprendimiento del trabajo remoto. Tengo un nuevo ciclo de donde le coronesa de dulces 30 de postres para eventos sociales había puesto en el trabajo remoto a los cuales a grupos nadie puede ser realista en esta película virtual. O otro tipo de actividad me gusta la realiza.,889ms,303,I do several activities at the same time I like the entrepreneurship of remote work. I have a new cycle where the heart of sweets 30 of desserts for social events had put in the remote work to which groups no one can be realistic in this virtual movie. Or another kind of activity I like the performs.
+,1711982172208,1,560ms,43,1711982172211,1711982176844,Oh my God you are into so much activities.,153ms,42,Oh Dios mío estás en tantas actividades.
+,1711982179525,1,517ms,35,1711982179526,1711982183523,You must be a powerhouse of energy.,141ms,32,Debes ser una fuente de energía.
+,1711982185402,0,568ms,24,1711982185414,1711982187965,Sí le pego mucho años. ,150ms,35,Yeah I hit him for a lot of years.
+,1711982190482,0,568ms,16,1711982190486,1711982193013,Sí es un buen. ,133ms,22,Yeah it's a good one.
+,1711982195520,0,568ms,23,1711982195522,1711982198200,Me gusta estar activa. ,105ms,20,I like to be active.
+,1711982207045,1,524ms,43,1711982207047,1711982211843,Do you exercise daily to keep yourself fit?,150ms,51,¿Haces ejercicio a diario para mantenerte en forma?
+,1711982215962,1,540ms,39,1711982215964,1711982220259,Or your work is enough to keep you fit.,158ms,52,O tu trabajo es suficiente para mantenerte en forma.
+,1711982218682,0,598ms,43,1711982218682,1711982224774,¿Y qué trata de hacerlo? La verdad es que. ,182ms,49,And what is trying to do that? The truth is that.
+,1711982226884,0,1874ms,261,1711982226886,1711982250857,No no brota de hacerlo y ciertamente pues empezó inicias aquí porque no me gusta muchos ejercicios sin embargo entiendo lo importante es estar en mi salud y trato de incorporar una rutina mucho av pero que me permita acero en cierto tipo de ejercicio que.,894ms,282,No it doesn't come from doing it and certainly because you started here because I don't like many exercises however I understand the important thing is to be in my health and I try to incorporate a lot of av routine but that allows me steel in a certain type of exercise that.
+,1711982251402,0,628ms,43,1711982251404,1711982255769,Si me va a ayudar mucho la salud frittero. ,212ms,49,If it's going to help me a lot with fried health.
+,1711982284801,1,575ms,47,1711982284802,1711982289445,It's glad to know that you're health-conscious.,168ms,51,Es un placer saber que eres consciente de la salud.
+,1711982294960,1,528ms,24,1711982294961,1711982297924,So how do you pass time?,126ms,34,Entonces ¿cómo se pasa el tiempo?
+,1711982299925,0,425ms,7,1711982299926,1711982302260,Gracias,24ms,9,Thank you
+,1711982316204,1,557ms,52,1711982316206,1711982321884,Usually how much time do you spend on phone birthday,150ms,58,Generalmente cuánto tiempo pasas en el teléfono cumpleaños
+,1711982323442,1,578ms,51,1711982323444,1711982329642,Usually how much time do you spend on phone per day,172ms,58,Por lo general cuánto tiempo pasas en el teléfono por día
+,1711982329201,0,524ms,27,1711982329202,1711982334082,En el teléfono cumpleaños. ,108ms,22,On the birthday phone.
+,1711982336840,0,843ms,108,1711982336841,1711982348163,Es bueno pero las estadísticas en el mar del mismo iPhone aproximadamente el redondo 5 6 horas diarias. ,334ms,91,It's good but the statistics at sea of the same iPhone about the round 5 6 hours a day.
+,1711982360604,1,548ms,43,1711982360607,1711982364642,Do you like to take pictures in your phone?,161ms,37,¿Te gusta tomar fotos en tu teléfono?
+,1711982370440,0,913ms,107,1711982370466,1711982379763,Sí le gusta. Si no me gusta mi trabajo también exige que tomes fotos entonces bueno en el tiempo nada. ,449ms,109,Yes he likes it. If I don't like my job it also demands that you take pictures then well in time nothing.
+,1711982379961,0,518ms,26,1711982379962,1711982383884,¿Y la cámara en primaria? ,116ms,26,And the camera in primary?
+,1711982393680,1,541ms,36,1711982393682,1711982397407,Do you take photos in portrait mode?,129ms,29,¿Tomas fotos en modo retrato?
+,1711982404043,0,739ms,56,1711982404044,1711982409282,Muy poco. La verdad es que hee esta labor es muy poco. ,257ms,61,Very little. The truth is that hee this work is very little.
+,1711982418686,1,597ms,46,1711982418687,1711982422843,Are you a fan of clicking photos with filters?,171ms,45,¿Eres fan de hacer clic en fotos con filtros?
+,1711982428847,1,525ms,39,1711982428848,1711982432570,I believe that iPhone has many filters.,140ms,40,Creo que el iPhone tiene muchos filtros.
+,1711982430761,0,588ms,27,1711982430771,1711982436570,Yo no me prefiero para mí. ,137ms,33,I don't prefer myself for myself.
+,1711982438011,0,582ms,37,1711982438012,1711982441335,Si quieren si quieren mucho tiempo. ,164ms,39,If you want if you want a lot of time.
+,1711982448685,1,517ms,21,1711982448687,1711982451289,Are you on Instagram?,99ms,20,¿Estás en Instagram?
+,1711982456203,0,645ms,50,1711982456205,1711982460449,Sí bien. Me gusta mucho esta placa ¿de acuerdo? ,194ms,44,Yeah okay. I really like this plaque okay?
+,1711982461684,0,544ms,29,1711982461685,1711982465164,No habitual un país bonita. ,126ms,31,Not usual a beautiful country.
+,1711982470686,1,567ms,40,1711982470688,1711982474922,I wanted to know if you're on Instagram.,142ms,35,Quería saber si estás en Instagram.
+,1711982475883,1,545ms,45,1711982475884,1711982479842,I mean do you have any account on Instagram?,171ms,49,Quiero decir ¿tienes alguna cuenta en Instagram?
+,1711982480206,0,573ms,27,1711982480207,1711982483528,Sí que se podía Instagram. ,123ms,25,Yes you could Instagram.
+,1711982494440,1,505ms,39,1711982494442,1711982498242,How do you pass your time on Instagram?,130ms,35,¿Cómo pasas tu tiempo en Instagram?
+,1711982500162,0,496ms,20,1711982500164,1711982502843,Estoy en Instagram. ,92ms,17,I'm on Instagram.
+,1711982500404,1,492ms,62,1711982500410,1711982506921,Do you like to watch rails? Or you like to upload your photos?,1711982507413ms,50,¿Te gusta ver rieles? ¿O te gusta subir tus fotos?
+,1711982508323,0,593ms,43,1711982508324,1711982511643,Si alguien me está menciona es increíble. ,155ms,41,If anyone is mentioning me it's amazing.
+,1711982508961,1,521ms,27,1711982508968,1711982512119,Do you like to watch reels?,125ms,23,¿Te gusta ver carretes?
+,1711982519283,0,1045ms,150,1711982519285,1711982532082,Sí me gusta ver Ries y me gusta hacer fotos historia y muy activa en forma porque me gusta ir de una plataforma muy gris. Algo me ayude mi trabajo. ,512ms,155,Yeah I like to see Ries and I like to take pictures story and very active fit because I like to go from a very grey platform. Something helps me my work.
+,1711982547880,1,554ms,38,1711982547882,1711982552280,Do you promote your work on Instagram?,147ms,35,¿Promueves tu trabajo en Instagram?
+,1711982563442,0,1538ms,270,1711982563469,1711982583241,Sí promueve mi trabajo no sé si escuché bien esta última pregunta porque se cortó un poco educación y trabajó lo lo ubicó mucho por Instagram porque es visual para que la gente vea las ventas ya reporadas de los elementos que ellos tienen ni hizo mucho la plataforma.,842ms,283,Yes it promotes my work I don't know if I heard this last question well because it was cut a little education and worked it located it a lot on Instagram because it is visual for people to see the already reported sales of the elements that they have nor did much of the platform.
+,1711982608603,1,528ms,77,1711982608605,1711982617682,Have you done any kind? Of course are digital marketing certification online?,1711982618210ms,88,¿Has hecho algún tipo? ¿Por supuesto son la certificación de marketing digital en línea?
+,1711982625640,0,4220ms,1232,1711982625642,1711982715047,Sí de hecho me gusta mucho el martes milicianos considere que estima experimentar muy valiosa los actuales James donde todos debemos tiene conocimiento todo emprendedor debe tener conocimiento del parque visibilitar para poder llevar eh es un evolución más allá y a mi mejor actualmente me gusta mucho he hecho vale? Terminada en años cursos me gusta mucho estar empapada de esta información arrestará a la a la parra a la vanguardia la utilizó en el en los emprendimientos y también me gusta apoyar a mucha gente si hay emprendimientos sobre todo aquellas personas nacieron antes de la era militar. Sí pues bueno muchas veces le tienen miedo con la tecnología tienen cierto rechazo a la señora sus días ya se me gusta apoyarlo muchísimo para que entiendan que buenamente La La la interacción que tenemos con el mundo virtual no solamente importantes con lo que puede ser llevada fácilmente increíble burro. Por cualquier persona casi se lo proponga y los apoyos muchos han hecho sentido dotes tipos que lo tuvieron por el martes principal además que es una revolución sexual y los apoyos nos ayudan a muchísimos 100 pues viene a quedarse va a ser la forma con él o vamos a interactuar a ra. En el mundo,3414ms,1189,Yes in fact I like the militiamen very much on Tuesday consider that he considers to experience the current James very valuable where we should all have knowledge every entrepreneur must have knowledge of the park visible to be able to take eh it is an evolution beyond and at my best I currently like a lot I have done okay? After years of school I really like being soaked with this information will arrest the vine the avant-garde used it in the entrepreneurship and I also like to support many people if there are entrepreneurships especially those people were born before the military era. Yes well many times they are afraid of technology they have a certain rejection of the lady her days I like to support her a lot so that they understand that well La La the interaction we have with the virtual world not only important with what can be easily carried amazing donkey. For anyone almost propose it and the supports many have made sense of gifts types that had it for the main Tuesday besides that it is a sexual revolution and the supports help us to many 100 because it comes to stay it will be the way with it or we will interact with it. In the world.
+,1711982805083,1,402ms,47,1711982805085,1711982810039,How many? Who won employee? Have you given job?,1711982810441ms,50,¿Cuántos? ¿Quién ganó empleado? ¿Has dado trabajo?
+,1711982813327,1,454ms,43,1711982813329,1711982817763,How many women employee have you given job?,77ms,36,¿Cuántas empleadas has dado trabajo?
+,1711982818360,0,484ms,25,1711982818361,1711982821413,No te entendía pregunta. ,89ms,33,I didn't understand you question.
+,1711982826724,0,537ms,55,1711982826725,1711982834607,Eh aproximadamente entra en los últimos meses como A. ,125ms,38,Eh it's about a last few months as A.
+,1711982835001,0,450ms,15,1711982835002,1711982837723,5 6 personas. ,51ms,12,5 6 people.
+,1711982841403,1,378ms,20,1711982841404,1711982844123,You are doing great.,59ms,27,Lo estás haciendo muy bien.
+,1711982845802,1,475ms,43,1711982845803,1711982850125,You will be an inspiration for many people.,80ms,43,Serás una inspiración para muchas personas.
+,1711982849641,0,374ms,7,1711982849643,1711982852056,Gracias,25ms,9,Thank you
+,1711982856641,0,367ms,7,1711982856642,1711982859125,Gracias,21ms,9,Thank you
+,1711982868320,1,442ms,41,1711982868321,1711982872722,How many followers you have on Instagram?,79ms,40,¿Cuántos seguidores tienes en Instagram?
+,1711982878680,0,935ms,264,1711982878681,1711982904520,En Instagram es buena inicia este como te dije manejo varias cuentas eh sin embargo mi cuenta la del emprendimiento que te hablé de las mesas de dulce que si se quiere pues es la que más es la más constante tengo no aproximamente como 1000 ni 1500 seguidores.,416ms,258,On Instagram it's good start this as I told you I manage several accounts eh however my account the entrepreneurship that I told you about the sweet tables that if you want because it is the most constant I have not approximately 1000 or 1500 followers.
+,1711982938323,1,489ms,72,1711982938324,1711982943561,Can you tell me your Instagram? ID I'll also try to follow your account.,1711982944050ms,69,¿Puedes decirme tu Instagram? ID También trataré de seguir su cuenta.
+,1711982945722,0,439ms,16,1711982945723,1711982947799,Si me instalan. ,71ms,18,If you install me.
+,1711982949239,0,387ms,11,1711982949241,1711982952167,Aja gracias,70ms,14,Aha thank you.
+,1711982952838,0,550ms,50,1711982952841,1711982961017,La Minerva se llama la Pablo la tablet N. Equis. ,133ms,53,The Minerva is called the Pablo the N. Equis tablet.
+,1711982962841,0,438ms,27,1711982962842,1711982965932,¿Tiene relación con metas? ,71ms,24,Does it relate to goals?
+,1711982971283,1,419ms,20,1711982971284,1711982973884,I didn't understand.,88ms,11,No entendí.
+,1711982972201,0,453ms,35,1711982972201,1711982977932,La tabla son metas de de metas de. ,104ms,32,The table are goals of goals of.
+,1711982990369,1,443ms,49,1711982990371,1711982995764,Do you follow any Mexican celebrity on Instagram?,118ms,50,¿Sigues a alguna celebridad mexicana en Instagram?
+,1711983003002,0,452ms,29,1711983003003,1711983006605,¿Alguna celebridad mexicana? ,55ms,24,Any Mexican celebrities?
+,1711983010003,1,374ms,3,1711983010019,1711983011965,Yes,27ms,2,Sí
+,1711983012042,0,1802ms,629,1711983012044,1711983064559,Sí es probable que siga alguna la verdad en este momento no se me viene ninguna la mente pero eh realmente pues la idea es seguir o sea tengo muy segmentada en las personas a las cuales eso de todo el este en este perfil porque todos en para mí es el viernes el viernes de mi. Emprendimiento. Y no lo fue cospara para otros cines no el sin embargo no la verdad que este momento no creí no recuerdo si tengo si sigo este cosa que son interés y no por ejemplo es que algún tipo de desculso de conferencia o algún tipo de contenido también que me gusta pero así como. Que celebridades no no no? Lo siento bien.,1391ms,636,Yes it is likely that the truth will follow at this moment no mind comes to mind but uh really because the idea is to continue that is I have very segmented in the people to whom that of all the east in this profile because everyone in for me is the Friday of my. Entrepreneurship. And it wasn't cospara for other cinemas no the however not the truth that this moment I didn't believe I don't remember if I have if I follow this thing that are interest and not for example is that some kind of conference desculption or some kind of content also that I like but as well as. What celebrities no no right? I'm sorry.
+,1711983065121,0,551ms,75,1711983065122,1711983071730,Este tipo de de de contenido nos dejó cuando me interesan algunas heridas. ,152ms,66,This kind of content left us when I was interested in some wounds.
+,1711983119921,1,517ms,90,1711983119923,1711983129283,Okay Sarah. It was really nice talking to you. Unfortunately the time is up for tonight.,1711983129800ms,111,Está bien Sarah. Fue muy agradable hablar con usted. Desafortunadamente el tiempo está listo para esta noche.
+,1711983136525,1,536ms,34,1711983136526,1711983139967,Thank you for all the information.,126ms,32,Gracias por toda la información.
+,1711983139565,0,502ms,34,1711983139566,1711983144729,Ok gracias recibo en principio. ,140ms,39,Okay thank you I get it in principle.
+,1711983150881,1,488ms,31,1711983150882,1711983154203,Have a good day bye take care.,139ms,45,Que tengas un buen día de adiós ten cuidado.
+,1711983151728,0,491ms,7,1711983151729,1711983154203,Gracias,123ms,9,Thank you

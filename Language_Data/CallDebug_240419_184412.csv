@@ -1,0 +1,98 @@
+﻿Reference,SpeechId,Direction,SttLatency,length,beginOfSpeech,endOfSpeech,SttResult,TranslationLatency,length,TranslatedResult,useless,translation comment
+1713531636184
+,1713531634680,1,647ms,5,1713531634687,1713531636670,Hello,472ms,7,Bonjour
+,1713531643900,0,479ms,7,1713531643909,1713531646022,Bonjour,176ms,5,Hello
+,1713531649141,1,535ms,21,1713531649142,1713531651946,Hi my name is Rahul.,134ms,28,Bonjour je m'appelle Rahul.
+,1713531650104,0,387ms,23,1713531650106,1713531653345,Hello comme à savoir. ,71ms,20,Hello like to know.
+,1713531657104,1,437ms,28,1713531657108,1713531659782,May I know your name please?,110ms,45,Puis-je connaître votre nom s'il vous plaît ?
+,1713531662385,0,421ms,26,1713531662386,1713531667667,Allô mon nom est Charly. ,88ms,25,Hello my name is Charly.
+,1713531672902,1,433ms,12,1713531672903,1713531675100,How are you?,68ms,19,Comment allez-vous?
+,1713531678983,0,352ms,14,1713531678984,1713531681264,Je vais bien. ,22ms,9,I'm fine.
+,1713531687380,1,553ms,84,1713531687382,1713531696585,You must be aware that the agenda of this call is to have a discussion over a topic.,194ms,99,Vous devez être conscient que l'ordre du jour de cet appel est d'avoir une discussion sur un sujet.
+,1713531700506,1,503ms,42,1713531700510,1713531704979,And today's topic is new city exploration.,135ms,64,Et le sujet d'aujourd'hui est l'exploration de nouvelles villes.
+,1713531705660,0,402ms,11,1713531705662,1713531707988,OK d'accord,70ms,9,OK okay?
+,1713531713900,0,336ms,8,1713531713901,1713531715953,D'accord,42ms,5,Okay.
+,1713531716140,1,409ms,2,1713531716141,1713531718221,Uh,61ms,7,Uh vous
+,1713531719104,1,460ms,46,1713531719105,1713531723702,May you know where exactly you stay in Canada?,114ms,59,Pouvez-vous savoir où vous séjournez exactement au Canada ?
+,1713531729427,0,416ms,24,1713531729428,1713531732621,Oui je suis à Montréal. ,77ms,21,Yes I'm in Montreal.
+,1713531739264,1,419ms,37,1713531739266,1713531743143,How how's the weather now in Montreal,93ms,37,Comment fait-il maintenant à Montréal
+,1713531749541,0,477ms,66,1713531749543,1713531756539,Je vous dirais que c'est nuageux et plus vieux il y a la pluie ? ,142ms,48,I'll tell you it's cloudy and older is it rain?
+,1713531764339,1,496ms,102,1713531764340,1713531775698,I had a discussion with one more guy from saskatoon yesterday. He was telling it almost raining there.,1713531776194ms,102,J'ai eu une discussion avec un autre gars de Saskatoon hier. Il vous disait qu'il pleuvait presque là.
+,1713531782541,0,386ms,25,1713531782544,1713531785178,C'est la même chose ici. ,71ms,19,It's the same here.
+,1713531788785,1,456ms,40,1713531788787,1713531792543,How far will be Montreal from saskatoon?,117ms,55,À quelle distance vous trouverez Montréal de Saskatoon?
+,1713531799580,0,493ms,73,1713531799581,1713531805983,Et j'ai eu j'en ai aucune idée mais beaucoup de kilomètres. C'est loin. ,1713531806476ms,53,And I had no idea but a lot of miles. It's far away.
+,1713531813543,1,382ms,4,1713531813544,1713531815503,Okay,55ms,8,D'accord
+,1713531822260,1,506ms,40,1713531822262,1713531828259,How affordable is Montreal for tourists?,106ms,60,À quel point Montréal est-elle abordable pour les touristes?
+,1713531836098,0,384ms,17,1713531836100,1713531838661,Pour les hôtels. ,47ms,11,For hotels.
+,1713531841822,1,325ms,3,1713531841824,1713531843703,Yes,41ms,3,Oui
+,1713531847184,0,471ms,63,1713531847185,1713531854113,Il y a beaucoup de choix le hotel Hilton et beaucoup d'autres. ,119ms,59,There are many choices at the Hilton Hotel and many others.
+,1713531859662,0,350ms,7,1713531859663,1713531861785,La nuit,55ms,9,The Night
+,1713531867026,1,381ms,4,1713531867028,1713531868899,Okay,28ms,8,D'accord
+,1713531877061,1,456ms,44,1713531877100,1713531881339,Are you aware of the academia National Park?,116ms,50,Connaissez-vous le parc national de l'université ?
+,1713531886022,1,450ms,22,1713531886024,1713531889104,Akadiya National Park.,114ms,24,Parc national d'Akadiya.
+,1713531888305,0,357ms,3,1713531888306,1713531890549,Non,59ms,2,No
+,1713531894380,0,354ms,8,1713531894381,1713531896821,L'acadia,55ms,6,Acadia
+,1713531899260,1,493ms,31,1713531899261,1713531902862,Haha yes I meant to say this.,120ms,32,Haha oui je voulais dire ceci.
+,1713531907543,1,455ms,36,1713531907544,1713531910702,Are you aware of this National Park?,105ms,34,Connaissez-vous ce parc national ?
+,1713531908941,0,437ms,25,1713531908941,1713531911753,Euh non je connais pas. ,102ms,20,Uh no I don't know.
+,1713531917218,0,594ms,38,1713531917219,1713531919183,Non hi Bixby diminue le volume de 10. ,103ms,39,No hi Bixby decreases the volume by 10.
+,1713531931859,1,487ms,50,1713531931861,1713531937504,How is the job opportunities seen in your country?,144ms,93,Comment les possibilités d'emploi vous permettent-elles de trouver un emploi dans votre pays?
+,1713531943943,1,434ms,101,1713531943945,1713531952981,I have heard Toronto has more job opportunities than any other cities of Canada. What about Montreal?,1713531953415ms,131,J'ai entendu dire que Toronto a plus de possibilités d'emploi que n'importe quelle autre ville du Canada. Et à propos de Montréal ?
+,1713531945982,0,498ms,76,1713531945984,1713531954115,Depuis le covid euh il y a beaucoup moins d'offres mais quand même il y ? ,1713531954613ms,69,Since the covid uh there are much fewer offers but still there are?
+,1713531961459,0,726ms,96,1713531961461,1713531965983,Montréal il y. A quand même beaucoup d'emplois hi Bixby recherche Sophie Marceau sur YouTube ? ,1713531966709ms,84,Montreal there is. Still a lot of jobs hi Bixby searches Sophie Marceau on YouTube?
+,1713531979745,1,481ms,25,1713531979746,1713531982665,Does it snow in Montreal?,101ms,36,Est-ce qu'il vous neige à Montréal ?
+,1713531988225,0,439ms,38,1713531988227,1713531993504,De la neige présormant non. Y en a. Pu,1713531993943ms,28,Snow presuming no. There. Pu
+,1713532000700,1,542ms,65,1713532000701,1713532006459,On an average how many months do you observe snowfall in Canada?,158ms,72,En moyenne combien de mois observez-vous des chutes de neige au Canada?
+,1713532015941,0,388ms,6,1713532015941,1713532018179,3 mois,43ms,8,3 Months
+,1713532025183,1,560ms,93,1713532025185,1713532033621,Maybe I had heard wrong. I was with the impression that it knows for around 67 months a year.,1713532034181ms,100,Peut-être que j'avais mal entendu. J'avais l'impression qu'il le sait depuis environ 67 mois par an.
+,1713532035222,0,421ms,37,1713532035223,1713532038116,Ben je te dis quand même c'est pas ? ,104ms,37,Well I'm telling you anyway it's not?
+,1713532040578,0,336ms,3,1713532040580,1713532042752,Non,39ms,2,No
+,1713532043257,0,405ms,33,1713532043258,1713532046518,Ça en fait c'est 4 mois environ. ,82ms,34,That's actually about four months.
+,1713532051418,1,345ms,4,1713532051419,1713532053379,Okay,15ms,8,D'accord
+,1713532055981,1,474ms,31,1713532055982,1713532059100,Do you have any Indian friends?,95ms,28,Avez-vous des amis indiens ?
+,1713532064065,0,301ms,3,1713532064102,1713532067624,Non,20ms,2,No
+,1713532072300,1,518ms,51,1713532072302,1713532077581,Have you ever gone outside of Canada for any trips?,139ms,67,Vous êtes-vous déjà allé à l'extérieur du Canada pour des voyages ?
+,1713532084142,0,351ms,8,1713532084148,1713532086420,Non plus,39ms,7,No more
+,1713532090542,1,448ms,43,1713532090543,1713532094340,When was the last time you went for a trip?,116ms,54,Quand êtes-vous allé pour la dernière fois en voyage ?
+,1713532102182,0,424ms,29,1713532102185,1713532105342,J'ai jamais fait de broyage. ,74ms,25,I never did any grinding.
+,1713532112178,1,441ms,53,1713532112179,1713532116901,How do you spend time? What you do for entertainment.,1713532117342ms,74,Comment vous passez-vous du temps ? Ce que vous faites pour vous divertir.
+,1713532121942,0,473ms,48,1713532121943,1713532128219,Moi je joue au jeu vidéo ils ont roi des amis. ,163ms,46,I play video games they have king of friends.
+,1713532128661,0,349ms,7,1713532128661,1713532130785,À gamer,67ms,8,Gamer 's
+,1713532137741,1,512ms,38,1713532137743,1713532141498,How is the gaming community in Canada?,170ms,48,Comment est la communauté des joueurs au Canada?
+,1713532146023,1,462ms,52,1713532146024,1713532150862,In India the gaming community is growing very fast.,129ms,64,En Inde la communauté des joueurs se développe très rapidement.
+,1713532147180,0,435ms,58,1713532147181,1713532153787,On est beaucoup de de de joueurs euh de jeux vidéo aussi. ,119ms,41,We're a lot of gamers uh video games too.
+,1713532166500,1,492ms,36,1713532166501,1713532169539,Have you ever played counter strike?,103ms,41,Avez-vous déjà joué à la contre-attaque ?
+,1713532175544,0,444ms,46,1713532175546,1713532179663,Non moi je suis un joueur de call of dubotti. ,100ms,33,I'm not a call of dubotti player.
+,1713532185143,1,476ms,60,1713532185145,1713532190581,It's a different game. It came long before the Call of Duty.,1713532191057ms,65,C'est un jeu différent. Il est venu bien avant l'appel du devoir.
+,1713532201459,1,471ms,30,1713532201460,1713532204897,Who do you stay with Montreal?,88ms,31,Qui restez-vous avec Montréal ?
+,1713532203980,0,370ms,8,1713532203981,1713532206382,Mail fun,54ms,8,Mail Fun
+,1713532212500,0,419ms,30,1713532212501,1713532215818,Excuse-moi j'ai pas compris. ,93ms,31,Excuse me I didn’t understand.
+,1713532220824,1,522ms,106,1713532220825,1713532229579,I wanted to know who do you stay with Montreal. Do you stay with your family or friends or you stay alone?,1713532230101ms,105,Je voulais savoir qui vous restez avec Montréal. Reste-tu avec ta famille ou tes amis ou restes-tu seul ?
+,1713532230620,0,420ms,30,1713532230621,1713532233511,Oui je veux vivre à Montréal. ,88ms,32,Yes I want to live in Montreal.
+,1713532235583,0,499ms,63,1713532235584,1713532241548,Non je suis un collocation non mais j'ai un min je suis seul. ,154ms,52,No I'm a collocation no but I have a min I'm alone.
+,1713532247101,0,620ms,69,1713532247101,1713532249061,Ça m'énerve non hi Bixby comment puis-je utiliser météo avec Bixby ? ,168ms,58,It annoys me no hi Bixby how can I use weather with Bixby?
+,1713532252741,0,453ms,29,1713532252743,1713532257025,Exactement ce madame excite. ,86ms,30,Exactly this madam is excited.
+,1713532262423,1,454ms,28,1713532262424,1713532265501,Are you talking about Bixby?,94ms,22,Vous parlez de Bixby ?
+,1713532270506,0,604ms,64,1713532270507,1713532274941,Non j'utilise pas Bixby j'ai un vélo moi-même hi Bixby lecture. ,169ms,59,No I don't use Bixby I have a bike myself hi Bixby reading.
+,1713532282700,1,371ms,4,1713532282701,1713532284663,Okay,17ms,8,D'accord
+,1713532288781,1,434ms,115,1713532288782,1713532299951,How do you travel from one place to another place? Do you use railway services or car or bus? Or you have any bike?,1713532300385ms,139,Comment vous déplacez-vous d'un endroit à un autre ? Utilisez-vous les services ferroviaires la voiture ou le bus ? Ou vous avez un vélo ?
+,1713532298782,0,403ms,21,1713532298783,1713532301985,Un vélo ou un métro. ,71ms,22,A bicycle or a subway.
+,1713532306619,1,430ms,20,1713532306620,1713532309459,Okay it sounds fun.,83ms,28,Bon ça vous semble amusant.
+,1713532306820,0,396ms,15,1713532306821,1713532309381,Vélo et métro. ,68ms,19,Bicycle and subway.
+,1713532319183,1,475ms,25,1713532319185,1713532322619,Is Subway free in Canada?,94ms,34,Le métro est-il gratuit au Canada?
+,1713532327659,0,614ms,44,1713532327660,1713532331862,Non c'est 3 dollars 75 hi Bixby recherche. ,122ms,40,No it's 3 dollars 75 hi Bixby research.
+,1713532338501,1,348ms,4,1713532338503,1713532340462,Okay,18ms,8,D'accord
+,1713532344744,1,490ms,45,1713532344747,1713532350739,Water CN and CP in terms of railway services.,139ms,48,Eau CN et CP en termes de services ferroviaires.
+,1713532352984,0,336ms,8,1713532352984,1713532354906,D'accord,19ms,5,Okay.
+,1713532363978,1,430ms,15,1713532363979,1713532366262,What are these?,102ms,21,Qu'est-ce que c'est ?
+,1713532369260,1,437ms,10,1713532369262,1713532372462,CN and CP.,77ms,9,CN et CP.
+,1713532376382,1,406ms,39,1713532376383,1713532380826,Canadian national and Canadian Pacific.,89ms,40,Canadien national et Canadien Pacifique.
+,1713532377939,0,439ms,50,1713532377940,1713532384460,Cnch c'est canadien pacifique canadien national. ,106ms,43,Cnch is Canadian Pacific Canadian National.
+,1713532390463,1,468ms,37,1713532390465,1713532393503,What is the difference between the 2?,98ms,38,Quelle est la différence entre les 2 ?
+,1713532399543,0,554ms,47,1713532399544,1713532402621,J'en ai eu aucune idée en vrai 17h13 minutes. ,108ms,38,I had no idea actually 17:13 minutes.
+,1713532415661,1,357ms,4,1713532415662,1713532417619,Okay,13ms,8,D'accord
+,1713532418946,1,489ms,95,1713532418948,1713532428659,Okay let's conclude this discussion here. It was very nice of having this discussion with you.,1713532429148ms,94,Bon concluons cette discussion ici. C'était très agréable d'avoir cette discussion avec vous.
+,1713532432984,1,442ms,21,1713532432985,1713532435821,Thank you take care.,81ms,27,Merci prenez soin de vous.
+,1713532436381,0,402ms,18,1713532436383,1713532438983,De même pour moi. ,68ms,21,The same goes for me.
+,1713532441025,0,403ms,29,1713532441026,1713532444741,Vous vous aussi dit au bout. ,69ms,23,You too say to the end.
+,1713532443060,1,425ms,16,1713532443067,1713532445180,Have a good day.,64ms,14,Bonne journée.

@@ -1,0 +1,117 @@
+﻿Reference,SpeechId,Direction,SttLatency,length,beginOfSpeech,endOfSpeech,SttResult,TranslationLatency,length,TranslatedResult,useless,translation comment
+1709629400621
+,1709629398928,1,405ms,46,1709629398935,1709629403888,I have worked Prasanna this side. How are you?,1709629404293ms,53,Pracowałem nad Prasanna po tej stronie. Jak się masz?
+,1709629414607,0,625ms,19,1709629414609,1709629417689,Dobrze się dobrze. ,218ms,5,Good.
+,1709629421964,1,468ms,39,1709629421968,1709629426844,So now the topic is travel and leisure.,101ms,38,Teraz tematem są podróże i wypoczynek.
+,1709629431766,1,364ms,14,1709629431797,1709629433923,Are you ready?,27ms,14,Jesteś gotowy?
+,1709629440806,0,372ms,13,1709629440809,1709629443261,Jestem gotowy,48ms,9,I'm ready
+,1709629447209,1,430ms,68,1709629447211,1709629453166,Do you like travel like? Have you travelled the most part of Poland?,1709629453596ms,58,Lubicie takie podróże? Podróżował Pan w większości Polski?
+,1709629456289,0,321ms,3,1709629456290,1709629458287,Tak,20ms,9,Yes I do
+,1709629459286,0,722ms,80,1709629459288,1709629470538,Tak podróżowałem byłem w większości Polski zagranicą na w Słowacji w Czechach. ,156ms,73,Yes I travelled I was mostly Polish abroad in Slovakia Czech Republic.
+,1709629485647,1,464ms,30,1709629485649,1709629489170,I wanted to do a river safari.,108ms,31,Chciałem zrobić safari rzeczne.
+,1709629489603,1,524ms,60,1709629489604,1709629495164,I'm excited to know if the main river in Poland offers that.,136ms,74,Jestem podekscytowany aby wiedzieć czy główna rzeka w Polsce oferuje to.
+,1709629506568,0,888ms,111,1709629506569,1709629518408,Myślę że tak główna rzecz w Polsce to Wisła na pewnych jej odcinkach na pewno można zrobić spływ kajak kogoś. ,220ms,116,I think that the main thing in Poland is the Vistula on some of its sections you can definitely do kayaking someone.
+,1709629528849,1,473ms,60,1709629528850,1709629533925,Can I set up a camp across the banks of the vishtuula river?,136ms,51,Czy mogę założyć obóz nad brzegiem rzeki Vishtuula?
+,1709629544327,0,894ms,116,1709629544328,1709629556140,Jeżeli w danym miejscu jest to dozwolone to nie ma problemu ale musisz się przedtem upewnić. Czy jest to możliwe. ,1709629557034ms,111,If this is allowed in a given place there is no problem but you need to make sure beforehand. Is it possible.
+,1709629566326,1,524ms,105,1709629566348,1709629576448,Okay okay. Understood so we basically need permission if we plan to go for a camping alongside a river.,1709629576972ms,110,Ok ok. Zrozumiano więc w zasadzie potrzebujemy pozwolenia jeśli planujemy wyjechać na kemping wzdłuż rzeki.
+,1709629588051,1,461ms,29,1709629588053,1709629591363,Where is the vistilla lagoon?,103ms,27,Gdzie jest laguna Vistilla?
+,1709629590728,0,602ms,42,1709629590738,1709629596821,W większości przypadków więc właśnie tak. ,85ms,19,In most cases yes.
+,1709629600287,0,405ms,11,1709629600288,1709629602770,Jaka laguna,70ms,14,What a lagoon!
+,1709629606845,1,435ms,29,1709629606847,1709629610568,Where is the vishtula lagoon?,101ms,27,Gdzie jest laguna Vishtula?
+,1709629613846,0,430ms,13,1709629613848,1709629616327,Masz powtórzy,68ms,17,You have a repeat
+,1709629617325,0,681ms,70,1709629617326,1709629626651,Rachunki nawiszu. Na nie słyszałem dobra o takim miejscu chyba jakoś. ,1709629627332ms,51,The bills we know. I haven't heard of such a place.
+,1709629627125,0,519ms,44,1709629627132,1709629631299,Powiedziałeś powiedziałaś to w inny sposób. ,85ms,31,You said it in a different way.
+,1709629635006,1,369ms,4,1709629635008,1709629637012,Okay,54ms,5,Okej.
+,1709629637484,1,465ms,47,1709629637484,1709629642727,Is the vishtua lagoon part of Russia or Poland?,134ms,48,Czy laguna wisztuska należy do Rosji czy Polski?
+,1709629645608,1,467ms,69,1709629645609,1709629653413,I mean is the vishtua river? Goes through Poland and Russia as well.,1709629653880ms,59,Czy rzeka Vishtua? Przechodzi również przez Polskę i Rosję.
+,1709629651646,0,538ms,34,1709629651649,1709629656579,Arguna wisiówka należy do Polski. ,103ms,33,Arguna hanging belongs to Poland.
+,1709629662765,0,902ms,104,1709629662766,1709629672685,Rzeka Wisła przechodzi tylko przez Polsce zaczyna się na południu Polski i pływa do morza bałtyckiego. ,208ms,104,The Vistula River passes only through Poland starts in the south of Poland and sails to the Baltic Sea.
+,1709629685087,1,426ms,23,1709629685089,1709629688367,Which city you live in?,80ms,26,W jakim mieście mieszkasz?
+,1709629694166,0,742ms,65,1709629694169,1709629703645,Mieszkam w Rzeszowie takie to takie udziałem w wschodzie Polski. ,158ms,48,I live in Rzeszów such a part in eastern Poland.
+,1709629709168,1,533ms,39,1709629709171,1709629714210,How far will it be from the Baltic sea?,148ms,29,Jak daleko będzie od Bałtyku?
+,1709629722649,0,919ms,77,1709629722652,1709629730768,Bardzo daleko to będzie jakieś o. Siemset kilometrów do morza bardzo ciebie. ,1709629731687ms,76,Very far away it will be about eight hundred kilometers to the sea very you.
+,1709629738045,1,573ms,37,1709629738047,1709629741125,Have you ever been to the Baltic sea?,167ms,30,Byliście kiedyś nad Bałtykiem?
+,1709629748287,0,976ms,87,1709629748290,1709629761213,Tak byłem nagle bałtykiem barwy nic podobało mi się ale mogą być w trochę cieplejsze. ,293ms,85,So I was suddenly the Baltic of color I didn't like but they can be a little warmer.
+,1709629770251,1,478ms,19,1709629770253,1709629772725,Have a small doubt.,106ms,22,Miej małe wątpliwości.
+,1709629775649,1,574ms,37,1709629775651,1709629780848,Is black sea and the Baltic sea same?,170ms,34,Czy Morze Czarne i Bałtyk to samo?
+,1709629788767,0,1629ms,165,1709629788799,1709629808645,Nie morze Czarne leży na bardziej na południe czy przy Ukrainie bałtynżyc na na północy nad Polską gdybyśmy na to spojrzeli na mapie może czarność cykliczna też. ,488ms,167,It is not the Black Sea that lies more to the south or near Ukraine the Baltic Sea to the north above Poland if we looked at it on the map maybe cyclic blackness too.
+,1709629810927,0,396ms,10,1709629810950,1709629813185,Oczywiście,16ms,9,Of course
+,1709629826531,1,360ms,4,1709629826532,1709629828325,Okay,15ms,5,Okej.
+,1709629831085,1,567ms,34,1709629831088,1709629834525,Can someone swim in the black sea?,161ms,37,Czy ktoś może pływać w Morzu Czarnym?
+,1709629835127,1,519ms,24,1709629835128,1709629838207,I mean is it advisable?,123ms,21,Czy to jest wskazane?
+,1709629845486,0,1199ms,115,1709629845488,1709629855971,Z pewnością w przyszłości chciałbym się wybrać na morze Czarne jest przypomina jeszcze nigdy jego aktywny miejscu. ,258ms,92,Certainly in the future I would like to go to the Black Sea is reminded of its active place.
+,1709629874489,1,541ms,153,1709629874491,1709629886850,I've heard because of some chemical contamination of the water. The black sea is not advisable for the swimmers. It can affect your skin and your health.,1709629887391ms,149,Słyszałem z powodu jakiegoś chemicznego zanieczyszczenia wody. Morze Czarne nie jest wskazane dla pływaków. Może mieć wpływ na Twoją skórę i zdrowie.
+,1709629892047,1,461ms,37,1709629892048,1709629896766,Is it true? Have you not heard of it?,1709629897227ms,35,Czy to prawda? Nie słyszałeś o tym?
+,1709629902085,0,1862ms,188,1709629902087,1709629923264,Nie słyszałem o tym nie słyszałem żeby było tam jakiś wskażenie chemiczne. Ale jeżeli to prawda to to pan duża wiadomość bo to wyklucza wszelką podróż tam nie wiem nie wiem czy to pan. ,1709629925126ms,165,I hadn't heard of it I hadn't heard of some chemical indication. But if that's true it's big news because that excludes all travel there I don't know if it's you.
+,1709629940167,1,292ms,4,1709629940170,1709629942008,Okay,25ms,5,Okej.
+,1709629942964,1,649ms,79,1709629942976,1709629950806,Do you know which city of Poland hand held the title of European youth capital?,233ms,77,Czy wiesz które miasto w Polsce nosiło tytuł europejskiej stolicy młodzieży?
+,1709629961205,0,1241ms,125,1709629961207,1709629974924,Europejski stolicy młodzieży myślę że to było miasto Wrocław ponieważ jest to bardzo dynamicznie rozwijających się miasto. ,290ms,115,The European capital of youth I think it was the city of Wrocław because it is a very dynamically developing city.
+,1709629985926,1,497ms,64,1709629985928,1709629991688,I've heard something different. I believe it was lovelling city.,1709629992185ms,54,Słyszałem coś innego. Myślę że to było piękne miasto.
+,1709629997287,1,428ms,7,1709629997288,1709629999407,Lovelyn,85ms,8,Lovelyn.
+,1709629999922,0,627ms,37,1709629999923,1709630006142,Piękne to znaczy ma za myśli Kraków. ,130ms,33,Beautiful means he thinks Krakow.
+,1709630001968,1,429ms,6,1709630001975,1709630004167,Lovely,84ms,7,Piękne.
+,1709630004804,1,395ms,9,1709630004808,1709630007649,LU BLI. N,1709630008044ms,10,LU BLI. N.
+,1709630019886,1,705ms,112,1709630019888,1709630027849,What do you think which city is considered as the least expensive city of Poland for the international students?,271ms,85,Co według Ciebie jest uważane za najtańsze miasto Polski dla studentów zagranicznych?
+,1709630028642,0,765ms,46,1709630028642,1709630032526,Dla mnie wszystkie miasta w Polsce są piękne. ,148ms,47,For me all the cities in Poland are beautiful.
+,1709630041451,0,1650ms,166,1709630041452,1709630060090,Najtańszym miastem w Polsce na pewno nie będzie Warszawa na pewno nie będzie Warszawa Ani takie drogie miasta będzie to raczej rzecz mozokraków sądzi takie miasto. ,528ms,161,The cheapest city in Poland will certainly not be Warsaw will not be Warsaw or such expensive cities it will be rather a thing of mozocraks such a city thinks.
+,1709630074848,1,526ms,24,1709630074850,1709630077977,I think it's poisoncity.,153ms,22,Myślę że to trucizna.
+,1709630080927,1,418ms,9,1709630080929,1709630083165,Sportsman,79ms,11,Sportowiec.
+,1709630084208,1,479ms,14,1709630084209,1709630086885,Postnatal city,110ms,17,Miasto poporodowe
+,1709630090170,1,448ms,9,1709630090172,1709630092368,Postnatal,86ms,10,Poporodowy
+,1709630094727,1,491ms,12,1709630094729,1709630098005,PU Jeth Nan.,136ms,12,PU Jeth Nan.
+,1709630100128,0,506ms,15,1709630100129,1709630102568,Jak jednak to. ,101ms,15,But what a how.
+,1709630100845,1,412ms,7,1709630100851,1709630104805,Poznan.,67ms,7,Poznań.
+,1709630111121,1,636ms,95,1709630111123,1709630118961,I've heard somewhere like this city is the most affordable city for the international students.,250ms,92,Słyszałem że coś takiego to miasto jest najbardziej przystępne dla studentów zagranicznych.
+,1709630113084,0,562ms,22,1709630113098,1709630115724,Nie byłem w Poznaniu. ,139ms,25,I haven't been to Poznan.
+,1709630123085,1,570ms,40,1709630123094,1709630128004,Okay how far will it be from your city?,175ms,36,Jak daleko będzie od Twojego miasta?
+,1709630130246,0,422ms,10,1709630130247,1709630133737,To możliwe,88ms,14,It is possible
+,1709630135927,0,846ms,52,1709630135928,1709630144225,To będzie koło czterech godzin jazdy wydaje mi się. ,220ms,54,It's going to be about four hours of driving I think.
+,1709630155285,1,558ms,59,1709630155288,1709630160487,How do I travel from? I'll club in to cracko without a car.,1709630161045ms,47,Jak podróżować? Wpadnę do cracko bez samochodu.
+,1709630166525,1,382ms,13,1709630166527,1709630169365,From lubbling,93ms,13,Z polubienia.
+,1709630169568,0,874ms,64,1709630169570,1709630179409,Najszybciej byłoby samolotem ale najtaniej z kolei samochodem. ,211ms,62,The fastest would be a plane but the cheapest in turn by car.
+,1709630171964,1,331ms,9,1709630171966,1709630175405,LU BLI. N,1709630175736ms,10,LU BLI. N.
+,1709630198806,1,565ms,66,1709630198807,1709630204250,Do you know where is the World War 2 concentration camp in Poland?,180ms,70,Czy wiesz gdzie jest obóz koncentracyjny II wojny światowej w Polsce?
+,1709630214210,0,1513ms,174,1709630214212,1709630231964,Tak to jest z obóz w auschwitz on znajduje się w Oświęcimiu teraz bardzo popularne miejsce w Polsce do którego przyniósł Żak Wiele turystów ale jest dość smutne miejsce. ,424ms,165,So it is from the camp in Auschwitz it is located in Auschwitz now a very popular place in Poland to which brought Żak Many tourists but it is quite a sad place.
+,1709630245407,1,506ms,29,1709630245410,1709630249169,Yeah yeah it's a sad place.,136ms,28,Tak tak to smutne miejsce.
+,1709630257208,1,528ms,58,1709630257209,1709630263924,Is the holy Trinity chapel located in the lubbling castle?,149ms,48,Czy kaplica Świętej Trójcy znajduje się w zamku?
+,1709630270406,1,343ms,9,1709630270409,1709630273528,LU BLI. N,1709630273871ms,10,LU BLI. N.
+,1709630273926,0,519ms,24,1709630273927,1709630277104,Kaplica świętej trójcy. ,106ms,27,Chapel of the Holy Trinity.
+,1709630278330,0,597ms,45,1709630278331,1709630285769,Wydaje mi się że na granicach znajduję się. ,113ms,27,I think I'm at the borders.
+,1709630280209,1,369ms,3,1709630280220,1709630282165,Yes,53ms,4,Tak.
+,1709630296648,1,439ms,39,1709630296650,1709630301485,Which country is nearest to your place?,105ms,33,Który kraj jest najbliżej Ciebie?
+,1709630308966,0,487ms,24,1709630308968,1709630314164,Najbliżej mnie Ukraina. ,78ms,24,I am closest to Ukraine.
+,1709630319967,1,514ms,73,1709630319968,1709630326569,Did you get scared when the war between Ukraine and Russia was happening?,172ms,69,Czy przestraszył się Pan gdy doszło do wojny między Ukrainą a Rosją?
+,1709630336968,1,485ms,35,1709630336969,1709630341289,Did it affect your city in any way?,137ms,49,Czy w jakiś sposób wpłynęło to na Państwa miasto?
+,1709630337366,0,700ms,65,1709630337374,1709630347772,Nie przestraszyłem się ponieważ pomagamy ukraińcom stan jesteś. ,132ms,65,I was not afraid because we are helping Ukrainians state you are.
+,1709630350688,0,344ms,3,1709630350691,1709630353454,Tak,27ms,9,Yes I do
+,1709630356445,0,981ms,116,1709630356447,1709630368764,Tak do reszta przyjechało i ogólnie do całej Polski przyjechało bardzo dużo uchodźców z Ukrainy szukających pomocy. ,207ms,116,This is how the rest came to and in general a lot of refugees from Ukraine came to the whole of Poland seeking help.
+,1709630385324,1,502ms,43,1709630385326,1709630388963,Poland is such a nice neighbouring country.,130ms,41,Polska jest takim miłym sąsiednim krajem.
+,1709630393287,1,486ms,37,1709630393299,1709630397364,You have the people who were in need.,111ms,36,Masz ludzi którzy byli w potrzebie.
+,1709630400327,0,394ms,15,1709630400329,1709630402825,Jesteśmy mileni,69ms,18,We are millennial.
+,1709630405886,0,663ms,55,1709630405887,1709630412856,Pomagamy w naszym obawiamy naszym sąsiadom w utrainie. ,142ms,45,We help our neighbors in utraina in our fear.
+,1709630419527,1,395ms,4,1709630419529,1709630421528,Nice,67ms,7,Ładnie.
+,1709630426884,1,648ms,108,1709630426886,1709630435487,Is there a castle complex in Poland which is considered as one of the largest castle complexes in the world?,247ms,115,Czy w Polsce istnieje kompleks zamkowy który jest uważany za jeden z największych kompleksów zamkowych na świecie?
+,1709630428167,0,407ms,6,1709630428174,1709630430405,Dzięki,41ms,6,Thanks
+,1709630442448,1,390ms,14,1709630442449,1709630445566,Malborg castle,64ms,13,Zamek Malborg
+,1709630451726,0,1159ms,133,1709630451728,1709630468005,Z tego oto wiem jednym z większych jest zamek na wachu. Ale zamek w Malborku lecz z pewnością jest duży ale chociaż tam nie byłam. ,1709630469164ms,143,From this I know one of the largest is the castle on the roll. But the castle in Malbork but it's certainly big but although I wasn't there.
+,1709630483164,1,504ms,71,1709630483165,1709630490045,It seems UNESCO has also granted it the title of a World Heritage Site.,171ms,79,Wydaje się że UNESCO przyznało mu również tytuł Światowego Dziedzictwa UNESCO.
+,1709630494965,1,507ms,40,1709630494967,1709630499367,Do you know which city is it located in?,132ms,41,Czy wiesz w którym mieście się znajduje?
+,1709630500285,0,506ms,17,1709630500286,1709630504526,Tak tak to jest. ,122ms,21,That's the way it is.
+,1709630507086,0,423ms,10,1709630507087,1709630509248,W Krakowie,66ms,10,In Krakow.
+,1709630510245,0,541ms,30,1709630510246,1709630513324,Wydaje mi się że w Krakowie. ,105ms,18,I think in Krakow.
+,1709630519808,1,573ms,56,1709630519809,1709630525007,Have you heard of a river which is called river no ghat?,220ms,53,Słyszeliście o rzece która nazywa się rzeką no ghat?
+,1709630521967,0,672ms,40,1709630521968,1709630526941,Czy jestem czy mówię dobrze freundacja. ,139ms,39,Whether I am or speak well freundation.
+,1709630535646,0,471ms,10,1709630535648,1709630537897,Jaką rzeką,88ms,13,What a river?
+,1709630538047,1,487ms,6,1709630538048,1709630540765,NOGAT.,90ms,9,Nie nie.
+,1709630547124,1,523ms,29,1709630547125,1709630549846,Have you heard of this river?,117ms,25,Słyszeliście o tej rzece?
+,1709630555847,0,629ms,47,1709630555848,1709630564855,Ja osobiście nie słyszałem o Tych rzeczach. Ale,1709630565484ms,47,I personally haven't heard of these things. But
+,1709630566685,0,482ms,13,1709630566686,1709630568819,No nie wiem. ,100ms,13,I don’t know.
+,1709630574607,0,530ms,23,1709630574608,1709630577162,A gdzie ta rzeka jest. ,109ms,19,Where is the river?
+,1709630574926,1,353ms,4,1709630574926,1709630576885,Okay,14ms,5,Okej.
+,1709630577083,1,459ms,20,1709630577084,1709630579848,Nice talking to you.,117ms,21,Fajna rozmowa z Tobą.
+,1709630581523,1,566ms,60,1709630581524,1709630586006,I've heard this river is the second largest river of Poland.,213ms,65,Słyszałem że ta rzeka jest drugą co do wielkości rzeką w Polsce.
+,1709630587405,0,407ms,8,1709630587406,1709630589532,Dziękuję,54ms,9,Thank you
+,1709630596965,0,1276ms,112,1709630596966,1709630612288,A to największą zakop jest Wisła drugą odrach jeszcze jest Warta na pewno nie jestem taki dobry geograficzny. ,401ms,116,And this biggest burrow is the Vistula the second measles is still Warta I'm certainly not so good geographically.
+,1709630622128,1,500ms,101,1709630622130,1709630629692,Okay okay. No problem it was really nice talking to you. Thank you for sharing all the information.,1709630630192ms,115,Ok ok. Nie ma problemu to była naprawdę miła rozmowa z Tobą. Dziękuję za podzielenie się wszystkimi informacjami.
+,1709630630325,1,502ms,20,1709630630326,1709630632927,Bye bye take care.,148ms,15,Żegnaj uważaj.
+,1709630643683,0,711ms,38,1709630643684,1709630647647,Dziękuję również i żegnam pozdrawiam. ,151ms,32,Thank you too and I say goodbye.

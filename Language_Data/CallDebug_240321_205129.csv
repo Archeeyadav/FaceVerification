@@ -1,0 +1,125 @@
+﻿Reference,SpeechId,Direction,SttLatency,length,beginOfSpeech,endOfSpeech,SttResult,TranslationLatency,length,TranslatedResult,useless,translation comment
+1711033293041
+,1711033291309,1,673ms,5,1711033291333,1711033293448,Hello,532ms,4,Hola
+,1711033300785,1,430ms,44,1711033300788,1711033304870,I am calling from India. My name is dhiraji.,1711033305300ms,48,estoy llamando desde la india. me llamo dhiraji.
+,1711033302865,0,617ms,4,1711033302892,1711033304984,Hola,235ms,5,Hello
+,1711033313987,1,346ms,12,1711033313993,1711033316071,How are you?,20ms,12,¿Cómo estás?
+,1711033320191,0,470ms,13,1711033320193,1711033324196,¿Viene y tú? ,90ms,15,Are you coming?
+,1711033328385,1,422ms,37,1711033328386,1711033331982,Yeah I can hear you. Can you hear me?,1711033332404ms,31,Sí puedo oírte. ¿Puedes oírme?
+,1711033332264,0,433ms,15,1711033332265,1711033334705,Yo bien y tú. ,85ms,17,Me well and you.
+,1711033335746,0,359ms,2,1711033335747,1711033337753,Sí,28ms,9,Yes I do
+,1711033341264,1,449ms,37,1711033341266,1711033345061,Yeah I'm doing good thanks for asking,93ms,46,Sí estoy haciendo bien gracias por preguntar.
+,1711033350506,1,306ms,27,1711033350507,1711033355022,What is the time now u? Yes,1711033355328ms,28,Cuál es el tiempo ahora?? sí
+,1711033360104,0,469ms,22,1711033360106,1711033363201,Son más 10 y cerodos. ,105ms,27,They're plus 10 and zeroed.
+,1711033371907,1,398ms,75,1711033371908,1711033378427,Okay I did not understand I'm repeating my question. What is the time now?,1711033378825ms,75,Vale no entendí que estoy repitiendo mi pregunta. Cuál es el tiempo ahora?
+,1711033386948,0,451ms,30,1711033386952,1711033391991,Son las 10:00 con 03 minutos. ,104ms,27,It's 10:00 with 03 minutes.
+,1711033396064,1,379ms,4,1711033396066,1711033398108,Okay,49ms,9,está bien
+,1711033403862,1,473ms,47,1711033403863,1711033408343,Where do you exactly stay in the United States?,109ms,51,¿Dónde te quedas exactamente en los Estados Unidos?
+,1711033415945,0,562ms,41,1711033415947,1711033421068,Vivo en la ciudad de niorlión Luisiana. ,127ms,42,I live in the city of Niorlion Louisiana.
+,1711033428028,1,444ms,24,1711033428029,1711033430984,Do you mean New Orleans?,89ms,29,¿Te refieres a Nueva Orleans?
+,1711033436988,0,418ms,6,1711033436989,1711033439026,Así es,22ms,12,That's right
+,1711033445230,1,474ms,42,1711033445232,1711033449068,Since when are you staying in New Orleans?,92ms,41,¿Desde cuándo te quedas en Nueva Orleans?
+,1711033455744,0,479ms,29,1711033455745,1711033459707,Vivo aquí desde hace 2 años. ,91ms,29,I've been here for two years.
+,1711033471305,1,497ms,55,1711033471306,1711033475345,Have you been to most of the places around New Orleans?,124ms,68,¿Has estado en la mayoría de los lugares alrededor de Nueva Orleans?
+,1711033485311,0,476ms,42,1711033485313,1711033489383,Casi no en todos pero sí en la mayoría. ,99ms,31,Almost not in all but in most.
+,1711033494466,1,415ms,37,1711033494468,1711033498304,Do you like travel in your free times,88ms,39,¿Te gusta viajar en tus tiempos libres?
+,1711033505226,0,470ms,41,1711033505227,1711033511645,Así es viajó siempre fuera de la ciudad. ,122ms,42,That's how he always traveled out of town.
+,1711033518624,1,467ms,58,1711033518626,1711033523909,So today's topic of discussion will be travel and leisure.,132ms,60,Así que el tema de discusión de hoy será el viaje y el ocio.
+,1711033532468,1,426ms,53,1711033532469,1711033537021,Shall we asking you a few questions regarding travel?,94ms,47,¿Le haremos algunas preguntas sobre los viajes?
+,1711033533062,0,378ms,2,1711033533063,1711033534882,Ok,46ms,3,OK.
+,1711033546548,1,421ms,21,1711033546557,1711033550067,What is madigra word?,88ms,27,¿Qué es la palabra madigra?
+,1711033553669,1,402ms,10,1711033553670,1711033556194,Body grass,52ms,15,Hierba corporal
+,1711033555942,0,426ms,31,1711033555942,1711033559746,Me lo puedes revisar repetir. ,90ms,36,You can check it out for me repeat.
+,1711033557623,1,387ms,10,1711033557627,1711033560545,Madi grass,47ms,11,Madi hierba
+,1711033566462,1,440ms,41,1711033566464,1711033570622,There is something called madgrass world.,93ms,32,hay algo llamado mundo madgrass.
+,1711033573343,1,372ms,15,1711033573345,1711033575863,In New Orleans.,58ms,17,En Nueva Orleans.
+,1711033580068,1,426ms,10,1711033580070,1711033585227,MARDIGRAS.,75ms,10,Mardigras.
+,1711033580471,0,559ms,69,1711033580489,1711033587630,Oh te refieres a mármigras es un festival que se celebra cada año. ,178ms,63,Oh you mean Marmigras it's a festival that's held every year.
+,1711033593304,1,407ms,32,1711033593305,1711033596702,Yes yes I wanted to ask about it,90ms,37,Sí sí quería preguntar al respecto.
+,1711033602305,1,464ms,81,1711033602307,1711033607905,Have you ever celebrated this festival? Have you ever been part of this festival?,1711033608369ms,85,¿Alguna vez has celebrado este festival? ¿Alguna vez has sido parte de este festival?
+,1711033603904,0,423ms,4,1711033603905,1711033606301,Dime,57ms,8,Tell me.
+,1711033614829,0,495ms,52,1711033614831,1711033620106,Nunca he sido parte pero siempre los ele cada año. ,145ms,66,I've never been a part of it but I always choose them every year.
+,1711033626709,1,470ms,46,1711033626711,1711033630076,Can you tell me something about this festival?,96ms,41,¿Puedes decirme algo sobre este festival?
+,1711033637743,0,606ms,88,1711033637744,1711033650307,Este festival se hace en parada estaba año ¿Fiestas se le llama algo que hacen farrosa? ,182ms,88,This festival is held at a stop this year. Are parties called something they do farrosa?
+,1711033668548,1,435ms,45,1711033668552,1711033673507,Do you have any idea about the visiting time?,103ms,46,¿Tienes alguna idea sobre el tiempo de visita?
+,1711033674181,1,417ms,18,1711033674182,1711033676585,For this festival.,52ms,19,Para este festival.
+,1711033682468,0,605ms,114,1711033682469,1711033693463,Se se celebra en las últimas semanas de enero entrando en una semana de febrero. El gran día es el 13 de febrero. ,196ms,104,It is celebrated in the last weeks of January entering a week in February. The big day is February 13th.
+,1711033705468,1,333ms,4,1711033705469,1711033707266,Okay,20ms,9,está bien
+,1711033711464,1,455ms,21,1711033711465,1711033714305,What is a swamp tour?,90ms,31,¿Qué es un tour por el pantano?
+,1711033717507,1,500ms,48,1711033717508,1711033722303,I heard it's quite famous in around New Orleans.,111ms,61,He oído que es bastante famoso en alrededor de Nueva Orleans.
+,1711033722354,0,474ms,31,1711033722354,1711033725594,Me puedes repetir la pregunta. ,91ms,28,You can repeat the question.
+,1711033732745,1,433ms,17,1711033732747,1711033735942,Swamp boat tours.,67ms,22,Tours en bote pantano.
+,1711033738903,1,458ms,32,1711033738905,1711033742348,Have you not heard of it before?,108ms,32,¿No has oído hablar de él antes?
+,1711033741385,0,475ms,25,1711033741386,1711033747064,Oh sí puede IRTE todo. ,125ms,31,Oh yes you can GO everything.
+,1711033748584,0,491ms,41,1711033748585,1711033753430,Sí he oído hablar de él he ido una vez. ,124ms,41,Yes I've heard about him I've gone once.
+,1711033754105,0,559ms,99,1711033754107,1711033765747,Estás todo el día desde la mañana tarde puedes contratar un tour en un mortal donde te encuentres. ,175ms,89,You are all day from the morning afternoon you can hire a tour in a mortal where you are.
+,1711033774789,0,571ms,84,1711033774791,1711033783664,Te puede costar de de 30 a 50 dólares del día a veces viene con comida a veces no. ,192ms,90,It can cost you 30 to 50 dollars a day sometimes it comes with food sometimes it doesn't.
+,1711033793469,1,482ms,39,1711033793471,1711033797822,So they will be guiding us to see what.,96ms,33,Así que nos guiarán para ver qué.
+,1711033793664,0,521ms,55,1711033793665,1711033799591,El tour tarda aproximadamente una hora con 45 minutos. ,122ms,44,The tour takes about an hour and 45 minutes.
+,1711033810031,1,463ms,44,1711033810033,1711033813909,So what are we supposed to see in this tour?,116ms,54,Entonces ¿qué se supone que debemos ver en esta gira?
+,1711033824303,0,458ms,33,1711033824305,1711033828465,Puedes ver a animales silvestre. ,70ms,25,You can see wild animals.
+,1711033828745,0,453ms,21,1711033828747,1711033834681,Cocodrilo y el agua. ,89ms,20,Crocodile and water.
+,1711033839424,1,514ms,76,1711033839426,1711033846626,Is it any kind of a river safari or like the kind of safari we do on a boat.,175ms,88,¿Es cualquier tipo de un safari de río o como el tipo de safari que hacemos en un barco.
+,1711033856186,0,560ms,90,1711033856188,1711033865876,Es un par y de río es corto pero tarda una hora con 45 minutos puedes ver la naturaleza. ,192ms,93,It's a couple and the river is short but it takes an hour and 45 minutes you can see nature.
+,1711033875149,1,367ms,4,1711033875151,1711033877182,Okay,15ms,9,está bien
+,1711033882145,1,407ms,50,1711033882147,1711033887024,I heard there is a place called gumbo. Yeah yeah.,1711033887431ms,47,escuché que hay un lugar llamado gumbo. Sí sí.
+,1711033892584,1,458ms,18,1711033892585,1711033897424,Gumbo yeah yeah.,123ms,14,Gumbo sí sí.
+,1711033894188,0,498ms,22,1711033894189,1711033896831,Me lo puedes repetir. ,137ms,24,You can repeat it to me.
+,1711033901904,1,435ms,27,1711033901905,1711033904949,Is there a place like that?,80ms,23,¿Hay un lugar como ese?
+,1711033912427,0,505ms,40,1711033912429,1711033917304,Yo ango Siri me ha escuchado muy bien. ,115ms,40,I am Siri has listened to me very well.
+,1711033923068,1,476ms,52,1711033923070,1711033927029,May be I am not able to pronounce the name properly.,116ms,65,Puede ser que no soy capaz de pronunciar el nombre correctamente.
+,1711033934472,1,508ms,41,1711033934475,1711033937705,Have you ever been to the French quarter?,105ms,44,¿Has estado alguna vez en el Barrio Francés?
+,1711033936346,0,454ms,23,1711033936347,1711033939592,¿Te refieres al audio? ,72ms,15,You mean audio?
+,1711033949585,1,467ms,48,1711033949586,1711033954144,Have you ever been to this place French quarter?,121ms,52,¿Alguna vez has estado en este lugar Barrio Francés?
+,1711033951670,0,615ms,87,1711033951671,1711033959072,Sí he estado en el barrio francés muchas veces ahí es donde puedes encontrar batalle. ,199ms,87,Yeah I've been to the French Quarter a lot of times that's where you can find batalle.
+,1711033961107,0,471ms,36,1711033961108,1711033965873,La calle que se llama Bordon cree? ,121ms,39,The street called Bordon do you think?
+,1711033968230,0,386ms,9,1711033968232,1711033970870,La bombei,52ms,10,The Bombei
+,1711033971623,1,358ms,7,1711033971624,1711033973985,Ah yeah,50ms,6,Ah sí.
+,1711033973146,0,499ms,57,1711033973146,1711033978748,Y de hecho de hecho yo trabajo aquí en el barrio Ponce. ,125ms,51,And in fact I work here in the Ponce neighborhood.
+,1711033974703,1,388ms,20,1711033974704,1711033977185,The bourbone street.,66ms,18,La calle Bourbone.
+,1711033984664,1,445ms,56,1711033984665,1711033990826,So this phones neighbourhood is near the French quarter.,114ms,63,Así que este barrio de teléfonos está cerca del barrio francés.
+,1711033999624,0,516ms,51,1711033999625,1711034007785,Así es esta en medio de las calles es muy famosa. ,139ms,67,That's right this one in the middle of the streets is very famous.
+,1711034016701,1,565ms,94,1711034016702,1711034023504,Would you recommend me to go to the French quarter if I ever get a chance to visit new orails?,190ms,99,¿Me recomendarías ir al Barrio Francés si alguna vez tengo la oportunidad de visitar nuevos orales?
+,1711034033705,0,903ms,219,1711034033706,1711034056827,Claro que sí deberías de venir la noche nocturna es muy divertida y en el día puedes abrazar Dios tú donde ir y te recomendaría que te quedes en todo mi hotel se llama beth western joier hotel y te la pasará muy bien. ,421ms,216,Of course yes you should come the night is very fun and in the day you can embrace God where to go and I would recommend you to stay in all my hotel is called beth western joier hotel and you will have a great time.
+,1711034075582,1,429ms,22,1711034075596,1711034078387,Is there casino there?,69ms,17,¿Hay casino allí?
+,1711034084631,0,370ms,4,1711034084634,1711034086545,Toma,42ms,5,Take.
+,1711034089270,1,466ms,48,1711034089272,1711034093587,Is there any casino there in the French quarter?,105ms,44,¿Hay algún casino allí en el barrio francés?
+,1711034099669,0,732ms,139,1711034099671,1711034113585,Ya está en el barrio francés al Casino pero está como a unas 5 cuadras. Está en canal street que también es muy famoso se llama harasco. ,273ms,155,It's already in the French Quarter to the Casino but it's about five blocks away. It's on Canal Street which is also very famous and it's called Harasco.
+,1711034128709,1,451ms,21,1711034128712,1711034131462,So where do you work?,92ms,26,Entonces ¿dónde trabajas?
+,1711034130424,0,425ms,13,1711034130425,1711034133157,Jarra cocafio,90ms,13,Coca-fia jug.
+,1711034140789,0,526ms,69,1711034140791,1711034148707,Yo trabajo en un potente se llama beth western place coldgear hotel. ,138ms,66,I work at a powerful one called Beth Western Place Coldgear Hotel.
+,1711034155225,1,560ms,86,1711034155227,1711034163063,Oh okay. The hotel that you just told me to come and stay if I ever visit New Orleans.,1711034163623ms,103,Oh está bien. El hotel que me acabas de decir que venga y se aloje si alguna vez visito Nueva Orleans.
+,1711034172504,0,354ms,6,1711034172505,1711034174561,Así es,23ms,12,That's right
+,1711034178670,1,437ms,41,1711034178672,1711034183744,Does this hotel has any Lake facing room?,101ms,53,¿Este hotel tiene alguna habitación con cara al lago?
+,1711034191027,0,551ms,79,1711034191028,1711034199262,No tiene habitación con cara al lago porque se encuentra en el barrio Francés. ,149ms,71,It has no lake-facing room because it is located in the French Quarter.
+,1711034207425,1,452ms,34,1711034207427,1711034211026,Do you get any employee discounts?,94ms,41,¿Obtienes algún descuento para empleados?
+,1711034214784,1,383ms,80,1711034214785,1711034220669,I mean if you ever try to book a room in your own hotel. Will you get discount?,1711034221052ms,102,Quiero decir si alguna vez intentas reservar una habitación en tu propio hotel. ¿Recibirás descuento?
+,1711034217826,0,508ms,60,1711034217836,1711034224186,Sí tengo si tenemos descuento para empoleado pero puedes. ,142ms,61,Yes I have if we have a discount for employees but you can.
+,1711034232145,0,454ms,38,1711034232146,1711034236147,Sí sí tengo descuento de empleados. ,96ms,40,Yeah yeah I have an employee discount.
+,1711034241425,1,429ms,28,1711034241427,1711034244866,When is your weekly off day?,83ms,32,¿Cuándo es tu día libre semanal?
+,1711034251389,0,435ms,27,1711034251391,1711034254632,Los viernes y los sábados. ,69ms,22,Fridays and Saturdays.
+,1711034263983,1,407ms,61,1711034263984,1711034270741,So do you visit nearby places? Is this Friday and Saturdays?,1711034271148ms,64,Entonces ¿visitas lugares cercanos? ¿Es este viernes y sábados?
+,1711034280023,0,502ms,46,1711034280025,1711034284581,A veces descansa y a veces sí visito lugares. ,103ms,49,Sometimes I rest and sometimes I do visit places.
+,1711034294183,1,473ms,67,1711034294184,1711034300303,How many times have you been to the New Orleans Lake front airport?,133ms,75,¿Cuántas veces has estado en el aeropuerto frente al lago de Nueva Orleans?
+,1711034310627,0,420ms,14,1711034310628,1711034313145,Solo una vez. ,54ms,10,Only once.
+,1711034317183,1,424ms,50,1711034317185,1711034320902,Can I ask you one question regarding this airport?,99ms,50,¿Puedo hacerle una pregunta sobre este aeropuerto?
+,1711034327988,0,380ms,2,1711034327990,1711034329860,Sí,25ms,9,Yes I do
+,1711034333547,1,534ms,76,1711034333550,1711034340385,Is the runway of the New Orleans Lake front airport facing towards the Lake?,154ms,86,¿La pista del aeropuerto frente al lago de Nueva Orleans está orientada hacia el lago?
+,1711034349104,0,568ms,69,1711034349105,1711034354270,Sí sí está orientada hacia el lago pero es una pista muy pequeña. ,167ms,62,Yeah yeah it's facing the lake but it's a very small track.
+,1711034365105,1,433ms,50,1711034365105,1711034369984,There is a place called c Brook boat launch house.,106ms,47,hay un lugar llamado c brook boat launch house.
+,1711034374544,1,373ms,8,1711034374548,1711034376707,Seabrook,46ms,8,Seabrook
+,1711034378903,1,560ms,21,1711034378904,1711034381309,Have you heard of it?,81ms,25,¿Has oído hablar de ello?
+,1711034389185,0,373ms,2,1711034389186,1711034391025,Sí,12ms,9,Yes I do
+,1711034395428,1,521ms,82,1711034395429,1711034401464,Do you have any idea like if any reservations need to be done to visit that place?,144ms,82,¿Tiene alguna idea como si alguna reserva necesita hacerse para visitar ese lugar?
+,1711034410185,0,483ms,47,1711034410186,1711034414784,No no tengo ninguna idea por segunda he. Ido. ,140ms,40,No I have no idea for a second he. Ido.
+,1711034418787,0,492ms,14,1711034418789,1711034422396,Woofe esclavos,59ms,13,Woofe slaves.
+,1711034426628,0,367ms,4,1711034426629,1711034428865,Creo,45ms,8,I think.
+,1711034432629,0,379ms,8,1711034432630,1711034434625,Ya sabes,46ms,9,You know.
+,1711034438386,1,376ms,10,1711034438387,1711034440946,Okay let's,53ms,13,bien vamos a.
+,1711034441466,0,385ms,4,1711034441467,1711034443663,Hola,22ms,5,Hello
+,1711034441862,1,378ms,20,1711034441880,1711034445663,Stop this call here.,67ms,24,paren esta llamada aquí.
+,1711034449863,1,349ms,132,1711034449865,1711034459102,It's already time for today. It was really nice talking to you. You gave me a lot of information. It was really nice talking to you.,1711034459451ms,114,Ya es hora de hoy. Fue muy agradable hablar contigo. me diste mucha información. Fue muy agradable hablar contigo.
+,1711034455864,0,467ms,19,1711034455865,1711034458552,Hola ¿te escucho. ,83ms,18,Hi do I hear you.
+,1711034464426,0,437ms,13,1711034464428,1711034469191,Igual contigo,72ms,14,Same with you.
+,1711034472785,1,390ms,27,1711034472787,1711034475744,Thank you. Have a good day.,1711034476134ms,26,Gracias. ¡Ten un buen día.
+,1711034479582,0,437ms,5,1711034479583,1711034481867,Igual,48ms,5,Same.

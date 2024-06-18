@@ -1,0 +1,106 @@
+﻿Reference,SpeechId,Direction,SttLatency,length,beginOfSpeech,endOfSpeech,SttResult,TranslationLatency,length,TranslatedResult,useless,translation comment
+1709802036564
+,1709802035084,1,778ms,5,1709802035092,1709802037104,Hello,406ms,7,Bonjour
+,1709802040640,0,1519ms,4,1709802040646,1709802042515,Paul,268ms,7,Paul 's
+,1709802043101,1,434ms,22,1709802043106,1709802046034,Hi my name is Nalini.,103ms,29,Bonjour je m'appelle Nalini.
+,1709802045124,0,359ms,7,1709802045126,1709802047182,Bonjour,25ms,5,Hello
+,1709802052245,0,379ms,8,1709802052247,1709802054384,Enchanté,46ms,12,My pleasure.
+,1709802059987,1,420ms,70,1709802059990,1709802066901,I am calling from India and today. The topic will be sports and games.,1709802067321ms,71,J'appelle de l'Inde et aujourd'hui. Le sujet sera le sport et les jeux.
+,1709802070744,1,450ms,36,1709802070747,1709802073740,Are you comfortable with this topic?,98ms,34,Êtes-vous à l'aise avec ce sujet ?
+,1709802073666,0,368ms,9,1709802073667,1709802075755,Très bien,52ms,10,Very good.
+,1709802079763,0,390ms,20,1709802079764,1709802082382,Oui aucun problème. ,69ms,16,Yes no problem.
+,1709802086227,1,393ms,23,1709802086229,1709802090142,Are you fond of sports?,65ms,21,Vous aimez le sport ?
+,1709802092303,1,414ms,22,1709802092312,1709802094984,Any particular sports?,68ms,27,Des sports en particulier ?
+,1709802095742,0,644ms,125,1709802095744,1709802104993,C'est pas trop ce que je presse je sais pas trop ce que je préfère mais je peux regarder le sport et en pratiquer un peu ? ,278ms,121,It's not too much what I press I don't know what I like best but I can watch the sport and practice a little bit of it?
+,1709802116146,1,469ms,42,1709802116147,1709802121142,How what sports are most popular in France,95ms,50,Comment les sports les plus populaires en France ?
+,1709802128324,0,476ms,74,1709802128326,1709802135340,Alors en France c'est plutôt le football. Le le rugby et le volley-ball. ,1709802135816ms,54,So in France it's more football. Rugby and volleyball.
+,1709802146828,1,500ms,79,1709802146830,1709802154343,So what is the French national sport? Is it football or Rugby or anything else?,1709802154843ms,103,Qu'est-ce que le sport national français ? Est-ce le football ou le rugby ou quoi que ce soit d'autre ?
+,1709802156146,0,436ms,34,1709802156148,1709802159677,Je dirais que c'est le football ? ,87ms,26,I would say it's football?
+,1709802166025,1,453ms,33,1709802166027,1709802169762,Is cricket ever played in France?,89ms,41,Le cricket est-il jamais joué en France ?
+,1709802175287,0,561ms,108,1709802175288,1709802182240,Non pas du tout c'est plutôt un jeu qui est joué en Angleterre ou des choses comme ça mais pas en France ? ,212ms,96,Not at all is it more of a game that's played in England or things like that but not in France?
+,1709802192822,1,550ms,67,1709802192823,1709802200824,Have you ever gone to any stadium and seen any football match live?,162ms,82,Êtes-vous déjà allé dans un stade et avez-vous vu un match de football en direct ?
+,1709802208121,0,394ms,26,1709802208123,1709802210966,Oui une fois à Marseille. ,74ms,23,Yes once in Marseille.
+,1709802218864,1,448ms,40,1709802218866,1709802223225,Do you have any favourite football star?,92ms,41,Avez-vous une star du football préférée ?
+,1709802230604,0,445ms,36,1709802230625,1709802233780,Alors je dirais que c'est Zidane ? ,110ms,28,So I would say it's Zidane?
+,1709802239445,1,500ms,49,1709802239446,1709802244741,Had you watched this year FIFA's World Cup final?,146ms,73,Avez-vous regardé la finale de la Coupe du Monde de la FIFA cette année ?
+,1709802252164,0,585ms,126,1709802252166,1709802259900,Oui j'ai regardé et je pensais que le la France a l'air en finale mais ça a pas été le cas et ça a été difficile pour nous ? ,224ms,96,Yes I looked and I thought France looks in the final but it didn't and it was difficult for us?
+,1709802270027,1,471ms,29,1709802270029,1709802274482,So now do you not like messy?,110ms,48,Alors maintenant n'aimez-vous pas le désordre ?
+,1709802278103,1,391ms,8,1709802278104,1709802281102,M ESS I.,58ms,9,MADAME I.
+,1709802282883,0,451ms,49,1709802282884,1709802287501,Excusez-moi je je n'ai pas compris la question. ,122ms,44,Excuse me I didn’t understand the question.
+,1709802292347,1,440ms,22,1709802292349,1709802296027,Do you not like Messi?,78ms,24,Vous n'aimez pas Messi ?
+,1709802301126,0,451ms,29,1709802301128,1709802304084,Ah oui si j'aime bien Messi. ,96ms,23,Oh yes if I like Messi.
+,1709802310983,1,546ms,56,1709802310984,1709802317146,But he only made you lose the World Cup final isn't it?,177ms,76,Mais il ne vous a fait perdre la finale de la Coupe du Monde n'est-ce pas ?
+,1709802324762,0,530ms,68,1709802324765,1709802328904,Oui mais c'est pas grave. Ça reste un très bon joueur. Quand même ? ,1709802329434ms,58,Yeah but it's okay. He's still a very good player. Still?
+,1709802341424,1,463ms,36,1709802341427,1709802346622,Is p. SG the biggest club in France.,1709802347085ms,41,C'est p. SG le plus grand club de France.
+,1709802353043,0,514ms,70,1709802353046,1709802358283,Alors je dirais que c'est Paris mais dans mon cœur c'est Marseille ? ,166ms,58,So I would say it's Paris but in my heart it's Marseille?
+,1709802365507,1,431ms,44,1709802365509,1709802369781,What is the biggest football club in France?,105ms,51,Quel est le plus grand club de football de France ?
+,1709802376184,1,450ms,14,1709802376186,1709802379223,Is it not PSG?,97ms,21,N'est-ce pas le PSG ?
+,1709802378963,0,452ms,27,1709802378963,1709802381557,Je dirai que c'est Paris ? ,104ms,20,I'll say it's Paris?
+,1709802386887,0,394ms,13,1709802386888,1709802389312,Oui le p. S g,1709802389706ms,13,Yes the p.sg.
+,1709802401182,1,422ms,42,1709802401184,1709802405144,How big is the national stadium of France?,99ms,50,Quelle est la taille du stade national de France ?
+,1709802409668,1,487ms,47,1709802409670,1709802415517,Like can it hold more than 70 80000 of people?,135ms,60,Par exemple peut-il contenir plus de 70 800 000 personnes ?
+,1709802412025,0,471ms,34,1709802412026,1709802416149,Je dirais cent-mètres à peu près. ,120ms,35,I would say about a hundred meters.
+,1709802425403,0,389ms,31,1709802425405,1709802428756,Ah oui peut-être je pense oui. ,76ms,26,Oh yeah maybe I think yes.
+,1709802437146,1,694ms,147,1709802437147,1709802450143,As you told ragbi is also popular in France so is the same national stadium being used by the ruragby Union teams for international competitions.,305ms,175,Comme vous l'avez dit le ragbi est également populaire en France de même que le même stade national utilisé par les équipes de l'Union pour les compétitions internationales.
+,1709802463545,0,494ms,43,1709802463548,1709802467623,Oui le rugby est très populaire en France. ,172ms,37,Yes rugby is very popular in France.
+,1709802474584,1,1019ms,82,1709802474586,1709802481544,Have you ever seen the same stadium being shared by both football and Rugby teams?,680ms,81,Avez-vous déjà vu le même stade partagé par les équipes de football et de rugby ?
+,1709802491162,0,482ms,40,1709802491163,1709802495181,Oui il me semble à Toulouse et à Paris. ,141ms,35,Yes I think in Toulouse and Paris.
+,1709802509544,1,504ms,37,1709802509547,1709802514664,Is there a stadium named psg stadium?,143ms,49,Y a-t-il un stade qui s'appelle le stade du PSG ?
+,1709802521527,0,445ms,38,1709802521529,1709802524899,Non il s'appelle le Parc des Princes. ,109ms,37,It's not called the Parc des Princes.
+,1709802532701,1,416ms,105,1709802532702,1709802541503,I thought PSC is only the name of a football club but I read somewhere that. It's also a name of stadium.,1709802541919ms,119,Je pensais que PSC n'était que le nom d'un club de football mais j'ai lu quelque part ça. C'est aussi un nom de stade.
+,1709802546142,1,413ms,4,1709802546143,1709802548422,PSG.,64ms,4,PSG.
+,1709802553323,0,711ms,132,1709802553326,1709802562022,Non le p s g c'est le Paris Saint-Germain c'est le nom du club mais c'est pas le nom du stade le stade c'est le Parc des Princes. ,340ms,133,No p s g is Paris Saint-Germain it's the name of the club but it's not the name of the stadium the stadium is the Parc des Princes.
+,1709802579427,1,409ms,19,1709802579431,1709802582105,Do you know neymar?,68ms,24,Connaissez-vous Neymar ?
+,1709802587285,0,419ms,23,1709802587287,1709802589984,Oui je connais Neymar. ,83ms,19,Yes I know Neymar.
+,1709802594343,1,555ms,63,1709802594345,1709802599623,Does the Brazilian superstar name are steel place for PSG club?,171ms,91,Est-ce que le nom de la superstar brésilienne est un endroit en acier pour le club du PSG ?
+,1709802605787,1,493ms,63,1709802605789,1709802613066,Does the Brazilian superstar name are still place for PST club?,171ms,86,Est-ce que le nom de la superstar brésilienne est toujours la place pour le club PST ?
+,1709802608686,0,512ms,61,1709802608687,1709802612501,Ça a l'été mais je pense que ça ne l'est plus aujourd'hui ? ,162ms,51,It's summer but I don't think it's any more today?
+,1709802619865,1,509ms,84,1709802619866,1709802626503,Sorry the the question is not getting framed properly because of translation issue.,181ms,88,Désolé la question n'est pas encadrée correctement à cause d'un problème de traduction.
+,1709802634140,1,464ms,30,1709802634143,1709802640182,Dus nemar still plays for Psg.,104ms,32,Dusnemar joue toujours pour Psg.
+,1709802646888,0,518ms,85,1709802646890,1709802653466,Je pense que que c'était une grande star avant mais qu'aujourd'hui ça allait moins ? ,152ms,60,I think he was a big star before but today it was less good?
+,1709802663583,1,493ms,47,1709802663587,1709802668223,Can you tell me something about the games that?,109ms,52,Pouvez-vous me dire quelque chose sur les jeux qui ?
+,1709802668741,1,383ms,20,1709802668745,1709802671981,Kids play in France.,70ms,29,Les enfants jouent en France.
+,1709802678265,0,546ms,119,1709802678266,1709802686282,Alors les enfants adorent le foot ils regardent ils jouent c'est c'était un sport très populaire auprès des enfants. ,188ms,79,So kids love soccer they watch they play it's a very popular sport with kids.
+,1709802693983,1,507ms,71,1709802693984,1709802702022,Does France also participate in beach soccer international tournaments?,139ms,85,La France vous propose-t-elle également des tournois internationaux de beach soccer ?
+,1709802711045,0,606ms,123,1709802711047,1709802719106,Alors peut-être dans les îles dans les domtos mais pas en France je pense pas ou alors c'est pas vraiment international. ,253ms,105,So maybe in the islands in the domtos but not in France I don't think or it's not really international.
+,1709802729461,1,457ms,22,1709802729463,1709802732343,Do you play any games?,80ms,23,Jouez-vous à des jeux ?
+,1709802737444,0,426ms,41,1709802737445,1709802740670,Oui j'aime beaucoup les jeux de société. ,93ms,31,Yes I really like board games.
+,1709802750705,1,504ms,39,1709802750707,1709802754644,Is there something called French tarot?,136ms,56,Y a-t-il quelque chose qui s'appelle le tarot français ?
+,1709802761363,0,501ms,72,1709802761364,1709802767065,Oui le tarot est un jeu très populaire et c'est vraiment sympa à jouer. ,157ms,63,Yes tarot is a very popular game and it's really nice to play.
+,1709802773624,1,499ms,99,1709802773626,1709802781347,Can you tell me something about it? Like how many players you need to play this game and something.,1709802781846ms,135,Pouvez-vous me dire quelque chose à ce sujet ? Comme le nombre de joueurs dont vous avez besoin pour jouer à ce jeu et à quelque chose.
+,1709802784042,0,370ms,5,1709802784044,1709802786025,Merci,54ms,10,Thank you.
+,1709802790162,0,743ms,201,1709802790164,1709802803945,C'est un jeu qui se joue à plusieurs au minimum à 4 et c'est bien parce que du coup il y a des stratégies on peut faire plein de chose enfin c'est vraiment sympa et ça fait passer un très bon moment ? ,366ms,178,It's a game that is played with several at least 4 and it's good because so there are strategies we can do a lot of things finally it's really nice and it makes a very good time?
+,1709802826626,1,499ms,23,1709802826627,1709802830703,What about Oscar gourd?,111ms,33,Qu'en est-il de la gourde Oscar ?
+,1709802834505,1,410ms,11,1709802834506,1709802838828,ES CAR GOT.,65ms,18,LA VOITURE VOUS A.
+,1709802838982,0,491ms,48,1709802838983,1709802843026,Excusez-moi je n'ai pas entendu le nom du jeu. ,142ms,46,Excuse me I didn't hear the name of the game.
+,1709802849866,1,460ms,45,1709802849867,1709802854424,I am not able not able to pronounce the name.,98ms,43,Je ne suis pas capable de prononcer le nom.
+,1709802857864,1,470ms,20,1709802857866,1709802860945,But its spelling is.,89ms,27,Mais son orthographe l'est.
+,1709802861984,1,426ms,12,1709802861988,1709802866544,ESC. AR got.,1709802866970ms,17,Esc. AR a obtenu.
+,1709802874085,0,389ms,26,1709802874087,1709802876837,Je ne connais pas ce jeu. ,86ms,23,I don't know this game.
+,1709802881547,1,500ms,40,1709802881548,1709802885966,Okay have you ever played the game Uno?,121ms,42,D'accord avez-vous déjà joué au jeu Uno ?
+,1709802892402,0,603ms,150,1709802892404,1709802902079,Oui et si je trouve ça très drôle et ça fait passer un bon moment entre ami. C'est pareil un peu de stratégie mais il y a beaucoup aussi de hasards. ,1709802902682ms,150,Yes and if I find it very funny and it makes you have a good time with friends. It's the same as a bit of strategy but there's also a lot of chance.
+,1709802915505,1,413ms,3,1709802915509,1709802917461,Yes,36ms,3,Oui
+,1709802918323,1,638ms,123,1709802918325,1709802928865,In India we used to have a lot of fights over this game whenever any friends play rivers on you it really gets irritating.,248ms,130,En Inde nous avions beaucoup de bagarres pour ce jeu chaque fois que des amis vous jouent à Rivers ça devient vraiment irritant.
+,1709802935124,1,433ms,15,1709802935126,1709802937921,Reverse on you.,67ms,16,Revers sur vous.
+,1709802940161,0,674ms,152,1709802940162,1709802949519,Oui c'est vrai que ça peut faire un peu ? Ça peut faire un peu enrager. Parce que il faut vraiment de la chance et quand il y en a pas il y en a ? Pas. ,1709802950193ms,142,Yeah that's true it can do a little bit? It can be a little bit enraged. Because it really takes luck and when there are none there are? Not.
+,1709802963183,1,438ms,49,1709802963184,1709802967540,Do the French schools have dedicated games period,112ms,62,Les écoles françaises ont-elles consacré la période des jeux ?
+,1709802976923,0,649ms,167,1709802976925,1709802987666,Pas vraiment il y a mon vent surtout quand on est à l'école primaire ou vraiment dans les petites ? Classes mais après non il y a pas trop de de jeu dans les écoles. ,1709802988315ms,159,Not really there's my wind especially when you're in elementary school or really in the small ones? Classes but then no there is not too much play in schools.
+,1709803010025,1,429ms,32,1709803010027,1709803013462,Are there many rivers in France?,101ms,41,Y a-t-il beaucoup de rivières en France ?
+,1709803018928,0,498ms,84,1709803018930,1709803023824,De rivière oui il y en a pas mal parce qu'il y a beaucoup de montagnes en France. ,169ms,86,From the river yes there are quite a few because there are many mountains in France.
+,1709803031186,1,459ms,34,1709803031188,1709803035104,Is there a river called the rhyme?,130ms,44,Y a-t-il une rivière qui s'appelle la rime ?
+,1709803038321,1,426ms,10,1709803038322,1709803040744,Ryan river,42ms,10,Ryan River
+,1709803041765,0,460ms,45,1709803041766,1709803045903,Ça s'appelle le rein oui et c'est en Alsace. ,132ms,46,It's called the kidney yes and it's in Alsace.
+,1709803042785,1,386ms,7,1709803042793,1709803046027,RHI NE.,78ms,7,RHI NE.
+,1709803054587,1,493ms,46,1709803054624,1709803059424,Is there any water sports played on the river?,125ms,45,Y a-t-il des sports nautiques sur le fleuve ?
+,1709803066162,0,530ms,81,1709803066164,1709803073663,Oh j'imagine que oui il doit y avoir des courses d'aviron ? Des choses comme ça. ,1709803074193ms,60,Oh I guess yes there must be rowing races? Things like that.
+,1709803086424,1,559ms,70,1709803086426,1709803091544,What is the last time you had participated in any of the sports event?,229ms,84,Quelle est la dernière fois que vous avez participé à l'un des événements sportifs ?
+,1709803099404,0,516ms,59,1709803099406,1709803103226,À la dernière fois c'était fier la coupe du monde de foot. ,166ms,37,Last time it was proud the World Cup.
+,1709803109824,1,549ms,62,1709803109825,1709803115382,Had you gone to see the World Cup live in any of the stadiums?,175ms,71,Étiez-vous allé voir la Coupe du Monde en direct dans l'un des stades ?
+,1709803122244,0,416ms,29,1709803122247,1709803125304,Non je regardais à la télé. ,89ms,25,No I was watching on TV.
+,1709803132781,1,519ms,85,1709803132783,1709803141823,Apart from France who is your next second best country that you support in football?,175ms,97,En dehors de la France qui est votre deuxième meilleur pays que vous soutenez dans le football ?
+,1709803151722,0,419ms,23,1709803151723,1709803154714,Je dirais le Portugal. ,69ms,21,I would say Portugal.
+,1709803160066,1,388ms,4,1709803160068,1709803161942,Okay,56ms,10,D'accord ?
+,1709803164744,1,429ms,32,1709803164745,1709803167544,I think we are done for the day.,100ms,45,Je pense que nous avons fini pour la journée.
+,1709803168461,1,330ms,55,1709803168462,1709803174222,It was really nice talking to you take care. Thank you.,1709803174552ms,63,C'était vraiment agréable de vous parler. Nous vous remercions.
+,1709803174867,0,323ms,9,1709803174868,1709803176867,Très bien,23ms,10,Very good.
+,1709803179288,0,409ms,23,1709803179290,1709803181942,Merci beaucoup à vous. ,63ms,20,Thank you very much.

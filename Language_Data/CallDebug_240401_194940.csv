@@ -1,0 +1,111 @@
+﻿Reference,SpeechId,Direction,SttLatency,length,beginOfSpeech,endOfSpeech,SttResult,TranslationLatency,length,TranslatedResult,useless,translation comment
+1711980046150
+,1711980044423,1,780ms,5,1711980044437,1711980046350,Hello,436ms,4,Hola
+,1711980048053,0,611ms,3,1711980048058,1711980050181,Uno,243ms,3,One
+,1711980048213,1,479ms,41,1711980048214,1711980053059,Hi good evening I'm calling from India.,110ms,51,hola buenas tardes estoy llamando desde la india.
+,1711980057377,1,381ms,18,1711980057377,1711980059657,What is your name?,56ms,21,¿cómo se llama usted?
+,1711980060333,0,369ms,8,1711980060334,1711980062473,Halagaba,54ms,8,Halagaba
+,1711980064862,0,402ms,15,1711980064864,1711980067538,¿El nombre es? ,52ms,12,Is the name?
+,1711980080781,1,426ms,20,1711980080782,1711980083376,Are you from Mexico?,53ms,16,¿Eres de México?
+,1711980088254,0,455ms,19,1711980088256,1711980091508,Sí hay de México. ,78ms,21,Yes there is Mexico.
+,1711980097735,1,462ms,51,1711980097736,1711980103296,Menu which particular city in Mexico you are from.,101ms,49,Menú de qué ciudad en particular en México eres.
+,1711980110376,0,383ms,8,1711980110379,1711980112578,Veracruz,32ms,8,Veracruz
+,1711980122014,1,456ms,35,1711980122015,1711980125656,Today's topic is healthcare system.,87ms,38,El tema de hoy es el sistema de salud.
+,1711980128058,1,437ms,28,1711980128059,1711980130699,Are you comfortable with it?,71ms,27,¿Te sientes cómodo con eso?
+,1711980132734,0,381ms,10,1711980132735,1711980134778,De acuerdo,49ms,5,Okay.
+,1711980142577,1,524ms,62,1711980142578,1711980147735,Do people in Mexico still getting affected by the COVID virus?,131ms,68,¿Las personas en México todavía se ven afectadas por el virus COVID?
+,1711980157500,0,481ms,28,1711980157501,1711980161268,Es muy poco muy muy poco. ,96ms,36,It's very little very very little.
+,1711980171896,1,585ms,80,1711980171897,1711980178537,What was the name of the most effective vaccine that was used during COVID time?,197ms,86,¿Cuál era el nombre de la vacuna más eficaz que se utilizó durante el tiempo de COVID?
+,1711980186663,1,502ms,34,1711980186664,1711980190859,In India its name was Covishield.,153ms,38,En la India su nombre era Covishield.
+,1711980187501,0,485ms,28,1711980187502,1711980191592,¿Paisajes el motivo de paz? ,135ms,32,Landscapes the reason for peace?
+,1711980199781,0,605ms,30,1711980199783,1711980203115,Es la voz cometida descansó. ,156ms,33,It's the voice committed rested.
+,1711980200018,1,740ms,93,1711980200020,1711980208064,I wanted to know what is the name of the vaccine that was widely used in Mexico during COVID.,301ms,101,Quería saber cuál es el nombre de la vacuna que fue ampliamente utilizada en México durante la COVID.
+,1711980218615,0,626ms,39,1711980218616,1711980222778,La vacuna más conocida se llama false. ,140ms,39,The best-known vaccine is called False.
+,1711980229017,1,584ms,110,1711980229018,1711980239937,In India there were 2 vaccines that were very widely used. One name was Covishield and the other was Covaxin.,1711980240521ms,103,En la India había 2 vacunas que fueron muy utilizadas. Un nombre era Covishield y el otro era Covaxin.
+,1711980253418,1,748ms,107,1711980253419,1711980261618,I've read somewhere that the healthcare provided in Mexico is based on the employment status of the people.,298ms,120,He leído en alguna parte que la atención médica que se brinda en México se basa en la situación laboral de las personas.
+,1711980263777,1,458ms,11,1711980263778,1711980265982,Is it true?,73ms,11,¿Es cierto?
+,1711980287377,1,538ms,21,1711980287379,1711980289982,Hello are you there?,125ms,17,Hola ¿estás ahí?
+,1711980307818,1,492ms,23,1711980307821,1711980310018,Hello can you hear me?,123ms,15,Hola ¿me oyes?
+,1711980309742,0,521ms,16,1711980309744,1711980312020,¿Y qué escucho? ,120ms,19,And what do I hear?
+,1711980316658,0,481ms,19,1711980316659,1711980318899,¿Quién te escuche? ,93ms,19,Who listens to you?
+,1711980319216,1,700ms,86,1711980319216,1711980326938,He said the healthcare provided based on the employment schedule of people is it true?,250ms,102,Dijo que la atención médica proporcionada en base al calendario de empleo de las personas ¿es cierta?
+,1711980333983,1,766ms,101,1711980333988,1711980343718,I said the healthcare provided in Mexico is based on the employment status of the people is it true?,327ms,112,Dije que la atención médica que se brinda en México se basa en la situación laboral de las personas ¿es cierto?
+,1711980336977,0,611ms,57,1711980336978,1711980344338,Si la atención médica será un se mete bajo las empresas. ,171ms,53,If the health care will be a get under the companies.
+,1711980344855,0,636ms,40,1711980344862,1711980349393,Oh también que todo es gratuito creo. ,186ms,42,Oh also that everything is free I think.
+,1711980357698,1,512ms,36,1711980357700,1711980360976,Have you taken any Health Insurance?,136ms,34,¿Has tomado algún seguro de salud?
+,1711980368862,0,572ms,27,1711980368863,1711980371653,Puedo repetir no escuché. ,143ms,30,I can repeat I didn't listen.
+,1711980377860,1,394ms,36,1711980377862,1711980381775,Have you taken any Health Insurance?,22ms,34,¿Has tomado algún seguro de salud?
+,1711980385655,1,503ms,20,1711980385656,1711980389818,Like the IMS system.,116ms,20,Como el sistema IMS.
+,1711980393618,1,512ms,11,1711980393619,1711980397896,IMS system.,87ms,12,Sistema IMS.
+,1711980398058,0,470ms,18,1711980398060,1711980400387,Ya ves que quien. ,85ms,12,You see who.
+,1711980404937,1,596ms,49,1711980404938,1711980409901,There is something called the IM double S system.,168ms,39,Hay algo llamado el sistema IM doble S.
+,1711980416336,1,535ms,34,1711980416347,1711980420143,Mexican social security institute.,101ms,37,Instituto Mexicano del Seguro Social.
+,1711980419419,0,405ms,2,1711980419420,1711980421311,Sí,22ms,9,Yes I do
+,1711980425257,0,429ms,2,1711980425258,1711980427065,Sí,27ms,9,Yes I do
+,1711980427457,0,569ms,31,1711980427468,1711980431100,5 en una relación laboral sí. ,136ms,37,5 In an employment relationship yes.
+,1711980439656,1,634ms,36,1711980439657,1711980444060,Who is eligible for I? MS in Mexico.,1711980444694ms,41,¿Quién es elegible para mí? MS en México.
+,1711980456500,0,453ms,12,1711980456502,1711980459467,Es repetible,103ms,16,It's repeatable.
+,1711980465898,1,521ms,54,1711980465899,1711980470258,How much do you have to pay for your Health Insurance?,157ms,47,¿Cuánto tiene que pagar por su seguro de salud?
+,1711980482416,0,573ms,24,1711980482417,1711980487658,¿Depende ve tu salario? ,127ms,30,Does it depend on your salary?
+,1711980494661,1,619ms,95,1711980494663,1711980504655,I I don't know. Can you tell me if this premium of the Health Insurance depends on the salary?,1711980505274ms,84,Yo no lo sé. ¿Puedes decirme si esta prima del Seguro de Salud depende del salario?
+,1711980513335,0,586ms,25,1711980513336,1711980516658,Sí depende del salario. ,133ms,30,Yes it depends on the salary.
+,1711980523459,1,572ms,151,1711980523461,1711980539698,Let's say if you earn 10000 pesos in a month and I earn 1000 pesos in a month. Then we both will be paying different premiums for our Health Insurance.,1711980540270ms,139,Digamos si ganas 10000 pesos en un mes y gano 1000 pesos en un mes. Entonces ambos pagaremos diferentes primas por nuestro seguro de salud.
+,1711980553535,0,567ms,26,1711980553536,1711980556259,¿Diferentes pueden decir? ,123ms,25,Can different people say?
+,1711980565540,1,474ms,98,1711980565542,1711980573457,Does it cover only the public sector employees? Or it is applicable to the private sector as well.,1711980573931ms,89,¿Cubre sólo a los empleados del sector público? O es aplicable también al sector privado.
+,1711980585416,0,557ms,39,1711980585416,1711980588506,También se aplica al petróleo privado. ,117ms,31,It also applies to private oil.
+,1711980596856,1,537ms,54,1711980596857,1711980602256,Can you tell me something about seguro popular system?,155ms,54,¿Puedes contarme algo sobre el sistema seguro popular?
+,1711980611216,0,1139ms,172,1711980611217,1711980626782,Sí hay otra modalidad donde tuve relación laboral pero tú con tus propios medios Gustavo flaubert seguro es más alto porque todo toda la prima la tienes que cubrirte. ,539ms,180,Yes there is another modality where I had a working relationship but you with your own means Gustavo flaubert surely it is higher because all the premium you have to cover it.
+,1711980627015,0,550ms,24,1711980627017,1711980629782,¿Qué año es una opción? ,117ms,23,What year is an option?
+,1711980656135,1,689ms,66,1711980656137,1711980662699,Do you ever need a prescription to buy any drug from the chemists?,300ms,80,¿Alguna vez necesitas una receta para comprar algún medicamento de los químicos?
+,1711980682697,1,659ms,87,1711980682698,1711980689938,Because in the USA people can't buy anything from the chemist without any prescription.,229ms,78,Porque en EE.UU. la gente no puede comprar nada al químico sin ninguna receta.
+,1711980699696,0,539ms,7,1711980699698,1711980701700,Y puedo,180ms,10,And I can.
+,1711980702216,0,644ms,58,1711980702217,1711980706264,Quita tele hay muchos medicamentos que se quieren decir. ,194ms,55,Take TV there are many medicines that you want to say.
+,1711980708738,0,598ms,42,1711980708739,1711980712630,Sí puede comprar medicamentos en pezeta. ,164ms,37,Yes you can buy medicines in a fish.
+,1711980722856,1,547ms,29,1711980722858,1711980726617,Are you aware of homoeopathy?,138ms,23,¿Conoces la homeopatía?
+,1711980735858,1,516ms,44,1711980735861,1711980741097,It's a different method of treating illness.,140ms,48,Es un método diferente para tratar enfermedades.
+,1711980742499,1,507ms,23,1711980742500,1711980745454,Quite popular in India.,107ms,24,Muy popular en la India.
+,1711980748059,1,478ms,20,1711980748061,1711980750697,Are you aware of it?,98ms,12,¿Lo conoces?
+,1711980754582,0,512ms,20,1711980754583,1711980757864,Sí Chile conozco. ,118ms,19,Yes Chile I know.
+,1711980771896,1,587ms,44,1711980771897,1711980775657,What is the nearest hospital from your city?,145ms,46,¿Cuál es el hospital más cercano de tu ciudad?
+,1711980780939,1,591ms,28,1711980780941,1711980784337,Is it the Angeli's hospital?,159ms,26,¿Es el hospital de Angeli?
+,1711980783340,0,538ms,36,1711980783341,1711980786903,Es la película de mi seguro social. ,138ms,30,It's my social security movie.
+,1711980793860,1,636ms,70,1711980793861,1711980800175,Is the Angeli's hospital the largest private hospital group in Mexico?,223ms,74,¿Es el hospital de Angeli el mayor grupo de hospitales privados de México?
+,1711980818380,0,629ms,69,1711980818381,1711980825216,Eso no es una clínica de mí el instituto mexicano de seguro social. ,203ms,65,That's not a clinic of me the Mexican Social Security Institute.
+,1711980820294,1,578ms,62,1711980820295,1711980825017,Are you aware of the largest private hospital group in Mexico?,168ms,57,¿Conoces el mayor grupo de hospitales privados en México?
+,1711980834256,1,558ms,33,1711980834257,1711980837698,What about the private hospitals?,134ms,38,¿Qué pasa con los hospitales privados?
+,1711980844059,0,459ms,11,1711980844060,1711980846896,Igual igual,76ms,5,Same.
+,1711980849820,1,470ms,23,1711980849822,1711980852858,Are they not expensive?,104ms,14,¿No son caros?
+,1711980861020,0,575ms,28,1711980861022,1711980864259,Fui relativamente cada sí. ,122ms,27,I was relatively each yes.
+,1711980875495,1,610ms,102,1711980875496,1711980884419,Do the Mexican people prefer video consultation are going directly to the nearest hospital and clinic.,223ms,106,¿El pueblo mexicano prefiere la consulta por video que va directamente al hospital y clínica más cercanos?
+,1711980895774,0,478ms,35,1711980895775,1711980899076,Requiere directamente al hospital. ,98ms,34,It requires the hospital directly.
+,1711980909660,1,538ms,75,1711980909661,1711980914973,You have never used any mobile application to book your Doctor appointment.,157ms,80,Nunca ha utilizado ninguna aplicación móvil para reservar su cita con el médico.
+,1711980917256,1,391ms,11,1711980917257,1711980919422,Is it true?,8ms,11,¿Es cierto?
+,1711980926256,0,443ms,17,1711980926258,1711980928819,La he utilizado. ,83ms,13,I've used it.
+,1711980933661,1,481ms,29,1711980933662,1711980937775,Is there a app called Doctor?,98ms,35,¿hay una aplicación llamada doctor?
+,1711980939459,1,383ms,10,1711980939461,1711980942935,DOC TOU. R,1711980943318ms,10,DOC TOU. R
+,1711980949417,1,526ms,76,1711980949419,1711980954935,I've heard it is widely used in Mexico for booking appointments with Doctor.,167ms,81,He oído que es ampliamente utilizado en México para reservar citas con el Doctor.
+,1711980955141,0,540ms,24,1711980955142,1711980957980,Eso no lo ha utilizado. ,106ms,20,He hasn't used that.
+,1711980962818,1,562ms,83,1711980962820,1711980969830,Okay can you tell me which app have you used for booking with Doctor appointments?,194ms,80,Vale ¿puede decirme qué app ha utilizado para reservar con citas con el médico?
+,1711980965695,0,539ms,35,1711980965698,1711980969298,Esa aplicación dio a la utilizada. ,107ms,31,That application gave the used.
+,1711980978417,0,492ms,48,1711980978418,1711980983419,La aplicación del instituto mexicano de social. ,109ms,54,The implementation of the Mexican Institute of Social.
+,1711980995899,1,569ms,65,1711980995901,1711981001815,What's the minimum legal age to start drinking alcohol in Mexico?,166ms,69,¿Cuál es la edad mínima legal para empezar a beber alcohol en México?
+,1711981009299,0,468ms,7,1711981009303,1711981011818,18 años,69ms,9,18 years.
+,1711981017543,1,497ms,35,1711981017544,1711981021977,People don't drink before 18 years.,116ms,38,La gente no bebe antes de los 18 años.
+,1711981025815,1,551ms,57,1711981025816,1711981032702,In India people drink unofficially even before 18 years.,177ms,74,En la India la gente bebe extraoficialmente incluso antes de los 18 años.
+,1711981033495,0,507ms,28,1711981033498,1711981037191,Que su bebé Pedro realizó. ,109ms,31,That his baby Peter performed.
+,1711981043498,0,456ms,24,1711981043500,1711981046187,¿Quinta vive en México? ,87ms,22,Fifth lives in Mexico?
+,1711981056574,1,405ms,54,1711981056576,1711981060497,Can you repeat your question? I didn't understand you.,1711981060902ms,43,¿Puedes repetir tu pregunta? No te entendí.
+,1711981065296,0,592ms,64,1711981065298,1711981071261,También en México deben exteroficialmente antes de los 18 años. ,151ms,72,Also in Mexico they must be out of official status before the age of 18.
+,1711981079055,1,461ms,41,1711981079056,1711981083940,When was the first time you book alcohol?,109ms,50,¿Cuándo fue la primera vez que reservaste alcohol?
+,1711981091576,0,391ms,12,1711981091578,1711981094538,Cuando tenía,50ms,10,When I had
+,1711981099137,0,512ms,23,1711981099143,1711981101787,Se vendió a quien has. ,91ms,33,It was sold to whomever you have.
+,1711981101178,1,362ms,8,1711981101179,1711981103014,Okay age,47ms,12,Bien de edad
+,1711981108100,1,461ms,51,1711981108102,1711981114895,At what age had you had your first shipper alcohol?,124ms,53,¿A qué edad habías tenido tu primer barco de alcohol?
+,1711981116818,0,453ms,32,1711981116819,1711981119509,Primera vez que tomé pacíficas. ,87ms,27,First time I took peaceful.
+,1711981120935,0,489ms,15,1711981120936,1711981123741,A los 15 años. ,71ms,16,At 15 years old.
+,1711981128095,1,465ms,25,1711981128097,1711981131314,Okay that's interesting.,89ms,30,Está bien eso es interesante.
+,1711981142138,1,446ms,34,1711981142138,1711981147740,Okay I think we are done for today,100ms,47,de acuerdo creo que ya hemos terminado para hoy
+,1711981148699,1,549ms,105,1711981148700,1711981156512,It was really nice talking to you. You shared a lot of information about the healthcare system in Mexico.,1711981157061ms,106,Fue muy agradable hablar con usted. Usted compartió mucha información sobre el sistema de salud en México.
+,1711981154776,0,454ms,2,1711981154779,1711981156662,Ok,122ms,3,OK.
+,1711981162937,1,315ms,18,1711981162939,1711981166230,Take care bye. Bye,1711981166545ms,26,Cuídate adiós. ¡Nos vemos
+,1711981165618,0,552ms,39,1711981165619,1711981171627,Muchas gracias gracias y verme adiós. ,120ms,50,Thank you very much thank you and see me goodbye.

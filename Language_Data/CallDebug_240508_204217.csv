@@ -1,0 +1,48 @@
+﻿Reference,SpeechId,Direction,SttLatency,length,beginOfSpeech,endOfSpeech,SttResult,TranslationLatency,length,TranslatedResult,useless,translation comment
+1715180573741
+,1715180572918,1,867ms,4,1715180572929,1715180574839,हेलो,1715180575706ms,4,Halo
+,1715180580954,1,539ms,27,1715180580955,1715180584796,ये आज के दिन का आखिरी होगा।,1715180585335ms,37,This will be the last of today's day.
+,1715180582554,0,540ms,4,1715180582559,1715180584595,Okay,239ms,6,ठीक है
+,1715180590999,0,293ms,4,1715180591000,1715180592835,Okay,17ms,6,ठीक है
+,1715180593554,1,454ms,42,1715180593554,1715180598710,अभी के कक्षा का विषय है स्वास्त्य चरियाली।,1715180599164ms,54,The subject of the current class is Swastya Chariyali.
+,1715180603996,1,417ms,24,1715180603998,1715180607432,स्वास्त्य चरिया प्रणाली।,1715180607849ms,22,Swastya Charia system.
+,1715180611192,1,370ms,18,1715180611193,1715180613672,हेल्थ केयर सिस्टम।,1715180614042ms,19,health care system.
+,1715180619273,0,410ms,11,1715180619274,1715180621471,That's fine,27ms,9,यह ठीक है
+,1715180627956,1,397ms,53,1715180627958,1715180632563,क्या मैं जान सकता हूं यूके के किस शहर में आप रहती हो?,1715180632960ms,44,Can I know which city in the UK you live in?
+,1715180637436,0,535ms,41,1715180637437,1715180641874,Brad Clifford do you wanna f****** drop?,108ms,53,ब्रैड क्लिफोर्ड क्या आप कमबख्त ड्रॉप करना चाहते हैं?
+,1715180650758,1,395ms,42,1715180650759,1715180654966,क्या आपको ब्रिटेन की नागरिकता मिल चुकी है?,1715180655361ms,28,Have you got UK citizenship?
+,1715180667198,1,403ms,26,1715180667200,1715180671633,क्या आपएनएचएस यूज करते हो।,1715180672036ms,19,Do you use the NHS?
+,1715180671474,0,429ms,16,1715180671474,1715180674597,You can tell me.,61ms,21,आप मुझे बता सकते हैं।
+,1715180676118,0,325ms,3,1715180676119,1715180681032,Yes,35ms,4,हाँ।
+,1715180683953,1,441ms,65,1715180683954,1715180690993,क्या एनएचएस सबके लिए फ्री है? यह सिर्फ यूके के रेजिडेंट्स के लिए।,1715180691434ms,71,Is the NHS free for everyone? This is only for the residents of the UK.
+,1715180697432,0,426ms,5,1715180697434,1715180701196,Yahoo,38ms,4,याहू
+,1715180706598,1,468ms,70,1715180706599,1715180713273,क्या बिना नौकरी वाला व्यक्ति भी एनएच एस सेवा पाने का हकदार हो सकता है?,1715180713741ms,59,Can a person without a job also be entitled to NHS service?
+,1715180719315,0,458ms,14,1715180719317,1715180721754,Yes the cunn.,72ms,9,हाँ कून।
+,1715180728476,1,451ms,49,1715180728478,1715180734970,क्या वहां पे एम्बुलेंस सेवा और फार्मासी? फ्री है।,1715180735421ms,49,Is there an ambulance service and pharmacy? Free.
+,1715180730351,0,400ms,18,1715180730354,1715180737395,Bixby open the TV.,71ms,19,बिक्सबी टीवी खोलें।
+,1715180741998,0,540ms,75,1715180741999,1715180750441,Ohh yes but ambulance service is 3 but you'll probably towards it about.,156ms,71,ओह हाँ लेकिन एम्बुलेंस सेवा 3 है लेकिन आप शायद इसके बारे में करेंगे।
+,1715180751153,0,456ms,25,1715180751155,1715180754198,With the new legislation.,58ms,16,नए कानून के साथ।
+,1715180762151,1,433ms,66,1715180762152,1715180767366,क्या वहां पे किसी भी बीमारी के इलाज के लिए पैसा नहीं देना पड़ता है?,1715180767799ms,38,Don't you have to pay for any disease?
+,1715180774155,0,449ms,70,1715180774157,1715180780479,Sorry what do you means? You'll do? You'll have to pay for any teams.,1715180780928ms,83,क्षमा करें आपका क्या मतलब है? आप करेंगे? आपको किसी भी टीम के लिए भुगतान करना होगा।
+,1715180790315,1,505ms,113,1715180790317,1715180799996,मैं ये पूछना चाहता था कि क्या यूके में किसी भी बीमारी का इलाज के लिए वहां के नागरिकों को पैसा भरना नहीं पड़ता है।,1715180800501ms,94,I wanted to ask if the citizens there do not have to pay money to treat any disease in the UK.
+,1715180809114,0,506ms,240,1715180809125,1715180826436,Most diseases can't be treated in the UK but for any that are too complex you would have to pay your money and go out of the countries discovered things such as transfer transfer them up to 4 on. It just depends on how bad the disease is.,1715180826942ms,266,अधिकांश बीमारियों का इलाज यूके में नहीं किया जा सकता है लेकिन किसी भी के लिए जो बहुत जटिल हैं आपको अपने पैसे का भुगतान करना होगा और देशों से बाहर जाना होगा जैसे कि स्थानांतरण उन्हें 4 तक स्थानांतरित करें। यह सिर्फ इस बात पर निर्भर करता है कि बीमारी कितनी खराब है।
+,1715180848714,1,368ms,3,1715180848716,1715180850673,ओके,1715180851041ms,2,OK
+,1715180854713,1,651ms,158,1715180854715,1715180869236,जैसे कि आपने कहा कि आप इंग्लेंड से हो। मान लो की आप कभी इंग्लेंड से बाहर किसी दूसरे देश में जाते हैं। मान लुकी वेल्स। तो क्या वेल्स में भी एनएचएस फ्री रहेगा?,1715180869887ms,150,As you said you're from England. Let's say you ever go out of England to another country. Mann Lukie Wells. So will the NHS remain free in Wales too?
+,1715180883112,0,551ms,183,1715180883132,1715180896798,No I wouldn't. You would need to pay for some kind of Health Insurance to ensure that you're covered abroad? Because if you don't uh then you will need to pay a huge mark for money.,1715180897349ms,225,नहीं मैं नहीं होगा. आपको यह सुनिश्चित करने के लिए किसी प्रकार के स्वास्थ्य बीमा के लिए भुगतान करना होगा कि आप विदेश में कवर किए गए हैं? क्योंकि यदि आप नहीं करते हैं उह तो आपको पैसे के लिए एक बड़ा निशान का भुगतान करना होगा।
+,1715180915554,1,464ms,49,1715180915556,1715180921634,क्या वहां पर बीमा प्मीव्त्त आय पर निर्भर करता है?,1715180922098ms,44,Does insurance depend on the cost of income?
+,1715180928317,0,534ms,172,1715180928318,1715180943631,No it does not depend on the cost of income. It depends on the type of age. What kind of disease you have? Whether you're more alcoholic I can go on for mobile lifestyle.,1715180944165ms,172,नहीं यह आय की लागत पर निर्भर नहीं करता है। यह उम्र के प्रकार पर निर्भर करता है। आपको किस तरह की बीमारी है? चाहे आप अधिक शराबी हों मैं मोबाइल जीवन शैली के लिए जा सकता हूं।
+,1715180943873,0,343ms,6,1715180943875,1715180946075,For me,48ms,8,मेरे लिए
+,1715180948157,0,369ms,9,1715180948158,1715180951317,Yeah yeah,56ms,11,हाँ हाँ हाँ
+,1715180959793,1,457ms,49,1715180959794,1715180964792,क्या वहां पालतू जानवरों के लिए भी बीमा उपलब्ध है?,1715180965249ms,43,Is there even insurance available for pets?
+,1715180970434,0,550ms,194,1715180970436,1715180983916,Ohh yeah there's money insurance real world top pets mainly for cuts and dogs. But then obviously we've got we just don't stop like the reptiles. You can also get insurance for that as drive.,1715180984466ms,215,ओह हाँ मुख्य रूप से कटौती और कुत्तों के लिए पैसे बीमा असली दुनिया के शीर्ष पालतू जानवर हैं। लेकिन फिर जाहिर है कि हम सिर्फ सरीसृपों की तरह नहीं रुकते हैं। आप ड्राइव के रूप में इसके लिए बीमा भी प्राप्त कर सकते हैं।
+,1715181006875,1,630ms,86,1715181006877,1715181014678,मैंने सुना है कि वहाँ पालतू जानवरों के बीमा के लिए। बड़ी राशि का भुगतान करना पड़ता है।,1715181015308ms,79,I've heard that there's pet insurance out there. A large amount has to be paid.
+,1715181024352,0,860ms,196,1715181024353,1715181039153,No you just can't pay monthly insurance. Depending on the mark what you want and then it will cover up to a certain amount of in trying to like a little team when you just hear something happens.,1715181040013ms,185,नहीं आप सिर्फ मासिक बीमा का भुगतान नहीं कर सकते। निशान के आधार पर आप क्या चाहते हैं और फिर यह एक छोटी सी टीम को पसंद करने की कोशिश में एक निश्चित मात्रा तक कवर करेगा जब आप कुछ होता है।
+,1715181048758,0,805ms,18,1715181048758,1715181052563,Ohh yeah my God.,122ms,16,हाँ मेरे भगवान।
+,1715181053914,0,506ms,27,1715181053916,1715181059193,Oh yeah? Oh aye perhaps.,1715181059699ms,19,ओह हाँ? हाँ शायद।
+,1715181060915,0,537ms,35,1715181060916,1715181065040,Ohh is it a bit early bit any bit?,156ms,27,ओह क्या यह थोड़ा जल्दी है?
+,1715181064034,1,571ms,68,1715181064036,1715181070569,क्या कोई हेल्थकेयर ऐप है? जिसके माध्यम से अपॉइंटमेंट बुक करा जा सके।,1715181071140ms,72,Is there a health care app? through which the appointment can be booked.
+,1715181076637,0,1017ms,204,1715181076652,1715181094834,Yes there's the NHS has kept up on their money. There's many other ones as well which like to log in and you couldn't do repeat prescription and you can also do. Do people kids or get advice from online?,1715181095851ms,187,हां एनएचएस ने अपने पैसे पर रखा है। कई अन्य भी हैं जो लॉग इन करना पसंद करते हैं और आप दोहराए गए पर्चे नहीं कर सकते हैं और आप भी कर सकते हैं। क्या लोग बच्चे हैं या ऑनलाइन से सलाह लेते हैं?
+,1715181114715,1,487ms,21,1715181114716,1715181117593,आपसे बात कर के अच्छा।,1715181118080ms,25,It's good to talk to you.
+,1715181119314,1,420ms,7,1715181119315,1715181121355,धन्यवाद,1715181121775ms,10,Thank you.
+,1715181125234,0,542ms,20,1715181125236,1715181127636,Thank you very much.,86ms,18,बहुत बहुत धन्यवाद.
+,1715181127765,1,351ms,6,1715181127766,1715181129920,अलविदा,1715181130271ms,7,Goodbye

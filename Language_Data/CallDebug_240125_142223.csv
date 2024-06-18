@@ -1,0 +1,87 @@
+﻿Reference,SpeechId,Direction,SttLatency,SttLength,beginOfSpeech,endOfSpeech,SttLocale,SttResult,TranslationLatency,TranslatedLength,TranslatedLocale,TranslatedResult,useless,translation comment
+1706172253989
+,1706171478785,1,1153ms,9,1706171478793,1706171481121,hi_IN,हेलो हेलो,842ms,15,fr_FR,Bonjour Bonjour
+,1706171487922,1,467ms,31,1706171487923,1706171491083,hi_IN,क्या मैं आपका नाम जान सकता हूँ?,145ms,34,fr_FR,Puis-je vous connaître votre nom ?
+,1706171496222,0,593ms,2,1706171496223,1706171500561,fr_FR,15,315ms,2,hi_IN,15
+,1706171506683,1,546ms,45,1706171506684,1706171511162,hi_IN,मेरा नाम भानुप्रकाश है और मैं बैंगलोर से हूँ।,235ms,51,fr_FR,Je m'appelle Bhanuprakash et je viens de Bangalore.
+,1706171506985,0,367ms,7,1706171506987,1706171509093,fr_FR,Bonjour,72ms,8,hi_IN,नमस्कार!
+,1706171522963,1,551ms,76,1706171522965,1706171529802,hi_IN,क्या मुझे आप फ्रांस के कुछ सांस्कृतिक आकर्षण के बारे में जानकारी दे सकते हो?,245ms,88,fr_FR,Pouvez-vous me donner des informations sur certaines attractions culturelles en France ?
+,1706171538823,0,559ms,49,1706171538824,1706171550520,fr_FR,C'est à l'absence endroits sublimes qu'est-ce. ,225ms,43,hi_IN,यह अनुपस्थिति है स्थान उदात्त हैं जो हैं।
+,1706171551521,0,318ms,5,1706171551522,1706171554487,fr_FR,16190,14ms,5,hi_IN,16190
+,1706171552306,1,674ms,22,1706171552322,1706171554090,hi_IN,मंदिर का मुख्य काम है।,144ms,29,fr_FR,L'œuvre principale du temple.
+,1706171560841,1,638ms,71,1706171560843,1706171568204,hi_IN,बहुत धन्यवाद। क्या मुझे आप दूसरे सांस्कृतिक स्थल की जानकारी दे सकते हो?,1706171568842ms,83,null,Merci beaucoup. Pouvez-vous me donner des informations sur un autre lieu culturel ?
+,1706171563439,0,375ms,6,1706171563439,1706171566200,fr_FR,Pardon,81ms,11,hi_IN,क्षमा करें।
+,1706171579259,0,520ms,15,1706171579260,1706171584839,fr_FR,L'arc du coup. ,120ms,12,hi_IN,झटका का चाप.
+,1706171585281,0,502ms,39,1706171585282,1706171588856,fr_FR,Si personne prenne beaucoup de fautes. ,152ms,42,hi_IN,अगर कोई भी बहुत सारी गलतियां नहीं करता है।
+,1706171596501,1,559ms,64,1706171596503,1706171602171,hi_IN,क्या मुझे कुछ ऐतिहासिक स्थल के नाम बता सकते हो जो फ्रांस में है?,265ms,79,fr_FR,Pouvez-vous me dire les noms de certains sites historiques qui sont en France ?
+,1706171610062,0,629ms,80,1706171610063,1706171617083,fr_FR,Le site historique que j'en ai parlé ça a tout est fait l'arc des treillances ? ,292ms,82,hi_IN,ऐतिहासिक स्थल जिसके बारे में मैंने बात की थी उसने सब कुछ ट्रेलेंस का चाप किया है?
+,1706171628118,1,499ms,52,1706171628120,1706171632735,hi_IN,क्या आप मुझे फ्रांस के खानपान की जानकारी दे सकते हो?,215ms,71,fr_FR,Pouvez-vous me donner des informations sur la nourriture de la France ?
+,1706171639685,0,794ms,282,1706171639687,1706171667325,fr_FR,Oui en France on mange beaucoup du du du fromage au petit déjeuner on a on va avoir déjà du petit déjeuner et du déjeuner et du généralement. C'est les apéritifs faire un petit déjeuner et au déjeuner on va des fois manger dans des restaurants alors il y a une barre inquiéter de.,1706171668119ms,213,null,हां फ्रांस में हम नाश्ते में बहुत सारे पनीर खाते हैं हम नाश्ता और दोपहर का भोजन करने जा रहे हैं और आमतौर पर। यह ऐपेटाइज़र है नाश्ता बनाते हैं और दोपहर के भोजन पर हम कभी-कभी रेस्तरां में खाएंगे ताकि बार चिंता हो।
+,1706171685603,1,648ms,80,1706171685605,1706171692653,hi_IN,धन्यवाद क्या मुझे आप सामान्य सामाजिक आचार शैली और व्यवहारों के बारे जानकारी हो?,316ms,97,fr_FR,Merci est-ce que je vous connais sur l'éthique sociale générale le style et les comportements ?
+,1706171702984,0,416ms,9,1706171702986,1706171705123,fr_FR,Par adore,78ms,12,hi_IN,द्वारा Adore
+,1706171715484,1,549ms,59,1706171715485,1706171721042,hi_IN,क्या मुझे आप फ्रांस की सरकार के बारे को जानकारी दे सकते हो?,210ms,69,fr_FR,Pouvez-vous me donner des informations sur le gouvernement français ?
+,1706171728982,0,340ms,5,1706171728983,1706171733720,fr_FR,736. ,24ms,5,hi_IN,736. 
+,1706171734682,0,1017ms,216,1706171734683,1706171755040,fr_FR,Sinon qu'ils sont des personnes qui vont décider des mauvaises règles des lois qui peuvent être votées un président avec un encens de ministre qui sont chargés de chers respectueux ? Le le le programme du président. ,1706171756057ms,193,null,अन्यथा वे लोग हैं जो कानूनों के बुरे नियमों का फैसला करेंगे जिन्हें मंत्रियों की धूप के साथ राष्ट्रपति पारित किया जा सकता है जिन पर प्रिय सम्मान का आरोप लगाया जाता है? राष्ट्रपति का कार्यक्रम।
+,1706171773407,1,657ms,101,1706171773409,1706171782161,hi_IN,क्या मुझे फ्रांस में शेयरों के बीच परिवहन के लिए जो व्यवस्था है उसके बारे में कुछ जानकारी दे सकते हो?,306ms,100,fr_FR,Pouvez-vous me donner quelques informations sur les modalités de transport entre actions en France ?
+,1706171790700,0,365ms,288,1706171790701,1706171819042,fr_FR,En France si on retrouve de des de transport des transports par tramway on appelle des trames et on retrouve aussi des transports en bus également un métro contrôle c'est 86 replay sur ma voiture bah non je vous remercie monsieur et chaque jour donc ce sont des principales. Le transport,1706171819407ms,218,null,फ्रांस में अगर हम ट्राम के परिवहन पाते हैं हम बाफ्ट कहते हैं और हम बस द्वारा परिवहन भी एक मेट्रो नियंत्रण पाते हैं यह मेरी कार पर 86 रीप्ले है बाह नहीं मैं आपको धन्यवाद देता हूं सर और हर दिन इसलिए ये मुख्य हैं। परिवहन
+,1706171838762,1,529ms,59,1706171838764,1706171843601,hi_IN,क्या मुझे फ्रांस के कुछ त्योहारों के बारे मानकी दे सकते हो?,218ms,67,fr_FR,Pouvez-vous me donner un standard sur certains festivals français ?
+,1706171851659,0,472ms,37,1706171851660,1706171856205,fr_FR,Vous parlons des festivals français. ,155ms,47,hi_IN,आप फ्रेंच त्योहारों के बारे में बात कर रहे हैं।
+,1706171860499,0,612ms,74,1706171860501,1706171867524,fr_FR,Ouais c'est pas possible ah il est rien. Je crois que c'est le problème ? ,1706171868136ms,67,null,हाँ यह संभव नहीं है यह कुछ भी नहीं है। मुझे लगता है कि समस्या है?
+,1706171868040,0,527ms,48,1706171868041,1706171882122,fr_FR,Oh oui exactement utiliser Hugo sur haut c'est. ,194ms,55,hi_IN,ओह हाँ वास्तव में शीर्ष पर ह्यूगो का उपयोग करें यह है।
+,1706171882762,0,354ms,4,1706171882762,1706171885089,fr_FR,Donc,55ms,2,hi_IN,तो
+,1706171893800,1,607ms,81,1706171893801,1706171902086,hi_IN,धन्यवाद क्या मुझे आप फ़्रांस में अः चल रहे आउटडोर गतिविधियों के बारे जानकारी हो?,276ms,76,fr_FR,Merci est-ce que je connais les activités de plein air en cours en France ?
+,1706171909842,0,604ms,52,1706171909843,1706171919368,fr_FR,Bah c'est bon excusez-moi beaucoup ça me confirme. ,238ms,53,hi_IN,खैर यह अच्छा है क्षमा करें यह बहुत पुष्टि करता है।
+,1706171919721,0,681ms,17,1706171919734,1706171922070,fr_FR,Ah je comprends. ,117ms,18,hi_IN,आह मैं समझता हूँ.
+,1706171922604,0,386ms,10,1706171922618,1706171928855,fr_FR,18 Yannick,91ms,10,hi_IN,18 Yannick
+,1706171940602,1,648ms,85,1706171940604,1706171949485,hi_IN,क्या मुझे आप फ्रांस में किए गए और वार्तालाप करने वाले भाषाओं के बारे में कुछ जानकारी?,296ms,90,fr_FR,Ai-je des informations sur les langues que vous avez faites et la conversation en France ?
+,1706171963264,0,647ms,118,1706171963265,1706171970448,fr_FR,Donc il y en a d'autres personnes qui peuvent parler d'autres langues mais la langue principale était le français ? ,297ms,72,hi_IN,तो अन्य लोग हैं जो अन्य भाषाएं बोल सकते हैं लेकिन मुख्य भाषा फ्रेंच थी?
+,1706171981439,1,561ms,77,1706171981440,1706171987961,hi_IN,बहुत धन्यवाद। क्या मुझे स्थानीय श्रृंगार शैली के बारे में जानकारी दे सकते हो?,1706171988522ms,89,null,Merci beaucoup. Pouvez-vous me donner des informations sur le style de maquillage local ?
+,1706171997303,0,505ms,55,1706171997304,1706172004134,fr_FR,Quel âge ont-ils au cours des mois d'argent de merde ? ,195ms,50,hi_IN,वे कितने पुराने हैं जब वे पैसे के महीनों में हैं?
+,1706172004762,0,891ms,191,1706172004763,1706172022900,fr_FR,Un ensemble de 2 c'est un jeu pour le-le le de visage je n'ai pas assez d'informations. Parce que ça reste un sujet beaucoup plus pour et femme et donc ce serait justifié par rapport à ça ? ,1706172023791ms,154,null,2 का एक सेट एक चेहरा खेल है मेरे पास पर्याप्त जानकारी नहीं है। क्योंकि यह अभी भी इस महिला के लिए एक और अधिक विषय है और इसलिए इसके संबंध में यह उचित होगा?
+,1706172040961,1,587ms,66,1706172040962,1706172046202,hi_IN,क्या आप मुझे फ्रांस के पड़ोसी देशों के बारे में जानकारी दे सकते हो?,252ms,74,fr_FR,Pouvez-vous me donner des informations sur les pays voisins de la France ?
+,1706172053801,0,879ms,168,1706172053803,1706172069491,fr_FR,Enfin il y en a des pays comme nous sommes dans l'union européenne transparente faisons partageant nos frontières avec beaucoup d'autres pays comme l'Espagne. Portugais,1706172070370ms,132,null,अंत में ऐसे देश हैं क्योंकि हम पारदर्शी यूरोपीय संघ में हैं आइए स्पेन जैसे कई अन्य देशों के साथ अपनी सीमाओं को साझा करें। पुर्तगाली
+,1706172070543,0,431ms,25,1706172070544,1706172077376,fr_FR,Ah bye et bien d'autres. ,118ms,18,hi_IN,अलविदा और कई अन्य।
+,1706172088882,1,592ms,57,1706172088883,1706172094572,hi_IN,उन पड़ोसी पड़ोसी देशों के साथ आपके कितने घनत्व संबंध हैं?,243ms,65,fr_FR,Combien de relations de densité avez-vous avec ces pays voisins ?
+,1706172103604,0,503ms,34,1706172103606,1706172106999,fr_FR,Ouais c'est vrai que je dirais ? ,173ms,28,hi_IN,हाँ यह सच है कि मैं कहूंगा?
+,1706172118439,1,671ms,98,1706172118441,1706172125361,hi_IN,फ्रेम फ़्रांस देश की द्वितीय विश्वयुद्ध में क्या भूमिका थी? क्या उसके बारे में जानकारी दे सकते हो?,1706172126032ms,116,null,Quel a été le rôle de la France dans la Seconde Guerre mondiale ? Pouvez-vous vous donner des informations sur lui ?
+,1706172135943,0,873ms,66,1706172135945,1706172139918,fr_FR,Non je sais pas beaucoup c'est j'ai pas beaucoup de l'histoire. ,286ms,70,hi_IN,नहीं मुझे पता है बहुत कुछ नहीं है मेरे पास बहुत सारी कहानी नहीं है।
+,1706172142264,0,367ms,8,1706172142265,1706172144394,fr_FR,Enchanté,85ms,8,hi_IN,एनचांटेड
+,1706172144882,0,472ms,20,1706172144884,1706172148775,fr_FR,C'est trop bizarre. ,120ms,16,hi_IN,यह बहुत अजीब है.
+,1706172161342,1,524ms,54,1706172161351,1706172168449,hi_IN,फ़्रांस में दूसरे देशों के फ़िल्म दिखाए जाते हैं क्या?,216ms,58,fr_FR,Des films d'autres pays vous sont-ils projetés en France ?
+,1706172175343,0,372ms,12,1706172175344,1706172177363,fr_FR,Explique oui,74ms,10,hi_IN,समझाएं हाँ
+,1706172182002,1,441ms,25,1706172182004,1706172184853,hi_IN,फ्रांस की आबादी कितनी है?,148ms,39,fr_FR,Quelle est la population de la France ?
+,1706172202700,1,503ms,38,1706172202718,1706172208099,hi_IN,क्या आप आपकी आवाज की गति बढ़ा सकते हो?,204ms,48,fr_FR,Pouvez-vous augmenter la vitesse de votre voix ?
+,1706172212448,1,487ms,31,1706172212449,1706172216681,hi_IN,क्या आप कुछ जोर से बोल सकते हो?,150ms,40,fr_FR,Pouvez-vous dire quelque chose de fort ?
+,1706172223180,0,352ms,3,1706172223181,1706172225041,fr_FR,Oui,47ms,3,hi_IN,हाँ
+,1706172228721,1,583ms,61,1706172228723,1706172236718,hi_IN,बहुत अच्छे क्या आप हमें फ्रांस के आर्थिक व्यवस्था दे सकते हो?,225ms,70,fr_FR,Très bien pouvez-vous nous donner le système économique de la France ?
+,1706172271160,0,591ms,47,1706172271161,1706172278281,fr_FR,Supprime les photos nommées la France produit. ,262ms,45,hi_IN,फ्रांस उत्पाद नाम की तस्वीरों को हटा देता है।
+,1706172278804,0,441ms,296,1706172278804,1706172305942,fr_FR,Beaucoup de 20000 seront 28° par exemple. Et il y en a une économie de garde plutôt aussi qui permettent des produits non seulement et on n'importe aussi tout ce qu'on ne m'arrive pas à produire ça je suis pas il faut nomment et je je veux pas je suis d'information à vous donner ? Sur le sujet.,1706172306383ms,299,null,उदाहरण के लिए 20000 में से कई 28 डिग्री होंगे। और सुरक्षा की एक अर्थव्यवस्था भी है जो न केवल उत्पादों की अनुमति देती है और हम वह सब कुछ भी आयात करते हैं जो मैं इसका उत्पादन करने का प्रबंधन नहीं करता हूं मुझे इसका नाम नहीं चाहिए और मैं नहीं चाहता कि मैं आपको देने के लिए जानकारी नहीं हूं? विषय पर।
+,1706172352804,1,578ms,40,1706172352809,1706172357044,hi_IN,फ्रांस में सबसे लोकप्रिय व्यक्ति कौन है?,276ms,49,fr_FR,Qui est la personne la plus populaire en France ?
+,1706172365384,0,1233ms,212,1706172365386,1706172382333,fr_FR,Font que ça dépend ? Il y. A plusieurs personnes peuvent être poinaires il y a peut-être déjà des présidents qui avaient peut-être le plus connu bah déjà je dirai le propos de la république émaillée en Macron ? ,1706172383566ms,203,null,क्या आपको लगता है कि यह निर्भर करता है? ऐसे कई लोग हैं जो ponious हो सकते हैं पहले से ही राष्ट्रपति हैं जिनके पास शायद सबसे अधिक ज्ञात बाह पहले से ही मैं कहूंगा कि मैक्रॉन में तामचीनी गणराज्य की बात है?
+,1706172402202,1,616ms,74,1706172402203,1706172408600,hi_IN,बहुत धन्यवाद। क्या मुझे आप फ्रांस की लोकप्रिय खेल के बारे में बता सकते हो?,1706172409216ms,65,null,Merci beaucoup. Pouvez-vous me parler du jeu populaire français ?
+,1706172417363,0,689ms,110,1706172417364,1706172427518,fr_FR,On a du c'est bonne du rugby du rouleau les bol et beaucoup d'autres sports qui sont pratiquants en France ? ,368ms,87,hi_IN,हमारे पास यह अच्छा रग्बी रोलर कटोरे और कई अन्य खेल थे जो फ्रांस में अभ्यास कर रहे हैं?
+,1706172438805,1,729ms,104,1706172438807,1706172446800,hi_IN,क्या मुझे एक ऐसे देश के बारे में बता सकते हो जो आपका पड़ोसी है और उसके साथ आपके बहुत ही अच्छे संबंध हैं?,386ms,100,fr_FR,Pouvez-vous me parler d'un pays qui est votre voisin et vous avez une très bonne relation avec lui ?
+,1706172455984,0,547ms,15,1706172455985,1706172459962,fr_FR,C'est peut-être,97ms,11,hi_IN,शायद यह है।
+,1706172461304,0,453ms,22,1706172461307,1706172466087,fr_FR,La demande je dirais. ,121ms,18,hi_IN,अनुरोध मैं कहूंगा।
+,1706172466324,1,427ms,17,1706172466338,1706172469255,hi_IN,क्या मुझे आप ऐसे?,130ms,25,fr_FR,Est-ce que je vous aime ?
+,1706172472285,1,612ms,77,1706172472306,1706172481801,hi_IN,क्या मुझे आप कुछ ऐसे स्थलों के नाम बता सकते हो जहां बहुत सारे पर्यटक जाते है?,297ms,85,fr_FR,Pouvez-vous me dire les noms de certains endroits où beaucoup de touristes visitent ?
+,1706172475420,0,456ms,25,1706172475420,1706172479936,fr_FR,Pardon vous pouvez redé. ,141ms,34,hi_IN,क्षमा करें आप फिर से कर सकते हैं।
+,1706172488461,0,632ms,71,1706172488464,1706172497039,fr_FR,C'est le tour ici qui l'a ? Ça pourrait être gérénalisme disney Paris. ,1706172497671ms,61,null,यह यहाँ बारी है कि यह है? यह डिज्नी पेरिस प्रबंधन हो सकता है.
+,1706172498283,0,455ms,31,1706172498285,1706172504489,fr_FR,C'est une musique saint-paris. ,140ms,23,hi_IN,यह सेंट पेरिस संगीत है।
+,1706172505745,0,587ms,64,1706172505746,1706172511203,fr_FR,L'arc du triomphe certains des endroits qui sont très visités ? ,235ms,58,hi_IN,आर्क डु ट्रायम्फे कुछ ऐसे स्थान हैं जो बहुत देखे जाते हैं?
+,1706172520402,1,487ms,29,1706172520403,1706172523896,hi_IN,फ्रांस में एफिल टावर कहां है?,179ms,39,fr_FR,Où se trouve la Tour Eiffel en France ?
+,1706172530022,0,892ms,135,1706172530023,1706172545325,fr_FR,C'est trop chambre de Paris je n'ai pas l'adresse exacte 500 90 mais c'est facilement pour dessus Google non. C'est belle recherche. ,1706172546217ms,107,null,यह भी पेरिस कमरा है मेरे पास सटीक पता 500 90 नहीं है लेकिन यह Google के लिए आसानी से है। यह सुंदर शोध है।
+,1706172560525,1,577ms,51,1706172560527,1706172565963,hi_IN,पेरिस में ऐसी जगह बताइए जहां खरीदारी की जा सकती है।,239ms,73,fr_FR,À Paris vous pouvez trouver un endroit où vous pouvez faire du shopping.
+,1706172574625,0,633ms,114,1706172574626,1706172583719,fr_FR,Il y en a plusieurs endroits à Paris pour faire du shopping. Qu'est-ce qui tombe les boutiques coutume 8 ans OK ? ,1706172584352ms,82,null,पेरिस में खरीदारी के लिए कई जगहें हैं। क्या सामान्य दुकानों 8 साल ठीक गिर जाता है?
+,1706172599279,1,485ms,42,1706172599282,1706172604641,hi_IN,फ़्रांस में खाए जाने वाले पकवान कौन सी है?,191ms,45,fr_FR,Quelle est la nourriture à manger en France ?
+,1706172611280,0,794ms,121,1706172611282,1706172620964,fr_FR,Il y a beaucoup il y a du pomme il y a du fromage et il y a de la viande il y a de la demi- Il écrit plusieurs auteurs. ,1706172621758ms,68,null,बहुत सारे सेब हैं पनीर है और मांस है आधा है वह कई लेखक लिखते हैं।
+,1706172631803,1,404ms,12,1706172631805,1706172634145,hi_IN,बहुत धन्यवाद,106ms,15,fr_FR,Merci beaucoup.
+,1706172634964,1,552ms,47,1706172634965,1706172641044,hi_IN,फ्रांस की सबसे बड़ी नदी के बारे में बता सकते हो।,203ms,55,fr_FR,Vous pouvez vous parler du plus grand fleuve de France.
+,1706172646140,0,447ms,21,1706172646141,1706172650083,fr_FR,Je n'ai aucune idée. ,120ms,23,hi_IN,मुझे कोई विचार नहीं है।
+,1706172655002,1,478ms,31,1706172655004,1706172658640,hi_IN,फ्रांस क्या सागर तट के पास है?,174ms,32,fr_FR,France est-ce près de la côte ?
+,1706172664002,0,451ms,24,1706172664004,1706172667122,fr_FR,Ah non non pas du tout. ,123ms,19,hi_IN,नहीं बिल्कुल नहीं।
+,1706172683641,1,459ms,47,1706172683643,1706172687974,hi_IN,धन्यवाद जानकारी देने के लिए बहुत बहुत शुक्रिया।,157ms,34,fr_FR,Merci beaucoup pour l'information.
+,1706172713203,1,528ms,4,1706172713205,1706172714885,hi_IN,हम्म,87ms,5,fr_FR,Hmm !
+,1706172719041,1,478ms,44,1706172719043,1706172723960,hi_IN,मैं इस कॉल को यहीं पर समाप्त करना चाहता हूँ।,182ms,36,fr_FR,Je veux vous terminer cet appel ici.
+,1706172721322,0,608ms,69,1706172721325,1706172727692,fr_FR,Ah chellem. C'est ça dépend du marque que les vêtements ou encore ? ,1706172728300ms,62,null,आह चेलेम। यह ब्रांड पर निर्भर करता है कि कपड़े या यहां तक कि?
+,1706172730365,0,434ms,17,1706172730366,1706172733239,fr_FR,Merci au revoir. ,100ms,22,hi_IN,अलविदा के लिए धन्यवाद।

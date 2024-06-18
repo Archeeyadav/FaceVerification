@@ -1,0 +1,125 @@
+﻿Reference,SpeechId,Direction,SttLatency,length,beginOfSpeech,endOfSpeech,SttResult,TranslationLatency,length,TranslatedResult,useless,translation comment
+1710837205811
+,1710837204397,1,714ms,5,1710837204402,1710837206239,Hello,429ms,5,Witam
+,1710837210035,1,435ms,58,1710837210053,1710837216638,My name is Daya. I am calling from India. Can you hear me?,1710837217073ms,49,Nazywam się Daya. Dzwonię z Indii. Słyszysz mnie?
+,1710837220959,0,613ms,23,1710837220961,1710837224076,Słyszę cieje tam giry. ,234ms,25,I hear you playing there.
+,1710837229240,1,403ms,28,1710837229241,1710837232080,May I know your name please?,65ms,23,Mogę poznać twoje imię?
+,1710837237240,0,429ms,18,1710837237242,1710837240439,Nazywam się Alan. ,61ms,16,My name is Alan.
+,1710837246398,1,455ms,35,1710837246401,1710837249915,Hi Alan. I hope you're doing well.,1710837250370ms,47,Cześć Alan. Mam nadzieję że dobrze Wam idzie.
+,1710837258120,0,817ms,58,1710837258121,1710837264639,Dzięki mam nadzieję że u ciebie wszystko również dobrze. ,94ms,31,Thanks I hope you're fine too.
+,1710837270120,1,536ms,83,1710837270122,1710837280513,Yes so today's topic of discussion will be digital world like use of smartphones.,168ms,100,Tak więc dzisiejszym tematem dyskusji będzie świat cyfrowy podobnie jak korzystanie ze smartfonów.
+,1710837290276,1,471ms,39,1710837290277,1710837294198,May I know which smartphone do you use?,101ms,50,Czy mogę wiedzieć z którego smartfona korzystasz?
+,1710837292718,0,438ms,4,1710837292734,1710837295280,Spad,55ms,4,Spad
+,1710837301035,0,490ms,30,1710837301037,1710837306434,Ja użył on smartfonu rymi 10. ,77ms,28,I used a rymi 10 smartphone.
+,1710837314519,1,462ms,64,1710837314520,1710837323196,In Poland do you get operator locked phones all unlocked phones?,127ms,60,Czy w Polsce mają Państwo zablokowane telefony z operatorem?
+,1710837333757,0,641ms,48,1710837333759,1710837340917,Mamy Małych Polskich operatorów telefonów dużo. ,99ms,43,We have small Polish phone operators a lot.
+,1710837342955,0,441ms,10,1710837342957,1710837345356,Odlotowane,76ms,10,Departured
+,1710837354755,1,718ms,167,1710837354758,1710837374037,In the United States let's say you buy a phone from T-Mobile operator then you can't use any other operators seem in that phone so it's basically called locked phone.,352ms,205,W Stanach Zjednoczonych powiedzmy że kupujesz telefon od operatora T-Mobile a następnie nie możesz korzystać z innych operatorów w tym telefonie więc jest to w zasadzie nazywane zablokowanym telefonem.
+,1710837376114,1,428ms,25,1710837376116,1710837379873,Is it the same in Poland?,76ms,27,Czy w Polsce jest tak samo?
+,1710837394558,1,507ms,47,1710837394560,1710837400276,Or you can use any operators seem in any phone.,125ms,61,Albo mogą korzystać z dowolnego operatora w każdym telefonie.
+,1710837394999,0,703ms,83,1710837395000,1710837405007,Jest jest jest jest jest podobnie ale zbyt Wiele na ten temat nie wiem ponieważ. ,186ms,65,It's is it's similar but too much about it I don't know because.
+,1710837411557,0,623ms,57,1710837411558,1710837417558,Można korzystać z dowolnego operatora zmienić operatora. ,103ms,48,You can use any operator to change the operator.
+,1710837422317,1,441ms,16,1710837422318,1710837425880,Oh okay got it.,70ms,14,Dobra mam to.
+,1710837431034,1,449ms,22,1710837431035,1710837433915,How old is your phone?,82ms,24,Ile lat ma Twój telefon?
+,1710837436754,1,438ms,26,1710837436756,1710837439763,When had you purchased it?,75ms,17,Kiedy go kupiłeś?
+,1710837439513,0,438ms,24,1710837439515,1710837443845,3 lata już 3 lata będą. ,87ms,26,Three years will be there.
+,1710837444558,0,464ms,25,1710837444559,1710837449075,Kupiłem go w 2020. Roku. ,91ms,28,I bought it in 2020. A year.
+,1710837447111,1,380ms,4,1710837447127,1710837448917,Okay,55ms,4,Okej
+,1710837459597,1,469ms,89,1710837459599,1710837468594,Are you aware of a smartphone recently launched by Samsung? It's called Galaxy S24 ultra.,1710837469063ms,97,Czy wiecie o smartfonie który niedawno wprowadził na rynek Samsung? Nazywa się Galaxy S24 Ultra.
+,1710837479632,0,504ms,21,1710837479633,1710837482554,Tak słyszałem o nim. ,103ms,30,That's what I heard about him.
+,1710837490958,1,451ms,31,1710837490960,1710837494556,Have you ever used any iphones?,113ms,36,Czy kiedykolwiek używałeś iPhone'ów?
+,1710837501714,0,708ms,63,1710837501717,1710837514195,Używałem ich raz może 2 razy w iphone 4 phona 1414 pro i 15. ,191ms,64,I used them once maybe twice in iPhone 4 Phona 1414 Pro and 15.
+,1710837525921,1,490ms,142,1710837525923,1710837542078,In your opinion what do you think? Is the best smartphone available in the market currently Galaxy? S24 ultra iPhone 15 pro. Max pixel 8 pro.,1710837542568ms,143,Jak Wam się wydaje co o tym sądzicie? Czy najlepszy smartfon dostępny obecnie na rynku jest Galaxy? S24 Ultra iPhone 15 pro. Max piksel 8 pro.
+,1710837550077,0,1087ms,88,1710837550078,1710837561733,Myślę że najlepszy jest znam kstra. Ale niektórzy wolą it. Ja nie przepadam za iphone. ,1710837562820ms,94,I think the best is the I know the letter. But some people prefer it. I don't like the iPhone.
+,1710837573637,1,348ms,4,1710837573639,1710837575475,Okay,18ms,4,Okej
+,1710837574841,0,640ms,28,1710837574842,1710837577879,Myślę że najlepszy sądząc. ,139ms,25,I think the best judging.
+,1710837586754,1,527ms,48,1710837586756,1710837591275,Which operator SIM card you are using currently?,156ms,48,Z jakiej karty SIM operatora obecnie korzystasz?
+,1710837598481,0,1051ms,75,1710837598482,1710837608274,Obecnie korzystamy z operatora w klei ale ja tak skorzystam Tych klejach. ,297ms,79,Currently we use the operator in the adhesive but I will use these adhesives.
+,1710837618199,0,593ms,21,1710837618202,1710837622275,Play trap operator. ,88ms,20,Play trap operator.
+,1710837618834,1,732ms,77,1710837618835,1710837628154,Out of this which one is the best operator T-Mobile Virgin or orange polska?,301ms,82,Z tego który z nich jest najlepszym operatorem T-Mobile Virgin czy Orange Polska?
+,1710837638277,0,975ms,72,1710837638279,1710837647796,Najlepszym operatorem z Tych które wymieniłeś zmieniłaś jest dla mnie. ,184ms,45,The best operator you've mentioned is for me.
+,1710837655239,0,472ms,8,1710837655240,1710837657568,Orangers,87ms,8,Orangers
+,1710837662158,1,346ms,4,1710837662160,1710837664043,Okay,15ms,4,Okej
+,1710837666795,1,573ms,35,1710837666797,1710837671399,Do you get 5G service in your city?,167ms,42,Czy korzystasz z usług 5G w swoim mieście?
+,1710837678555,0,892ms,18,1710837678557,1710837681763,Tak korzystam. I. ,159ms,23,That's how I use it. I.
+,1710837681958,0,550ms,25,1710837681959,1710837685277,Bardzo mi się to podoba. ,48ms,16,I like it a lot.
+,1710837696638,1,619ms,57,1710837696649,1710837702074,Do you get more than 100 mbps speed with your 5G network?,236ms,53,Czy dzięki sieci 5G uzyskasz prędkość ponad 100 Mb/s?
+,1710837713480,1,790ms,102,1710837713481,1710837722997,Because in India we get more than 100 MB PS speed but not at all places in some cases in some places.,356ms,124,Ponieważ w Indiach mamy ponad 100 MB PS prędkości ale nie w każdym miejscu w niektórych przypadkach w niektórych miejscach.
+,1710837714313,0,1151ms,102,1710837714333,1710837727648,Tak ale nie sprawdzałem ile dokładnie jest bardzo szybki w porównaniu do w syach starych gier Elka. ,285ms,78,Yes but I didn't check how fast exactly it was compared to the old Elk games.
+,1710837735635,1,554ms,17,1710837735636,1710837738205,Okay no problem.,139ms,20,Ok nie ma problemu.
+,1710837738155,0,690ms,36,1710837738156,1710837741765,No to macie bardzo szybki internet. ,157ms,28,You have very fast internet.
+,1710837748554,1,404ms,3,1710837748555,1710837750478,Yes,68ms,3,Tak
+,1710837750718,1,688ms,162,1710837750719,1710837764316,The fordays a few of the new operators has come into the market. So that's why the competition is very hard and we. The people are getting the benefits out of it.,1710837765004ms,118,Na rynek weszło kilku nowych operatorów. Dlatego konkurencja jest bardzo trudna a my. Ludzie czerpią z tego korzyści.
+,1710837775878,0,1382ms,125,1710837775879,1710837788318,Zgadza się to bardzo dobrze że jest duża konkurencja o tak jak mówisz chyba mniej paticie za internezji jeszcze przy nich. ,371ms,122,This is very good that there is a lot of competition about as you say probably less patit for internesia still with them.
+,1710837778273,1,544ms,52,1710837778274,1710837782195,Have you ever played any mobile games in your phone?,170ms,50,Graliście kiedyś w jakieś gry mobilne w telefonie?
+,1710837789959,0,656ms,27,1710837789961,1710837794530,Tak grałem w bardzo Wiele. ,153ms,26,That's how I played a lot.
+,1710837802277,1,626ms,48,1710837802279,1710837807239,Have you ever played froll Stars or snake class?,253ms,50,Graliście kiedyś w Froll Stars lub zajęcia z węża?
+,1710837806759,0,593ms,14,1710837806760,1710837809321,Wiele gerrałem,127ms,14,I played a lot
+,1710837812520,1,432ms,11,1710837812522,1710837815282,Brawl stars,96ms,14,Brawl gwiazdki
+,1710837815637,0,654ms,31,1710837815638,1710837819878,Grałem i gram ale brał stars. ,170ms,43,I played and I play but he took the stars.
+,1710837817361,1,536ms,42,1710837817363,1710837821316,I heard it's a very famous game in Poland.,188ms,43,Słyszałem że to bardzo znana gra w Polsce.
+,1710837830755,0,689ms,39,1710837830757,1710837834236,Polska Bardzo znany jest brąz starski. ,143ms,39,Poland The older bronze is very famous.
+,1710837839718,1,491ms,17,1710837839719,1710837842316,The older bronze.,94ms,13,Starszy brąz.
+,1710837844196,1,471ms,27,1710837844197,1710837847039,Is this any kind of a game?,114ms,17,Czy to jakaś gra?
+,1710837853678,0,795ms,67,1710837853679,1710837861957,Tak może źle przetłumaczyło ale to jest brown stars brał skalski. ,196ms,66,So maybe it translated badly but it's Brown Stars taking Skalski.
+,1710837869275,1,428ms,9,1710837869276,1710837871434,Okay okay,92ms,8,Okej ok
+,1710837883838,1,630ms,31,1710837883840,1710837888436,Do you use CN app for shopping?,238ms,36,Czy używasz aplikacji CN do zakupów?
+,1710837895441,1,381ms,3,1710837895443,1710837897636,CNN,60ms,3,CNN
+,1710837897596,0,530ms,20,1710837897597,1710837901793,Nie używam głównie. ,150ms,19,I don't use mainly.
+,1710837898717,1,488ms,7,1710837898727,1710837901874,SHEI. N,1710837902362ms,7,SHEI. N
+,1710837902555,0,427ms,10,1710837902559,1710837904889,Nie używam,94ms,11,I don't use
+,1710837911840,0,555ms,28,1710837911842,1710837915517,Ja używam głównie allegro. ,114ms,25,I use it mostly allegro.
+,1710837919918,1,463ms,25,1710837919920,1710837923075,So what does this app do?,91ms,21,Co robi ta aplikacja?
+,1710837929753,0,659ms,40,1710837929756,1710837935837,To jest jak amazona wyglądasz w Polsce. ,137ms,41,It's like Amazon you look like in Poland.
+,1710837940759,1,573ms,64,1710837940761,1710837947239,So you can basically do online shopping using this allegrow app.,193ms,76,Więc można w zasadzie zrobić zakupy online za pomocą tej aplikacji allegrow.
+,1710837956839,0,427ms,13,1710837956842,1710837959114,Dokładnie tak,71ms,10,Exactly so
+,1710837967474,1,467ms,74,1710837967476,1710837975238,If ever you need to I book any Doctor's appointment? Which app do you use?,1710837975705ms,96,Jeśli kiedykolwiek będziesz musiał zarezerwować wizytę u lekarza? Z jakiej aplikacji korzystasz?
+,1710837981957,1,524ms,35,1710837981960,1710837985515,Is there any app called receptomat?,138ms,43,Czy istnieje aplikacja o nazwie Receptomat?
+,1710837987514,0,421ms,7,1710837987515,1710837990414,Zresztą,90ms,19,Anyway I'm leaving
+,1710837991673,0,795ms,78,1710837991674,1710838004155,Istnieje istnieje choć jeszcze jej nie używałem chyba od niedawna istnieje. ,212ms,79,It exists although I haven't used it yet I think it has been around recently.
+,1710838017400,1,504ms,33,1710838017402,1710838021440,Is the temo app famous in Poland?,125ms,39,Czy aplikacja temo jest znana w Polsce?
+,1710838024158,1,402ms,4,1710838024169,1710838026156,Hemo,63ms,4,Hemo
+,1710838026678,1,425ms,7,1710838026679,1710838029154,Tee MU.,94ms,7,Tee MU.
+,1710838028595,0,928ms,91,1710838028596,1710838040636,Nie temu czemu nie stephen nie jest znane za ładne nawet ja nie dziękuję że coś z tego. ,283ms,108,Not the one why Stephen isn't he's not known for being pretty even I don't thank you for making any of it.
+,1710838031955,1,447ms,4,1710838031966,1710838034239,CMU.,66ms,4,CMU.
+,1710838036632,1,415ms,6,1710838036633,1710838039795,P EMU.,72ms,5,PEMU.
+,1710838053478,1,476ms,21,1710838053480,1710838056596,Do you use Instagram?,118ms,25,Korzystacie z Instagrama?
+,1710838061677,0,889ms,80,1710838061679,1710838070277,Tak korzystamy z instagrama tak bardzo bardzo dużo osób korzysta z instagrama. ,162ms,50,So we use Instagram so many people use Instagram.
+,1710838078075,1,587ms,50,1710838078078,1710838083358,Do you like uploading posts or reels on Instagram?,221ms,47,Lubicie wrzucać posty lub bębny na Instagramie?
+,1710838091916,0,811ms,23,1710838091918,1710838094757,Tak czy kto nie lubi. ,134ms,28,Yes or who doesn't like it.
+,1710838097114,0,957ms,64,1710838097116,1710838103273,Ja osobiście nie wrzucam ale moi znajomi jest zupywają często. ,235ms,59,I personally don't post it but my friends are soups often.
+,1710838098873,1,486ms,24,1710838098876,1710838101957,Yes everybody loves it.,119ms,27,Tak wszyscy to uwielbiają.
+,1710838114439,1,595ms,49,1710838114442,1710838119914,Do you follow any celebrity account on Instagram?,188ms,53,Czy śledzicie jakieś konto celebrytów na Instagramie?
+,1710838129998,0,1529ms,105,1710838130001,1710838143396,Tak ale to nie jest bardzo dużym celebryci tam jakiś rator albo piosenkarz tam w niektórych śledzach. ,386ms,90,Yes but it's not a very big celebrity there's some rator or singer there in some tracks.
+,1710838155234,1,577ms,51,1710838155236,1710838158875,Do you like clicking pictures with your smartphone?,187ms,42,Lubisz klikać zdjęcia za pomocą smartfona?
+,1710838166754,0,1048ms,62,1710838166756,1710838174157,Czy lubię robić zdjęcia na pomoc o smartfona lubię normalne. ,203ms,69,Do I like to take pictures to help with my smartphone I like normal.
+,1710838185676,1,535ms,65,1710838185678,1710838191798,Do you like taking pictures without any filters? Or with filters.,1710838192333ms,51,Lubicie robić zdjęcia bez filtrów? Albo z filtrami.
+,1710838199354,0,934ms,75,1710838199355,1710838207374,Ja nic nie bardzo rzadko używam filtrów ale czasami się zdarzy że użyję. ,234ms,58,I don't use filters very rarely but sometimes I use them.
+,1710838208196,0,865ms,56,1710838208197,1710838216004,Filtra trochę w strach zależy o jakich filtrach mówimy. ,197ms,73,The filter a little in fear depends on what filters we are talking about.
+,1710838223876,1,558ms,32,1710838223878,1710838227077,Plug the different colour tones.,176ms,31,Podłącz różne odcienie kolorów.
+,1710838224882,0,780ms,44,1710838224883,1710838230642,Jeżeli chodzi o fizyster ten z pietkiem to. ,212ms,42,As for the physicist with hell that's it.
+,1710838233198,0,439ms,6,1710838233200,1710838235526,To nie,106ms,10,That's not
+,1710838239157,0,1671ms,129,1710838239160,1710838252994,Jeżeli chodzi no te zmiany koloru no to runo to czasami używam jakiejś tam zaintry kontrastych filtry w tym celu no to używam. ,456ms,127,As for these color changes well it's a fleece sometimes I use some intrigue contrasting filters for this purpose so I use.
+,1710838265517,1,353ms,4,1710838265518,1710838267400,Okay,19ms,4,Okej
+,1710838268755,1,608ms,48,1710838268759,1710838274037,There is a app in Poland it's called mobi water.,194ms,43,W Polsce jest aplikacja o nazwie woda mobi.
+,1710838275921,1,447ms,10,1710838275922,1710838278315,Mobi water,87ms,9,Woda Mobi
+,1710838279636,1,531ms,10,1710838279637,1710838282399,Mobi Watel,132ms,10,Mobi Watel
+,1710838284956,1,503ms,14,1710838284959,1710838289118,MOB. YW ATE L.,1710838289621ms,14,MAMA. ZJEDNAM.
+,1710838286997,0,448ms,11,1710838287000,1710838289674,Em obywatel,72ms,10,Em citizen
+,1710838293795,1,624ms,47,1710838293797,1710838298841,Yes yes I was not able to pronounce it properly,220ms,51,Tak tak nie byłem w stanie wymówić tego poprawnie
+,1710838301277,1,495ms,16,1710838301278,1710838303835,So what it does.,119ms,13,Więc co robi.
+,1710838309240,0,1211ms,110,1710838309242,1710838328005,Jest to aplikacja stworzona przez sąd żeby żeby pomagać obywatelom w ich codziennych sprawach rozwiązywaniu. ,233ms,83,It is an application created by the court to help citizens solve their daily cases.
+,1710838335881,1,509ms,46,1710838335882,1710838341917,No nice in India. We do not have any such app.,1710838342426ms,49,Nie ma ładu w Indiach. Nie mamy takiej aplikacji.
+,1710838342274,1,686ms,74,1710838342279,1710838349046,Food have been really helpful if this kind of app exists in India as well.,257ms,86,Jedzenie było bardzo pomocne jeśli tego rodzaju aplikacja istnieje również w Indiach.
+,1710838349640,0,708ms,41,1710838349641,1710838353925,Bardzo jest to przydatna aplikacja może. ,141ms,40,This is a very useful application maybe.
+,1710838358474,1,481ms,18,1710838358476,1710838362033,Yes it sounds so.,136ms,18,Tak tak to brzmi.
+,1710838361235,0,817ms,52,1710838361236,1710838365439,Myślę że przyda by odebrała mi się taka aplikację. ,216ms,61,I think it would be useful for me to get such an application.
+,1710838373074,1,558ms,54,1710838373115,1710838378633,Do all the citizens of Poland have access to this app?,190ms,58,Czy wszyscy obywatele Polski mają dostęp do tej aplikacji?
+,1710838387675,0,997ms,77,1710838387676,1710838397293,Nie jest ono dobrowolne nie trzeba jej tylko ten kto z cem sobie ją używa. ,266ms,72,It is not voluntary it is not needed only by those who use it with you.
+,1710838406319,1,366ms,4,1710838406321,1710838408273,Okay,22ms,4,Okej
+,1710838410679,1,579ms,206,1710838410681,1710838424496,Thanks for all the information Allen. It was really nice talking to you but as you know today's time is can you forward it for both of us. I will look forward to have a discussion with you some other time.,1710838425075ms,185,Dzięki za wszystkie informacje Allen. To była naprawdę miła rozmowa z tobą ale jak wiesz dzisiejszy czas jest czy możesz to przekazać nam obojgu. Czekam na rozmowę z Tobą innym razem.
+,1710838422716,0,440ms,15,1710838422718,1710838425206,Nie ma sprawy. ,23ms,12,No big deal.
+,1710838436961,1,554ms,30,1710838436963,1710838440287,Take care and have a nice day.,153ms,26,Trzymaj się i miłego dnia.
+,1710838437955,0,720ms,10,1710838437956,1710838440176,Ja również,176ms,6,Me too
+,1710838444600,1,343ms,3,1710838444628,1710838446487,Bye,26ms,2,Pa
+,1710838445160,0,761ms,45,1710838445166,1710838449920,Do widzenia w takim razie dzięki za rozmowę. ,145ms,37,Goodbye thanks for the conversation.

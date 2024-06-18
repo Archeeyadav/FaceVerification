@@ -1,0 +1,89 @@
+﻿Reference,SpeechId,Direction,SttLatency,length,beginOfSpeech,endOfSpeech,SttResult,TranslationLatency,length,TranslatedResult,useless,translation comment
+1705570393799
+,1705570391956,1,815ms,5,1705570391966,1705570393853,Hello,433ms,6,こんにちは。
+,1705570395065,0,513ms,4,1705570395070,1705570399911,うわっ。,199ms,4,wow.
+,1705570403313,0,339ms,6,1705570403326,1705570405549,こんにちは。,25ms,6,Hello.
+,1705570403470,1,452ms,21,1705570403475,1705570406269,Hi my name is Arnab.,84ms,18,こんにちは、私の名前はアーナブです。
+,1705570406908,0,407ms,12,1705570406918,1705570410427,こんにちは。 なるほど。,1705570410834ms,13,Hello. I see.
+,1705570412270,0,389ms,11,1705570412272,1705570414871,よろしくお願いします。,65ms,35,I look forward to working with you.
+,1705570420230,1,403ms,9,1705570420264,1705570422285,Same here,51ms,7,私も同じです。
+,1705570421107,0,435ms,20,1705570421107,1705570425271,はい、私も一緒に仕事をしたいと思います。,93ms,40,Yes I would like to work with you too.
+,1705570426792,0,386ms,17,1705570426793,1705570429591,はい。 よろしくお願いいたします。,1705570429977ms,40,Yes. I look forward to working with you.
+,1705570434631,1,415ms,38,1705570434632,1705570438542,So I have a tech conference in hokado.,99ms,19,それで私はホカドで技術会議があります。
+,1705570435227,0,384ms,22,1705570435233,1705570439709,はい、自分も一緒にしようとしたいと思います。,82ms,40,Yes I would like to try to be with you.
+,1705570445712,1,373ms,28,1705570445714,1705570448453,Okay that is great to know.,73ms,19,そうですか、それは知ってよかったです。
+,1705570445913,0,366ms,17,1705570445914,1705570449432,はい。 おたしとお願いいたします。,1705570449798ms,20,Yes. Please tell me.
+,1705570452230,1,448ms,42,1705570452256,1705570457488,So can you suggest how can I reach hokado?,91ms,24,では、ホカドに行く方法を提案していただけますか?
+,1705570453871,0,370ms,10,1705570453872,1705570456990,はいよかったですね。,62ms,17,Yes that's good.
+,1705570464149,0,366ms,11,1705570464151,1705570466671,はい。 お願いします。,1705570467037ms,15,Yes. Please do.
+,1705570470109,1,442ms,33,1705570470111,1705570473251,Do you know how to reach hoka do?,88ms,17,宝華堂に行く方法を知っていますか?
+,1705570472872,0,343ms,5,1705570472873,1705570477368,はい実は。,43ms,14,Yes actually.
+,1705570477307,1,402ms,23,1705570477307,1705570479267,We are getting back to.,68ms,11,私たちはまた戻ります。
+,1705570478107,0,337ms,3,1705570478117,1705570481269,はい。,12ms,4,Yes.
+,1705570483473,1,455ms,87,1705570483475,1705570491270,Okay can you the tech conference is at Tokyo? Do you know how I can get get get there?,1705570491725ms,38,はい、技術会議は東京でできますか? どうやって行けばいいのか知っていますか?
+,1705570484509,0,334ms,3,1705570484510,1705570487432,はい。,20ms,4,Yes.
+,1705570495870,0,333ms,3,1705570495872,1705570497631,はい。,12ms,4,Yes.
+,1705570498593,0,435ms,41,1705570498595,1705570512394,はいはいそうですね。 一応あのカンパレント。 オーピーマークアップでお話したいと。,1705570512829ms,100,Yes yes that's right. First of all that camparent. I want to talk about it in an op-piece markup.
+,1705570513988,0,347ms,3,1705570513989,1705570515787,はい。,21ms,4,Yes.
+,1705570518994,0,375ms,3,1705570518996,1705570521511,はい。,24ms,4,Yes.
+,1705570523670,0,381ms,7,1705570523672,1705570526989,もしもしはい。,50ms,11,Hello yes.
+,1705570525648,1,441ms,46,1705570525649,1705570529832,I don't know anything about the local culture.,75ms,19,私は現地の文化について何も知りません。
+,1705570530367,0,393ms,13,1705570530368,1705570533628,やっいや将棋しないっすか？,89ms,30,hey why don't you play shogi?
+,1705570539311,0,366ms,11,1705570539313,1705570542147,エキシグミ終わってる。,64ms,20,The exigumi is over.
+,1705570543514,0,354ms,3,1705570543516,1705570545429,けど。,34ms,6,but...
+,1705570550392,0,400ms,10,1705570550393,1705570553911,もしもしでしょうか。,79ms,32,Hello is this a good afternoon?
+,1705570552770,1,464ms,46,1705570552772,1705570557510,Okay I wanted to know if I can rent a office.,92ms,26,はい、オフィスを借りられるかどうか知りたかったです。
+,1705570559112,0,329ms,3,1705570559114,1705570561031,はい。,21ms,4,Yes.
+,1705570564230,0,378ms,10,1705570564243,1705570567869,いえはい知ってます。,59ms,16,No yes I know.
+,1705570568749,0,373ms,7,1705570568750,1705570570908,どういうこと？,51ms,17,what do you mean?
+,1705570572711,0,369ms,17,1705570572713,1705570577353,いやはじめました。 お始めますか。,1705570577722ms,30,No I started. Shall we start?
+,1705570579268,0,390ms,17,1705570579270,1705570583753,はい、どうぞはいおいしめましょう。,86ms,28,Yes please let's enjoy it.
+,1705570589251,0,365ms,16,1705570589262,1705570594402,はい。 お願いいたしますどうぞ。,1705570594767ms,21,Yes. Please go ahead.
+,1705570590147,1,409ms,73,1705570590148,1705570596990,Uh I wanted to rent an office. Do you? Can you suggest an area in Tokyo?,1705570597399ms,47,ええと、私はオフィスを借りたかったです。 そうですか? 東京の地域をお勧めしていただけますか?
+,1705570605387,0,415ms,25,1705570605389,1705570609829,そうですね、そこの東京のオフィスでおすすめします。,101ms,54,Well I recommend it to you at the Tokyo office there.
+,1705570616636,1,507ms,76,1705570616639,1705570623752,Okay because I wanted to take a place before the tech conference in hokado.,130ms,28,はい、ホカドでの技術会議の前に席を取りたかったからです。
+,1705570617831,0,385ms,16,1705570617833,1705570621033,一人で死ねそうでおすすめします。,89ms,47,I recommend it because I think I can die alone.
+,1705570631227,0,379ms,39,1705570631264,1705570639643,そうですねそこは。 さすがにトップなのでお引きしましょう。 はいそうですよね。,1705570640022ms,107,That's right. As expected it's the top so let's pull it out we're at the top we're at. Yes that's right.
+,1705570647272,1,419ms,30,1705570647274,1705570652349,Uh I wanted to travel nearby.,80ms,19,ええと、私は近くを旅行したかったです。
+,1705570649750,0,354ms,7,1705570649752,1705570652070,そうですよね。,47ms,13,That's right.
+,1705570658629,0,383ms,24,1705570658631,1705570662512,あそうなんですか？ どんな要したかったんですか？,1705570662896ms,36,oh really? What did you want to do?
+,1705570666628,1,484ms,65,1705570666630,1705570671586,After the tech conference I wanted to travel someplace close by.,103ms,25,技術会議の後、私は近くの場所を旅行したかったです。
+,1705570669546,0,445ms,22,1705570669560,1705570675751,そうですよそこでやっぱり東京でいろいろ任せ。,102ms,51,That's right. So I left everything to you in Tokyo.
+,1705570683392,0,609ms,84,1705570683394,1705570700352,そうですね、やっぱ東京はすごく一番おすすめ妙高のため一番いいだと思いますが、人間人間としての人がいよいよだしいろんな人も集まったりするからすごくいいところと思いますね。,268ms,190,Well I think Tokyo is the best because it's very recommended and very good but I think it being a very good place because people as humans are finally getting together with various people.
+,1705570716514,1,399ms,27,1705570716516,1705570719293,Okay that is good to know.,82ms,20,そうですか、それは知っておくと良いです。
+,1705570717887,0,365ms,31,1705570717894,1705570725031,そうですねやっぱ。 そこで本当に人が多いし。 すぐ友達作れる。,1705570725396ms,88,That's right Yeah after all. There are so many people there. You can make friends soon.
+,1705570731312,0,352ms,55,1705570731314,1705570741351,そうですね、すぐ友達作ったりできますよ。 東京で人が多いしいろんないろんな国から人は増えますよ。 こんばんは。,1705570741703ms,136,Well you can make friends right away. There are many people in Tokyo so the people from various countries will increase. Good evening.
+,1705570732247,1,397ms,12,1705570732248,1705570734568,Good Evening,59ms,6,こんばんは。
+,1705570752469,1,386ms,35,1705570752471,1705570756654,I wanted to know where I can visit.,76ms,16,どこに行けるか知りたかったです。
+,1705570752552,0,380ms,41,1705570752553,1705570759388,そうですよね。 いろいろの人も来たりやり起こしたり。 おいしい食べ物もありますよ。,1705570759768ms,71,That's right. Various people come and go. There is also delicious food.
+,1705570761073,0,477ms,32,1705570761075,1705570767950,あっ池袋とかそうですね。 いろんなおいしいな。 食べ物もあるし。,1705570768427ms,90,Ah Ikebukuro or something like that. There are many delicious I like. There is also food.
+,1705570776435,0,301ms,61,1705570776437,1705570790240,そうですねいきぼろもすごく人間だし。 アニメについてとかすごく有名な所もありますよ。 おいしい食べ物もありますし。 はい。,1705570790541ms,117,That's right I'm very human too. There are also very famous places such as anime. There is also delicious food. Yes.
+,1705570796155,1,404ms,23,1705570796158,1705570800132,How about local travel?,56ms,11,現地旅行はどうですか?
+,1705570800433,0,383ms,16,1705570800434,1705570804243,そうですよね。 だけじゃなくて。,1705570804626ms,28,That's right. Not just that.
+,1705570804746,0,379ms,10,1705570804748,1705570807531,すごく楽しいですよ。,77ms,18,It's a lot of fun.
+,1705570815630,1,420ms,29,1705570815633,1705570818718,Do you know any local guides?,72ms,17,地元のガイドさんを知っていますか?
+,1705570817072,0,424ms,21,1705570817074,1705570823266,それで東京の新宿や渋谷も。 すごく有名な。,1705570823690ms,51,So Shinjuku and Shibuya in Tokyo. It's very famous.
+,1705570823913,0,352ms,7,1705570823914,1705570826070,はいしてます。,44ms,10,Yes I am.
+,1705570836148,1,320ms,4,1705570836150,1705570838189,Okay,34ms,7,わかりました。
+,1705570842710,0,352ms,9,1705570842712,1705570846364,はい分かりました。,53ms,18,Yes I understand.
+,1705570843428,1,422ms,77,1705570843429,1705570850707,Would you have free time on the 30th? For uh for us making me see the place.,1705570851129ms,38,30日に時間がありますか? ええと、私たちにその場所を見させてくれるために。
+,1705570854030,0,366ms,9,1705570854031,1705570856950,あ時間ありますよ。,56ms,17,I have some time.
+,1705570859031,0,356ms,24,1705570859033,1705570865070,あっ全然ぜひ全然帰ります。 一緒に行きましょう。,1705570865426ms,65,Oh I'm definitely going home at I don't know. Let's go together.
+,1705570871876,1,422ms,52,1705570871879,1705570876511,Okay once I reach Tokyo I will coordinate with you.,84ms,16,はい、東京に着いたら調整します。
+,1705570883192,0,431ms,18,1705570883194,1705570887270,はい着いたらまだお連絡してください。,84ms,42,Yes please contact me when you get there.
+,1705570894310,1,478ms,64,1705570894312,1705570901072,Can you suggest 2 more places other than Tokyo for local visits?,110ms,29,東京以外でもう2か所、現地訪問先を提案していただけますか?
+,1705570908590,0,454ms,57,1705570908593,1705570919352,あもちろんいろんなところもあるんですよね。 日本で大阪とかは京都もすごく人気人気もあるしおいしいものもありますよ。,1705570919806ms,108,Of course there are many places. In Japan Osaka and Kyoto are very popular and there are delicious things.
+,1705570932311,1,449ms,70,1705570932314,1705570938595,Are they upcoming technical seminars in Japan which is mostly popular?,111ms,29,日本で技術セミナーが開かれる予定ですが、人気が多いですか?
+,1705570946832,0,387ms,26,1705570946834,1705570952667,そうですね、日本は人気はすごく多いかと思いましてね。,87ms,36,Well I think Japan is very popular.
+,1705570960794,1,448ms,35,1705570960796,1705570964352,I wanted to know about tech events.,83ms,21,私は技術イベントについて知りたかったです。
+,1705570974032,0,459ms,36,1705570974034,1705570982511,そうですよね。 日本でついてはすごくいろいろもあるし何が知りたいですか？,1705570982970ms,85,That's right. There are so many things to do with Japan so what do you want to know?
+,1705570983090,1,420ms,24,1705570983093,1705570985550,Are there any technique?,55ms,9,技法がありますか?
+,1705570987950,1,451ms,95,1705570987952,1705570994275,Are there any technical events related to artificial intelligence currently happening in Japan?,110ms,31,現在、日本では人工知能に関する技術的な事象が発生していますか?
+,1705570989827,0,365ms,8,1705570989834,1705570992191,あっありますよ。,52ms,13,Ah there is.
+,1705571003750,0,369ms,9,1705571003752,1705571006592,年齢は引けますよ。,55ms,18,You can get older.
+,1705571011913,1,415ms,34,1705571011915,1705571015469,How about artificial intelligence?,47ms,11,人工知能はどうですか?
+,1705571019913,0,440ms,17,1705571019915,1705571024628,銀行投機は結構多いだと思いますよ。,149ms,42,I think there's a lot of bank speculation.
+,1705571034592,1,376ms,68,1705571034594,1705571039468,Yeah okay thank you so thank you for this call. Thank you so much.,1705571039844ms,47,はい、わかりました。ありがとうございます。この電話に感謝します。 本当にありがとうございます。
+,1705571043069,0,369ms,42,1705571043071,1705571050205,はい、ありがとうございました。 ありがとうございます。 はいどういった？ しまして。,1705571050574ms,73,Yes thank you very Yes thank. Thank you. yes what happened? I'm sorry.
+,1705571053830,1,412ms,61,1705571053832,1705571058068,Uh no we are done with the call. Thank you for your inputs.,1705571058480ms,37,ええと、いいえ、私たちは電話を終えました。 ご意見をありがとうございます。
+,1705571056194,0,358ms,11,1705571056195,1705571058831,ありがとうございます。,13ms,10,Thank you.

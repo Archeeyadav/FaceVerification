@@ -45,3 +45,8 @@ def main(video_path):
 if __name__ == "__main__":
     video_path = "/face_recognition_project/Video_1.Frontal.MOV" 
     main(video_path)
+
+
+#  isme 91 csv files hain. 
+# inke H column me 2 logon ki conversation  hai 
+# is conversation me dono person ke name and country mention hai wo extract karne hain chatgpt api use karke

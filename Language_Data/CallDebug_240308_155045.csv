@@ -1,0 +1,151 @@
+﻿Reference,SpeechId,Direction,SttLatency,length,beginOfSpeech,endOfSpeech,SttResult,TranslationLatency,length,TranslatedResult,useless,translation comment
+1709892056218
+,1709892054823,1,733ms,5,1709892054831,1709892056740,Hello,407ms,4,Hola
+,1709892059263,1,412ms,16,1709892059269,1709892061582,Can you hear me?,61ms,14,¿Puedes oírme?
+,1709892065705,0,541ms,14,1709892065721,1709892068156,Sí te escucho.,240ms,11,I hear you.
+,1709892070543,0,381ms,10,1709892070545,1709892072467,Me escucha,50ms,12,Listen to Me
+,1709892075619,1,392ms,25,1709892075621,1709892078261,Yes I can listen to you.,71ms,21,Sí puedo escucharte.
+,1709892082102,1,447ms,41,1709892082104,1709892085421,May I know what is the time now in Spain?,103ms,48,¿Puedo saber cuál es el momento ahora en España?
+,1709892091142,0,436ms,41,1709892091143,1709892095379,Ahora son las personas. 11 de la mañana. ,85ms,27,Now it's 11 in the morning.
+,1709892099619,1,407ms,4,1709892099621,1709892101379,Okay,43ms,9,Está bien
+,1709892105221,1,480ms,50,1709892105223,1709892110221,Today's topic of discussion is travel and leisure.,113ms,49,El tema de debate de hoy es los viajes y el ocio.
+,1709892116262,0,391ms,15,1709892116264,1709892118739,Vale muy bien. ,56ms,10,It's good.
+,1709892121424,1,376ms,23,1709892121425,1709892123942,Do you like travelling?,57ms,17,¿Te gusta viajar?
+,1709892127981,0,401ms,22,1709892127983,1709892130903,Si me encanta viajar. ,68ms,20,If I love to travel.
+,1709892136461,1,480ms,58,1709892136462,1709892141658,Apart from Spain what other countries have you travelled?,110ms,48,Aparte de España ¿qué otros países has viajado?
+,1709892149218,0,501ms,25,1709892149225,1709892152981,Ha sido solo a 2 países. ,93ms,24,It's only two countries.
+,1709892153340,0,436ms,20,1709892153340,1709892157504,Colombia en España. ,69ms,18,Colombia in Spain.
+,1709892157898,0,419ms,24,1709892157905,1709892161355,Y tú te encanta viajar. ,86ms,23,And you love to travel.
+,1709892165180,1,374ms,3,1709892165180,1709892167103,Yes,28ms,2,Sí
+,1709892167739,1,416ms,27,1709892167740,1709892172299,Only if I have huge budget.,79ms,36,Sólo si tengo un presupuesto enorme.
+,1709892171221,0,418ms,19,1709892171223,1709892173955,Adónde ha viajado. ,86ms,20,Where he's traveled.
+,1709892176699,1,437ms,15,1709892176707,1709892179937,I'm from India.,66ms,16,Soy de la India.
+,1709892177981,0,387ms,13,1709892177982,1709892180742,Estamos igual,71ms,15,We're the same.
+,1709892183940,1,420ms,27,1709892183942,1709892187117,I have travelled Sri Lanka.,88ms,25,He viajado por Sri Lanka.
+,1709892185583,0,427ms,48,1709892185584,1709892191260,Me gusta viajar pero sin presupuesto no puedo. ,108ms,46,I like to travel but without a budget I can't.
+,1709892187457,1,358ms,13,1709892187467,1709892191022,And Singapore,50ms,11,Y Singapur.
+,1709892202939,1,497ms,81,1709892202940,1709892211180,I wanted to do a river safari. Excited to know if the Ebro river in Poland stand.,1709892211677ms,94,Quería hacer un safari por el río. Emocionado por saber si el río Ebro en Polonia está de pie.
+,1709892211621,0,371ms,8,1709892211622,1709892214945,Juan río,57ms,9,Juan Rio.
+,1709892219580,0,417ms,28,1709892219604,1709892224102,En Polonia hace mucho frío. ,84ms,25,It's very cold in Poland.
+,1709892229818,1,448ms,40,1709892229819,1709892234304,Is there a river called abroad in Spain?,98ms,44,¿Hay un río llamado al extranjero en España?
+,1709892239342,1,351ms,4,1709892239343,1709892241099,Ebro,44ms,4,Ebro
+,1709892242498,0,3837ms,4,1709892242499,1709892246021,Ebro,3524ms,58,Ebro.?...Ebro?......?!?...?...?!?...?...?!!?...?!!?!?!????
+,1709892259062,0,462ms,27,1709892259063,1709892262462,Sí sí hay un río llamado. ,120ms,29,Yes there is a river called.
+,1709892265460,0,399ms,5,1709892265461,1709892267500,Pedro,42ms,6,Peter.
+,1709892272220,1,414ms,27,1709892272222,1709892276100,Is the Nile river in Spain?,86ms,28,¿Está el río Nilo en España?
+,1709892282703,0,433ms,33,1709892282727,1709892288097,En río nilo no estoy muy seguro. ,99ms,34,I'm not quite sure about Rio Nilo.
+,1709892298501,1,439ms,35,1709892298502,1709892302145,In which city of Spain do you live?,90ms,31,¿En qué ciudad de España vives?
+,1709892299584,0,423ms,14,1709892299584,1709892302543,Pero no creo. ,88ms,21,But I don't think so.
+,1709892306703,0,406ms,30,1709892306705,1709892310059,Ahora estoy en Madrid gratis. ,86ms,27,Now I'm in Madrid for free.
+,1709892322501,1,473ms,38,1709892322502,1709892326100,Have you heard of the Zara Goja Singh?,109ms,37,¿Has oído hablar del Zara Goja Singh?
+,1709892329298,1,400ms,13,1709892329299,1709892333383,Zaragoza city,44ms,18,Ciudad de Zaragoza
+,1709892334621,0,539ms,55,1709892334621,1709892344498,El aún no he visitado a Zaragoza pero me gustaría ir. ,128ms,50,I haven't visited Zaragoza yet but I'd like to go.
+,1709892349624,1,406ms,31,1709892349627,1709892354863,How far will it be from Madrid?,83ms,34,¿A qué distancia estará de Madrid?
+,1709892364101,0,397ms,4,1709892364103,1709892366383,Está,45ms,7,It's...
+,1709892367500,0,422ms,31,1709892367502,1709892373020,A 3 horas 300 aproximadamente. ,77ms,29,At approximately 3 hours 300.
+,1709892384943,1,542ms,73,1709892384944,1709892391980,Do you know if the Zara Gujar city lies to the South of the abroad river?,164ms,73,¿Sabes si la ciudad de Zara Gujar se encuentra al sur del río extranjero?
+,1709892386261,0,387ms,14,1709892386263,1709892388942,300 kilómetros,68ms,15,300 kilometers.
+,1709892398503,1,364ms,10,1709892398505,1709892401018,Ebro river,48ms,8,Río Ebro
+,1709892412941,0,401ms,17,1709892412943,1709892415619,Está al noreste. ,68ms,22,It's to the northeast.
+,1709892418221,0,392ms,23,1709892418222,1709892421463,De la pensión ibérica. ,72ms,23,of the Iberian pension.
+,1709892428661,1,418ms,37,1709892428663,1709892433461,Is there a place called g? S Islands.,1709892433879ms,31,¿Hay un lugar llamado g? Islas.
+,1709892435538,1,332ms,2,1709892435540,1709892437780,CS,48ms,3,CS.
+,1709892439899,1,364ms,6,1709892439900,1709892442760,Cie s.,50ms,5,Cíes.
+,1709892448023,0,358ms,3,1709892448026,1709892449938,Sí.,19ms,9,Yes I do
+,1709892453658,0,460ms,48,1709892453659,1709892458820,Las águilas más famosas es Tenerife y Canarias. ,119ms,59,The most famous eagles are Tenerife and the Canary Islands.
+,1709892466021,1,449ms,47,1709892466023,1709892472381,Do you know how to get from Vigo to CS Islands?,124ms,38,¿Sabes cómo ir de Vigo a las Islas CS?
+,1709892476980,1,379ms,14,1709892476980,1709892480860,Cie s Islands.,61ms,11,Islas Cíes.
+,1709892485580,0,358ms,17,1709892485581,1709892489478,El mejor manuel. ,60ms,16,The best Manuel.
+,1709892492220,0,424ms,43,1709892492221,1709892495829,Pues la única forma de acceder es por mar. ,111ms,42,Well the only way to access it is by sea.
+,1709892498499,0,406ms,20,1709892498500,1709892501259,Todo el puerto Vigo.,71ms,17,All the port Vigo
+,1709892506459,1,435ms,22,1709892506460,1709892509183,Are there any ferries?,68ms,21,¿Hay transbordadores?
+,1709892510543,0,448ms,42,1709892510545,1709892514660,Y la mejor terminada por mí es en verano. ,105ms,38,And the best one I finished in summer.
+,1709892519903,1,462ms,33,1709892519905,1709892523582,Have you been to this CS Islands?,89ms,30,¿Has estado en estas islas CS?
+,1709892526940,1,341ms,6,1709892526941,1709892529822,Cie s.,23ms,5,Cíes.
+,1709892528619,0,357ms,2,1709892528619,1709892530657,No,56ms,3,No.
+,1709892536384,1,468ms,87,1709892536387,1709892544871,Apart from cathedrals and vintage museums. What other attractions Spain first tourist?,1709892545339ms,89,Aparte de catedrales y museos antiguos. ¿Qué otras atracciones es España primer turista?
+,1709892542303,0,438ms,41,1709892542305,1709892546272,Pero he escuchado una serie que ha sido. ,122ms,38,But I've heard a series that has been.
+,1709892553738,1,464ms,58,1709892553740,1709892558579,Even I have heard there is a small new dished beach there.,120ms,65,Incluso he oído que hay una pequeña playa nueva para platos allí.
+,1709892559701,0,402ms,26,1709892559701,1709892563982,A mí me encanta el pagar. ,72ms,14,I love paying.
+,1709892563702,1,407ms,15,1709892563716,1709892566825,New dist beach.,53ms,17,Nueva playa dist.
+,1709892568178,1,429ms,9,1709892568180,1709892572982,N Udi ST.,76ms,9,N Udi ST.
+,1709892580104,1,516ms,69,1709892580106,1709892584702,Because of this translation I'm not able to say the things properly.,135ms,72,Debido a esta traducción no soy capaz de decir las cosas correctamente.
+,1709892581102,0,356ms,11,1709892581103,1709892583515,No entendí.,65ms,20,I didn't understand.
+,1709892590263,1,438ms,28,1709892590264,1709892593059,There is a new dished beach.,78ms,32,Hay una nueva playa para platos.
+,1709892594103,0,370ms,4,1709892594104,1709892596065,Vale,54ms,5,Okay.
+,1709892596540,1,369ms,20,1709892596540,1709892599219,You can ignore this.,51ms,20,Puedes ignorar esto.
+,1709892602580,1,546ms,63,1709892602582,1709892608422,Have you heard of the presence of Arabic bath houses in jerona?,146ms,67,¿Has oído hablar de la presencia de casas de baño árabes en jerona?
+,1709892613783,1,407ms,6,1709892613785,1709892616018,Girona,58ms,6,Girona
+,1709892614420,0,588ms,21,1709892614439,1709892618919,No lo he oído pero. ,89ms,23,I haven't heard it but.
+,1709892619219,0,3865ms,7,1709892619236,1709892621435,Fea ver,3531ms,194,FEAVE.-.-. see.?...?......?......?...?... to see?......?...?......?......?...?...?...)...?...?...?......?...?......?...?...?...!...?...?...?.........?.........?...?......?......?.........?...???
+,1709892635097,1,486ms,24,1709892635099,1709892637938,You haven't heard of it.,105ms,27,No has oído hablar de ello.
+,1709892643622,1,452ms,32,1709892643623,1709892647078,Are a big bath houses in girona.,104ms,37,Son grandes casas de baños en Girona.
+,1709892645543,0,505ms,42,1709892645544,1709892650542,Los baños árabes son de georgiana Girona. ,138ms,39,The Arab baths are by Georgiana Girona.
+,1709892650585,1,400ms,18,1709892650593,1709892653779,Arabic fat houses.,71ms,20,Casas gordas árabes.
+,1709892656941,1,424ms,19,1709892656943,1709892660349,Arabic bath houses.,75ms,16,Baterías árabes.
+,1709892657779,0,525ms,50,1709892657779,1709892662150,Están situados en el corazón de Girona vale pues. ,128ms,40,They are located in the heart of Girona.
+,1709892663621,0,372ms,15,1709892663622,1709892666180,Javier valiente,72ms,16,Javier Valiente.
+,1709892670741,1,318ms,4,1709892670743,1709892672781,Okay,23ms,9,Está bien
+,1709892673500,1,573ms,64,1709892673501,1709892678696,People say there are some cities in Spain that look like Greece.,216ms,73,La gente dice que hay algunas ciudades en España que se parecen a Grecia.
+,1709892686104,1,420ms,20,1709892686105,1709892688744,Do you also feel so?,74ms,24,¿También te sientes así?
+,1709892697260,0,362ms,2,1709892697262,1709892700060,Sí,17ms,9,Yes I do
+,1709892709139,1,454ms,28,1709892709141,1709892713100,Why is Canary island famous?,99ms,35,¿Por qué es famosa la isla canaria?
+,1709892714259,0,453ms,35,1709892714260,1709892717403,Pero las ciudades que se propusen. ,141ms,33,But the cities that are proposed.
+,1709892720742,0,429ms,35,1709892720743,1709892725420,Ser famosa. Por su clima tropical. ,77ms,35,Be famous for its tropical climate.
+,1709892734418,1,488ms,62,1709892734419,1709892739753,Do you know how many group of Islands form the Canary Islands?,122ms,47,¿Sabes cuántas islas forman las Islas Canarias?
+,1709892734824,0,479ms,68,1709892734825,1709892741953,Sorprendentemente por su origen volcánico como el parque nacional. ,146ms,65,Surprisingly because of its volcanic origin as the national park.
+,1709892742578,0,432ms,17,1709892742579,1709892744837,No pues gracias. ,65ms,14,No thank you.
+,1709892750618,0,322ms,2,1709892750619,1709892752617,Sí,21ms,9,Yes I do
+,1709892760502,1,436ms,40,1709892760504,1709892764147,Are there any active volcanoes in Spain?,85ms,32,¿Hay volcanes activos en España?
+,1709892762380,0,456ms,44,1709892762380,1709892766915,Las islas Canarias se conforman por 7 isla. ,125ms,44,The Canary Islands are made up of 7 islands.
+,1709892778781,1,382ms,4,1709892778782,1709892780704,Okay,18ms,9,Está bien
+,1709892782623,0,425ms,47,1709892782625,1709892791018,Sí hay volúmenes activos el tid el pagal oro. ,110ms,49,There are active volumes on the tid the gold pay.
+,1709892793618,0,441ms,32,1709892793620,1709892799908,El teneguía hora in manu falla. ,107ms,27,He had an hour in his hand.
+,1709892802299,0,444ms,43,1709892802301,1709892807459,Y todos se encuentran en la isla Canarias. ,121ms,38,And they're all on the Canary Islands.
+,1709892813859,1,449ms,33,1709892813860,1709892817464,Are those volcanoes still active?,88ms,30,¿Siguen activos esos volcanes?
+,1709892824061,0,442ms,36,1709892824063,1709892828708,Sí. Se encuentran todavías activos. ,92ms,27,Yes they are still active.
+,1709892840382,1,423ms,38,1709892840383,1709892843982,What is the ideal time to visit Spain?,94ms,46,¿Cuál es el momento ideal para visitar España?
+,1709892851380,0,398ms,18,1709892851382,1709892856020,Para mí primavera.,54ms,14,For me spring.
+,1709892863259,1,433ms,28,1709892863261,1709892866180,How about the winter months?,82ms,31,¿Qué tal los meses de invierno?
+,1709892873385,0,370ms,14,1709892873386,1709892876192,Demasiado frío,59ms,9,Too cold.
+,1709892878979,0,409ms,20,1709892878982,1709892881579,No me gusta el frío.,71ms,22,I don't like the cold.
+,1709892888620,1,452ms,44,1709892888621,1709892892459,Does it snow there during the winter months?,91ms,42,¿Nieve allí durante los meses de invierno?
+,1709892898943,0,435ms,31,1709892898945,1709892903019,Sí pero en lugar específicos. ,84ms,34,Yes but instead of specific ones.
+,1709892907982,1,504ms,40,1709892907985,1709892911422,Does it ever snow in the Canary Islands?,120ms,40,¿Alguna vez nieva en las Islas Canarias?
+,1709892916299,0,482ms,44,1709892916301,1709892923340,No porque es una isla tropical nunca niega. ,119ms,51,Not because it's a tropical island it never denies.
+,1709892923580,0,388ms,24,1709892923580,1709892927117,Que verano 10 invierno. ,72ms,22,That summer 10 winter.
+,1709892936618,1,473ms,51,1709892936620,1709892941178,Are there any national parks in the Canary Islands?,100ms,46,¿Hay parques nacionales en las Islas Canarias?
+,1709892950979,1,504ms,68,1709892950980,1709892957194,Spins official to resume page says there are 4 national parks there.,156ms,80,La página oficial de Spins para reanudar dice que hay 4 parques nacionales allí.
+,1709892956260,0,322ms,2,1709892956261,1709892958227,Sí,22ms,9,Yes I do
+,1709892964580,0,432ms,30,1709892964582,1709892968099,Sí hay 4 parques nacionales. ,91ms,30,There are four national parks.
+,1709892969985,0,539ms,66,1709892969986,1709892980790,N parte nacional de ti en mafalla Tenerife lanzarote y la gomera. ,189ms,68,No national part of you in mafalla Tenerife Lanzarote and La Gomera.
+,1709892981139,0,416ms,8,1709892981141,1709892983342,Chapalma,68ms,9,Chapalma.
+,1709892995181,1,461ms,37,1709892995183,1709892998260,Have you ever been to Canary Islands?,102ms,45,¿Has estado alguna vez en las Islas Canarias?
+,1709893005182,0,418ms,14,1709893005183,1709893008740,Sí muy bello. ,69ms,21,Yeah very beautiful.
+,1709893009824,0,403ms,20,1709893009826,1709893012303,¿qué lo recomiendo? ,68ms,20,What do I recommend?
+,1709893024303,1,461ms,29,1709893024304,1709893027782,Does Spain has rivers safari?,87ms,36,¿España tiene un safari en los ríos?
+,1709893041377,1,623ms,117,1709893041386,1709893051517,River safari means you get on a boat and then the boat takes you over a river and shows you wild animals all the way.,257ms,132,Safari por río significa que te subes a un barco y luego el barco te lleva por un río y te muestra animales salvajes hasta el final.
+,1709893047098,0,336ms,3,1709893047099,1709893049020,Sí.,21ms,9,Yes I do
+,1709893050262,0,439ms,14,1709893050263,1709893052833,El río zapar. ,72ms,16,The Zapar River.
+,1709893053178,0,421ms,27,1709893053183,1709893056950,Se llama Adrián madre mía. ,104ms,29,It's called Adrian my mother.
+,1709893061220,0,496ms,65,1709893061221,1709893071500,Sí he escuchado a mí me gustaría ir alzafaris enríque en el río. ,152ms,48,I've heard I'd like to go up there in the river.
+,1709893078259,1,476ms,47,1709893078261,1709893083258,Is there any rivers safari on the abroad river?,113ms,47,¿Hay algún safari de ríos en el río extranjero?
+,1709893084463,1,335ms,5,1709893084464,1709893086377,Abort,44ms,6,Aborto
+,1709893087578,1,450ms,6,1709893087578,1709893090143,Eb RO.,63ms,6,Eb RO.
+,1709893092944,1,394ms,10,1709893092944,1709893096023,Ebro river,21ms,8,Río Ebro
+,1709893101898,0,458ms,25,1709893101900,1709893105138,¿qué tienen en río euro? ,86ms,29,What do you have in Rio Euro?
+,1709893113023,1,465ms,50,1709893113023,1709893117385,Does that provide a river safari for the tourists?,100ms,53,¿Eso proporciona un safari fluvial para los turistas?
+,1709893126059,0,384ms,20,1709893126061,1709893128830,A ti te gustaría ir.,71ms,17,You'd like to go.
+,1709893153702,1,481ms,43,1709893153704,1709893157658,Have you heard about the city Costa Blanka?,120ms,46,¿Has oído hablar de la ciudad de Costa Blanka?
+,1709893170104,0,327ms,3,1709893170106,1709893172018,Sí.,22ms,9,Yes I do
+,1709893177979,1,484ms,50,1709893177980,1709893182678,Is it present on one of the coastal side of Spain?,121ms,46,¿Está presente en una de las costas de España?
+,1709893178988,0,401ms,10,1709893178988,1709893181178,Son varias,67ms,18,There are several.
+,1709893181540,0,419ms,18,1709893181541,1709893184426,Varias localidades,68ms,18,Various locations.
+,1709893189740,0,379ms,11,1709893189742,1709893191899,No yo no. ,54ms,7,Not me.
+,1709893200865,1,436ms,36,1709893200868,1709893205182,Okay thank you for this discussion.,80ms,33,Bien gracias por esta discusión.
+,1709893208502,1,486ms,93,1709893208503,1709893215103,We are done for the day. I look forward to hang one more round of discussion some other time.,1709893215589ms,88,Hemos terminado para el día. Espero con interés una ronda más de debate en otro momento.
+,1709893211259,0,335ms,17,1709893211261,1709893213662,No hay problema. ,18ms,11,No worries.
+,1709893217784,0,374ms,4,1709893217785,1709893219790,Vale,25ms,5,Okay.
+,1709893221379,0,388ms,19,1709893221381,1709893224072,Vale a mí también. ,84ms,21,It's okay for me too.
+,1709893222340,1,476ms,26,1709893222341,1709893227139,Take care have a good day.,88ms,36,Ten cuidado que tengas un buen día.
+,1709893231782,0,482ms,52,1709893231785,1709893236899,Que tenga usted también es un buen día hasta luego. ,109ms,45,That you have is also a good day until later.

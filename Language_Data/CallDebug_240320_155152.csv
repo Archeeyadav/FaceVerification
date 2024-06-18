@@ -1,0 +1,142 @@
+﻿Reference,SpeechId,Direction,SttLatency,length,beginOfSpeech,endOfSpeech,SttResult,TranslationLatency,length,TranslatedResult,useless,translation comment
+1710928906696
+,1710928904881,1,942ms,39,1710928904889,1710928909599,Hi my name is Nalini can you hear me?,574ms,41,Hola mi nombre es Nalini ¿puedes oírme?
+,1710928907839,0,939ms,6,1710928907855,1710928909800,Hello.,656ms,6,Hello!
+,1710928914478,0,390ms,5,1710928914482,1710928916199,Hola.,54ms,6,Hello.
+,1710928916555,0,318ms,2,1710928916565,1710928918655,Sí,24ms,9,Yes I do
+,1710928923562,1,473ms,28,1710928923563,1710928926123,May I know your name please?,106ms,34,¿Puedo saber tu nombre por favor?
+,1710928924836,0,326ms,3,1710928924839,1710928927691,Sí.,26ms,9,Yes I do
+,1710928931316,0,424ms,18,1710928931319,1710928934918,Jorge. Y el tuyo. ,78ms,16,Jorge and yours.
+,1710928942800,1,441ms,63,1710928942818,1710928948993,Okay so today's topic of discussion is educational consultation,119ms,60,Bueno el tema de discusión de hoy es la consulta educativa.
+,1710928945199,0,399ms,19,1710928945200,1710928947770,¿cuál es tu nombre?,66ms,17,What's your name?
+,1710928954116,1,435ms,18,1710928954117,1710928957036,My name is Nalini.,80ms,20,Mi nombre es Nalini.
+,1710928955919,0,370ms,3,1710928955920,1710928958160,Ok.,54ms,3,OK.
+,1710928961882,0,351ms,10,1710928961883,1710928964200,Un placer.,26ms,11,My pleasure
+,1710928964638,1,412ms,39,1710928964639,1710928967959,Are you comfortable with today's topic?,90ms,38,¿Te sientes cómodo con el tema de hoy?
+,1710928973481,0,457ms,25,1710928973483,1710928977554,Sí un poco. soy cómodo. ,91ms,34,Yeah a little bit I'm comfortable.
+,1710928983435,1,403ms,75,1710928983436,1710928991240,It will be a general discussion kind of thing. No need to take much stress.,1710928991643ms,63,Será un debate general. No hay necesidad de tomar mucho estrés.
+,1710928997757,0,404ms,13,1710928997759,1710929000800,Ok está bien.,60ms,11,Ok is okay.
+,1710929005478,1,467ms,60,1710929005480,1710929010913,Do you have any idea about the public universities in Spain?,108ms,60,¿Tienes alguna idea de las universidades públicas en España?
+,1710929013800,1,386ms,20,1710929013800,1710929016515,Is it free to study?,68ms,20,¿Es gratis estudiar?
+,1710929021320,0,491ms,78,1710929021321,1710929032840,No. Algunas son públicas y una prioridad. Pero es gratis algunos sí otras no. ,141ms,63,Some are not public and a priority but it is free some are not.
+,1710929045435,1,442ms,48,1710929045438,1710929049639,Are there any English universities in Barcelona?,86ms,45,¿Hay alguna universidad inglesa en Barcelona?
+,1710929070678,0,372ms,6,1710929070681,1710929075681,Sí hay,66ms,13,Yes there is.
+,1710929072878,1,402ms,91,1710929072878,1710929081202,I meant to ask. Is there any University in Barcelona? Where span Spanish is not compulsory.,1710929081604ms,85,Quería preguntar. ¿Hay alguna universidad en Barcelona? El español no es obligatorio.
+,1710929087358,0,332ms,6,1710929087360,1710929089597,Sí hay,20ms,13,Yes there is.
+,1710929096960,1,469ms,87,1710929096963,1710929106961,There is a exam which has happened for the international students. Are you aware of it?,1710929107430ms,93,Hay un examen que ha ocurrido para los estudiantes internacionales. ¿Eres consciente de ello?
+,1710929110119,1,394ms,23,1710929110121,1710929112996,It's called highlights.,63ms,20,Se llama highlights.
+,1710929113716,1,345ms,8,1710929113717,1710929117636,I.e. Lts,1710929117981ms,13,Es decir Lts
+,1710929114276,0,372ms,3,1710929114287,1710929116253,Sí.,40ms,9,Yes I do
+,1710929121077,1,428ms,6,1710929121079,1710929123676,IELTS.,60ms,6,IELTS.
+,1710929123601,0,339ms,3,1710929123602,1710929125644,Sí.,23ms,9,Yes I do
+,1710929130517,1,502ms,54,1710929130518,1710929137674,Do we need to Pasta exam to apply for a Visa in Spain?,133ms,67,¿Necesitamos un examen de Pasta para solicitar un visado en España?
+,1710929140478,1,529ms,29,1710929140479,1710929142516,Do we need to past that it's?,74ms,25,¿Necesitamos superar eso?
+,1710929142836,1,448ms,27,1710929142836,1710929145917,Disapply for a busy screen.,91ms,37,Desaplicar para una pantalla ocupada.
+,1710929150720,0,344ms,3,1710929150721,1710929152716,No.,35ms,3,No.
+,1710929151438,1,482ms,55,1710929151439,1710929155315,Kindly ignore there is some issue with the translation.,116ms,60,Por favor ignoren que hay algún problema con la traducción.
+,1710929161515,0,405ms,14,1710929161516,1710929163918,Ok está bien. ,71ms,11,Ok is fine.
+,1710929168999,1,426ms,46,1710929169001,1710929172956,Can I study in Spain without speaking Spanish?,88ms,45,¿Puedo estudiar en España sin hablar español?
+,1710929179000,0,609ms,20,1710929179002,1710929183554,Sabes en inglés si. ,75ms,23,You know in English if.
+,1710929193798,0,419ms,35,1710929193829,1710929197277,Pero lo esencial es hablar español.,88ms,44,But the essential thing is to speak Spanish.
+,1710929205155,1,416ms,14,1710929205157,1710929207557,I hope on the.,56ms,13,Espero en el.
+,1710929209922,1,404ms,14,1710929209923,1710929212446,Agree on this.,83ms,25,Estoy de acuerdo en esto.
+,1710929211081,0,441ms,31,1710929211083,1710929214962,Puedes hablar de español oiga. ,92ms,30,You can speak Spanish listen.
+,1710929225681,1,434ms,31,1710929225682,1710929228875,Do you have any Indian friends?,78ms,26,¿Tienes algún amigo indio?
+,1710929235116,0,396ms,28,1710929235118,1710929240368,No pero conocí he conocido. ,88ms,21,No but I met I met.
+,1710929240958,0,400ms,27,1710929240958,1710929244655,He hablado pero en inglés. ,86ms,27,I've spoken but in English.
+,1710929251039,1,459ms,26,1710929251041,1710929254513,Are you fluent in English?,84ms,27,¿Hablas inglés con fluidez?
+,1710929260679,0,337ms,8,1710929260680,1710929262997,Un poco.,19ms,7,Kind of
+,1710929265756,0,404ms,28,1710929265757,1710929268975,Tu hablas inglés o español. ,74ms,29,You speak English or Spanish.
+,1710929273838,1,349ms,7,1710929273840,1710929275918,English,33ms,6,Inglés
+,1710929280480,0,432ms,36,1710929280482,1710929284237,Me gustaría estudiar de una España. ,115ms,35,I would like to study from a Spain.
+,1710929289281,1,453ms,23,1710929289284,1710929293040,Which city you live in?,77ms,21,¿En qué ciudad vives?
+,1710929294080,0,507ms,70,1710929294081,1710929300843,Hay muy buenas universidades en España yo vivo en Madrid ma internet. ,124ms,71,There are very good universities in Spain I live in Madrid ma internet.
+,1710929317041,1,436ms,45,1710929317043,1710929321276,Are there any Catholic universities in Spain?,83ms,43,¿Hay alguna universidad católica en España?
+,1710929328036,0,340ms,8,1710929328039,1710929330636,Sí claro,57ms,14,Yes of course.
+,1710929335756,1,561ms,122,1710929335758,1710929346319,Can a non-catholic guy get an admission in any of the Spanish Catholic universities like the Catholic University of Avila.,213ms,141,¿Puede un tipo no católico obtener una admisión en cualquiera de las universidades católicas españolas como la Universidad Católica de Ávila?
+,1710929359474,0,339ms,6,1710929359475,1710929361715,Claro.,44ms,10,Of course.
+,1710929363758,0,712ms,66,1710929363760,1710929369756,No no tendría ningún problema estudiar en una universidad ah. Rica,1710929370468ms,70,I wouldn't have a problem studying at a university ah. Rica.-) Rica.-)
+,1710929382081,1,543ms,101,1710929382083,1710929390877,Will there be any difference in the fee structure for a Catholic student from a non-catholic student?,185ms,110,¿Habrá alguna diferencia en la estructura de tarifas para un estudiante católico de un estudiante no católico?
+,1710929403001,0,364ms,3,1710929403003,1710929405200,No.,15ms,3,No.
+,1710929417037,1,450ms,35,1710929417038,1710929421079,Have you ever been to Avila cities?,102ms,48,¿Alguna vez has estado en las ciudades de Ávila?
+,1710929420759,0,418ms,32,1710929420759,1710929427776,Me gustaría estudiar en España. ,87ms,31,I would like to study in Spain.
+,1710929429598,0,468ms,29,1710929429599,1710929433659,No pero me gustaría conocer. ,104ms,25,No but I'd like to meet.
+,1710929442481,1,468ms,48,1710929442482,1710929447318,In which country you had your primary education?,100ms,43,¿En qué país tuviste tu educación primaria?
+,1710929456920,0,416ms,22,1710929456922,1710929460001,Primaria en Venezuela.,70ms,20,Primary in Venezuela
+,1710929460433,0,494ms,49,1710929460443,1710929466961,Pedro me gustaria retomar mi estudio. En España. ,127ms,50,Pedro I would like to return to my study in Spain.
+,1710929475194,1,502ms,35,1710929475197,1710929478636,So where are you staying currently?,99ms,39,Entonces ¿dónde te quedas actualmente?
+,1710929483359,0,379ms,21,1710929483360,1710929486953,Yo recibo en España. ,69ms,19,I receive in Spain.
+,1710929491718,1,395ms,4,1710929491721,1710929493681,Okay,47ms,9,Está bien
+,1710929502523,0,371ms,2,1710929502525,1710929504756,Ok,19ms,3,OK.
+,1710929502958,1,449ms,52,1710929502965,1710929508315,Is Madrid affordable for the international students?,115ms,58,¿Es Madrid asequible para los estudiantes internacionales?
+,1710929515322,0,577ms,106,1710929515324,1710929529198,Madrid es una ciudad clara para estudiantes que viven afuera se tienen se tienen que alquilar habitación. ,219ms,73,Madrid is a clear city for students who live outside have to rent a room.
+,1710929536678,1,665ms,60,1710929536679,1710929543961,How much is the average rental per month for a one bhk flat?,251ms,62,¿Cuánto cuesta el alquiler medio al mes por un piso de un bhk?
+,1710929541316,0,571ms,66,1710929541317,1710929547841,Que los precios de los alquileres por habitación es muy económico.,208ms,52,That the prices of the rents per room is very cheap.
+,1710929552835,0,562ms,62,1710929552838,1710929560877,Dependiendo de la zona está en break 700 a 1200 la habitación.,213ms,55,Depending on the area is in break 700 to 1200 the room.
+,1710929575160,1,575ms,41,1710929575161,1710929578996,Have you ever been to the city of Malaga?,174ms,46,¿Has estado alguna vez en la ciudad de Málaga?
+,1710929580517,0,446ms,6,1710929580518,1710929582441,Euros.,94ms,6,Euros.
+,1710929585280,0,339ms,2,1710929585283,1710929587408,Sí,21ms,9,Yes I do
+,1710929590876,1,538ms,32,1710929590878,1710929594758,Malaga is a good place to study.,133ms,38,Málaga es un buen lugar para estudiar.
+,1710929600362,0,531ms,42,1710929600364,1710929607201,Sí muy bonito y buen lugar para estudiar. ,142ms,38,Yes very nice and good place to study.
+,1710929613999,1,717ms,130,1710929614001,1710929623558,I have read that it suits the international students because it has an international airport and affordable student accommodation.,302ms,142,He leído que se adapta a los estudiantes internacionales porque tiene un aeropuerto internacional y un alojamiento para estudiantes asequible.
+,1710929634474,0,644ms,37,1710929634475,1710929639167,Si fuera de Madrid es más económico. ,294ms,25,If it is more economical.
+,1710929648479,1,667ms,58,1710929648481,1710929653596,Can someone get a job in Spain if they only speak English?,297ms,67,¿Puede alguien conseguir un trabajo en España si solo habla inglés?
+,1710929649041,0,424ms,32,1710929649043,1710929652717,Me gustaría estudiar en España. ,27ms,31,I would like to study in Spain.
+,1710929660240,0,524ms,19,1710929660241,1710929663971,Hay mucho trabajo. ,176ms,22,There's a lot of work.
+,1710929664841,0,681ms,95,1710929664851,1710929673336,Pero lo importante es un papel de trabajo. El papel del trabajo que se autoriza para trabajar. ,299ms,84,But what is important is a working role The role of work that is authorized to work.
+,1710929675042,0,502ms,23,1710929675043,1710929678600,Documento. Ve trabajó. ,117ms,19,Document Ve worked.
+,1710929687716,0,488ms,20,1710929687743,1710929690481,Permisa de trabajo. ,122ms,12,Work permit.
+,1710929694635,1,377ms,4,1710929694637,1710929696437,Okay,34ms,9,Está bien
+,1710929703799,1,515ms,110,1710929703820,1710929714039,Let's say I'm a travel freak. And I love to take decent photos. Will there be any opportunity in Spain for me?,1710929714554ms,122,Digamos que soy un fanático de los viajes. Y me encanta tomar fotos decentes. ¿Habrá alguna oportunidad en España para mí?
+,1710929722919,0,323ms,2,1710929722920,1710929725011,Sí,18ms,9,Yes I do
+,1710929733880,1,583ms,48,1710929733882,1710929738999,How is the tourism sector in Valencia or Madrid?,177ms,52,¿Cómo está el sector turístico en Valencia o Madrid?
+,1710929747515,0,644ms,92,1710929747517,1710929757558,En Valencia como se acerca primavera mucha gente sí turista llamadas en verano olas playas. ,259ms,82,In Valencia as spring approaches many people yes tourist called in summer beaches.
+,1710929757840,0,542ms,54,1710929757847,1710929763885,Adri. Siempre. Por las temporadas altas es muy lindo. ,180ms,47,Adri Siempre For the high seasons is very nice.
+,1710929765279,0,492ms,26,1710929765283,1710929768762,Pampa centros turísticos. ,124ms,14,Pampa resorts.
+,1710929775880,1,402ms,4,1710929775882,1710929777754,Okay,19ms,9,Está bien
+,1710929781596,1,631ms,71,1710929781597,1710929788722,Do students from portugul or Gibraltar come to Spain for their studies?,219ms,75,¿Los estudiantes de Portugal o Gibraltar vienen a España para sus estudios?
+,1710929799878,0,388ms,7,1710929799879,1710929802492,Sí pues,87ms,9,Yes then.
+,1710929803795,0,492ms,25,1710929803796,1710929806722,Su valle está muy cerca. ,121ms,25,Its valley is very close.
+,1710929813838,1,497ms,32,1710929813840,1710929816925,Have you ever been to Gibraltar?,147ms,36,¿Has estado alguna vez en Gibraltar?
+,1710929815915,0,675ms,74,1710929815916,1710929822758,Hay gente que vive en Portugal. Está bien a España a trabajar it regreta. ,277ms,76,There are people who live in Portugal It's okay to Spain to work it regrets.
+,1710929831196,0,464ms,18,1710929831197,1710929833678,No he estado ahí. ,119ms,21,I haven't been there.
+,1710929840957,1,534ms,23,1710929840960,1710929843638,Have you been to Palma?,118ms,21,¿Has estado en Palma?
+,1710929851641,0,348ms,3,1710929851643,1710929853639,No.,17ms,3,No.
+,1710929857954,1,495ms,31,1710929857956,1710929861037,I've heard it's very beautiful.,139ms,27,He oído que es muy hermoso.
+,1710929864316,1,590ms,42,1710929864317,1710929868009,Do you like to work in a place like Palma?,189ms,42,¿Te gusta trabajar en un lugar como Palma?
+,1710929866238,0,549ms,24,1710929866239,1710929869890,Me gustaría sí sí tar. ,148ms,18,I'd like to do it.
+,1710929874758,0,539ms,26,1710929874759,1710929877656,No no he estado en palma. ,176ms,28,No I haven't been to Palma.
+,1710929883400,1,326ms,4,1710929883402,1710929885116,Okay,17ms,9,Está bien
+,1710929888876,1,527ms,19,1710929888877,1710929891797,What is shuttle an?,112ms,27,¿Qué es el transbordador y?
+,1710929893316,1,408ms,7,1710929893317,1710929895475,Catalan,76ms,7,Catalán
+,1710929899400,1,602ms,61,1710929899403,1710929904479,Is it one of the languages spoken in various cities of Spain?,224ms,66,¿Es una de las lenguas que se hablan en varias ciudades de España?
+,1710929900598,0,411ms,4,1710929900609,1710929902553,Cómo,73ms,9,How to...
+,1710929913200,0,512ms,45,1710929913202,1710929918715,En España se encuentra tala muchos idiomas. ,128ms,34,Many languages are found in Spain.
+,1710929919399,0,491ms,24,1710929919400,1710929922889,Del frente del turista. ,125ms,30,From the front of the tourist.
+,1710929926880,0,509ms,34,1710929926882,1710929932316,Portugués italiano inglés además. ,121ms,35,Portuguese Italian English as well.
+,1710929937840,0,433ms,7,1710929937841,1710929940041,Romani.,86ms,7,Romani.
+,1710929940875,0,457ms,19,1710929940877,1710929943601,Vicente de áfrica. ,108ms,18,Vincent of Africa.
+,1710929945480,0,370ms,9,1710929945481,1710929947652,Marruecos,55ms,8,Morocco.
+,1710929946837,1,508ms,19,1710929946838,1710929951717,What about Catalan?,105ms,21,¿Qué hay del catalán?
+,1710929956035,1,505ms,20,1710929956036,1710929958725,Isn't it a language?,138ms,17,¿No es un idioma?
+,1710929957198,0,509ms,25,1710929957209,1710929962008,Más que todo en catalán. ,126ms,23,Most of all in Catalan.
+,1710929962840,0,493ms,17,1710929962840,1710929965410,Si es un idioma. ,129ms,19,If it's a language.
+,1710929968357,1,496ms,21,1710929968359,1710929971038,Do you speak Catalan?,93ms,16,¿Hablas catalán?
+,1710929974716,0,520ms,18,1710929974718,1710929977557,No no la patalla. ,154ms,21,No no it's the gut.
+,1710929982719,0,513ms,32,1710929982721,1710929986719,Es un poco parecido al español. ,141ms,31,It's a little bit like Spanish.
+,1710929991960,1,343ms,4,1710929991963,1710929993680,Okay,15ms,9,Está bien
+,1710930002598,1,608ms,56,1710930002600,1710930007804,What job sectors most Spanish people prefer to get into.,193ms,72,¿En qué sectores laborales prefieren entrar la mayoría de los españoles?
+,1710930027281,1,581ms,55,1710930027283,1710930034408,Is it tourism or academics or entertainment hot sports?,175ms,55,¿Es turismo o académicos o deportes de entretenimiento?
+,1710930027479,0,516ms,41,1710930027480,1710930034324,Administrador de hay muchos obreros taxi.,156ms,45,Administrator of There are many taxi workers.
+,1710930035715,0,389ms,9,1710930035716,1710930038123,Autónomos,72ms,11,Autonomous.
+,1710930040677,0,396ms,9,1710930040679,1710930043115,El iberia,87ms,12,The Iberian.
+,1710930059278,1,470ms,45,1710930059281,1710930062808,Thank you for having this conversation today.,125ms,40,Gracias por tener esta conversación hoy.
+,1710930063393,1,557ms,48,1710930063394,1710930067558,I got to know a lot of things about Spain today.,145ms,40,Hoy he sabido muchas cosas sobre España.
+,1710930072641,1,527ms,29,1710930072643,1710930075600,We will talk some other time.,133ms,27,Hablaremos en otro momento.
+,1710930073361,0,600ms,59,1710930073362,1710930079250,Ok me parece muy bien ya. Aprendió muchas cosas de España. ,1710930079850ms,53,I think that's fine now. He learned a lot from Spain.
+,1710930078795,1,510ms,30,1710930078804,1710930081766,Thank you and have a nice day.,159ms,33,Gracias y que tengas un buen día.
+,1710930079959,0,484ms,20,1710930079966,1710930083084,Me parece perfecto. ,117ms,21,I think it's perfect.
+,1710930085844,0,558ms,48,1710930085846,1710930092079,Que tengan buen días de feliz día cuídate mucho.,216ms,55,Have good days of happy day take good care of yourself.
+,1710930087677,1,562ms,15,1710930087682,1710930090243,Bye take care.,151ms,19,Adiós ten cuidado.
+,1710930092996,0,540ms,50,1710930092997,1710930099248,Hablaremos espero hablar pronto contigo otra vez. ,173ms,44,We'll talk hopefully talk to you again soon.
+,1710930104241,0,427ms,5,1710930104243,1710930106116,Chao.,87ms,5,Chao.

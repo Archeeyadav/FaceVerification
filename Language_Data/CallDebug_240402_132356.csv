@@ -1,0 +1,87 @@
+﻿Reference,SpeechId,Direction,SttLatency,length,beginOfSpeech,endOfSpeech,SttResult,TranslationLatency,length,TranslatedResult,useless,translation comment
+1712043256197
+,1712043254593,1,860ms,10,1712043254604,1712043259009,Hello yeah,534ms,7,Hola sí
+,1712043257985,0,692ms,31,1712043257986,1712043263152,No recuerdo tocar un chapunto. ,323ms,37,I don't remember touching a chapunto.
+,1712043261110,1,509ms,24,1712043261120,1712043263553,Are you able to hear me?,70ms,21,¿Eres capaz de oírme?
+,1712043269436,0,403ms,9,1712043269438,1712043271437,Creo hola,54ms,14,I think hello.
+,1712043275630,0,428ms,20,1712043275632,1712043278993,Hello high awardy. ,67ms,19,Hello high awardy.
+,1712043276191,1,455ms,43,1712043276199,1712043280030,My name is Prasanna I'm calling from India.,118ms,49,mi nombre es prasanna estoy llamando de la india.
+,1712043280231,1,383ms,89,1712043280233,1712043288515,Next garden is discussion about the topic travel and leisure. I hope you are aware of it.,1712043288898ms,98,El siguiente jardín es la discusión sobre el tema de los viajes y el ocio. Espero que lo conozcan.
+,1712043287151,0,414ms,19,1712043287152,1712043289970,Hola ¿cómo estás? ,70ms,19,Hello how are you?
+,1712043293031,1,368ms,30,1712043293036,1712043296149,I'm doing good. How about you?,1712043296517ms,42,Lo estoy haciendo bien. ¿Qué onda contigo?
+,1712043301871,0,437ms,29,1712043301873,1712043304997,Viento bien gracias a Dios. ,87ms,21,Wind well thank God.
+,1712043311910,1,425ms,33,1712043311912,1712043315228,May I know where you are located?,75ms,33,¿Puedo saber dónde estás ubicado?
+,1712043320793,0,498ms,47,1712043320795,1712043327028,Sí estoy en Miramar ¿florida cerca de Miami. ,127ms,41,Yeah I'm in Miramar Florida near Miami.
+,1712043327708,0,399ms,14,1712043327708,1712043329751,Estados Unidos,51ms,14,United States.
+,1712043336226,1,589ms,84,1712043336228,1712043343826,Actually I was a bit surprised looking at the time I think currently it's 3:30 AM.,171ms,92,La verdad me sorprendió un poco mirar en ese momento creo que actualmente son las 3:30 AM.
+,1712043348792,1,446ms,29,1712043348802,1712043351986,How come are you still awake?,81ms,37,¿Cómo es que todavía estás despierto?
+,1712043358273,0,579ms,86,1712043358274,1712043369114,Eh me levantó temprano y para trabajar y estoy despierto me levante una hora antes. ,180ms,70,Hey I got up early and to work and I'm awake I got up an hour early.
+,1712043379992,1,435ms,35,1712043379993,1712043384348,May I know what you do for leaving?,89ms,35,¿Puedo saber lo que haces por irte?
+,1712043386266,1,446ms,23,1712043386279,1712043388866,What you do for living?,71ms,22,¿Qué haces para vivir?
+,1712043394431,0,636ms,130,1712043394433,1712043405230,Trabajó en alguna empresa donde se revisan madre e escaleras de madera para la distinta vivienda que se construyen aquí en Miami. ,200ms,120,She worked in a company where mother and wooden stairs are checked for the different house that are built here in Miami.
+,1712043420069,1,461ms,33,1712043420070,1712043423389,Which country is your birthplace?,87ms,36,¿Qué país es tu lugar de nacimiento?
+,1712043429631,0,359ms,9,1712043429632,1712043431868,Venezuela,36ms,9,Venezuela
+,1712043437506,1,457ms,44,1712043437508,1712043440996,And how long have you been staying in Miami?,98ms,33,¿Y cuánto tiempo llevas en Miami?
+,1712043446793,0,472ms,26,1712043446796,1712043451122,Tengo 8 años y medio acá. ,111ms,36,I'm eight and a half years old here.
+,1712043464192,1,437ms,18,1712043464194,1712043466951,Okay that's nice.,76ms,21,Está bien está bien.
+,1712043471027,1,504ms,58,1712043471029,1712043475470,So today's topic of discussion will be travel and leisure.,130ms,60,Así que el tema de discusión de hoy será el viaje y el ocio.
+,1712043484231,1,466ms,39,1712043484233,1712043488470,How far will be Miami from New Orleans?,93ms,47,¿A qué distancia estará Miami de Nueva Orleans?
+,1712043487511,0,356ms,2,1712043487513,1712043489447,Ok,72ms,3,OK.
+,1712043496911,0,528ms,63,1712043496912,1712043507392,Bebés debe estar más o menos como 4 26 horas aproximadamente. ,112ms,35,Babies should be about 4 26 hours.
+,1712043519870,1,476ms,36,1712043519872,1712043523751,Are there a lot of casinos in Miami?,94ms,29,¿Hay muchos casinos en Miami?
+,1712043529711,0,576ms,50,1712043529713,1712043536111,Sí hay muchos en diferentes condados locaciones. ,119ms,52,Yes there are many in different counties locations.
+,1712043544191,1,409ms,67,1712043544192,1712043551230,Is there an age limit to go to any casinos? Are kids allowed there?,1712043551639ms,71,¿Hay un límite de edad para ir a algún casino? ¿Se permiten niños allí?
+,1712043552710,0,493ms,15,1712043552711,1712043554682,Todo el mundo. ,77ms,9,Everyone.
+,1712043557591,0,878ms,136,1712043557593,1712043575195,No no se permiten niños y hasta los 18 años para para jugar espero para beber y todo para tomar licor tiene que tener más de 21 años. ,396ms,137,No children are not allowed and until the age of 18 to play I wait to drink and everything to drink liquor has to be over 21 years old.
+,1712043595512,1,523ms,34,1712043595513,1712043598951,Have you ever been to New Orleans?,141ms,40,¿Alguna vez has estado en Nueva Orleans?
+,1712043605669,0,1074ms,174,1712043605671,1712043622039,No no he tenido la oportunidad de visitar Doom esa ciudad pero me han dicho que es espectacular. Eh los sitios turísticos y el ambiente y las personas son muy agradables. ,489ms,167,No I haven't had the opportunity to visit Doom that city but I've been told it's spectacular. Hey the tourist sites and the atmosphere and the people are very nice.
+,1712043647869,1,634ms,61,1712043647870,1712043653509,I've heard there's a official website for the Miami Dolphins.,202ms,61,He oído que hay un sitio web oficial para los Miami Dolphins.
+,1712043655429,1,544ms,52,1712043655430,1712043662390,May I know which things they are meant to show here?,163ms,55,¿Puedo saber qué cosas están destinadas a mostrar aquí?
+,1712043662947,0,458ms,6,1712043662951,1712043666717,Sí ahí,89ms,10,Yes there.
+,1712043666033,1,552ms,43,1712043666040,1712043670072,Is it about a sports team or real Dolphins?,175ms,58,¿Se trata de un equipo deportivo o de verdaderos delfines?
+,1712043670989,0,887ms,27,1712043670990,1712043675150,Sí bueno eh el estadio. ,155ms,28,Yeah well uh the stadium.
+,1712043677188,0,666ms,24,1712043677189,1712043680116,Sí se trata de un Mus. ,283ms,19,Yes this is a Mus.
+,1712043683108,0,622ms,8,1712043683112,1712043684998,Se traza,95ms,12,It is traced
+,1712043693031,0,1159ms,194,1712043693033,1712043713594,Ok se trata de un equipo deportivo de fútbol americano donde las reglas son complicadas y eh el estadio de ellos espectacular es un en un monumento en realidad de de deporte es como museo. ,551ms,168,Okay this is a sports football team where the rules are complicated and uh the stadium of them spectacular is a in a monument actually of sport it's like a museum.
+,1712043728469,1,501ms,4,1712043728472,1712043730388,Okay,165ms,9,Está bien
+,1712043735510,1,575ms,41,1712043735512,1712043739153,Is this something called wine wood walls?,154ms,48,¿esto es algo llamado paredes de madera de vino?
+,1712043748631,1,556ms,8,1712043748633,1712043752428,WYNWOOT.,97ms,8,Wynwoot.
+,1712043752469,0,506ms,23,1712043752470,1712043755239,Lo hicieron preguntas. ,106ms,25,They asked him questions.
+,1712043768592,1,560ms,8,1712043768596,1712043772791,WYNWOOD.,82ms,8,Wynwood.
+,1712043782027,1,545ms,34,1712043782030,1712043786312,Is there a art district like this?,136ms,35,¿Hay un distrito de arte como este?
+,1712043789068,0,470ms,12,1712043789069,1712043791595,Adonde fruto,79ms,15,Where it fruits
+,1712043796830,0,912ms,112,1712043796832,1712043810670,Hay un distrito se llama designe street ubicado alrededor de 30 y 30 minutos desde donde estoy viviendo y sí. ,381ms,110,There's a district it's called Designe Street located about 30 and 30 minutes from where I'm living and yes.
+,1712043796947,1,734ms,107,1712043796949,1712043805912,I've heard it's a neighbourhood of Miami and it's been an entertainment district with art work restaurants.,316ms,109,He oído que es un barrio de Miami y ha sido un distrito de entretenimiento con restaurantes de obras de arte.
+,1712043821833,0,750ms,91,1712043821836,1712043834548,Sí donde se donde existen murales de arte y de arte callejero y se llama wingrot y están. ,337ms,99,Yes where I know where there are murals of art and street art and it's called wingrot and they're.
+,1712043824987,1,537ms,198,1712043824989,1712043839468,How do you travel from one place to another place? Let's see you are travelling from Miami to book Texas or Jacksonville or any other place of United States. What is the mode of your transportation?,1712043840005ms,174,¿Cómo viajas de un lugar a otro? Veamos que viajas desde Miami para reservar Texas o Jacksonville o cualquier otro lugar de Estados Unidos. ¿Cuál es el modo de su transporte?
+,1712043850950,0,1227ms,211,1712043850952,1712043873308,Si el modo de transporte es un carnabion en aeroplano y este está cerca de ya cada 5 o 6 horas uno puede trasladarse en automóvil porque las vías son que las vías son sidonia para para para realizar el viaje. ,624ms,183,If the mode of transport is a carnabion in an airplane and this is close to every 5 or 6 hours you can travel by car because the tracks are that the tracks are Sidonia for the trip.
+,1712043892034,1,372ms,5,1712043892036,1712043894029,Great,46ms,6,Grande
+,1712043899872,1,493ms,38,1712043899874,1712043904311,Is the travel by railways comfortable?,124ms,35,¿Es cómodo el viaje en ferrocarril?
+,1712043912911,0,1522ms,313,1712043912913,1712043941074,En realidad no lo he hecho exacto un momento pero me llama mucho la atención ya que siempre es promocionado como que es un viaje realizable un viaje donde puedes disfrutar de varias cosas entre ella bebida comida y dan vario servicio de lo cual te puede sentir muy cómodamente viajando hacia el tu destino.,859ms,296,Actually I haven't done it exactly for a moment but it catches my attention since it is always promoted as it is a feasible trip a trip where you can enjoy various things between it drink food and give a variety service of which you can feel very comfortably traveling to your destination.
+,1712043966588,1,658ms,227,1712043966590,1712043984390,Yes even in India. We prefer travel by railways because you need not have to worry about traffic. You needn't have to worry about driving. The only thing you can do is have lots of food move between compartments and c outside.,1712043985048ms,238,Sí incluso en la India. Preferimos viajar en ferrocarril porque no tienes que preocuparte por el tráfico. No tienes que preocuparte por conducir. Lo único que puedes hacer es tener mucha comida moviéndose entre compartimentos y c afuera.
+,1712043979187,0,458ms,12,1712043979188,1712043981436,Aquello nada,108ms,15,That's nothing.
+,1712043995027,0,573ms,2,1712043995028,1712043997328,09,23ms,2,09
+,1712044000190,0,399ms,6,1712044000193,1712044002226,Rolpes,58ms,5,Roles
+,1712044008831,1,498ms,33,1712044008834,1712044012626,How do you pass time on weekends?,122ms,44,¿Cómo se pasa el tiempo los fines de semana?
+,1712044020350,0,2085ms,575,1712044020362,1712044089393,Sí bueno puede ser visitar en los innumerables restaurante de comida típica de regiones tanto de Sudamérica como de Norteamérica como de Centroamérica muchos restaurantes peruanos colombianos porque la distintas culturas que que alberga la ciudad de Miami permite disfrutar de una gran gastronomía culinaria. Variable eh pues eh ir a los parques disfrutar de una una granja Barry betty de los amigos puedes pasar un tiempo de recreación tanto ahí como Acuario museo playas estamos muy cercanos a la a las playas y son por supuesto en tiempo de verano el negro.,1413ms,529,Yes well it can be to visit in the countless restaurants of typical food regions both in South America and North America and in Central America many Peruvian Colombian restaurants because the different cultures that the city of Miami houses allow you to enjoy a great culinary cuisine. Variable eh well eh go to the parks enjoy one a Barry betty farm of friends you can spend some time of recreation both there as Aquarium museum beaches we are very close to the beaches and are of course in summer time the black.
+,1712044130911,1,417ms,4,1712044130914,1712044133032,Nice,87ms,4,Niza
+,1712044133709,1,586ms,39,1712044133710,1712044137029,Have you ever been to the doors island?,166ms,49,¿Alguna vez has estado en la isla de las puertas?
+,1712044138152,1,362ms,5,1712044138153,1712044140111,Dodge,70ms,5,Dodge
+,1712044146070,0,1002ms,127,1712044146071,1712044158036,No no él no he tenido la oportunidad pero si me han me han comentado lo que he visto aparece como un sitio muy agradable. ,447ms,121,No no he didn't have the opportunity but if I've been I've been told what I've seen it appears as a very nice place.
+,1712044168712,1,550ms,40,1712044168713,1712044172386,Offer is the dog island from your place?,177ms,41,Oferta ¿Es la isla del perro de su lugar?
+,1712044173751,1,442ms,12,1712044173752,1712044176191,Dodge island,76ms,12,Dodge Island
+,1712044184475,0,377ms,2,1712044184476,1712044186552,Ok,25ms,3,OK.
+,1712044191351,1,583ms,44,1712044191372,1712044196067,How far is the Dodge island from your place?,172ms,48,¿A qué distancia está la isla Dodge de tu lugar?
+,1712044199067,0,560ms,46,1712044199069,1712044202637,¿Todo quién fueron por su sede toda la tumba? ,144ms,35,Whose whole tomb went for its seat?
+,1712044212315,1,506ms,39,1712044212317,1712044215787,Is this island very near to your place?,144ms,38,¿Esta isla está muy cerca de tu lugar?
+,1712044224313,0,390ms,2,1712044224315,1712044227907,No,52ms,3,No.
+,1712044228390,0,540ms,20,1712044228391,1712044231310,No sé en realidad. ,123ms,23,I don't know actually.
+,1712044235272,1,531ms,45,1712044235274,1712044240267,Okay no problem have you heard of Miami Beach,137ms,56,Está bien no hay problema has oído hablar de Miami Beach
+,1712044248315,0,1261ms,273,1712044248320,1712044280629,Sí Miami es un un sitio turístico concurrido eh por los turistas ya que se encuentran calle y vivienda famosa y este y sitios nocturnos donde puedes tener una vida donde puedes disfrutar de de diferentes locales se desea bailar sea beber sea compartir con los amigos.,651ms,226,Yes Miami is a tourist site eh by tourists as there are street and famous housing and this and night places where you can have a life where you can enjoy different places you want to dance or drink or share with friends.
+,1712044301468,1,643ms,73,1712044301469,1712044307790,Is it true that the Miami Beach is a bit away from the mainland of Miami?,220ms,70,¿Es cierto que Miami Beach está un poco lejos del continente de Miami?
+,1712044317387,0,1593ms,393,1712044317389,1712044362314,No no está es un islote que conectado por diferentes puentes de del tanto de Miami ahí podemos ver observar en en los puentes uno de los puentes que podemos observar los los cruceros grandes cruceros visitados oru y que tienen puerto que en Miami donde muchos turistas aprovechan y. Disfrutan de montarse en ello y hacer un recorrido por la isla del Caribe ella hacia México inclusive.,1114ms,343,No it is not it is an islet that connected by different bridges of the Miami there we can see in the bridges one of the bridges that we can observe the cruises large cruises visited oru and that have port that in Miami where many tourists take advantage and enjoy to get on it and make a tour of the Caribbean island it to Mexico even.
+,1712044388709,1,377ms,9,1712044388711,1712044390869,Beautiful,68ms,7,Hermosa
+,1712044393711,1,492ms,93,1712044393712,1712044401869,Okay thanks. I think uh the time slot for today is over. It was really nice talking to you.,1712044402361ms,109,Está bien gracias. Creo que uh la franja horaria para hoy ha terminado. Fue muy agradable hablar con usted.
+,1712044402831,1,364ms,16,1712044402832,1712044405361,Have a good day.,14ms,17,¡Ten un buen día.
+,1712044410389,1,336ms,14,1712044410391,1712044412912,Take care. Bye,1712044413248ms,25,Cuídate mucho. ¡Nos vemos
+,1712044412590,0,766ms,85,1712044412592,1712044422843,Igualmente gracias gracias. Igualmente que pasó bien el día y estarmó en contacto. ,282ms,72,Equally thank you thank you. He also had a good time and was in touch.

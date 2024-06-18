@@ -1,0 +1,153 @@
+﻿Reference,SpeechId,Direction,SttLatency,length,beginOfSpeech,endOfSpeech,SttResult,TranslationLatency,length,TranslatedResult,useless,translation comment
+1710925296957
+,1710925295145,1,845ms,5,1710925295163,1710925296903,Hello,516ms,5,Witam
+,1710925303942,1,653ms,42,1710925303948,1710925308153,My name is Manoj. I am calling from India.,1710925308806ms,35,Nazywam się Manoj. Dzwonię z Indii.
+,1710925305941,0,554ms,5,1710925305941,1710925308104,Wilka,222ms,8,The Wolf
+,1710925313581,1,431ms,41,1710925313587,1710925317582,How are you? May I know your name please?,1710925318013ms,37,Jak się masz? Mogę poznać twoje imię?
+,1710925315102,0,366ms,2,1710925315104,1710925317080,OK,52ms,9,OK OKAY?
+,1710925321740,0,439ms,16,1710925321741,1710925324660,Dawid z hakiem. ,56ms,18,David with a hook.
+,1710925334180,1,405ms,23,1710925334182,1710925337104,Today's job discussion.,79ms,28,Dzisiejsza dyskusja o pracy.
+,1710925337302,0,354ms,3,1710925337303,1710925339308,Ale,37ms,3,But
+,1710925342179,1,414ms,7,1710925342180,1710925344100,Today's,54ms,10,Dzisiejszy
+,1710925343583,0,366ms,6,1710925343586,1710925345699,Dobrze,33ms,4,Well
+,1710925348063,1,467ms,55,1710925348064,1710925352141,Today's topic of discussion will be travel and leisure.,133ms,55,Dzisiejszym tematem dyskusji będą podróże i wypoczynek.
+,1710925359226,0,354ms,6,1710925359229,1710925361423,Dobrze,23ms,4,Well
+,1710925366102,1,424ms,19,1710925366103,1710925368342,Do you like travel?,63ms,16,Lubicie podróże?
+,1710925372823,0,493ms,29,1710925372824,1710925376545,Z tak błędem lub podróżować. ,76ms,30,With such a mistake or travel.
+,1710925390221,1,554ms,64,1710925390222,1710925396464,Have you gone outside of Poland and travelled any other country?,131ms,74,Wyjechałeś poza granice Polski i podróżowałeś po jakimkolwiek innym kraju?
+,1710925404380,0,426ms,19,1710925404382,1710925407461,To tak kilka razy. ,84ms,27,It's like that a few times.
+,1710925416385,1,532ms,31,1710925416387,1710925419822,Have you ever gone on a safari?,193ms,26,Byliście kiedyś na safari?
+,1710925426263,0,554ms,30,1710925426283,1710925429624,Nie niestety nie tylko w zła. ,133ms,32,Unfortunately not just in evil.
+,1710925439387,1,425ms,40,1710925439390,1710925444502,What is the most famous river in Poland?,104ms,43,Jaka jest najbardziej znana rzeka w Polsce?
+,1710925450944,0,534ms,36,1710925450945,1710925455022,Myślę że Wisła ale jest też Odra. ,133ms,41,I think it's Vistula but it's also Oder.
+,1710925462542,1,505ms,92,1710925462544,1710925470264,I wanted to do a river safari. It's excited to know if the main river in Poland offers that.,1710925470769ms,84,Chciałem zrobić safari rzeczne. To ekscytujące że główna rzeka w Polsce to oferuje.
+,1710925479987,0,527ms,35,1710925479989,1710925483744,Nigdy o tym nie słyszałem jeszcze. ,90ms,30,I've never heard of it before.
+,1710925488983,1,727ms,180,1710925488985,1710925503225,In the river of you hop on my boat and then along with the course of the river you go and visit the different parts of the jungle and you'll be able to see wildlife along the way.,337ms,163,W rzece Ciebie wskocz na moją łódź a następnie wraz z biegiem rzeki idziesz i odwiedzasz różne części dżungli a będziesz mógł zobaczyć dziką przyrodę po drodze.
+,1710925516865,0,899ms,114,1710925516868,1710925524221,Nigdy nie widziałam tego w Polsce ale słyszałem że coś takiego w Czechach że wjeżdża się samochodem na safari. ,230ms,123,I've never seen it in Poland but I've heard something like this in the Czech Republic that you drive in by car on safari.
+,1710925534298,1,377ms,4,1710925534299,1710925536066,Okay,50ms,4,Okej
+,1710925538383,1,438ms,31,1710925538385,1710925541385,What about the camping culture?,89ms,26,A co z kulturą kempingową?
+,1710925543983,1,500ms,59,1710925543984,1710925549230,Can I set up a camp across the banks of the vistilla river?,143ms,50,Czy mogę założyć obóz nad brzegiem rzeki Vistilla?
+,1710925547263,0,554ms,29,1710925547264,1710925550596,Nigdy nie byłem na kempingu. ,104ms,30,I've never been to a campsite.
+,1710925557343,0,696ms,78,1710925557344,1710925562902,Myślę że niektóre filmy mogą transoferować a nigdy z tego nie skorzystałem. ,159ms,82,I think some movies might be transferable and I've never taken advantage of that.
+,1710925571584,1,324ms,4,1710925571587,1710925573466,Okay,18ms,4,Okej
+,1710925578426,1,452ms,26,1710925578429,1710925581865,Where is the Vishu lagoon?,93ms,24,Gdzie jest laguna Vishu?
+,1710925583503,1,392ms,9,1710925583504,1710925585624,Vishchula,70ms,9,Vishchula
+,1710925587105,1,376ms,5,1710925587107,1710925589304,Vishu,45ms,5,Vishu
+,1710925594268,1,363ms,12,1710925594279,1710925597187,Vishu lagoon,67ms,12,Laguna Vishu
+,1710925601502,1,471ms,45,1710925601504,1710925604986,I am not able to pronounce the name properly.,102ms,44,Nie jestem w stanie poprawnie wymówić nazwy.
+,1710925601621,0,488ms,21,1710925601653,1710925604578,Masz na myśli wisłę. ,81ms,21,You mean the Vistula.
+,1710925607382,1,470ms,22,1710925607386,1710925611584,Yes yes where is it?,90ms,24,Tak tak gdzie to jest?
+,1710925617223,0,539ms,43,1710925617225,1710925621864,Nie mam pojęcia nie słyszałam o tym nigdy. ,122ms,38,I have no idea I've never heard of it.
+,1710925621102,1,436ms,33,1710925621103,1710925625101,Is it part of Russia fort Poland?,87ms,32,Czy jest częścią Rosji w Polsce?
+,1710925627783,1,416ms,33,1710925627784,1710925631980,Is it part of Russia aur wolland?,85ms,32,Czy jest częścią Rosji w Polsce?
+,1710925641301,0,344ms,8,1710925641302,1710925643423,Nie wiem,19ms,12,I don't know
+,1710925645624,1,344ms,4,1710925645626,1710925648026,Okay,16ms,4,Okej
+,1710925650062,1,426ms,31,1710925650063,1710925653180,Are you aware of the black sea?,91ms,25,Czy zna Pan Morze Czarne?
+,1710925655105,1,452ms,22,1710925655106,1710925656779,Please do that Galaxy.,78ms,23,Proszę zrób to Galaxy.
+,1710925659543,1,422ms,36,1710925659545,1710925662901,Have you ever been to the black sea?,94ms,35,Byliście kiedyś nad Morzem Czarnym?
+,1710925663583,0,557ms,32,1710925663586,1710925666985,Tak słyszałem na morzu czarnym. ,108ms,37,That's what I heard in the Black Sea.
+,1710925672583,1,429ms,34,1710925672585,1710925675666,Can someone swim in the black sea?,109ms,37,Czy ktoś może pływać w Morzu Czarnym?
+,1710925672862,0,705ms,83,1710925672863,1710925680341,Nie nigdy nie byłem tam ale wiem gdzie to jest wiem że jest to w pobliżu korki. ,188ms,76,I've never been there but I know where it is I know it's near traffic jams.
+,1710925681907,0,480ms,30,1710925681908,1710925685160,Nie wiem nigdy tam nie byłem. ,101ms,36,I don't know I've never been there.
+,1710925689187,1,308ms,4,1710925689188,1710925691145,Okay,9ms,4,Okej
+,1710925699463,1,487ms,26,1710925699465,1710925703424,Why is lubbly city famous?,110ms,33,Dlaczego Lubbly City jest sławne?
+,1710925705423,1,352ms,6,1710925705424,1710925707502,Luvlin,54ms,6,Luvlin
+,1710925716263,0,498ms,25,1710925716267,1710925719061,Nie wiem o czym mówisz. ,99ms,39,I don't know what you're talking about.
+,1710925719940,1,480ms,56,1710925719941,1710925724341,I heard it had held the title of European youth capital.,126ms,59,Słyszałem że trzymał tytuł europejskiej stolicy młodzieży.
+,1710925730067,1,436ms,8,1710925730069,1710925732223,Lubbling,48ms,8,Lubbling
+,1710925733149,1,415ms,7,1710925733151,1710925735190,Rubbing,57ms,9,Ocieranie
+,1710925735943,0,380ms,5,1710925735944,1710925739344,Lubin,42ms,5,Lubin
+,1710925736224,1,384ms,7,1710925736226,1710925739102,LUB Li.,62ms,7,LUB Li.
+,1710925740743,0,348ms,6,1710925740744,1710925743044,Lublin,36ms,6,Lublin
+,1710925742499,1,383ms,5,1710925742507,1710925744422,No no,52ms,7,Nie Nie
+,1710925744944,1,364ms,3,1710925744945,1710925746863,Yes,48ms,3,Tak
+,1710925746266,0,404ms,8,1710925746267,1710925748906,Jest tak,70ms,8,It is so
+,1710925755060,1,517ms,52,1710925755061,1710925759822,How do I travel from lublin to cracko without a car?,144ms,49,Jak podróżować z Lublina do Cracko bez samochodu?
+,1710925759421,0,602ms,53,1710925759423,1710925764679,Według mnie nie jest to sławne miasto najpopularnej. ,103ms,34,This is not the most popular city.
+,1710925766180,0,707ms,57,1710925766181,1710925770826,Na pewno można pojechać do Dublina do Krakowa pociągiem. ,137ms,51,You can definitely go to Dublin to Krakow by train.
+,1710925778542,1,481ms,23,1710925778544,1710925781340,Which city you stay in?,106ms,31,W jakim mieście się zatrzymasz?
+,1710925788021,0,682ms,47,1710925788023,1710925792796,Można pojechać z Lublina do Krakowa pociągiem. ,129ms,42,You can go from Lublin to Krakow by train.
+,1710925798822,1,507ms,71,1710925798824,1710925803863,How much will be the fear and approximately how much time will it take?,152ms,39,Ile będzie strachu a ile czasu zajmie?
+,1710925808748,1,522ms,26,1710925808751,1710925811508,How much will be the fair?,139ms,20,Ile będzie jarmarku?
+,1710925810661,0,732ms,49,1710925810662,1710925815624,Myślę że powinno zająć między 3 lata 4 godziny. ,164ms,54,I think it should take four hours between three years.
+,1710925822862,1,336ms,4,1710925822863,1710925824662,Okay,16ms,4,Okej
+,1710925830583,1,602ms,54,1710925830584,1710925835504,Where is the World War 2 concentration camp in Poland?,175ms,59,Gdzie jest obóz koncentracyjny II wojny światowej w Polsce?
+,1710925842584,0,714ms,37,1710925842585,1710925847221,W Oświęcimiu nazywa się to auschwić. ,193ms,38,In Auschwitz this is called auschwić.
+,1710925851864,1,509ms,33,1710925851865,1710925855024,Have you ever been to this place?,137ms,30,Byliście kiedyś w tym miejscu?
+,1710925860304,0,896ms,71,1710925860306,1710925865579,Właśnie planuję pojechać na początku kwietnia bo nigdy tam nie byłem. ,234ms,69,I'm just planning to go in early April because I've never been there.
+,1710925883584,1,465ms,23,1710925883586,1710925886270,Which city you live in?,110ms,26,W jakim mieście mieszkasz?
+,1710925891627,0,756ms,45,1710925891629,1710925896621,Mieszkam aktualnie w Legnicy pod Wrocławiem. ,155ms,41,I currently live in Legnica near Wrocław.
+,1710925910022,1,529ms,31,1710925910024,1710925913105,How far will it be from cracko?,133ms,28,Jak daleko będzie od cracko?
+,1710925919543,0,622ms,32,1710925919544,1710925923420,Myślę że około 40. Kilometrów. ,139ms,24,I think about 40. Miles.
+,1710925930381,1,565ms,63,1710925930382,1710925936543,How do you normally travel within the different swollen cities?,197ms,56,Jak zwykle podróżujesz po różnych opuchniętych miastach?
+,1710925942582,1,522ms,39,1710925942583,1710925947185,Between the different cities of Poland.,140ms,33,Między różnymi miastami w Polsce.
+,1710925945022,0,586ms,27,1710925945023,1710925948269,Masz na myśli duże miasta. ,122ms,20,You mean big cities.
+,1710925953698,0,838ms,60,1710925953699,1710925959385,Tak Zwykle podróżuje pociągiem ponieważ jest to najtańsze. ,211ms,59,Yes it usually travels by train because it's the cheapest.
+,1710925973062,1,577ms,46,1710925973064,1710925977701,Do you have any underground train in full and?,201ms,44,Czy masz jakiś pociąg podziemny w całości i?
+,1710925980103,1,385ms,9,1710925980104,1710925982342,In puland,79ms,8,W Polsce
+,1710925983947,1,396ms,6,1710925983948,1710925986751,Poland,59ms,6,Polska
+,1710925984182,0,894ms,60,1710925984188,1710925991102,Pociąg pociąg podziemny w Polsce jeździ tylko w Warszawie. ,167ms,49,Train underground in Poland runs only in Warsaw.
+,1710926001343,1,527ms,24,1710926001344,1710926004463,Do you have metros also?,125ms,23,Czy Wy też macie metro?
+,1710926008862,0,579ms,29,1710926008865,1710926011823,I tak to jest właśnie metro. ,120ms,18,This is the metro.
+,1710926019465,1,443ms,68,1710926019467,1710926025382,There is a place it's known as melbour castle. Have you heard of it?,1710926025825ms,61,Jest takie miejsce jak Zamek w Melbourne. Słyszeliście o tym?
+,1710926026544,1,459ms,15,1710926026545,1710926029460,Melbourg cancel,110ms,18,Melbourne odwołane
+,1710926032223,1,348ms,15,1710926032225,1710926035309,Melbourg cancel,25ms,18,Melbourne odwołane
+,1710926039462,1,416ms,64,1710926039464,1710926044261,You can skip this. I am not able to pronounce the name properly.,1710926044677ms,63,Możesz to pominąć. Nie jestem w stanie poprawnie wymówić nazwy.
+,1710926047662,1,615ms,55,1710926047663,1710926052021,It is one of the largest castle complexes in the world.,212ms,61,Jest to jeden z największych kompleksów zamkowych na świecie.
+,1710926052065,0,780ms,46,1710926052066,1710926056508,Słyszałem tylko o zamku na wawelu w Krakowie. ,198ms,49,I only heard about the castle in Wawel in Krakow.
+,1710926057703,1,588ms,79,1710926057704,1710926063463,It seems UNESCO has also granted it. Delete the title of a World Heritage Site.,1710926064051ms,85,Wydaje się że UNESCO również to przyznało. Usuń tytuł Światowego Dziedzictwa UNESCO.
+,1710926071344,1,573ms,29,1710926071346,1710926074222,What about the river no ghat?,172ms,21,A co z rzeką bez gha?
+,1710926075743,1,434ms,6,1710926075744,1710926077746,No but,96ms,8,Nie ale
+,1710926078501,1,462ms,7,1710926078503,1710926080583,No ghat,90ms,8,Nie co?
+,1710926084665,1,494ms,6,1710926084666,1710926087822,NOGAT.,88ms,9,NIE NIE.
+,1710926093349,1,511ms,13,1710926093350,1710926095662,It's a river.,103ms,9,To rzeka.
+,1710926096981,1,550ms,20,1710926096982,1710926099541,Are you aware of it?,134ms,32,Czy zdajesz sobie z tego sprawę?
+,1710926100581,0,425ms,5,1710926100582,1710926102952,Wisła,91ms,5,Wisła
+,1710926116060,1,490ms,29,1710926116062,1710926118782,Have you heard of this river?,133ms,25,Słyszeliście o tej rzece?
+,1710926117822,0,592ms,20,1710926117823,1710926120583,Czy chodzi o wisłę. ,143ms,30,Is it about the Vistula River?
+,1710926119102,1,431ms,5,1710926119120,1710926121944,OGAT.,74ms,5,OGAT.
+,1710926126821,1,472ms,11,1710926126823,1710926129430,Nogut river,114ms,11,Nogut River
+,1710926128746,0,402ms,4,1710926128748,1710926130946,Odra,68ms,4,Oder
+,1710926130342,1,379ms,6,1710926130348,1710926132262,No God,92ms,9,Nie Boże
+,1710926133062,1,478ms,10,1710926133066,1710926135586,NO get AT.,106ms,14,Nie dostać AT.
+,1710926138143,1,494ms,6,1710926138144,1710926141424,NOGAT.,91ms,9,NIE NIE.
+,1710926152904,0,807ms,53,1710926152906,1710926157780,Z najpopularniejszych rzek jest jeszcze Warta i bóg. ,179ms,44,Of the most popular rivers is Warta and God.
+,1710926153425,1,572ms,32,1710926153439,1710926156785,Is warsa the capital of Vistula?,165ms,30,Czy Warsza jest stolicą Wisły?
+,1710926168664,0,674ms,31,1710926168665,1710926172463,Stolicą płoński jest Warszawa. ,155ms,33,The capital of Płoński is Warsaw.
+,1710926186825,1,575ms,38,1710926186827,1710926190942,Is it true that Poland has 2 capitals?,176ms,41,Czy to prawda że Polska ma dwie stolice?
+,1710926197506,0,969ms,78,1710926197507,1710926203466,Nie Polska ma jedną stolicę po prostu kiedyś stolice były w innych miejscach. ,215ms,75,Poland does not have one capital simply once capitals were in other places.
+,1710926211822,1,542ms,26,1710926211823,1710926215300,Why Poland has 2 capitals.,134ms,32,Dlaczego Polska ma dwie stolice?
+,1710926220821,0,1015ms,81,1710926220823,1710926226666,Polska ma tylko jedną stolicę po prostu kiedyś stolice były w innych miejscach. ,225ms,69,Poland has only one capital just once capitals were in other places.
+,1710926234507,1,496ms,26,1710926234508,1710926237784,Oh okay now I understood.,112ms,18,Teraz zrozumiałem.
+,1710926243022,0,413ms,5,1710926243024,1710926245060,Super,61ms,5,Super
+,1710926248463,1,532ms,46,1710926248465,1710926253426,Can you tell me something about personal city?,163ms,41,Czy może mi Pan powiedzieć coś o mieście?
+,1710926256224,1,446ms,8,1710926256226,1710926258382,Portland,79ms,8,Portland
+,1710926258741,1,506ms,16,1710926258742,1710926261747,Open Z Flip Nan.,141ms,18,Otwórz z Flip Nan.
+,1710926259820,0,540ms,25,1710926259821,1710926262595,O którym mam powiedzieć. ,107ms,18,Which one to tell.
+,1710926265821,1,420ms,6,1710926265822,1710926268021,Ponnan,83ms,6,Ponnan
+,1710926274547,1,473ms,7,1710926274548,1710926278108,Poznan.,90ms,7,Poznań.
+,1710926276620,0,537ms,12,1710926276622,1710926279026,Nie rozumiem,122ms,18,I don’t understand
+,1710926281782,0,804ms,56,1710926281784,1710926287063,Poznań z Poznań mieszkałem w Poznaniu przez 3 miesiące. ,160ms,49,Poznań and Poznań I lived in Poznań for 3 months.
+,1710926296665,1,520ms,48,1710926296667,1710926300822,Is it affordable for the international students?,146ms,51,Czy jest to przystępne dla studentów zagranicznych?
+,1710926307145,0,1749ms,186,1710926307146,1710926319302,Tak jest to bardzo przystępne dla studentów zagranicznych jest to bardzo ładne miasto i według mnie jedno z najładniejszych w Polsce i wiem że chciałbym tam jeszcze kiedyś zamieszkać. ,469ms,179,So it is very accessible for international students it is a very nice city and in my opinion one of the most beautiful in Poland and I know that I would like to live there again.
+,1710926339866,1,488ms,27,1710926339867,1710926342584,How is the nightlife there?,117ms,20,Jak tam życie nocne?
+,1710926347743,0,941ms,72,1710926347745,1710926352940,Życie nocne z Poznania jest bardzo rozwinięte jest bardzo dużo klubów. ,225ms,70,The nightlife from Poznań is very developed there are a lot of clubs.
+,1710926360341,1,507ms,65,1710926360342,1710926365859,But I've heard for nightlife. Cracko is the best place in Poland.,1710926366366ms,67,Ale słyszałem o życiu nocnym. Cracko to najlepsze miejsce w Polsce.
+,1710926376981,0,465ms,14,1710926376982,1710926379904,Ja zrozumiałem,68ms,12,I understood
+,1710926384903,0,521ms,15,1710926384905,1710926387663,Nie zrozumiałem,109ms,19,I didn't understand
+,1710926393584,1,380ms,6,1710926393586,1710926395306,Cracko,71ms,6,Cracko
+,1710926397224,1,406ms,45,1710926397225,1710926400718,I am not able to pronounce the name properly.,24ms,44,Nie jestem w stanie poprawnie wymówić nazwy.
+,1710926399141,0,368ms,6,1710926399143,1710926401437,Kraków,54ms,6,Krakow
+,1710926403224,1,794ms,75,1710926403225,1710926411066,Yes yes I think this place is best for nightlife in Poland isn't it true?,328ms,81,Tak tak myślę że to miejsce jest najlepsze dla życia nocnego w Polsce prawda?
+,1710926411582,0,639ms,26,1710926411583,1710926414665,Czy masz na myśli Kraków. ,122ms,19,Do you mean Krakow?
+,1710926417542,1,356ms,3,1710926417543,1710926419501,Yes,17ms,3,Tak
+,1710926420302,0,1582ms,140,1710926420303,1710926431395,Nie powiedziałabym wydaje mi się że najlepsze dla życia nocnego jest Wrocław ponieważ totam jest najwięcej klubów w Polsce Albo Warszawa. ,427ms,109,I wouldn't say I think the best for nightlife is Wroclaw because toam is the most clubs in Poland or Warsaw.
+,1710926443702,1,353ms,4,1710926443704,1710926445542,Okay,18ms,4,Okej
+,1710926445784,1,617ms,53,1710926445786,1710926450380,If you are dreaming I think our time is up for today.,211ms,48,Jeśli marzysz myślę że nasz czas jest na dziś.
+,1710926455465,1,522ms,29,1710926455467,1710926458834,Kindly ignore this statement.,174ms,35,Uprzejmie zignoruj to stwierdzenie.
+,1710926457704,0,673ms,30,1710926457705,1710926461183,OK dziękuję za miłą rozmowę. ,156ms,40,OK thank you for the nice conversation.
+,1710926461426,1,581ms,51,1710926461437,1710926465021,Because of wrong translation it came up like that.,163ms,42,Z powodu złego tłumaczenia tak to wyszło.
+,1710926470543,1,597ms,63,1710926470544,1710926475383,Thank you it was really nice having the conversation with you.,182ms,46,Dziękuję bardzo miło było z Wami porozmawiać.
+,1710926470903,0,606ms,22,1710926470905,1710926473582,OK nie mam ochoty ją. ,141ms,26,OK I don't feel like her.
+,1710926480583,1,301ms,14,1710926480585,1710926483148,Take care. Bye,1710926483449ms,15,Trzymaj się. Pa
+,1710926481544,0,714ms,48,1710926481545,1710926485465,Dziękujemy również było bardzo miło miłego. Dnia,1710926486179ms,37,Thank you too was very nice nice. Day

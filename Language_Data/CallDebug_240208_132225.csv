@@ -1,0 +1,96 @@
+﻿Reference,SpeechId,Direction,SttLatency,SttLength,beginOfSpeech,endOfSpeech,SttLocale,SttResult,TranslationLatency,TranslatedLength,TranslatedLocale,TranslatedResult,useless,translation comment
+1707377537726
+,1707377535980,1,361ms,5,1707377535994,1707377538305,en_IN,Hello,358ms,4,it_IT,Ciao
+,1707377547675,0,541ms,4,1707377547677,1707377549716,it_IT,Ciao,162ms,5,en_IN,Hello
+,1707377553155,1,463ms,46,1707377553156,1707377558557,en_IN,How are you? I'm calling from India Bangalore.,1707377559020ms,46,null,Come stai? Sto chiamando dall'India Bangalore.
+,1707377561240,0,369ms,10,1707377561242,1707377563485,it_IT,Tutto bene,54ms,9,en_IN,All right
+,1707377564998,0,399ms,36,1707377564999,1707377569036,it_IT,Tutto bene e tu sì sono in Italia. ,77ms,31,en_IN,All right and you are in Italy.
+,1707377574798,1,3801ms,4,1707377574799,1707377576797,en_IN,Okay,3480ms,80,it_IT,Ok?!!?!?. .?!!?! .. 'ok?!!?!?!? .. '" .. 'ok. '" .. '" .. '". ... .. '" .. 'ok.
+,1707377579953,1,521ms,56,1707377579954,1707377585516,en_IN,How's how's your day and how is the weather in in Italy?,157ms,49,it_IT,Com'è la tua giornata e com'è il tempo in Italia?
+,1707377592679,0,466ms,70,1707377592681,1707377599278,it_IT,La mia giornata è appena iniziata oggi c'è nebbia non vedo il Sole. ,130ms,63,en_IN,My day has just started today there is fog I can't see the Sun.
+,1707377611675,1,484ms,51,1707377611676,1707377615875,en_IN,Can you tell me about some tourist places in Italy?,162ms,54,it_IT,Puoi parlarmi di alcune località turistiche in Italia?
+,1707377623078,0,396ms,8,1707377623080,1707377625436,it_IT,Sì certo,99ms,15,en_IN,Yes of course.
+,1707377626957,0,469ms,45,1707377626957,1707377631080,it_IT,Ci sono molte località turistiche in Italia. ,86ms,40,en_IN,There are many tourist resorts in Italy.
+,1707377631795,0,423ms,44,1707377631797,1707377636597,it_IT,Per esempio molte città come Roma milano? ,91ms,41,en_IN,For example many cities like Rome Milan.
+,1707377643280,0,564ms,142,1707377643282,1707377655233,it_IT,Oppure Venezia oppure sì si può andare al mare o in montagna sono sempre dalle spiagge nel sud Italia e anche tante montagne nel nord Italia. ,218ms,147,en_IN,Or Venice or yes you can go to the sea or in the mountains are always from the beaches in southern Italy and also many mountains in northern Italy.
+,1707377667397,1,426ms,38,1707377667399,1707377670918,en_IN,When is the Venice carnival happening?,83ms,41,it_IT,Quando si svolge il carnevale di Venezia?
+,1707377677237,0,434ms,54,1707377677238,1707377682574,it_IT,Il carro navale di Venezia è adesso fino a mercoledì. ,86ms,39,en_IN,The Venice ship is now until Wednesday.
+,1707377693399,1,474ms,45,1707377693400,1707377697438,en_IN,Okay what are the places I can visit in Milan,110ms,51,it_IT,Ok quali sono i posti che posso visitare a Milano?
+,1707377708440,0,381ms,23,1707377708441,1707377714032,it_IT,Di sicuro la basilica. ,50ms,23,en_IN,Certainly the basilica.
+,1707377714716,0,404ms,11,1707377714717,1707377717527,it_IT,Il castello,54ms,10,en_IN,The Castle
+,1707377719115,0,471ms,74,1707377719117,1707377726475,it_IT,La galleria Vittoria Emanuele il Cenacolo il castello Fortesco Francesco. ,121ms,73,en_IN,The Galleria Vittoria Emanuele il Cenacolo the Fortesco Francesco castle.
+,1707377728158,0,335ms,13,1707377728159,1707377730641,it_IT,Qualcos'altro,18ms,14,en_IN,Anything else?
+,1707377737035,1,391ms,32,1707377737035,1707377741158,en_IN,How is this place task in Italy?,79ms,31,it_IT,Com'è questo compito in Italia?
+,1707377746079,1,443ms,16,1707377746080,1707377748593,en_IN,I meant Tuscany.,90ms,21,it_IT,Intendevo la Toscana.
+,1707377746996,0,354ms,14,1707377746997,1707377749531,it_IT,Quale compito?,55ms,9,en_IN,What task
+,1707377755315,0,477ms,90,1707377755316,1707377761361,it_IT,La Toscana è molto bella ci sono molti posti da visitare e tante cose buone da mangiare. ,140ms,85,en_IN,Tuscany is very beautiful there are many places to visit and many good things to eat.
+,1707377774556,1,440ms,27,1707377774557,1707377777795,en_IN,Where is gateway of Pompey?,81ms,25,it_IT,Dov'è la porta di Pompeo?
+,1707377788436,0,446ms,46,1707377788438,1707377796637,it_IT,La parte di Pompeo si trova. A Milano penso. ,1707377797083ms,41,null,Pompeo's part is there. I think in Milan.
+,1707377797074,0,349ms,7,1707377797075,1707377799768,it_IT,No Roma,50ms,7,en_IN,No Rome
+,1707377810633,0,374ms,10,1707377810635,1707377812713,it_IT,E a Roma. ,48ms,12,en_IN,And in Rome.
+,1707377818236,1,406ms,78,1707377818237,1707377825356,en_IN,Can you tell me some of the famous desserts in Italy? Check for food desserts.,1707377825762ms,79,null,Potete dirmi alcuni dei famosi dolci in Italia? Controllate i dolci alimentari.
+,1707377836233,0,463ms,62,1707377836234,1707377846076,it_IT,Vediamo fammele dolce in Italia c'è il tiramisù la mi ringra. ,138ms,59,en_IN,Let's see me sweet in Italy there is the tiramisu thank me.
+,1707377846514,0,385ms,10,1707377846515,1707377848926,it_IT,Cos'altro?,52ms,10,en_IN,What else?
+,1707377852958,0,379ms,22,1707377852959,1707377857558,it_IT,Il babbà lo strudel. ,61ms,19,en_IN,The father strudel.
+,1707377857916,0,456ms,42,1707377857916,1707377863841,it_IT,Scannoni la cassata siciliana le sfoglie. ,107ms,41,en_IN,Scannoni the Sicilian cassata le sfoglie.
+,1707377870438,1,369ms,41,1707377870440,1707377874967,en_IN,What is terramizo? What is it made up of?,1707377875336ms,40,null,Che cos'è Terramizo? Di cosa è composto?
+,1707377877675,0,506ms,67,1707377877677,1707377885959,it_IT,Il tiramisù e composto da savoiardi come scarpone e caffè e uova? ,156ms,68,en_IN,Tiramisu is composed of savoiardi such as boots and coffee and eggs.
+,1707377878315,1,389ms,22,1707377878317,1707377880997,en_IN,I meant the Ram issue.,83ms,27,it_IT,Intendevo la questione Ram.
+,1707377898197,1,454ms,24,1707377898199,1707377901718,en_IN,How about capresh salad?,112ms,37,it_IT,Che ne dite dell'insalata di capresh?
+,1707377908559,0,395ms,34,1707377908561,1707377912237,it_IT,Non conosco l'insalata di presto. ,100ms,36,en_IN,I don't know the salad anytime soon.
+,1707377914117,0,418ms,34,1707377914118,1707377917652,it_IT,Forse parlei dell'insalata prese. ,87ms,37,en_IN,Maybe I talked about the salad taken.
+,1707377923918,0,399ms,21,1707377923920,1707377926957,it_IT,Salve della caprete. ,66ms,20,en_IN,Hello from the goat.
+,1707377933598,1,419ms,24,1707377933600,1707377937006,en_IN,Who is ganato ice cream?,87ms,26,it_IT,Chi è il gelato al ganato?
+,1707377933879,0,448ms,61,1707377933885,1707377939046,it_IT,La caratteristica è fatta commozzare all'ottobre basilico. ,120ms,53,en_IN,The feature is made to commoditize the October basil.
+,1707377946398,0,318ms,13,1707377946400,1707377948960,it_IT,Puoi ripetere,20ms,10,en_IN,Come again
+,1707377953438,1,448ms,41,1707377953440,1707377957837,en_IN,Is galato is a famous ice cream in Italy.,101ms,39,it_IT,Is galato è un gelato famoso in Italia.
+,1707377963836,0,485ms,76,1707377963837,1707377970172,it_IT,Il gelato sì è molto famoso in Italia non mangiamo spesso anche l'inverno. ,151ms,73,en_IN,Ice cream is very famous in Italy we don't often eat even in the winter.
+,1707377982515,1,405ms,25,1707377982516,1707377986000,en_IN,Is Pasta famous in Italy?,76ms,28,it_IT,La pasta è famosa in Italia?
+,1707377991275,0,566ms,148,1707377991276,1707378001435,it_IT,Sì la pasta è molto famosa in Italia la mangiamo quasi ogni giorno ci sono diversi tipi di tassa e diversi tipi di Soldi con cui mangiare la pasta. ,227ms,147,en_IN,Yes pasta is very famous in Italy we eat it almost every day there are different types of tax and different types of Money with which to eat pasta.
+,1707378015839,1,455ms,47,1707378015841,1707378019598,en_IN,Can you tell me about the Vatican City in Rome?,97ms,46,it_IT,Puoi parlarmi della Città del Vaticano a Roma?
+,1707378026115,0,561ms,117,1707378026117,1707378037037,it_IT,La Città del Vaticano si trova a Roma è molto piccola e si dire un giorno e chiave talpa e altri suoi collaboratori. ,186ms,114,en_IN,The Vatican City is located in Rome is very small and it is said one day and key mole and other his collaborators.
+,1707378048197,1,450ms,30,1707378048198,1707378052354,en_IN,Where is Kapri island located?,92ms,31,it_IT,Dove si trova l'isola di Kapri?
+,1707378064558,0,528ms,125,1707378064559,1707378075515,it_IT,Isola di Capri sì trovano il golfo di Napoli Napoli a partendo dal circolo campano e da parte vero città polizza di Napoli. ,193ms,115,en_IN,Isola di Capri are the Gulf of Naples Naples starting from the circle of Campania and from the real city of Naples.
+,1707378088757,1,451ms,61,1707378088758,1707378094356,en_IN,Can you tell me some of the places in Southern part of Italy?,114ms,48,it_IT,Puoi dirmi alcuni dei posti nel sud dell'Italia?
+,1707378105194,0,600ms,168,1707378105195,1707378119798,it_IT,Ci sono molti posti famosi sull'Italia ciao. Napoli ce la pugno ce li. Ha la Sicilia ma già per la maggior parte si va nel suo Italia per il mare perché è bellissimo. ,1707378120398ms,156,null,There are many famous places on Italy bye Naples there. It has Sicily but already for the most part you go to its Italy for the sea because it is beautiful.
+,1707378136756,1,480ms,36,1707378136757,1707378140637,en_IN,Where is Florence cathedral located?,82ms,39,it_IT,Dove si trova la cattedrale di Firenze?
+,1707378146476,0,473ms,65,1707378146478,1707378152037,it_IT,Quella cattedrale di Firenze si trova la Firenze Vincenzo Città. ,96ms,58,en_IN,That cathedral of Florence is the Florence Vincenzo Città.
+,1707378166115,1,445ms,49,1707378166117,1707378172035,en_IN,Are Venice canals and saint mar square beautiful?,116ms,59,it_IT,I canali di Venezia e la piazza di San Mar sono bellissimi?
+,1707378178718,0,487ms,88,1707378178721,1707378187038,it_IT,Sì sono bellissimi si possono fare salve benissimo foto però sono un po' appuzzamenti. ,158ms,91,en_IN,Yes they are beautiful you can make very good pictures but they are a bit of an appetizing.
+,1707378201755,1,423ms,58,1707378201756,1707378207077,en_IN,Which part of the year um? It will be good to visit Italy.,1707378207500ms,52,null,Quale parte dell'anno? Sarà bello visitare l'Italia.
+,1707378214722,0,545ms,135,1707378214723,1707378227478,it_IT,L'Italia si può visitare principalmente in primavera e in autunno l'estate fa troppo caldo mentre l'inverno fa troppo freddo e piove. ,196ms,110,en_IN,Italy can be visited mainly in spring and autumn the summer is too hot while the winter is too cold and rainy.
+,1707378240116,1,427ms,38,1707378240117,1707378244958,en_IN,Do we find Asian restaurants in Italy?,81ms,39,it_IT,Troviamo ristoranti asiatici in Italia?
+,1707378251356,0,545ms,145,1707378251357,1707378265205,it_IT,Sì ci sono molti restanti legati in Italia specialmente nella grandi città puoi trovare ristoranti cinesi giapponesi coreani 3 Albanesi. Indiani,1707378265750ms,144,null,Yes there are many remaining related in Italy especially in the big cities you can find Chinese Japanese restaurants Korean 3 Albanians. Indians
+,1707378282435,1,553ms,37,1707378282436,1707378287196,en_IN,Is wine and espresso famous in Italy?,172ms,43,it_IT,Il vino e l'espresso sono famosi in Italia?
+,1707378294555,0,387ms,4,1707378294556,1707378296604,it_IT,Cosa,71ms,4,en_IN,What
+,1707378303197,1,405ms,18,1707378303199,1707378305956,en_IN,Wine and espresso.,57ms,17,it_IT,Vino ed espresso.
+,1707378313714,0,635ms,182,1707378313716,1707378328484,it_IT,Sì c'è molto bene molto bene io ce ne sono diversi tipi di vino bianco nel rosso di Rodosse Dino con. Le bollicine esibianche molto caffè principalmente limitiani bevano espresso. ,1707378329119ms,179,null,Yes there is very good very well I there are different types of white wine in the red of Rodosse Dino with. The bubbles also exhibit a lot of coffee mainly limiten drink espresso.
+,1707378344436,1,444ms,41,1707378344438,1707378349198,en_IN,How about seafood along the amalfi coast?,117ms,48,it_IT,E i frutti di mare lungo la Costiera Amalfitana?
+,1707378355995,0,535ms,106,1707378355996,1707378362803,it_IT,Non ha mai mangiato fritto di Mario allora questi era moritana ma dicono che siano buoni tu hai provato. ,186ms,86,en_IN,He never ate Mario's fried so these were moritans but they say they're good you tried.
+,1707378383200,1,424ms,46,1707378383201,1707378387515,en_IN,Is Lee calendary a famous restaurant in Italy?,91ms,37,it_IT,Lee è un ristorante famoso in Italia?
+,1707378393877,0,453ms,83,1707378393879,1707378399803,it_IT,Ci sono molti ristoranti famosi in Italia di che tipo di ristorante vuole sapere. ,135ms,87,en_IN,There are many famous restaurants in Italy of what kind of restaurant you want to know.
+,1707378411995,1,409ms,17,1707378411997,1707378414673,en_IN,Robano restaurant,63ms,18,it_IT,Ristorante Robano.
+,1707378419837,0,517ms,122,1707378419839,1707378428636,it_IT,Ristorante Romani ci sono molti ristoranti Romani semplicemente a Roma ristorante più famoso Romano e quello di sorella. ,173ms,117,en_IN,Roman Restaurants there are many Roman restaurants simply in Rome's most famous restaurant Romano and that of sister.
+,1707378445198,1,471ms,41,1707378445199,1707378449153,en_IN,There is another one named Shah Victoria.,91ms,39,it_IT,Ce n'è un altro chiamato Shah Victoria.
+,1707378456557,0,450ms,63,1707378456559,1707378462968,it_IT,Non conosco questo ristorante cosa. Sai di questo ristorante. ,1707378463418ms,66,null,I don't know this restaurant what. You know about this restaurant.
+,1707378469876,1,405ms,16,1707378469879,1707378473119,en_IN,No I don't know.,69ms,14,it_IT,No non lo so.
+,1707378478598,0,403ms,26,1707378478599,1707378481727,it_IT,Neanche io dove si trova? ,77ms,24,en_IN,Not even me where he is.
+,1707378489035,1,385ms,22,1707378489037,1707378492195,en_IN,Do we get car rentals?,73ms,22,it_IT,Riceviamo autonoleggi?
+,1707378498156,0,583ms,147,1707378498180,1707378509755,it_IT,Sì in Italia potevamo molti autonoleggi con diverse fasce di prezzo mi. Puoi trovare principalmente in aeroporto ma può prenotare anche online. ,1707378510338ms,140,null,Yes in Italy we could have many car rentals with different price ranges. You can find it mainly at the airport but it can also book online.
+,1707378524237,1,447ms,26,1707378524238,1707378528396,en_IN,Do Milan and Rome as tram.,81ms,29,it_IT,Fate Milano e Roma come tram.
+,1707378534958,0,501ms,110,1707378534959,1707378543077,it_IT,Milano Roma sono troppo distanti tutto a prendere il tram devi prendere oltre no oppure andare in macchina. ,164ms,94,en_IN,Milan Rome are too far away everything to take the tram you have to take over no or go by car.
+,1707378556601,1,420ms,60,1707378556603,1707378562359,en_IN,However the rates were taxes in Italy. Do they charge more?,1707378562779ms,67,null,Tuttavia le aliquote erano imposte in Italia. Fanno pagare di più?
+,1707378569956,0,356ms,16,1707378569958,1707378572532,it_IT,Cosa vuol dire? ,50ms,20,en_IN,What does that mean?
+,1707378571756,1,409ms,16,1707378571765,1707378574434,en_IN,I'm in the taxi.,59ms,14,it_IT,Sono nel taxi.
+,1707378580755,0,498ms,70,1707378580757,1707378585797,it_IT,Un taxi non puoi pagare prima devi pagare quando ha finito la tratta? ,142ms,61,en_IN,A taxi you can't pay before you have to pay when you're done.
+,1707378595197,1,449ms,28,1707378595198,1707378598675,en_IN,Do I also get fairy or boat?,92ms,32,it_IT,Prendo anche la fata o la barca?
+,1707378605037,0,439ms,52,1707378605039,1707378609077,it_IT,Per andare da Roma a Milano non ti serve la barca. ,107ms,48,en_IN,You don't need a boat to get from Rome to Milan.
+,1707378618998,1,427ms,68,1707378618999,1707378625397,en_IN,No I mean in general on the coast side. Do we get ferries and both?,1707378625824ms,85,null,No voglio dire in generale sul lato della costa. Prendiamo i traghetti ed entrambi?
+,1707378632916,0,497ms,105,1707378632917,1707378641447,it_IT,Si può prendere il traghetto per andare per esempio in Sardegna. Oppure muoverti per muoverti a Venezia. ,1707378641944ms,71,null,You can take the ferry to Sardinia for example. Or move around Venice.
+,1707378651675,1,381ms,13,1707378651676,1707378653922,en_IN,Good to know.,66ms,16,it_IT,Buono a sapersi.
+,1707378659115,1,404ms,36,1707378659116,1707378662997,en_IN,What other things I can do in Italy?,83ms,38,it_IT,Quali altre cose posso fare in Italia?
+,1707378664476,0,472ms,31,1707378664482,1707378667476,it_IT,Qualcos'altro che vuoi sapere. ,89ms,32,en_IN,Something else you want to know.
+,1707378669997,0,355ms,11,1707378669998,1707378672360,it_IT,Può esitare,61ms,16,en_IN,You may hesitate
+,1707378683515,0,784ms,237,1707378683516,1707378700357,it_IT,Puoi andare ad evitare molte città. Oppure andare al mare o andare a passeggiare in montagna e mandare 100 cibo buono. Dipende da quando ci vai se vai in inverno puoi anche andare a sciare mentre in estate può andare al mare a nuotare? ,1707378701141ms,245,null,You can go and avoid a lot of cities. Or go to the beach or go for a walk in the mountains and send 100 good food. It depends on when you go there if you go in the winter you can also go skiing while in the summer you can go to the sea and swim.
+,1707378720999,1,437ms,53,1707378721000,1707378725037,en_IN,Thank you. Thank you so much for all the information.,1707378725474ms,47,null,Grazie. Grazie mille per tutte le informazioni.
+,1707378730919,0,405ms,29,1707378730920,1707378734120,it_IT,Grazie a te buona giornata. ,74ms,27,en_IN,Thank you have a nice day.

@@ -1,0 +1,109 @@
+﻿Reference,SpeechId,Direction,SttLatency,length,beginOfSpeech,endOfSpeech,SttResult,TranslationLatency,length,TranslatedResult,useless,translation comment
+1705489310628
+,1705489309099,1,776ms,5,1705489309110,1705489311014,Hello,431ms,6,こんにちは。
+,1705489321696,0,438ms,6,1705489321701,1705489323857,こんにちは。,140ms,6,Hello.
+,1705489327896,1,365ms,18,1705489327899,1705489330133,How are you doing?,16ms,10,どうお過ごしですか？
+,1705489328253,0,356ms,2,1705489328255,1705489330257,あの,31ms,5,Um...
+,1705489335136,0,409ms,9,1705489335139,1705489338030,ああ大変元気です。,77ms,18,Oh I'm very well.
+,1705489335817,1,488ms,61,1705489335820,1705489341413,I am Bhanu Prakash from Samsung research Institute Bangalore.,125ms,35,私はサムスン研究所バンガロールから来たBhanu Prakashです。
+,1705489351495,0,378ms,11,1705489351499,1705489354174,よろしくお願いします。,60ms,35,I look forward to working with you.
+,1705489358296,1,389ms,18,1705489358298,1705489360816,Ohh that's great.,59ms,14,ああ、それは素晴らしいです。
+,1705489365456,1,502ms,95,1705489365459,1705489373818,Actually I wanted to discuss with you regarding the business environment and culture of Japan.,117ms,33,実は、日本のビジネス環境や文化について相談したいことがありまして。
+,1705489368579,0,354ms,6,1705489368580,1705489370656,そうですね。,47ms,13,That's right.
+,1705489383734,0,356ms,6,1705489383736,1705489386257,はいどうぞ。,41ms,12,Here you go.
+,1705489389737,1,454ms,100,1705489389738,1705489398255,Can you please tell me about the Japanese business culture and how it differs from Western cultures?,113ms,33,日本のビジネス文化と西洋文化との違いについて教えていただけますか?
+,1705489406501,0,320ms,7,1705489406503,1705489408853,分かりました。,33ms,11,Understood.
+,1705489414936,1,440ms,92,1705489414946,1705489421737,I just want to know the different elements of business attitudes that Japanese business has.,114ms,34,日本のビジネスが持つビジネス態度のさまざまな要素を知りたいだけです。
+,1705489415852,0,377ms,11,1705489415853,1705489418818,今始めればいいですか？,55ms,19,Should I start now?
+,1705489430098,1,415ms,13,1705489430101,1705489432296,Yes you can.,50ms,8,はい、できます。
+,1705489430657,0,336ms,7,1705489430658,1705489432896,わかりました。,36ms,11,Understood.
+,1705489438097,0,377ms,36,1705489438098,1705489447817,ええとそうですね。 日本のビジネスというのはすごい。 ええとローカルで。,1705489448194ms,62,Well that's right. Japanese business is amazing. Um locally.
+,1705489452977,1,442ms,56,1705489452978,1705489459216,How how is it different from other cultures of the world,81ms,17,世界の他の文化とどう違うのですか?
+,1705489453339,0,354ms,26,1705489453362,1705489463219,それで大抵、日本のマーケット。 海外へのマーケット。,1705489463573ms,59,So most of the time the Japanese market. Overseas markets.
+,1705489469338,0,397ms,19,1705489469341,1705489476818,とにかくええとお客様を第一しています。,84ms,39,Anyway um we put our customers first.
+,1705489482576,1,377ms,61,1705489482578,1705489489653,Oh the that's wonderful from your side I. Also want to know.,1705489490030ms,33,ああ、あなたの側から見ると素晴らしいですね。 また知りたいですね。
+,1705489485774,0,381ms,19,1705489485776,1705489491816,それでええとマーケットに対するすごい。,72ms,31,So um great about the market.
+,1705489501935,0,421ms,20,1705489501949,1705489505056,すいませんもう一度行っていただけますか？,90ms,47,Excuse me could you please go again I'm sorry.
+,1705489515417,1,499ms,98,1705489515418,1705489523138,How does the strong work ethic in Japan contribute to the success and stability of its businesses?,128ms,36,日本の強い労働倫理は、ビジネスの成功と安定にどのように貢献していますか?
+,1705489524896,0,374ms,6,1705489524898,1705489527494,自分は一応。,61ms,12,I'm for now.
+,1705489539534,0,418ms,32,1705489539535,1705489547976,まあ安くええと長い間。 みんなが働くことで残業も多いですけども。,1705489548394ms,94,Well it's cheap um for a long time. There is a lot of overtime because everyone is working.
+,1705489555661,0,364ms,9,1705489555664,1705489561017,それがええとうん。,51ms,12,That's um...
+,1705489561296,0,398ms,11,1705489561297,1705489565457,目標を達成するまでの。,60ms,28,Until you achieve your goal.
+,1705489571858,1,511ms,50,1705489571860,1705489577697,O h that's that's very good to know that Japan.,114ms,23,ああ、それは、日本を知ってとても良かったです。
+,1705489572011,0,381ms,10,1705489572012,1705489574692,の原動力となっても。,74ms,41,Even if it becomes the driving force of .
+,1705489587856,0,430ms,54,1705489587858,1705489598101,それは聞けて嬉しいです。 僕自分日本語と英語も喋れるので。 この電話を別に英語でやっても全然問題ないですか？,1705489598531ms,113,I'm glad to hear that. I can speak Japanese and English myself. Is it okay to do this call separately in English?
+,1705489588572,1,445ms,49,1705489588573,1705489593053,Japanese work force is working very hard to make.,71ms,18,日本の労働力は一生懸命働いています。
+,1705489600738,0,354ms,12,1705489600740,1705489603454,ええ確かにそう思います。,61ms,26,Yes I certainly think so.
+,1705489604173,1,316ms,2,1705489604173,1705489606132,No,38ms,4,いいえ。
+,1705489610537,0,322ms,7,1705489610539,1705489612739,分かりました。,19ms,11,Understood.
+,1705489615576,1,460ms,30,1705489615578,1705489618895,Please speak only in Japanese.,76ms,13,日本語のみでお願いします。
+,1705489624220,0,398ms,5,1705489624222,1705489626420,光景です。,63ms,12,It's a scen.
+,1705489632452,1,441ms,135,1705489632455,1705489642058,Is building relationship crucial in Japanese businesses? And how one go about establishing meaning establishing meaningful connections.,1705489642499ms,50,日本のビジネスでは、関係構築が重要ですか? そして、意味のあるつながりを確立する意味を確立する方法。
+,1705489645375,0,359ms,8,1705489645377,1705489647856,非常に重要です。,48ms,21,It is very important.
+,1705489653616,0,406ms,19,1705489653618,1705489658376,ええとまあ個人的な関係を持つことです。,90ms,48,Well it's about having a personal relationship.
+,1705489665861,0,483ms,43,1705489665863,1705489674534,まあ結構経費とかお金を使って相手をレストランとかええとお酒を飲むのに捨てたりすること。,172ms,117,Well spending a lot of money or money on it throwing the other person away from a restaurant or something to drink.
+,1705489666017,1,501ms,93,1705489666025,1705489673855,Okay that sounds good that having a good relationship helps in building businesses in Japan.,126ms,36,そうですか、良い関係を持つことは日本のビジネス構築に役立つと良いですね。
+,1705489685618,0,372ms,6,1705489685620,1705489687588,そうですね。,24ms,13,That's right.
+,1705489686219,1,438ms,21,1705489686236,1705489689174,Oh wow interesting.,71ms,14,おお、すごい、面白いですね。
+,1705489694416,1,471ms,105,1705489694419,1705489702093,What role does the government play in building the businesses or supporting the business people in Japan?,123ms,34,政府は日本の企業建設や企業家支援にどのような役割を果たしていますか?
+,1705489697219,0,385ms,10,1705489697221,1705489699457,それよかったんです。,51ms,14,That was good.
+,1705489711661,0,367ms,26,1705489711664,1705489721699,ええと規制をかける役割と。 またあと返金もあります。,1705489722066ms,51,Um the role of regulating. There is also a refund.
+,1705489729496,1,560ms,147,1705489729497,1705489741174,Does the Japanese government help people who have ideas or who want to come up with start up so that they can build their own businesses new areas.,166ms,50,日本政府はアイデアを持っている人や起業を希望する人を助け、新しい事業分野を構築することができますか?
+,1705489753255,0,485ms,49,1705489753257,1705489761017,今、彼らはそれを頑張ってやろうとしていますが、現在の政府はあまりそれをうまく生きるとは言いません。,171ms,110,Now they are trying to do it well but the current government is not going to say that they will live it well.
+,1705489769735,1,450ms,117,1705489769738,1705489778577,Oh so there are challenges in you know. Building new businesses or helping people start new businesses from scratch.,1705489779027ms,59,ああ、それであなたには課題があります。 新しいビジネスを構築したり、人々が新しいビジネスをゼロから始めるのを助けます。
+,1705489790899,0,350ms,5,1705489790901,1705489793296,了解です。,31ms,11,Understood.
+,1705489798498,1,528ms,142,1705489798500,1705489809539,Okay can you please tell me something about the biggest companies of Japan? And how were they successful in making a name in the global area?,1705489810067ms,60,はい、日本の最大企業について教えてください。 そして、彼らはどのようにグローバルな地域で名を馳せることに成功しましたか?
+,1705489821975,0,462ms,39,1705489821977,1705489831335,ええとたぶんですけど。 うんと一番かわりませんけどまあトヨタがいい例だと思う。,1705489831797ms,103,Um it's probably. Well it's not the most important thing it is but I think Toyota is a good example.
+,1705489833417,0,353ms,9,1705489833418,1705489835855,トヨタ自動車です。,58ms,33,This is Toyota Motor Corporation.
+,1705489843733,1,432ms,129,1705489843736,1705489853096,I did hear about the this cuisine of TOKYO motors. Can you tell you tell something about that to me? Cosy and process innovation.,1705489853528ms,55,東京モーターの料理について聞きました。 それについて私に何か話していただけますか? 居心地の良いプロセス革新。
+,1705489844577,0,421ms,25,1705489844578,1705489854697,ええと彼らはあのまあ戦後第2次世界大のあとにええ。,116ms,49,Um they're after World War II after the war. um.
+,1705489863218,1,450ms,70,1705489863221,1705489868416,Can you tell something what is the issue which are used in businesses?,120ms,24,事業で使われる問題が何なのか、何か分かりますか?
+,1705489863854,0,456ms,34,1705489863876,1705489872379,そうですね改善というのはトヨタから来ているものでもあるしまあ見直し。,145ms,86,Yes improvement comes from Toyota but it is also a review and it is also a review.
+,1705489881457,1,446ms,75,1705489881460,1705489887894,Okay sounds good. Can you tell about the emerging industries in Japan now?,1705489888340ms,34,はい、いいですね。 今、日本の新興産業について教えていただけますか?
+,1705489882771,0,370ms,44,1705489882772,1705489893457,日本語で改善というものは英語でも書いてみるというふうに言いますね。 世界の中継モンゴル。,1705489893827ms,78,In Japanese improvement is written in English. Worldwide relay Mong Mongolia.
+,1705489901736,0,378ms,19,1705489901738,1705489904738,すいませんもう一度行ってもらえますか？,71ms,28,Excuse me can you go again?
+,1705489909054,1,483ms,73,1705489909056,1705489916214,Can you give some information about the emerging industries in Japan now?,95ms,28,今、日本の新興産業に関する情報を少し教えてもらえますか?
+,1705489933175,0,392ms,15,1705489933177,1705489937055,日本では今iptが盛んですね。,85ms,35,In Japan ipt is popular right now.
+,1705489942619,1,443ms,79,1705489942621,1705489953256,Okay fine. An a any any new sector where Japan is trying to bring innovation?,1705489953699ms,38,はい、大丈夫です。 日本が革新をもたらそうとしている新しい分野はありますか?
+,1705489944416,0,427ms,23,1705489944418,1705489949698,itというのはええアイティー業界のことですね。,116ms,25,It means the IT industry.
+,1705489961774,1,526ms,112,1705489961776,1705489971133,Okay so apart from automative industry IT industries the one industry where Japan is trying to bring success.,163ms,45,はい、それで自動化産業、IT産業を除けば、日本が成功をもたらそうとしている一つの産業です。
+,1705489961939,0,561ms,56,1705489961977,1705489976336,まああのアメリカとかテスラとかがあの中国でもね戦議場がどんどん入りだしてもともとある日本の自動車業界は今それに。,238ms,151,Well even in China such as the United States and the Tesla the Japanese automobile industry which is originally there is now in the middle of now.
+,1705489991374,1,422ms,55,1705489991376,1705489997934,Okay that's great CA. Can you tell me something about?,1705489998356ms,32,はい、それは素晴らしいCAです。 私に何か話していただけますか?
+,1705489992017,0,362ms,15,1705489992039,1705489994776,もう一度言っていただけますか？,60ms,28,Could you repeat that again?
+,1705490007017,0,499ms,40,1705490007020,1705490018937,うんとその児童自動車の自動運転とあと電気自動車の開発に今すごい力を入れています。,156ms,103,Um we are now very focused on autonomous driving of the children's car and developing an electric car.
+,1705490007898,1,457ms,70,1705490007899,1705490015533,Socially responsible are the Japanese industry in helping the society.,100ms,26,社会的に責任があるのは、社会を助ける日本の産業です。
+,1705490029975,0,404ms,21,1705490029977,1705490034176,確かにそういう企業の役割であると思います。,88ms,51,I think it is certainly the role of such a company.
+,1705490043180,1,470ms,66,1705490043182,1705490048972,So the Japanese company is to have social responsible initiatives.,92ms,30,だから日本の会社は社会的責任あるイニシアチブを持つことです。
+,1705490058537,0,457ms,41,1705490058540,1705490066097,確かにprの面も大きいですけども。 そういうことをしている大きい企業大企業が多い。,1705490066554ms,111,It's true that the pr side is also big. There are many large companies and large companies that do such things.
+,1705490074898,1,425ms,104,1705490074901,1705490082938,How do the companies cope themselves from the natural disaster? Which keep happening regularly in Japan.,1705490083363ms,38,企業は自然災害からどのように対処しますか? 日本では定期的に行われています。
+,1705490092497,0,441ms,45,1705490092499,1705490101337,そうですね、例えばオフィスでの避難訓練地震の際、火災のための訓練は定期的に行われています。,127ms,78,Well for example during an earthquake fire training is conducted regularly.
+,1705490111616,1,399ms,58,1705490111617,1705490117098,Okay that's good. How can companies from other countries?,1705490117497ms,28,はい、いいですね。 他の国の会社はどうやってできますか?
+,1705490117338,1,564ms,97,1705490117339,1705490125377,The hurt or run businesses considering the fact that they are new to Japan and Japanese culture.,158ms,44,日本と日本の文化に慣れていないことを考慮すると、傷ついたり、ビジネスを運営したりします。
+,1705490124577,0,403ms,21,1705490124579,1705490128777,うん質問もうちょっと説明してもらえますか？,89ms,51,Yeah could you explain the question a little more.
+,1705490134174,1,515ms,135,1705490134176,1705490144571,How can companies from other countries start businesses in Japan considering the fact that they are new to Japan and Japanese culture.,163ms,56,日本と日本の文化に慣れていないことを考慮すると、他の国の企業はどのように日本でビジネスを始めることができますか?
+,1705490137014,0,444ms,38,1705490137015,1705490142495,確かにそうですねまあもうちょっとはじめにリサーチをするのが大事だと思います。,140ms,79,That's true. Well I think it's important to do some research at the beginning.
+,1705490156574,0,483ms,38,1705490156576,1705490165696,まずたくさんの日本人を雇ってまた日本でビジネスの経験のあるリーダーに勝てる。,170ms,113,First of all you can hire a lot of Japanese people and beat a leader with a lot of business experience in Japan.
+,1705490156614,1,453ms,36,1705490156615,1705490160815,Okay that's a good answer from you.,90ms,19,はい、それはあなたからの良い答えです。
+,1705490177775,1,582ms,130,1705490177777,1705490189412,Okay how is the issue of workplace balance addressed in Japan considering the fact that the people please work for longer hours.,187ms,50,さて、日本では職場均衡の問題がどう扱われているのか、人々が長時間働くのを勘案して考えてみてください。
+,1705490203655,0,393ms,21,1705490203657,1705490207336,ええともうちょっと説明していただけますか？,83ms,36,Um could you explain a little more?
+,1705490212018,1,504ms,95,1705490212020,1705490221653,I want to know how is work. Life balance managed because Japanese people work for longer hours.,1705490222157ms,42,仕事の様子が知りたいです。 日本人は長時間働くため、生活バランスは管理されています。
+,1705490220733,0,409ms,24,1705490220734,1705490226373,そうですね、一応労働基準法というものがあります。,92ms,45,Well there is a Labor Standards Act for now.
+,1705490233254,1,501ms,91,1705490233255,1705490243695,Okay so the law helps in helps in the labour force in managing their life as well as work.,119ms,34,さて、法律は労働力だけでなく、彼らの生活を管理するのに役立つのです。
+,1705490233657,0,538ms,60,1705490233658,1705490246899,ええとそれでもたくさんの人は残業して仕事が中心となっているので、家に帰るのも遅くまで他の趣味やんをすることはできません。,201ms,123,Well even so many people work overtime and mainly work so you can't do other hobbies until late at feel free to go home.
+,1705490254095,0,369ms,6,1705490254096,1705490256173,と思います。,45ms,11,I think so.
+,1705490262577,1,363ms,84,1705490262579,1705490270217,Okay what is the importance of giving gifts in Japanese businesses? Is it accepted?,1705490270580ms,42,はい、日本のビジネスでプレゼントを渡すことの重要性は何ですか? 受け入れられますか?
+,1705490279457,0,385ms,14,1705490279459,1705490283816,もちろん受け入れられますね。,71ms,27,Of course it's acceptable.
+,1705490293297,1,457ms,52,1705490293300,1705490297933,Which telecommunication provider is famous in Japan?,89ms,18,日本ではどの通信事業者が有名ですか?
+,1705490305777,0,419ms,18,1705490305778,1705490309893,kdkdiドコモとソフトバンクです。,105ms,31,It's kdkdi DoCoMo and Softbank.
+,1705490328376,1,431ms,25,1705490328378,1705490332977,Do you talk about keyans?,69ms,18,あなたはキーアンについて話しますか?
+,1705490339941,0,368ms,15,1705490339946,1705490342734,もうちょっと説明してください。,62ms,29,Please explain a little more.
+,1705490348858,1,433ms,30,1705490348860,1705490352620,What is the company s produce?,68ms,12,会社の生産物は何ですか?
+,1705490360498,0,394ms,17,1705490360500,1705490363895,うんもうちょっと説明してください。,69ms,35,Yeah please explain a little more.
+,1705490370660,1,452ms,34,1705490370662,1705490375614,Is Nintendo still famous in Japan?,97ms,16,任天堂は今でも日本で有名ですか?
+,1705490376496,0,383ms,9,1705490376498,1705490379736,私の会社の生産物。,63ms,26,The product of my company.
+,1705490381294,0,383ms,9,1705490381310,1705490383576,もちろん有名です。,69ms,24,Of course it is famous.
+,1705490390380,1,423ms,64,1705490390382,1705490394738,Yeah thank you. Thank you for this call. We can disconnect now.,1705490395161ms,47,はい、ありがとうございます。 電話ありがとうございます。 私たちは今、切断することができます。
+,1705490404255,0,384ms,24,1705490404257,1705490408777,分かりました。 そちらから電話を切ってください。,1705490409161ms,38,Understood. Please hang up from there.
+,1705490413215,1,465ms,47,1705490413217,1705490419777,Just one feedback. How was the call experience?,1705490420242ms,28,ただ1つのフィードバックです。 通話体験はどうでしたか?
+,1705490425381,0,373ms,17,1705490425383,1705490430137,うんなかなか慣れる難しかったです。,77ms,30,It was hard to get used to it.
+,1705490435858,1,403ms,16,1705490435861,1705490438300,Okay thank you.,52ms,14,はい、ありがとうございます。

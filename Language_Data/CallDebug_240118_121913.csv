@@ -1,0 +1,87 @@
+﻿Reference,SpeechId,Direction,SttLatency,length,beginOfSpeech,endOfSpeech,SttResult,TranslationLatency,length,TranslatedResult,useless,translation comment
+1705559579550
+,1705559577962,1,813ms,8,1705559577965,1705559580118,Hi hello,446ms,12,こんにちは、こんにちは。
+,1705559589404,0,468ms,6,1705559589407,1705559591761,こんにちは。,147ms,6,Hello.
+,1705559592756,1,482ms,9,1705559592757,1705559595162,Hi murcie,78ms,11,こんにちは、マーシー。
+,1705559596001,0,330ms,3,1705559596002,1705559598083,はる。,37ms,6,Haru .
+,1705559600883,1,393ms,31,1705559600886,1705559604280,How are you doing? I'm Pratiba.,1705559604673ms,21,どうお過ごしですか？ 私はプラティバです。
+,1705559601921,0,348ms,6,1705559601923,1705559604800,こんにちは。,15ms,6,Hello.
+,1705559609402,0,368ms,9,1705559609405,1705559612496,あっ私は元気です。,71ms,13,Ah I'm fine.
+,1705559610643,1,453ms,47,1705559610646,1705559614997,Okay so I'm planning to visit Japan next week.,83ms,20,はい、それでは来週日本を訪れる予定です。
+,1705559620961,1,430ms,92,1705559620962,1705559628244,So I want to stay in Tokyo and see few other places. So can you help me find the best place?,1705559628674ms,52,だから東京に留まって他のところも見たいです。 それで、私が一番いいところを探すのを手伝ってもらえますか?
+,1705559621760,0,349ms,8,1705559621762,1705559624204,そうなんですね。,34ms,6,I see.
+,1705559632160,1,373ms,8,1705559632162,1705559634161,Domino's,43ms,4,ドミノズ
+,1705559641562,1,452ms,46,1705559641566,1705559645683,Can you can you suggest some places in Tokyo?,79ms,23,東京でいくつかの場所を提案していただけますか?
+,1705559646603,0,388ms,8,1705559646604,1705559649161,はいもちろんね。,61ms,15,Yes of course.
+,1705559653164,0,379ms,3,1705559653166,1705559655041,はい。,37ms,4,Yes.
+,1705559653199,1,455ms,68,1705559653207,1705559658922,Okay so what are the best places that I can see? Must-visit places.,1705559659377ms,40,はい、では私が見ることができる最高の場所はどこですか? 必ず行くべきところです。
+,1705559668084,0,385ms,24,1705559668088,1705559679803,必ず行くべきところは東京。 えっと東京のちゅう。,1705559680188ms,62,The place you should definitely go to is Tokyo. Um Tokyo chu.
+,1705559680638,0,351ms,4,1705559680669,1705559682799,いやし。,32ms,3,No.
+,1705559687518,0,372ms,8,1705559687520,1705559689969,東京タワーです。,77ms,17,It's Tokyo Tower.
+,1705559688200,1,434ms,52,1705559688201,1705559692364,Okay thank you. Where exactly in Tokyo should I go?,1705559692798ms,30,はい、ありがとうございます。 東京のどこに行けばいいですか?
+,1705559698723,0,375ms,13,1705559698725,1705559702162,東京タワーがおすすめです。,54ms,24,I recommend Tokyo Tower.
+,1705559709803,1,460ms,44,1705559709805,1705559713680,Thank you. Any other place that I should go?,1705559714140ms,28,ありがとうございます。 他に行くべきところはありますか?
+,1705559722723,0,386ms,14,1705559722725,1705559727081,ほかには渋谷に行くべきです。,60ms,25,You should go to Shibuya.
+,1705559734887,1,460ms,32,1705559734890,1705559738037,Okay what can I say in shibuya?,89ms,14,はい、渋谷で何と言いますか?
+,1705559745199,0,392ms,34,1705559745201,1705559756198,こう渋谷で渋谷深いというええと建物に行ったり聞くのをおすすめします。,103ms,54,I recommend going to Shibuya deep and asking about it.
+,1705559753037,1,444ms,26,1705559753038,1705559755999,In shobya what can I say?,91ms,18,しょうびやでは何と言えばいいですか?
+,1705559762925,0,393ms,16,1705559762927,1705559766678,あすみませんもう一度いいですか？,80ms,35,Oh sorry can I repeat that can I?
+,1705559771480,1,394ms,4,1705559771482,1705559773318,Sure,32ms,7,もちろんです。
+,1705559782446,0,400ms,26,1705559782448,1705559789961,あ渋谷目に電車で行けるので渋谷に行ってみてください。,85ms,31,You can go to Shibuya by train.
+,1705559799202,1,398ms,43,1705559799204,1705559802799,Okay thank you. What would be the charges?,1705559803197ms,25,はい、ありがとうございます。 料金はいくらですか?
+,1705559808840,0,425ms,23,1705559808842,1705559815198,ああ、料金は200円ぐらいでいけると思います。,100ms,44,Oh I think the fare will be around 200 yen.
+,1705559821202,1,422ms,76,1705559821206,1705559828158,Okay great. And I've heard a lot about Hiroshima. Can you tell me about it?,1705559828580ms,47,はい、いいですね。 そして広島についてよく聞きました。 それについて私に話していただけますか?
+,1705559838281,0,538ms,52,1705559838283,1705559853358,はあ広島は東京からだと新幹線で行く必要がありますが、原爆ドームという歴史的な建物があるのでおすすめです。,216ms,149,Ha-ha Hiroshima is from Tokyo so you need to take the Shinkansen but I recommend it because there is a historical building called Atomic Bomb Dome.
+,1705559868565,1,412ms,40,1705559868568,1705559874159,Thank you. What are the timings of this?,1705559874571ms,29,ありがとうございます。 これのタイミングはどうなりますか?
+,1705559880005,0,384ms,56,1705559880008,1705559898042,ええと東京に2日間ぐらい滞在をして。 そのあとえっと1日いやで半日ぐらいかけて。 広島に行くのがいいと思います。,1705559898426ms,155,Um I stayed in Tokyo for about two After that I didn't want to do it for a day so I spent about half a day. I think it would be good to go to Hiroshima.
+,1705559910481,1,546ms,33,1705559910483,1705559913880,What else can I see in Hiroshima?,173ms,19,広島では他に何を見ることができますか?
+,1705559921004,0,672ms,64,1705559921006,1705559939559,ええ、ほかには広島は海鮮の牡蠣が有名なので、さっきをたくさんかき氷をたくさん見ることもできますし広島焼きという食べ物も有名です。,302ms,159,Yes besides that Hiroshima is famous for its seafood oysters so you can see a lot of shaved ice just now and the food called Hiroshima-yaki is also famous.
+,1705559956642,1,389ms,18,1705559956665,1705559959199,Sure I'll try that,66ms,10,はい、試してみます。
+,1705559965884,0,382ms,6,1705559965886,1705559968159,いいですね。,51ms,12,That's good.
+,1705559973043,1,476ms,84,1705559973045,1705559979923,So Japan is known for beautiful flowers gardens can you tell me where exactly is it?,124ms,33,日本は美しい花畑で有名ですが、どこにあるのか教えていただけますか?
+,1705559989521,0,531ms,69,1705559989523,1705560006357,はい。 ええと日本で有名な花畑はいくつかありますが。 北海道にはえっとラベンダーというが船長たちが有名で、そこはきれいなのでおすすめです。,1705560006888ms,189,Yes. Well there are several famous flower fields in Japan. In Hokkaido there is a famous place called 'Lavender' and it is famous for its captains so I recommend it because it is clean.
+,1705560023759,1,464ms,48,1705560023761,1705560027598,Thanks what is the best time to visit this place,94ms,26,ありがとう。ここを訪れるのに最適な時期はいつですか?
+,1705560036403,0,389ms,24,1705560036405,1705560044479,最適な時期は夏です。 7月ぐらいがおすすめです。,1705560044868ms,61,The best time to The best is summer. I recommend around July.
+,1705560054482,1,415ms,43,1705560054485,1705560058440,Okay are you talking about the city Kyoto?,87ms,15,はい、京都の都市のことですか?
+,1705560065806,0,354ms,6,1705560065808,1705560068438,京都ですか？,33ms,6,Kyoto?
+,1705560072361,1,355ms,3,1705560072363,1705560074361,Yes,34ms,3,はい。
+,1705560078520,0,390ms,14,1705560078522,1705560083122,京都は日本の西側にあります。,78ms,43,Kyoto is located on the west side of Japan.
+,1705560091202,1,427ms,32,1705560091204,1705560094124,So does it have cherry blossoms?,62ms,10,では桜もありますか?
+,1705560098562,0,371ms,9,1705560098564,1705560101119,はいもちろんです。,55ms,15,Yes of course.
+,1705560107803,1,416ms,20,1705560107805,1705560110161,Have you been there?,52ms,12,行ったことがありますか?
+,1705560115083,0,393ms,17,1705560115085,1705560119083,はい4回ほど行ったことがあります。,78ms,40,Yes I have been there about four times.
+,1705560126722,1,490ms,56,1705560126724,1705560131802,Good to know does it symbolise anything cherry blossom?,107ms,22,知ってよかったです。桜を象徴するものですか?
+,1705560140122,0,413ms,21,1705560140125,1705560145679,はい、春はとてもきれいなのでおすすめです。,97ms,59,Yes I recommend it because it is very beautiful in spring.
+,1705560161321,1,439ms,60,1705560161323,1705560166879,I want to skip 3 nights in Kyoto. How much would it cost me?,1705560167318ms,24,京都で3泊は休みたいです。 いくらかかりますか?
+,1705560172002,0,426ms,27,1705560172004,1705560179563,そうですねうん。 4万円ぐらいはかかるかなと思います。,1705560179989ms,58,That's right. Yeah. I think it will cost about 40000 yen.
+,1705560188922,1,440ms,56,1705560188924,1705560193521,Okay what would be the charges per night for one adult?,102ms,20,はい、大人1人1泊の料金はいくらですか?
+,1705560201560,0,450ms,36,1705560201562,1705560210521,うん大人1人だと大体1万円から15000円ぐらいはかかるかなと思います。,139ms,71,Yeah I think it will cost about 10000 yen to 15000 yen for an adult.
+,1705560222761,1,458ms,52,1705560222764,1705560228479,Okay so does any of the hotels serve Asian cuisine?,99ms,27,はい、ではどのホテルでもアジア料理を提供していますか?
+,1705560235238,0,435ms,22,1705560235240,1705560240078,はい、もちろん日本食味合い料理が食べれます。,93ms,41,Yes of course you can eat Japanese food.
+,1705560247841,1,413ms,19,1705560247843,1705560250559,Sure I'll try sushi,81ms,13,はい、寿司を食べてみます。
+,1705560255841,0,394ms,16,1705560255843,1705560259721,いいですねお寿司おいしいですよ。,76ms,33,That's great. Sushi is delicious.
+,1705560266879,1,428ms,74,1705560266881,1705560275359,Okay so I plan to travel from Tokyo to Kyoto. How much time and how much?,1705560275787ms,33,はい、東京から京都へ旅行する予定です。 時間と金額はいくらですか?
+,1705560302002,1,427ms,47,1705560302004,1705560307442,Is there a train available from Tokyo to Kyoto?,86ms,18,東京から京都へ行く列車はありますか?
+,1705560313162,0,363ms,8,1705560313164,1705560315603,はい、あります。,58ms,14,Yes there is.
+,1705560322960,1,343ms,16,1705560322962,1705560325277,Okay thank you.,13ms,14,はい、ありがとうございます。
+,1705560331202,0,405ms,9,1705560331204,1705560333722,とんでもないです。,87ms,34,That's ridiculous that's not true.
+,1705560339365,1,455ms,47,1705560339367,1705560344080,I also plan to travel to Mount Fuji from Tokyo.,97ms,19,東京から富士山へ旅行も計画しています。
+,1705560352240,0,304ms,6,1705560352242,1705560354640,いいですね。,14ms,12,That's good.
+,1705560358638,1,440ms,25,1705560358640,1705560361720,How far is it from Tokyo?,73ms,17,東京からどのくらい離れていますか?
+,1705560368240,0,416ms,26,1705560368242,1705560375082,うん東京から100キロぐらいは離れていると思います。,108ms,56,Yeah I think it's about 100 kilometers away from Tokyo.
+,1705560383005,1,413ms,29,1705560383006,1705560386038,Okay so can I take a flight?,81ms,15,はい、では飛行機に乗れますか?
+,1705560391962,0,447ms,27,1705560391964,1705560397723,金融飛行機はないので、電車かバスで行く必要があります。,122ms,63,There is no financial plane so you have to go by train or bus.
+,1705560407681,1,433ms,22,1705560407683,1705560410560,I plan to rent a bike.,66ms,15,自転車をレンタルする予定です。
+,1705560417121,0,336ms,8,1705560417123,1705560419600,そうなんですね。,18ms,6,I see.
+,1705560424679,1,408ms,32,1705560424681,1705560428764,What do you suggest bike or car?,76ms,14,自転車や車は何がいいですか?
+,1705560434640,0,438ms,41,1705560434669,1705560445641,うーん、車はトヨタがオススメですし自転車はヤバハというブランドものがおすすめです。,119ms,58,Well I recommend Toyota for cars and Yabaha for bicycles.
+,1705560455921,1,464ms,35,1705560455923,1705560459402,Okay what can I see in Mount Fuji?,94ms,16,はい、富士山では何が見えますか?
+,1705560465841,0,434ms,30,1705560465844,1705560474081,うん。 富士山からは天気がよかったら東京タワーが見ると思う。,1705560474515ms,68,Yeah. If the weather is good from Mt. Fuji you can see Tokyo Tower.
+,1705560487565,1,394ms,44,1705560487567,1705560491198,Okay thank you. What else do you recommend?,1705560491592ms,31,はい、ありがとうございます。 他にどんなものがおすすめですか?
+,1705560498240,0,358ms,16,1705560498242,1705560505518,ええほかには大阪がおすすめです。,68ms,39,Yes I recommend Osaka other than that.
+,1705560516000,1,348ms,27,1705560516002,1705560518679,Thank you. Have a good day.,1705560519027ms,27,ありがとうございます。 楽しい一日をお過ごしください。
+,1705560519280,1,328ms,3,1705560519282,1705560521160,Bye,59ms,5,じゃあね。
+,1705560525479,0,432ms,16,1705560525482,1705560530603,こちらこそありがとうございます。,136ms,41,Thank you very much for your cooperation.
+,1705560536641,1,505ms,39,1705560536650,1705560539682,Yeah we can disconnect now. Thank you.,1705560540187ms,21,はい、今切れます。 ありがとうございます。
+,1705560536720,0,344ms,5,1705560536721,1705560539443,研究って。,39ms,9,Research.
+,1705560544364,0,346ms,11,1705560544366,1705560546845,ありがとうございます。,17ms,10,Thank you.

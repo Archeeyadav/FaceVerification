@@ -13,7 +13,6 @@ import tempfile
 import cv2
 import time
 
-
 @csrf_exempt
 def face_recognition_api(request):
     if request.method == "POST":

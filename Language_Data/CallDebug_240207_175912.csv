@@ -1,0 +1,108 @@
+﻿Reference,SpeechId,Direction,SttLatency,SttLength,beginOfSpeech,endOfSpeech,SttLocale,SttResult,TranslationLatency,TranslatedLength,TranslatedLocale,TranslatedResult,useless,translation comment
+1707307717493
+,1707307715740,1,352ms,5,1707307715754,1707307718003,en_IN,Hello,350ms,4,it_IT,Ciao
+,1707307720819,0,450ms,4,1707307720822,1707307723500,it_IT,Ciao,150ms,5,en_IN,Hello
+,1707307726776,1,451ms,46,1707307726777,1707307731950,en_IN,How are you? I'm calling from India Bangalore.,1707307732401ms,46,null,Come stai? Sto chiamando dall'India Bangalore.
+,1707307729257,0,384ms,16,1707307729258,1707307732065,it_IT,OK dimmi tutto. ,68ms,22,en_IN,OK tell me everything.
+,1707307732818,0,401ms,18,1707307732818,1707307735383,it_IT,Tutto bene e tu. ,67ms,18,en_IN,All right and you.
+,1707307738379,1,465ms,25,1707307738381,1707307741419,en_IN,Uh can I know your name?,86ms,29,it_IT,Uh posso sapere il tuo nome?
+,1707307742657,0,400ms,20,1707307742658,1707307745432,it_IT,Io sono in Italia. ,67ms,13,en_IN,I'm in Italy.
+,1707307750058,0,395ms,20,1707307750060,1707307752736,it_IT,Io mi chiamo Maria. ,59ms,16,en_IN,My name is Mary.
+,1707307757577,1,438ms,40,1707307757578,1707307761299,en_IN,Okay Mary how is the weather in Italy?,113ms,35,it_IT,Ok Mary com'è il tempo in Italia?
+,1707307759659,0,386ms,16,1707307759660,1707307762105,it_IT,Come ti chiami? ,72ms,17,en_IN,What's your name?
+,1707307766540,1,431ms,17,1707307766542,1707307770258,en_IN,My name is parka.,84ms,16,it_IT,Mi chiamo parka.
+,1707307766979,0,456ms,40,1707307766980,1707307773502,it_IT,Oggi è nuvoloso e fa un po' freddo sì. ,124ms,41,en_IN,Today it's cloudy and it's a little cold.
+,1707307780698,1,442ms,35,1707307780699,1707307784978,en_IN,Yeah here it is evening and sunny.,95ms,27,it_IT,Sì ecco la sera e il sole.
+,1707307792539,0,392ms,29,1707307792541,1707307796696,it_IT,Adesso aggiorno non è sera. ,67ms,27,en_IN,Now the day is not evening.
+,1707307797140,0,387ms,20,1707307797140,1707307799664,it_IT,Ma non c'è il sole. ,70ms,19,en_IN,But it's not sunny.
+,1707307802658,1,423ms,49,1707307802659,1707307807137,en_IN,I met here in Bangalore. It is evening and sunny.,1707307807560ms,57,null,Mi sono incontrato qui a Bangalore. È sera e c'è il sole.
+,1707307812538,0,346ms,5,1707307812539,1707307814537,it_IT,Bello,36ms,9,en_IN,Beautiful
+,1707307818860,1,513ms,77,1707307818862,1707307825539,en_IN,Okay you know that the today's conversation topic is about a social media and,142ms,81,it_IT,Ok sapete che l'argomento di conversazione di oggi riguarda un social media e...
+,1707307834023,0,392ms,20,1707307834025,1707307836620,it_IT,Sì mi hanno detto. ,57ms,18,en_IN,Yes they told me.
+,1707307838501,0,401ms,18,1707307838502,1707307840979,it_IT,Cosa vuoi sapere? ,65ms,25,en_IN,What do you want to know?
+,1707307840981,1,492ms,97,1707307840999,1707307850021,en_IN,So do people do people in Italy? Use social media platforms like Facebook Instagram and Twitter.,1707307850513ms,108,null,Quindi la gente fa la gente in Italia? Usate piattaforme di social media come Facebook Instagram e Twitter.
+,1707307859703,0,476ms,48,1707307859705,1707307864456,it_IT,Sì usiamoci a Facebook Instagram che Twitter. ,87ms,46,en_IN,Yes let's use Facebook Instagram that Twitter.
+,1707307872142,1,480ms,62,1707307872145,1707307879219,en_IN,Okay so do they also use LinkedIn for job profiles screening?,120ms,64,it_IT,Ok usano anche LinkedIn per lo screening dei profili di lavoro?
+,1707307885658,0,411ms,41,1707307885659,1707307890182,it_IT,Sì usiamo anche quello in India Invece. ,83ms,31,en_IN,Yes we also use that in India.
+,1707307895261,1,446ms,29,1707307895262,1707307898617,en_IN,Yes we also use it in India.,79ms,29,it_IT,Sì lo usiamo anche in India.
+,1707307908820,1,455ms,37,1707307908822,1707307912536,en_IN,Is Samsung phones available in Italy?,88ms,46,it_IT,I telefoni Samsung sono disponibili in Italia?
+,1707307909776,0,428ms,24,1707307909786,1707307912621,it_IT,Cos'altro vuoi sapere? ,120ms,30,en_IN,What else do you want to know?
+,1707307918860,0,409ms,45,1707307918861,1707307923258,it_IT,Sì puoi trovare telefoni Samsung in Italia. ,84ms,41,en_IN,Yes you can find Samsung phones in Italy.
+,1707307929098,1,419ms,19,1707307929099,1707307931899,en_IN,Okay good to know.,64ms,17,it_IT,Ok bene saperlo.
+,1707307932983,1,429ms,29,1707307932984,1707307936262,en_IN,Which wound do you use Mary?,72ms,21,it_IT,Che ferita usi Mary?
+,1707307941262,0,381ms,20,1707307941263,1707307943947,it_IT,Cosa puoi ripetere? ,57ms,20,en_IN,What can you repeat?
+,1707307946938,1,409ms,23,1707307946939,1707307950300,en_IN,Which phone do you use?,59ms,19,it_IT,Che telefono usate?
+,1707307954419,0,463ms,49,1707307954420,1707307959337,it_IT,Io uso un telefono Apple o non uso del Samsung. ,122ms,52,en_IN,I use an Apple phone or I don't use a Samsung phone.
+,1707307966340,1,517ms,71,1707307966341,1707307974977,en_IN,Okay so do you also use social media platform like Facebook Instagram?,130ms,78,it_IT,Ok quindi usate anche la piattaforma di social media come Facebook Instagram?
+,1707307982380,0,452ms,66,1707307982381,1707307989380,it_IT,Sì uso sia Facebook che Instagram molto più Instagram Facebook. ,110ms,67,en_IN,Yes I use both Facebook and Instagram much more Instagram Facebook.
+,1707307998701,1,363ms,93,1707307998702,1707308006499,en_IN,Okay in Italy. Also are there influencers for social media. Do you follow more influencers?,1707308006862ms,84,null,Ok in Italia. Inoltre ci sono influencer per i social media. Segui più influencer?
+,1707308015978,0,515ms,73,1707308015980,1707308024235,it_IT,Seguo influenza bannoni italiani seguo più quelli americani. O Europei. ,1707308024750ms,88,null,I follow the influence of Italian bannons I follow more the American ones. Or Europeans.
+,1707308035020,1,467ms,81,1707308035022,1707308042777,en_IN,What kind of content do you like? In social media like politics culture fashion.,1707308043244ms,85,null,Che tipo di contenuto ti piace? Nei social media come la politica la moda culturale.
+,1707308050780,0,599ms,135,1707308050782,1707308068700,it_IT,Messaggi social media di solito guardo cose di cucina cose di Makeup cose. Di cura della pelle o vestiti e moda per bambini e ragazze. ,1707308069299ms,134,null,Social media messages I usually look at things in the kitchen makeup things. Skin care or clothing and fashion for children and girls.
+,1707308084663,1,3852ms,4,1707308084665,1707308086737,en_IN,Okay,3519ms,80,it_IT,Ok?!!?!?. .?!!?! .. 'ok?!!?!?!? .. '" .. 'ok. '" .. '" .. '". ... .. '" .. 'ok.
+,1707308089977,1,462ms,56,1707308089978,1707308096459,en_IN,So wh what is more interesting for clothing and passion?,139ms,63,it_IT,Cosa c'è di più interessante per l'abbigliamento e la passione?
+,1707308103982,0,559ms,152,1707308103983,1707308118780,it_IT,Trovare nuovi ausi trovare nuove offerte trovare capi accessori che non si trovano da nessuna parte penso sia questo le offerte le cose interessanti. ,214ms,136,en_IN,Finding new uses find new offers find accessory garments that you can't find anywhere I think this is the offers the interesting things.
+,1707308134018,1,417ms,36,1707308134019,1707308137418,en_IN,What is currently trending in Italy?,81ms,41,it_IT,Quali sono le tendenze attuali in Italia?
+,1707308143539,0,374ms,20,1707308143540,1707308146940,it_IT,Intendi sulla moda. ,56ms,17,en_IN,You mean fashion.
+,1707308150898,1,400ms,23,1707308150900,1707308153581,en_IN,Or anything in general.,61ms,29,it_IT,O qualsiasi cosa in generale.
+,1707308162018,0,470ms,72,1707308162019,1707308171786,it_IT,Ah tendente moda forme geometriche abiti lunghe e pantaloni santoriali. ,138ms,69,en_IN,Ah tending fashion geometric shapes long dresses and santorial pants.
+,1707308172459,0,420ms,32,1707308172460,1707308176667,it_IT,Per la primavera è estate 2024. ,87ms,28,en_IN,For spring it's summer 2024.
+,1707308187260,1,392ms,55,1707308187260,1707308193500,en_IN,Do you also follow news? I find events in social media.,1707308193892ms,60,null,Anche voi seguite le notizie? Trovo eventi nei social media.
+,1707308196863,0,354ms,2,1707308196865,1707308198824,it_IT,Sì,52ms,3,en_IN,Yes
+,1707308199538,0,424ms,54,1707308199540,1707308204180,it_IT,Sì certo seguono le notizie anche i 20 social media. ,115ms,60,en_IN,Yes of course the news is followed by the 20 social media.
+,1707308217299,1,467ms,44,1707308217300,1707308221621,en_IN,Are there any events that are happening uh?,95ms,40,it_IT,Ci sono eventi che stanno accadendo uh?
+,1707308222257,1,370ms,8,1707308222258,1707308224468,en_IN,In Italy,43ms,10,it_IT,In Italia.
+,1707308230582,0,468ms,52,1707308230583,1707308235538,it_IT,Sì ci sono ma molti eventi adesso è il Carnevale. ,122ms,48,en_IN,Yes there are but many events now is Carnival.
+,1707308236141,0,437ms,58,1707308236142,1707308241550,it_IT,Puoi trovare Carnevale a Venezia Viareggio e molte città. ,122ms,58,en_IN,You can find Carnival in Venice Viareggio and many cities.
+,1707308251737,1,427ms,39,1707308251738,1707308256099,en_IN,Can you tell me about truffle festival?,99ms,39,it_IT,Puoi parlarmi del festival del tartufo?
+,1707308263982,0,391ms,27,1707308263984,1707308268100,it_IT,Festival del tartufo dove. ,75ms,22,en_IN,Truffle Festival Dove.
+,1707308279223,1,440ms,31,1707308279227,1707308282381,en_IN,Tell me about when is carnival.,84ms,33,it_IT,Parlami di quando è il carnevale.
+,1707308288580,0,489ms,117,1707308288582,1707308301697,it_IT,Nel 2024 è adesso fino al prossimo mercoledì la gente si veste in maschera e si mangiano dolci tipici del Carnevale. ,166ms,93,en_IN,In 2024 it is now until next Wednesday people dress in masks and eat typical Carnival sweets.
+,1707308311458,1,412ms,22,1707308311459,1707308314099,en_IN,Oh good to know that.,66ms,20,it_IT,Oh è bello saperlo.
+,1707308317780,1,455ms,50,1707308317781,1707308322022,en_IN,So are there any musical and theatre events also?,105ms,49,it_IT,Quindi ci sono anche eventi musicali e teatrali?
+,1707308320104,0,441ms,34,1707308320106,1707308323622,it_IT,Bene lì festeggiato il Carnevale. ,90ms,35,en_IN,Well there celebrated the Carnival.
+,1707308329980,0,421ms,44,1707308329981,1707308334140,it_IT,Sì ci sono eventi musicali anche teatrali. ,81ms,46,en_IN,Yes there are also theatrical musical events.
+,1707308343658,1,448ms,65,1707308343659,1707308349257,en_IN,In the Spring the city of Lawrence do they celebrate any events?,117ms,60,it_IT,In primavera la città di Lawrence celebrano qualche evento?
+,1707308356858,0,357ms,12,1707308356860,1707308359259,it_IT,Quale città?,44ms,11,en_IN,Which city?
+,1707308362381,1,372ms,8,1707308362382,1707308364537,en_IN,Florence,32ms,8,it_IT,Firenze.
+,1707308368903,0,373ms,35,1707308368905,1707308375258,it_IT,Siren di sicuro ha qualche evento. ,72ms,32,en_IN,Siren certainly has some events.
+,1707308376903,0,458ms,46,1707308376905,1707308380706,it_IT,Sicuramente c'è il Carnevale anche a Firenze. ,107ms,46,en_IN,Surely there is the Carnival also in Florence.
+,1707308392018,1,500ms,62,1707308392019,1707308397417,en_IN,Grey does the great festival happen in us the city of Marano?,136ms,63,it_IT,Grigio il grande festival si svolge in noi la città di Marano?
+,1707308405778,1,421ms,23,1707308405779,1707308409025,en_IN,I meant grape festival.,102ms,31,it_IT,Intendevo il festival dell'uva.
+,1707308408382,0,403ms,31,1707308408383,1707308411824,it_IT,Chiama Ranocchio Festival c'è. ,68ms,30,en_IN,Call Ranocchio Festival there.
+,1707308417463,0,442ms,66,1707308417465,1707308424417,it_IT,Marano festival dell'uva ma non adesso probabilmente in Ottobre. ,97ms,54,en_IN,Marano grape festival but not now probably in October.
+,1707308436459,1,458ms,39,1707308436460,1707308441742,en_IN,Okay so which city are you from Italy?,99ms,41,it_IT,Ok quindi quale città vieni dall'Italia?
+,1707308447423,0,401ms,21,1707308447425,1707308450539,it_IT,Io vengo da Vicenza. ,73ms,17,en_IN,I'm from Vicenza.
+,1707308457457,1,492ms,80,1707308457458,1707308465056,en_IN,Okay can you tell me any famous tourist places for foreigners nearby your city?,149ms,101,it_IT,Ok potete dirmi qualche luogo turistico famoso per gli stranieri nelle vicinanze della vostra città?
+,1707308474062,0,612ms,175,1707308474064,1707308490143,it_IT,Ah nuovi turistici famosi ci sono molteville cioè la vigilia palla Diana rotonda c'è il Teatro Olimpico dalla basilica Palladiana è molto altro molti parchi naturali anche. ,276ms,170,en_IN,Ah famous new tourist there are many villas i.e. the vigil Diana round ball there is the Olympic Theatre from the Palladian basilica is much more many natural parks also.
+,1707308510500,1,492ms,43,1707308510502,1707308515821,en_IN,Okay so where is this masalika palladium?,126ms,36,it_IT,Ok dov'è questa masalika palladio?
+,1707308522257,0,509ms,41,1707308522258,1707308526381,it_IT,Sì la basilica del palladio è a Vicenza. ,123ms,44,en_IN,Yes the Basilica of Palladio is in Vicenza.
+,1707308527501,0,434ms,20,1707308527502,1707308530384,it_IT,Nel Centro Storico. ,68ms,23,en_IN,In the historic center.
+,1707308551100,1,450ms,74,1707308551102,1707308557620,en_IN,Are there any political events? It which is happening currently in Italy.,1707308558070ms,73,null,Ci sono eventi politici? Questo che sta accadendo attualmente in Italia.
+,1707308566898,0,457ms,29,1707308566899,1707308570898,it_IT,Sì ci sono eventi politici. ,86ms,32,en_IN,Yes there are political events.
+,1707308583222,1,439ms,39,1707308583223,1707308588577,en_IN,Which sports do mostly played in Italy?,87ms,47,it_IT,Quali sport si praticano soprattutto in Italia?
+,1707308594499,0,501ms,124,1707308594500,1707308606298,it_IT,In Italia principalmente si pratica il calcio poi è anche molto comodo al tennis il golf il basketball è il rugby è noto. ,178ms,123,en_IN,In Italy you mainly practice football then it is also very comfortable to tennis golf the basketball is the rugby is known.
+,1707308620021,1,446ms,41,1707308620023,1707308624699,en_IN,The current PM of Italy is meloni right.,116ms,51,it_IT,L'attuale Primo Ministro italiano è meloni giusto.
+,1707308630898,0,413ms,60,1707308630900,1707308635217,it_IT,Sì esatto Gigio Gianni loni al primo ministro italiano. ,107ms,52,en_IN,Yes Gigio Gianniloni to the Italian Prime Minister.
+,1707308645575,1,421ms,34,1707308645576,1707308649261,en_IN,How far is Napoli from your place?,80ms,32,it_IT,Quanto dista Napoli da casa tua?
+,1707308656298,0,527ms,103,1707308656300,1707308672379,it_IT,Per arrivare a Napoli ci vogliono 724 km 7 ore. Di macchina fatto praticamente l'aereo più facilmente. ,1707308672906ms,89,null,It takes 724 km 7 hours to get to Naples. Machine made practically the plane more easily.
+,1707308686221,1,355ms,4,1707308686223,1707308688178,en_IN,Okay,19ms,80,it_IT,Ok?!!?!?. .?!!?! .. 'ok?!!?!?!? .. '" .. 'ok. '" .. '" .. '". ... .. '" .. 'ok.
+,1707308699578,0,397ms,27,1707308699579,1707308702618,it_IT,Vuoi sapere qualcos'altro. ,80ms,32,en_IN,You want to know something else.
+,1707308707656,1,450ms,42,1707308707658,1707308713659,en_IN,Uh yeah how far is Rome from your place?,118ms,44,it_IT,Uh sì quanto è lontana Roma dal tuo posto?
+,1707308722697,0,446ms,30,1707308722698,1707308730780,it_IT,Roma vista 520 km da Vicenza. ,85ms,30,en_IN,Rome view 520 km from Vicenza.
+,1707308740861,1,482ms,57,1707308740862,1707308746539,en_IN,So are there trains available for inter city connections?,109ms,64,it_IT,Quindi ci sono treni disponibili per i collegamenti interurbani?
+,1707308753138,0,458ms,79,1707308753139,1707308759820,it_IT,Sì di solito per andare a Roma da Vincenzo si prende il treno un treno veloce. ,130ms,72,en_IN,Yes usually to go to Rome from Vincenzo you take the train a fast train.
+,1707308773979,1,470ms,60,1707308773981,1707308778660,en_IN,Okay can you tell me more about the leaning tower of pizza?,130ms,57,it_IT,Ok potete dirmi di più sulla torre pendente della pizza?
+,1707308786939,0,413ms,35,1707308786941,1707308790816,it_IT,Stai parlando la corretta di Pisa. ,81ms,38,en_IN,You're talking about the correct Pisa.
+,1707308794858,1,396ms,11,1707308794859,1707308797022,en_IN,Right right,50ms,7,it_IT,Giusto?
+,1707308800979,0,823ms,248,1707308800980,1707308827096,it_IT,La Torre di Pisa e il campanile della cattedrale a Pisa e si trova nella Piazza del Duomo sono al momento più famoso per via della tendenza simbolo di Pisa e i 3 simboli conici dell'Italia ed è un campanile alto 57 m costruito nell'arco g 2 secoli.,415ms,255,en_IN,The Tower of Pisa and the bell tower of the cathedral in Pisa and is located in the Piazza del Duomo are at the moment most famous because of the trend symbol of Pisa and the 3 conical symbols of Italy and is a bell tower 57 m high built over 2 centuries.
+,1707308853498,1,453ms,109,1707308853504,1707308861858,en_IN,Okay how about the education system in Italy? Is it easy for a foreigner student to come and study in Italy?,1707308862311ms,113,null,Ok che ne dite del sistema educativo in Italia? È facile per uno studente straniero venire a studiare in Italia?
+,1707308869459,0,574ms,117,1707308869461,1707308879059,it_IT,È facile però sono straniero venire Italia solo se conosce bene l'italiano se non parla italiano non è molto facile. ,221ms,134,en_IN,It is easy however I am a foreigner to come to Italy only if he knows Italian well if he does not speak Italian it is not very easy.
+,1707308891420,1,480ms,36,1707308891421,1707308895418,en_IN,Oh how easy it is to learn Italian.,113ms,37,it_IT,Oh com'è facile imparare l'italiano.
+,1707308896017,1,437ms,32,1707308896018,1707308899058,en_IN,Are there any classes I can opt?,74ms,35,it_IT,Ci sono classi che posso scegliere?
+,1707308905229,0,591ms,127,1707308905230,1707308914659,it_IT,Sì puoi fare dei costi online oppure off-line in italiano ma devi studiare molto perché l'italiano. Non è poi così semplice. ,1707308915250ms,119,null,Yes you can make costs online or off-line in Italian but you have to study a lot because Italian. It's not that simple.
+,1707308926298,1,343ms,9,1707308926299,1707308928299,en_IN,Thank you,22ms,6,it_IT,Grazie
+,1707308931543,1,443ms,49,1707308931544,1707308935460,en_IN,Thank you so much for all the information Maria.,93ms,46,it_IT,Grazie mille per tutte le informazioni Maria.
+,1707308933298,0,368ms,5,1707308933299,1707308935341,it_IT,Prego,13ms,14,en_IN,You're welcome
+,1707308941540,1,454ms,22,1707308941541,1707308944218,en_IN,We can disconnect now.,88ms,28,it_IT,Possiamo disconnetterci ora.
+,1707308942858,0,311ms,4,1707308942859,1707308944867,it_IT,Ciao,27ms,5,en_IN,Hello

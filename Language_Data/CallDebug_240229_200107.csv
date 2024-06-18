@@ -1,0 +1,146 @@
+﻿Reference,SpeechId,Direction,SttLatency,length,beginOfSpeech,endOfSpeech,SttResult,TranslationLatency,length,TranslatedResult,useless,translation comment
+1709215849991
+,1709215848897,1,638ms,5,1709215848903,1709215850860,Hello,289ms,4,Olá!
+,1709215856218,1,426ms,42,1709215856220,1709215859697,Is there any network issue from your side?,91ms,42,Existe algum problema de rede do seu lado?
+,1709215859263,0,468ms,3,1709215859265,1709215861351,Olá,152ms,2,Hi
+,1709215865579,0,372ms,3,1709215865609,1709215867701,Não,22ms,4,Nope
+,1709215870582,1,533ms,66,1709215870601,1709215876540,Because I am calling you but you are disconnecting from your side.,155ms,74,Porque eu estou chamando você mas você está se desconectando do seu lado.
+,1709215884900,0,442ms,17,1709215884902,1709215887617,Agora deu certo? ,62ms,15,Now it's right?
+,1709215890816,1,436ms,20,1709215890817,1709215893463,Yes I can hear you.,74ms,23,Sim eu posso te ouvir.
+,1709215898978,0,399ms,8,1709215898979,1709215900982,Bloqueie,52ms,6,Block.
+,1709215899580,1,420ms,45,1709215899581,1709215904061,So today's topic is movies and entertainment.,97ms,49,Então o tópico de hoje é filmes e entretenimento.
+,1709215910180,1,425ms,41,1709215910182,1709215913659,Before that may I know your name please?,105ms,45,Antes disso posso saber seu nome por favor?
+,1709215910859,0,414ms,5,1709215910895,1709215912910,Certo,46ms,6,Right.
+,1709215920223,0,409ms,6,1709215920224,1709215922377,Cauane,65ms,7,Cauane.
+,1709215925017,1,494ms,39,1709215925019,1709215930025,I can my name is Manoj I'm from India.,127ms,43,Eu posso meu nome é Manoj eu sou da Índia.
+,1709215936340,0,395ms,8,1709215936342,1709215938819,Ah legal,52ms,9,Ah Legal!
+,1709215942979,1,415ms,105,1709215942981,1709215952337,Okay so let's start the discussion. Let me ask my first question. Or is there a film industry in Brazil?,1709215952752ms,123,Ok então vamos começar a discussão. Deixe-me fazer minha primeira pergunta. Ou há uma indústria cinematográfica no Brasil?
+,1709215953504,0,393ms,3,1709215953505,1709215955427,Não,42ms,4,Nope
+,1709215961060,0,457ms,12,1709215961061,1709215963309,Vai me lig. ,68ms,9,Go to me.
+,1709215968818,1,408ms,65,1709215968820,1709215975701,There is no film industry in Brasil. How do you guys watch movie?,1709215976109ms,73,Não há indústria cinematográfica no Brasil. Como vocês assistem ao filme?
+,1709215981663,0,421ms,46,1709215981664,1709215986139,A gente vai no cinema a gente fica de feliz. ,104ms,33,We go to the movies we're happy.
+,1709215986780,0,438ms,20,1709215986780,1709215989472,Tenho visto em mim. ,72ms,21,I have seen it in me.
+,1709215996062,1,470ms,75,1709215996064,1709216004460,Is TV popular in Brazil? Do people like to watch shows in TV or web series?,1709216004930ms,94,A TV é popular no Brasil? As pessoas gostam de assistir a programas na TV ou em séries na web?
+,1709216014103,0,602ms,119,1709216014104,1709216024418,Mim todas as casas você entende mim. A gente assiste também então computador pelo celular tá assim chegou pra lugar. ,192ms,100,Me all the houses you understand me. We also watch so the computer on the cell phone is like this.
+,1709216035297,1,435ms,21,1709216035298,1709216039222,So what is a telnola?,103ms,27,Então o que é uma telnola?
+,1709216043220,1,418ms,13,1709216043221,1709216045541,Telina novela,61ms,13,Telina novela
+,1709216047697,0,438ms,24,1709216047698,1709216050382,Não entendi a pergunta. ,72ms,32,I don't understand the question.
+,1709216048817,1,386ms,11,1709216048818,1709216051421,Telly novel,48ms,11,Telly novel
+,1709216051777,0,436ms,28,1709216051778,1709216055230,Novela tem bastante também. ,88ms,21,Novela has a lot too.
+,1709216060022,1,344ms,13,1709216060023,1709216062421,Telina novela,10ms,13,Telina novela
+,1709216063660,1,333ms,12,1709216063661,1709216068179,PELENOVEL. A,1709216068512ms,13,Pelenovel. A.
+,1709216069299,0,377ms,3,1709216069300,1709216071301,Uma,35ms,4,One.
+,1709216070140,1,321ms,13,1709216070141,1709216074740,Tel ENOVEL. A,1709216075061ms,14,Tel ENOVEL. A.
+,1709216074057,0,440ms,24,1709216074064,1709216077659,Novo novela agora bem. ,92ms,20,New novel now well.
+,1709216079740,0,482ms,31,1709216079742,1709216083258,Novela bem assistir no Brasil. ,84ms,33,Novel is good to watch in Brazil.
+,1709216090458,1,411ms,35,1709216090459,1709216094417,Where can I watch Brazilian series?,86ms,41,Onde posso assistir a séries brasileiras?
+,1709216101260,0,636ms,151,1709216101262,1709216115143,Tem um aplicativo quanto globo pelo globo que você consegue assistir ainda lá tem novelas antigas voz novas também dá pra você assistir de graça aqui. ,243ms,136,There is an app like Globo by Globo that you can watch still there there are old new voice soap operas also you can watch for free here.
+,1709216128220,1,444ms,47,1709216128222,1709216132736,Do you want to say the app name is global play?,125ms,55,Você quer dizer que o nome do aplicativo é Global Play?
+,1709216137658,1,379ms,9,1709216137659,1709216139899,Globe pay,46ms,18,Globo de pagamento
+,1709216139820,0,472ms,14,1709216139821,1709216142664,E isso mesmo. ,72ms,17,And that's right.
+,1709216142177,1,333ms,13,1709216142182,1709216144577,Globally play,38ms,11,Jogo global
+,1709216147779,1,470ms,45,1709216147780,1709216151753,The translation is not taking that correctly.,101ms,46,A tradução não está tomando isso corretamente.
+,1709216149980,0,423ms,17,1709216149981,1709216152954,Globo ponto com. ,73ms,17,Globe point with.
+,1709216160182,1,499ms,77,1709216160183,1709216167391,Okay so do I have to pay anything to access all the contents of this logoplay,154ms,87,Ok então eu tenho que pagar qualquer coisa para acessar todo o conteúdo deste logoplay
+,1709216162899,0,702ms,33,1709216162900,1709216166660,O aplicativo se chama Globoplay. ,89ms,28,The app is called Globoplay.
+,1709216176821,0,473ms,53,1709216176823,1709216182542,Não exatamente tenha a programação gratuita também. ,104ms,47,Not exactly have the free programming as well.
+,1709216189699,1,444ms,4,1709216189701,1709216191539,Okay,42ms,3,Ok!
+,1709216192420,1,420ms,32,1709216192423,1709216196620,What is Brazilian cinema called?,75ms,34,Como se chama o cinema brasileiro?
+,1709216204380,0,502ms,12,1709216204381,1709216206896,Cinema mesmo,54ms,7,Cinema.
+,1709216210621,1,439ms,38,1709216210622,1709216215581,I've heard it's called cinema nobobor.,112ms,39,Ouvi dizer que se chama Cinema Nobobor.
+,1709216218700,1,425ms,14,1709216218712,1709216223219,Cinema no go.,66ms,15,Cinema não vá.
+,1709216222739,0,438ms,17,1709216222740,1709216226343,Não é cinema só. ,71ms,21,It's not just cinema.
+,1709216226860,1,437ms,16,1709216226860,1709216230260,Cinema no wow.,80ms,17,Cinema não uau.
+,1709216233860,1,370ms,12,1709216233861,1709216237818,Cinema Novo.,48ms,12,Cinema Novo.
+,1709216247379,1,568ms,50,1709216247379,1709216252941,Okay let's talk about some entertainment sources.,194ms,55,Ok vamos falar sobre algumas fontes de entretenimento.
+,1709216260817,1,457ms,97,1709216260821,1709216269259,Apart from carnivals Samba dance and soccer. What else do people of Brazil do for entertainment?,1709216269716ms,103,Além de carnavais dança de samba e futebol. O que mais as pessoas do Brasil fazem pelo entretenimento?
+,1709216264862,0,543ms,37,1709216264863,1709216268476,Que que você quer gostaria de saber? ,145ms,28,What would you like to know?
+,1709216276861,0,580ms,64,1709216276863,1709216288020,Além de ir no cinema ela gosta de churrasco festa e na praia. ,181ms,82,In addition to going to the movies she likes barbecue partying and on the beach.
+,1709216303778,1,455ms,28,1709216303779,1709216307219,Do Brasil have nice beaches?,77ms,28,O Brasil tem praias bonitas?
+,1709216313981,0,366ms,7,1709216313983,1709216316180,Que tem,40ms,9,which has
+,1709216318019,0,467ms,43,1709216318020,1709216322821,Tem praias parecem verdadeiras paisagens. ,92ms,46,It has beaches it looks like real landscapes.
+,1709216334059,1,417ms,68,1709216334060,1709216339711,Do you have any idea like? How long does the carnival is celebrated?,1709216340128ms,68,Você tem alguma ideia como? Por quanto tempo o carnaval é celebrado?
+,1709216337182,0,566ms,61,1709216337183,1709216343546,Não é como um Avaí por exemplo mas são praias bem bonitas. ,168ms,63,It's not like an Avaí for example but they're pretty beaches.
+,1709216350741,0,470ms,50,1709216350743,1709216354951,O Carnaval pode ser celebrado durante uma semana. ,99ms,40,Carnival can be celebrated for one week.
+,1709216361822,1,441ms,79,1709216361824,1709216369896,And do a foreign tourist needs to buy tickets too. Participate in the carnival.,1709216370337ms,81,E um turista estrangeiro precisa comprar ingressos também. Participe do carnaval.
+,1709216378499,0,583ms,87,1709216378501,1709216386828,Cara namorada. Bem legal pra quem gosta de fazer bagunça pra beber bastante. É legal. ,233ms,88,Man girlfriend. It's nice for people who like to make a mess to drink a lot. It's nice.
+,1709216397899,1,483ms,52,1709216397902,1709216403778,So do we need to buy tickets to enjoy this carnival?,118ms,66,Então precisamos comprar ingressos para aproveitar este carnaval?
+,1709216413541,0,603ms,128,1709216413542,1709216424217,O Carnaval desse ano já passou mas acredito que você não pode comprar inglês a as que todos acontecem na rua Informa Gratuita. ,234ms,109,This year's Carnival is over but I believe you can't buy English for the ones that all happen on the street.
+,1709216435779,1,344ms,4,1709216435780,1709216437739,Okay,14ms,3,Ok!
+,1709216441379,1,492ms,52,1709216441380,1709216446697,How old do you have to be to go to a club in Brazil?,133ms,59,Quantos anos você tem que ter para ir a um clube no Brasil?
+,1709216450420,1,448ms,23,1709216450422,1709216453979,Is there any age limit?,73ms,29,Existe algum limite de idade?
+,1709216460343,0,573ms,105,1709216460345,1709216469019,Não existe mas se você tiver menos de 18 anos provavelmente você teria que acompanhar todos os pastis. ,220ms,94,It doesn't exist but if you're under 18 you'd probably have to keep track of all the pastis.
+,1709216477824,1,483ms,98,1709216477826,1709216486427,Will they allow me if? Let's say I am under 18. Will I be allowed inside the clubs or night clubs?,1709216486910ms,119,Eles vão me permitir isso? Digamos que eu tenha menos de 18 anos. Serei permitido dentro dos clubes ou clubes noturnos?
+,1709216485178,0,470ms,32,1709216485179,1709216488829,Se você ativar mais de 18 sim. ,106ms,34,If you activate more than 18 yes.
+,1709216495302,0,589ms,125,1709216495304,1709216505581,Bloco de noturno você tem que ter menos porque tem que ter autorização mas normalmente a exclusão e deixar você sem stress. ,206ms,123,Night block you have to have less because you have to have permission but usually the exclusion and leave you stress-free.
+,1709216516424,1,327ms,4,1709216516425,1709216518142,Okay,10ms,3,Ok!
+,1709216517578,0,500ms,73,1709216517579,1709216524864,Porém muito brasileiro costumo é mentira. A idade vai entrar no escuro. ,149ms,73,However a lot of Brazilians are usually lies. Age will go into the dark.
+,1709216531780,1,413ms,7,1709216531781,1709216534742,Ha nice,44ms,7,Ha nice
+,1709216538261,1,451ms,37,1709216538263,1709216541458,Have you ever been to any night club?,93ms,34,Você já foi a algum clube noturno?
+,1709216547861,0,468ms,51,1709216547863,1709216552540,Já ga foi bastante inclusive queria ver as fotos. ,118ms,48,It was a lot I even wanted to see the pictures.
+,1709216558340,1,430ms,34,1709216558341,1709216561940,Have you ever lied about your age?,96ms,31,Você já mentiu sobre sua idade?
+,1709216562899,1,484ms,51,1709216562900,1709216567537,While getting an entry into any of the night clubs.,112ms,56,Ao obter uma entrada em qualquer um dos clubes noturnos.
+,1709216570222,0,420ms,2,1709216570226,1709216572307,Já,53ms,8,Already.
+,1709216574780,0,369ms,2,1709216574782,1709216576900,Já,15ms,8,Already.
+,1709216577178,0,453ms,45,1709216577179,1709216583264,O que eu tenho mais idade do que parece ter? ,103ms,34,What am I older than I seem to be?
+,1709216591020,1,411ms,37,1709216591021,1709216594581,Is it OK if I ask you about your age?,94ms,41,Tudo bem se eu perguntar sobre sua idade?
+,1709216600742,0,498ms,39,1709216600744,1709216606139,Tudo bem eu tenho 29 91 cara de 20 e. ,128ms,45,All right I've got 29.91 guys out of 20 and.
+,1709216616779,1,431ms,34,1709216616781,1709216620499,I didn't understand but it's okay.,95ms,34,Eu não entendi mas está tudo bem.
+,1709216627020,0,400ms,8,1709216627021,1709216630656,Tudo bem,11ms,7,Alright
+,1709216633620,1,382ms,20,1709216633621,1709216636659,Do you watch movies?,67ms,20,Você assiste filmes?
+,1709216641824,0,390ms,31,1709216641826,1709216645636,Sim gosta de filme de terror? ,70ms,26,Do you like horror movies?
+,1709216649540,1,458ms,35,1709216649542,1709216653539,I do but I get scared very easily.,111ms,47,Eu faço mas eu fico com medo muito facilmente.
+,1709216658139,1,405ms,26,1709216658140,1709216660938,Do you like horror movies?,82ms,31,Você gosta de filmes de terror?
+,1709216661537,0,505ms,44,1709216661538,1709216665463,Eu adoro de como a dica também é bem legal. ,105ms,31,I love how cool the tip is too.
+,1709216666380,0,434ms,30,1709216666380,1709216669714,Eu gosto muito de fim de ter. ,85ms,31,I really like to end up having.
+,1709216675902,1,304ms,4,1709216675904,1709216677781,Okay,18ms,3,Ok!
+,1709216678221,0,436ms,35,1709216678222,1709216681460,Eu gosto muito de filme de terror. ,87ms,28,I really like horror movies.
+,1709216690578,1,457ms,35,1709216690580,1709216694901,Have you watched the movie the nun?,89ms,32,Você assistiu ao filme A Freira?
+,1709216700901,0,476ms,41,1709216700903,1709216705016,Sim eu adorei. Você já assistiu também? ,98ms,38,Yes I loved it. Have you seen it too?
+,1709216709779,1,436ms,18,1709216709780,1709216712579,Yes I got scared.,75ms,24,Sim eu fiquei com medo.
+,1709216717500,1,454ms,52,1709216717502,1709216722388,Do you remember the name of that none in that movie?,106ms,53,Você se lembra do nome daquele ninguém naquele filme?
+,1709216720018,0,395ms,9,1709216720019,1709216722297,Engraçado,49ms,6,Funny.
+,1709216729019,0,493ms,41,1709216729020,1709216733541,Não lembro. Achei simples. Vou assistir. ,120ms,50,I don't remember. I found it simple. I will watch.
+,1709216740378,1,447ms,30,1709216740380,1709216743500,I think the name was volatile.,93ms,31,Eu acho que o nome era volátil.
+,1709216747501,1,361ms,5,1709216747504,1709216749499,Palak,39ms,5,Palak
+,1709216751623,1,423ms,7,1709216751624,1709216754615,Bal AK.,55ms,5,Bala.
+,1709216752061,0,472ms,35,1709216752062,1709216755834,Eu sou eu sou muito ruim com nome. ,104ms,23,I'm very bad with name.
+,1709216756538,1,423ms,8,1709216756539,1709216759659,V ALA k.,77ms,7,V ALAB.
+,1709216763218,1,319ms,4,1709216763219,1709216765218,Okay,10ms,3,Ok!
+,1709216770136,1,439ms,25,1709216770136,1709216773177,Do you know Wagner Mora?,86ms,26,Você conhece Wagner Mora?
+,1709216777339,1,415ms,12,1709216777340,1709216779937,Wagner moora,69ms,12,Wagner Moora
+,1709216779139,0,452ms,23,1709216779140,1709216782547,Sim é um grande ator. ,86ms,24,Yes he's a great actor.
+,1709216787379,1,448ms,32,1709216787381,1709216790741,Have you seen any of his movies?,87ms,33,Você já viu algum de seus filmes?
+,1709216795263,1,522ms,34,1709216795264,1709216800219,Elite squad narcosh elite squad 2.,148ms,42,Esquadrão Elite Narcosh Esquadrão Elite 2.
+,1709216796943,0,436ms,33,1709216796945,1709216801071,Jacy você conhece troca de mix? ,104ms,31,Jacy do you know mix exchange?
+,1709216810019,1,365ms,2,1709216810020,1709216811944,No,38ms,3,Não
+,1709216815138,1,401ms,24,1709216815140,1709216817900,Is it one of his movies?,69ms,20,É um de seus filmes?
+,1709216819821,0,477ms,46,1709216819823,1709216825060,É um filme bem famoso sempre me ouvi famoso. ,129ms,58,It's a very famous movie I've always heard myself famous.
+,1709216830899,1,452ms,63,1709216830900,1709216836073,Okay I've not seen it. I'll make sure I'll watch It very soon.,1709216836525ms,68,Ok eu não vi. Vou me certificar de que vou assistir muito em breve.
+,1709216836461,1,439ms,37,1709216836473,1709216839536,Can you repeat the name of the movie?,85ms,34,Você pode repetir o nome do filme?
+,1709216846341,0,474ms,34,1709216846343,1709216850756,O nome do filme é Tropa de Elite. ,123ms,36,The name of the film is Elite Troop.
+,1709216855300,1,380ms,4,1709216855301,1709216857182,Okay,22ms,3,Ok!
+,1709216860421,1,563ms,71,1709216860423,1709216867099,Do you know who was the voice actor for Pablo Escobar on the so narcos?,160ms,64,Você sabe quem foi o dublador de Pablo Escobar em The So Narcos?
+,1709216875900,0,476ms,46,1709216875901,1709216879985,Não meu assisti. Faz pouco tempo na Netflix. ,127ms,49,No I watched. It's been a short time on Netflix.
+,1709216886979,1,432ms,36,1709216886981,1709216891259,It was none other than Wagner moora.,95ms,33,Não era outro senão Wagner Moora.
+,1709216896656,1,412ms,6,1709216896657,1709216899342,Moura.,46ms,6,Moura.
+,1709216907620,1,481ms,46,1709216907621,1709216913019,Do you think Juliana pace is famous in Brazil?,110ms,46,Você acha que Juliana Pace é famosa no Brasil?
+,1709216917379,1,416ms,6,1709216917381,1709216920022,P AES.,49ms,8,PÁGINAS.
+,1709216933859,1,528ms,15,1709216933860,1709216937740,Julianna p AES.,162ms,12,Juliana ae.
+,1709216945820,1,429ms,24,1709216945821,1709216948417,Have you seen her movie?,71ms,22,Você viu o filme dela?
+,1709216958380,1,410ms,9,1709216958382,1709216960298,You there,46ms,8,Você aí?
+,1709216972182,0,740ms,25,1709216972184,1709216974980,Faz parte de por favor. ,143ms,21,It's part of please.
+,1709216972382,1,315ms,5,1709216972384,1709216974221,Hello,22ms,4,Olá!
+,1709216986179,1,469ms,37,1709216986181,1709216990020,Have you seen her movie despite Dita?,107ms,40,Você já viu o filme dela apesar de Dita?
+,1709216990822,0,440ms,25,1709216990823,1709216993994,Oi pode repetir por favor,91ms,25,You can repeat it please.
+,1709216994577,1,380ms,13,1709216994578,1709216997499,A desperation,58ms,12,Um desespero
+,1709216996620,0,473ms,28,1709216996621,1709216999993,Esse meu nunca se diz isso. ,91ms,28,That's mine never said that.
+,1709217000656,1,322ms,13,1709217000657,1709217003780,A desperation,18ms,12,Um desespero
+,1709217006781,1,480ms,48,1709217006783,1709217010579,The translation is getting the movie name wrong.,104ms,40,A tradução está errando o nome do filme.
+,1709217017180,1,403ms,9,1709217017181,1709217019220,It's okay,83ms,14,Está tudo bem.
+,1709217019936,1,464ms,90,1709217019937,1709217030416,Let's end this conversation as we are running out of time. I'll make one more call to you.,1709217030880ms,105,Vamos terminar essa conversa enquanto estamos ficando sem tempo. Eu vou fazer mais uma chamada para você.
+,1709217021578,0,453ms,35,1709217021582,1709217026756,O nome mesmo nova lista de filmes. ,119ms,32,The same name new list of films.
+,1709217035017,1,490ms,37,1709217035019,1709217038619,We will talk about a different topic.,91ms,36,Vamos falar sobre um tema diferente.
+,1709217037740,0,440ms,31,1709217037741,1709217041269,Tá bom então a gente se fala. ,106ms,22,It's good so we talk.
+,1709217045018,1,523ms,51,1709217045020,1709217050180,I'll make you one more call to you after 2 minutes.,145ms,60,Eu vou fazer mais uma ligação para você depois de 2 minutos.
+,1709217057901,0,414ms,5,1709217057903,1709217060017,Tá ok,61ms,8,It's OK.

@@ -1,0 +1,55 @@
+﻿Reference,SpeechId,Direction,SttLatency,length,beginOfSpeech,endOfSpeech,SttResult,TranslationLatency,length,TranslatedResult,useless,translation comment
+1705653033578
+,1705653031796,1,642ms,5,1705653031805,1705653033800,Hello,452ms,4,Hola
+,1705653034314,1,367ms,12,1705653034315,1705653036355,Good Morning,61ms,12,Buenos días.
+,1705653043475,0,562ms,18,1705653043477,1705653045954,Hola buenos días. ,251ms,19,Hello good morning.
+,1705653049721,1,368ms,18,1705653049724,1705653052039,How are you doing?,29ms,12,¿Cómo estás?
+,1705653056916,0,460ms,22,1705653056918,1705653060194,Estoy muy bien y tú. ,75ms,17,I'm fine and you.
+,1705653064321,1,448ms,52,1705653064324,1705653070120,I am also doing good. Hope you had a nice breakfast.,1705653070568ms,73,También estoy haciendo el bien. Espero que hayas tenido un buen desayuno.
+,1705653077637,0,471ms,22,1705653077639,1705653080594,Aún me he desayunado. ,74ms,25,I've still had breakfast.
+,1705653085522,1,336ms,4,1705653085524,1705653087519,Okay,40ms,9,Está bien
+,1705653091196,1,449ms,75,1705653091199,1705653098756,I wanted to discuss some career opportunities and educational consultation.,106ms,72,Quería discutir algunas oportunidades de carrera y consultas educativas.
+,1705653092597,0,411ms,22,1705653092598,1705653095539,Tú has desayunado ya. ,83ms,29,You've had breakfast already.
+,1705653106400,0,409ms,10,1705653106401,1705653108572,De acuerdo,54ms,5,Okay.
+,1705653106797,1,437ms,24,1705653106799,1705653109913,Yes I had my breakfast.,75ms,13,Sí desayuné.
+,1705653115035,1,382ms,50,1705653115036,1705653118687,Is this a good time to discuss? Have a discussion.,1705653119069ms,56,¿Es un buen momento para discutir? Tengan una discusión.
+,1705653115879,0,370ms,8,1705653115881,1705653118404,Muy bien,52ms,10,All right.
+,1705653124796,1,512ms,66,1705653124798,1705653131403,Okay so what kind of educational options available for a student?,122ms,71,Bueno ¿qué tipo de opciones educativas disponibles para un estudiante?
+,1705653125358,0,437ms,21,1705653125361,1705653128210,Sí es buen momento. ,74ms,17,It's a good time.
+,1705653140837,0,685ms,203,1705653140839,1705653162514,Si nos referimos a las opciones educativas en España el sistema reconoce lo siguiente si el estudiante tiene de 0 a 3 años estará en el programa que se llama educación infantil y también de 3 a 6 años. ,341ms,211,If we refer to the educational options in Spain the system recognizes the following if the student is from 0 to 3 years old will be in the program called Early Childhood Education and also from 3 to 6 years old.
+,1705653181082,1,469ms,85,1705653181084,1705653189837,Okay that's nice. I'm interested more towards the students who are pursuing college.,1705653190306ms,100,Está bien eso está bien. Estoy más interesado en los estudiantes que están cursando la universidad.
+,1705653191237,0,393ms,18,1705653191237,1705653194043,Sí el estudiante. ,76ms,16,Yes the student.
+,1705653200355,0,418ms,78,1705653200356,1705653207477,Vale hay universidades y otras instituciones de educación superior en España. ,109ms,72,There are universities and other higher education institutions in Spain.
+,1705653200394,1,432ms,65,1705653200410,1705653205316,Could you please give me more information about college students?,100ms,67,¿Podría darme más información sobre los estudiantes universitarios?
+,1705653215077,0,480ms,80,1705653215079,1705653221195,¿qué información quieres saber exactamente el tipo de carreras que se estudian? ,142ms,82,What information do you want to know exactly the type of careers that are studied.
+,1705653229398,1,505ms,156,1705653229410,1705653244513,I am more interested for a student who has completed engineering degree is from outside Spain. Say for example if he has completed engineering from India.,1705653245018ms,170,Estoy más interesado por un estudiante que ha completado la carrera de ingeniería es de fuera de España. Digamos por ejemplo si ha completado la ingeniería de la India.
+,1705653256318,0,502ms,60,1705653256320,1705653262160,Quieres saber las opciones laborales que tendría en España. ,116ms,57,You want to know the job options you would have in Spain.
+,1705653269637,1,437ms,63,1705653269639,1705653275516,I want to know the higher education options available in Spain.,104ms,72,Quiero conocer las opciones de educación superior disponibles en España.
+,1705653283040,0,406ms,273,1705653283043,1705653314073,Vale de acuerdo en España hay una gran variedad dé de carreras universitarias que cualquier estudiante puede cursar la universidad española ofrece programas de grado si son licenciatura en diferentes disciplinas por. Ejemplo esta estos programas se diferencian en duración.,1705653314479ms,246,Okay according in Spain there is a great variety of university careers that any student can pursue the Spanish university offers degree programs if they are bachelor's degree in different disciplines by. Example these programs differ in duration.
+,1705653329837,1,480ms,60,1705653329841,1705653335876,Nice could you please help me with the application procedure,107ms,64,Niza por favor me puede ayudar con el procedimiento de solicitud
+,1705653343918,0,657ms,239,1705653343920,1705653365515,En primer lugar para acceder a la universidad en España generalmente tienes que haber completado la educación secundaria obligatoria y haber aprobado una prueba de acceso conocida como selectividad u evaluación de acceso a la universidad.,293ms,199,First of all to access university in Spain you usually have to have completed compulsory secondary education and have passed an entrance exam known as a selectivity or university access assessment.
+,1705653366235,0,415ms,40,1705653366236,1705653371046,Sin embargo estas reglas pueden variar. ,84ms,30,However these rules may vary.
+,1705653385919,1,429ms,16,1705653385922,1705653388915,Okay thank you.,64ms,19,Está bien gracias.
+,1705653389199,1,445ms,38,1705653389200,1705653394555,So we can apply this programme online.,90ms,47,Así que podemos aplicar este programa en línea.
+,1705653401876,0,452ms,83,1705653401878,1705653413250,No por lo general las universidades. Tienes que ir asistir a clase todos los días. ,1705653413702ms,60,Not usually universities. You have to go to class every day.
+,1705653421598,1,484ms,36,1705653421600,1705653426481,Okay so it is to in classroom mode.,113ms,41,Está bien así que es en el modo de aula.
+,1705653432119,0,466ms,377,1705653432121,1705653469234,Sí exactamente te voy a explicar el tipo de carrera que puedes estudiar en España vale ¿quién es la carrera de ciencias sociales y jurídicas quien vuelve economía derecho y sociología también está la carrera de ciencia de la salud quien vuelve medicina enfermería y odontología por otro lado puedes estudiar ciencias experimentales? ¿cómo pueden ser biología química y física?,1705653469700ms,376,If exactly I'm going to explain to you the type of career that you can study in Spain it's worth who is the career of social and legal sciences who returns to economics and sociology there is also the career of health science who returns to medicine nursing and dentistry. On the other hand you can study experimental sciences. How can they be chemical biology and physics?
+,1705653494711,1,496ms,66,1705653494712,1705653500956,Okay but I am more interested into AI n machine learning careers.,127ms,75,Bueno pero estoy más interesado en las carreras de aprendizaje automático.
+,1705653502078,0,416ms,8,1705653502079,1705653505090,También.,53ms,5,Also.
+,1705653510879,0,439ms,38,1705653510882,1705653514436,No sé exactamente ¿a qué te refieres? ,93ms,35,I don't know exactly what you mean.
+,1705653515598,0,423ms,29,1705653515599,1705653518842,Podrías explicarme algo más. ,90ms,39,You could explain something else to me.
+,1705653524321,1,399ms,17,1705653524324,1705653526915,Sure no problem.,74ms,23,Claro no hay problema.
+,1705653530040,1,523ms,101,1705653530043,1705653539241,What are the good universities that are available for Indian student to do higher education in Spain?,158ms,120,¿Cuáles son las buenas universidades disponibles para que los estudiantes indios realicen estudios superiores en España?
+,1705653535877,0,442ms,59,1705653535878,1705653542087,¿cuáles son las detal perdón es la carrera de aprendizaje? ,125ms,59,What are the details of forgiveness is the learning career.
+,1705653550873,0,506ms,104,1705653550875,1705653561726,Cualquier universidad en España es excelente para que un estudiante indio desarrolle y estudia en ella. ,157ms,83,Any university in Spain is excellent for an Indian student to develop and study in.
+,1705653562037,0,400ms,34,1705653562038,1705653565095,Se arrodilla y sus conocimientos. ,85ms,28,He kneels and his knowledge.
+,1705653575320,1,382ms,10,1705653575323,1705653577557,Okay great,47ms,16,Está bien genial
+,1705653577918,1,420ms,20,1705653577919,1705653580714,Can we apply online?,61ms,26,¿Podemos aplicar en línea?
+,1705653587318,0,408ms,42,1705653587320,1705653592172,Sí si puede enviar la información online. ,89ms,43,Yes if you can send the information online.
+,1705653598477,1,487ms,90,1705653598479,1705653607401,How about the placement assistance for job opportunity after the completion of University?,158ms,113,¿Qué tal la asistencia de colocación para la oportunidad de trabajo después de la finalización de la Universidad?
+,1705653618197,0,395ms,22,1705653618198,1705653621276,Déjame que piense si. ,75ms,17,Let me think yes.
+,1705653628436,1,455ms,40,1705653628438,1705653632757,Okay thank you for all the information.,102ms,39,Bueno gracias por toda la información.
+,1705653630280,0,466ms,92,1705653630280,1705653637724,Después de completar la universidad las oportunidades de trabajo. Pueden ser muy variables. ,1705653638190ms,70,After completing college job opportunities. They can be very variable.
+,1705653639599,0,434ms,40,1705653639601,1705653643041,De acuerdo gracias a ti por la llamada. ,103ms,29,Okay thank you for the call.
+,1705653647919,1,369ms,25,1705653647921,1705653651438,Have a great day bye. Bye,1705653651807ms,41,Que tengas un gran día de descanso. Adiós
+,1705653655117,0,451ms,16,1705653655119,1705653657678,Adiós buen día. ,70ms,17,Goodbye good day.

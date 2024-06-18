@@ -1,0 +1,110 @@
+﻿Reference,SpeechId,Direction,SttLatency,length,beginOfSpeech,endOfSpeech,SttResult,TranslationLatency,length,TranslatedResult,useless,translation comment
+1714987838419
+,1714987838990,1,333ms,52,1714987838991,1714987844392,Hey hi my name is prasina. I'm calling from India.,1714987844725ms,59,Hola mi nombre es Prasina. Estoy llamando desde la India. 
+,1714987841712,0,561ms,11,1714987841713,1714987843441,Oh recuerdo,207ms,13,Oh I remember
+,1714987850757,0,434ms,3,1714987850758,1714987852552,Los,35ms,3,The
+,1714987854876,0,478ms,19,1714987854879,1714987857646,Hola buenos días. ,67ms,20,Hello good morning.
+,1714987861715,1,343ms,45,1714987861717,1714987866672,Good MorningI believe it's too early for you.,1714987867015ms,49,Buen día Creo que es demasiado temprano para ti. 
+,1714987872597,0,512ms,47,1714987872599,1714987877072,No está muy bien estaba esperando la llamada. ,112ms,47,It's not very well I was waiting for the call.
+,1714987885356,1,353ms,36,1714987885358,1714987889431,So usually at what time you? Get up.,1714987889784ms,37,¿A lo general a qué hora? Levántate. 
+,1714987895836,0,530ms,54,1714987895838,1714987901679,Por lo general me despierto a las 4:30 de la mañana. ,111ms,41,I usually wake up at 4:30 in the morning.
+,1714987907833,1,327ms,30,1714987907835,1714987913435,OkayFor me it's really early.,1714987913762ms,36,Está bien Para mí es muy temprano. 
+,1714987916114,1,325ms,47,1714987916116,1714987920272,I normally wake up at 7 o'clock in the morning.,1714987920597ms,49,Normalmente me levanto a las siete de la mañana. 
+,1714987921154,0,406ms,5,1714987921156,1714987923525,Ah ok,55ms,5,Ah ok
+,1714987927197,1,303ms,29,1714987927198,1714987930231,May I know your name please?,1714987930534ms,35,¿Puedo saber tu nombre por favor? 
+,1714987934755,0,469ms,30,1714987934757,1714987938408,Mi nombre es Beatriz Cecilia. ,81ms,27,My name is Beatriz Cecilia.
+,1714987944194,1,294ms,19,1714987944196,1714987946831,And where you live?,1714987947125ms,16,¿Y dónde vives? 
+,1714987950430,0,476ms,19,1714987950431,1714987953919,En Miami Florida. ,69ms,18,In Miami Florida.
+,1714987960431,1,333ms,43,1714987960433,1714987965596,And where exactly was your? Place of birth.,1714987965929ms,53,¿Y dónde estaba exactamente tu? lugar de nacimiento. 
+,1714987971916,0,509ms,43,1714987971938,1714987977313,Ah en barkisimeto estado Lara Venezuela? ,119ms,41,Ah in Barkisimeto state Lara Venezuela?
+,1714987983393,1,376ms,7,1714987983394,1714987985350,Oh okay,1714987985726ms,10,Está bien 
+,1714987986151,1,301ms,50,1714987986153,1714987990630,I've heard Venezuela is a very. Beautiful country.,1714987990931ms,44,He oído que Venezuela es muy. Hermoso país. 
+,1714987997955,0,615ms,86,1714987997957,1714988008392,Si Nieves un país muy hermoso lleno de paisajes lindos ah y un clima excepcional. ,175ms,99,Yes Nieves a very beautiful country full of beautiful landscapes ah and an exceptional climate.
+,1714988019194,1,318ms,44,1714988019196,1714988023114,Since when you have been staying in Florida.,1714988023432ms,41,Desde entonces te has estado en Florida. 
+,1714988030511,0,392ms,19,1714988030512,1714988035551,Desde hace 9 años. ,52ms,15,For nine years.
+,1714988041032,1,387ms,11,1714988041033,1714988045431,WowOh yes.,1714988045818ms,4,Wow 
+,1714988049192,1,766ms,42,1714988049194,1714988054192,So what exactly you do? Boxing gas cyclos.,1714988054958ms,56,¿Entonces qué haces exactamente? Ciclos de gas de boxeo.
+,1714988057154,0,443ms,11,1714988057155,1714988059925,Ahm trabajo,60ms,8,AHM Work
+,1714988061962,0,627ms,90,1714988061963,1714988071356,Trabajó en el centro para mujeres de de mediana edad donde hacen ejercicio y cuyos salud. ,176ms,84,She worked at the center for middle-aged women where they exercise and whose health.
+,1714988080836,1,349ms,4,1714988080838,1714988083590,Okay,1714988083939ms,10,Está bien 
+,1714988089271,1,291ms,85,1714988089274,1714988096230,So you must be aware that today's topic of discussion will be social media influence.,1714988096521ms,109,Por lo tanto debe tener en cuenta que el tema de discusión de hoy será la influencia de las redes sociales. 
+,1714988104194,1,334ms,53,1714988104195,1714988108796,We will try to have an open discussion on this topic.,1714988109130ms,59,Trataremos de tener una discusión abierta sobre este tema. 
+,1714988107272,0,572ms,25,1714988107273,1714988110682,Ok es perfecto para mí. ,142ms,26,Okay it's perfect for me.
+,1714988119070,1,336ms,21,1714988119071,1714988122078,Do you use Instagram?,1714988122414ms,21,¿Utilizas Instagram? 
+,1714988121232,0,882ms,113,1714988121233,1714988132728,Muy bien estoy muy abierta a contestar cualquier. Por ejemplo sí. Utilizó ¿Instagram es la red social que más. ,317ms,108,All right I'm very open to answering any. For example yes. Used Instagram is the social network that most.
+,1714988146236,1,354ms,40,1714988146238,1714988152313,How manyPosts you have posted till now.,1714988152667ms,44,¿Cuántos? Posts has publicado hasta ahora. 
+,1714988158230,0,876ms,91,1714988158232,1714988170196,No no mucho es la que más utilizo sobre todo es la que más veo más que publicar laveo. ,376ms,106,No not much it is the one I use the most above all it is the one I see the most than publishing Laveo.
+,1714988183595,1,333ms,52,1714988183597,1714988189515,Have have you ever uploaded any reels? On Instagram.,1714988189848ms,52,¿Alguna vez has subido algún carrete? en Instagram. 
+,1714988195675,0,566ms,26,1714988195677,1714988199435,Sí si he subido carrete. ,161ms,27,Yeah if I've climbed reel.
+,1714988205552,1,308ms,28,1714988205553,1714988208593,How many followers you have?,1714988208901ms,28,¿Cuántos seguidores tienes? 
+,1714988218477,0,532ms,17,1714988218478,1714988223437,1086 seguidores. ,85ms,15,1086 followers.
+,1714988232277,1,294ms,64,1714988232279,1714988238157,Have you made any friends through online social media platforms?,1714988238451ms,70,¿Has hecho amigos a través de plataformas de redes sociales en línea? 
+,1714988248277,0,569ms,59,1714988248279,1714988254327,No no consideró haber hecho amigos a través de las redes. ,180ms,59,No he didn't consider making friends through the networks.
+,1714988262395,1,307ms,35,1714988262397,1714988265916,Do you have your account on TikTok?,1714988266223ms,29,¿Tienes tu cuenta en TikTok? 
+,1714988271996,0,836ms,88,1714988271997,1714988282312,Sí pero no soy asiduo no no reviso mucho Víctor. No soy usuaria frecuente de tipos. ,380ms,89,Yes but I'm not a regular no I don't check much Victor. I'm not a frequent type user.
+,1714988292830,1,342ms,39,1714988292831,1714988297993,Okay actually in India. TikTok is bad.,1714988298335ms,56,De acuerdo en realidad en la India. El tictac es malo. 
+,1714988301115,1,338ms,17,1714988301117,1714988304113,TikTok is banned.,1714988304451ms,23,Tiktok está prohibido. 
+,1714988310115,1,333ms,79,1714988310118,1714988316887,There are some government regulations with which TikTok was not complying with.,1714988317220ms,82,Hay algunas regulaciones gubernamentales con las que TikTok no estaba cumpliendo. 
+,1714988310516,0,507ms,14,1714988310517,1714988313353,Yo no lo uso. ,124ms,15,I don't use it.
+,1714988314349,0,570ms,38,1714988314351,1714988318287,La plataforma de set social favorito. ,121ms,33,The favorite social set platform.
+,1714988326593,1,354ms,53,1714988326595,1714988331312,What set of frills do you like to watch on Instagram?,1714988331666ms,50,¿Qué conjunto de lujos te gusta ver en Instagram? 
+,1714988333076,0,460ms,6,1714988333078,1714988335359,Descon,92ms,6,Descon
+,1714988335635,1,332ms,19,1714988335643,1714988338560,What type of firms?,1714988338892ms,23,¿Qué tipo de empresas? 
+,1714988337635,0,493ms,15,1714988337642,1714988342358,Tamboda saludos,87ms,14,Also Greetings
+,1714988340034,1,304ms,19,1714988340049,1714988343592,What type of reels?,1714988343896ms,23,¿Qué tipo de carretes? 
+,1714988343672,0,569ms,18,1714988343673,1714988347559,De moda salud. E. ,112ms,18,Health fashion. E.
+,1714988348991,0,507ms,12,1714988348992,1714988351639,Ahhhhmhhmhmh,139ms,10,Ahhhhmhmhh
+,1714988352472,0,485ms,11,1714988352473,1714988355476,Pasean moda,69ms,12,Pass Fashion
+,1714988359313,1,353ms,4,1714988359315,1714988361237,Okay,1714988361590ms,10,Está bien 
+,1714988367675,1,345ms,62,1714988367677,1714988373116,Do you prefer online shopping on any of the social media apps?,1714988373461ms,77,¿Prefieres comprar en línea en alguna de las aplicaciones de redes sociales? 
+,1714988381434,0,803ms,107,1714988381435,1714988392315,Utilizo una actualmente llamada FL que están en Estados Unidos y mires como la red social pero de compra. ,322ms,104,I use a currently called FL that they're in the United States and look like the social network but buy.
+,1714988404590,1,321ms,78,1714988404591,1714988413196,Okay in India from the last 56 years. Online shopping. I've gone really high.,1714988413517ms,77,Bien en la India de los últimos 56 años. Compras en línea. He ido muy alto. 
+,1714988421596,1,301ms,66,1714988421598,1714988427795,Kindly ignore the translation mistakes happening during this call.,1714988428096ms,78,Por favor ignore los errores de traducción que ocurren durante esta llamada. 
+,1714988421913,0,719ms,95,1714988421929,1714988432033,Si ahí no es muy confiable compraren hay productos a través de Instagram por lo menos paran. ,269ms,97,If there is not very reliable shopping there are products through Instagram at least they stop.
+,1714988428876,1,337ms,10,1714988428879,1714988431072,Unmute the,1714988431409ms,15,Desmutar el... 
+,1714988443876,1,344ms,3,1714988443877,1714988445836,Yes,1714988446180ms,3,Sí 
+,1714988452796,1,323ms,88,1714988452798,1714988460932,I've heard some Bollywood Movies are doing good in USA. Have you ever watched any of it?,1714988461255ms,125,He escuchado algunas películas de Bollywood que están haciendo el bien en Estados Unidos. ¿Alguna vez has visto algo de eso? 
+,1714988468636,0,529ms,29,1714988468638,1714988472680,No desconozco acerca de eso. ,118ms,24,I don't know about that.
+,1714988477075,1,322ms,65,1714988477077,1714988483955,Okay Bollywood Movies are the kind of movies that are. In India.,1714988484277ms,74,Las películas de Bollywood son el tipo de películas que son. en la India. 
+,1714988494516,1,301ms,59,1714988494518,1714988499914,Which app is the most popular for video calling in the USA?,1714988500215ms,76,¿Qué aplicación es la más popular para videollamadas en los Estados Unidos? 
+,1714988498593,0,538ms,30,1714988498598,1714988502232,No tengo conocimiento de eso. ,121ms,28,I have no knowledge of that.
+,1714988509591,0,734ms,98,1714988509595,1714988527395,La crea Apple videollamadas de para negocio se utiliza zoom para social media personal eh abol. ,290ms,92,The Apple creates video calls for business is used zoom for personal social media eh abol.
+,1714988528076,0,579ms,43,1714988528077,1714988533361,Las llamadas las videollamadas con Apple. ,145ms,38,The calls the video calls with Apple.
+,1714988541551,1,352ms,32,1714988541553,1714988545671,Do you mean to say? Face timing.,1714988546023ms,31,¿Quieres decir? Timor de cara. 
+,1714988553797,0,691ms,32,1714988553798,1714988559154,Si aún utilizamos 6 fases time. ,254ms,30,If we still use 6 time phases.
+,1714988566677,1,338ms,32,1714988566679,1714988571389,It's calledFaced time. Isn't it?,1714988571727ms,37,Se llama Tiempo de cara. ¿No es así? 
+,1714988576555,0,501ms,13,1714988576557,1714988579435,Sí se sain. ,105ms,15,Yeah you know.
+,1714988577191,1,325ms,10,1714988577192,1714988579273,Waste time,1714988579598ms,18,Tiempo de pérdida 
+,1714988583034,1,377ms,9,1714988583035,1714988585274,Face time,1714988585651ms,15,Tiempo de cara 
+,1714988587550,1,319ms,61,1714988587551,1714988592044,Yeah there are some errors happening because of translation.,1714988592363ms,60,Sí hay algunos errores que ocurren debido a la traducción. 
+,1714988589835,0,438ms,5,1714988589847,1714988592962,10 sí,70ms,6,10 Yes
+,1714988603591,1,347ms,75,1714988603593,1714988610313,Do you follow any Hollywood celebrity on Twitter? On Facebook or Instagram?,1714988610660ms,79,¿Sigues a alguna celebridad de Hollywood en Twitter? ¿En Facebook o Instagram? 
+,1714988605111,0,489ms,12,1714988605112,1714988607447,Qué entiendo,108ms,21,What do I understand?
+,1714988616228,0,571ms,43,1714988616230,1714988620472,En Instagram sigó varias celebridades ah. ,127ms,49,On Instagram he followed several celebrities ah.
+,1714988621432,0,486ms,15,1714988621433,1714988626399,Como ah bebí. ,104ms,14,Like I drank.
+,1714988633594,1,310ms,77,1714988633596,1714988638551,Can you please tell me a few of the celebrities that you follow-on Instagram?,1714988638861ms,69,¿Puedes decirme algunas de las celebridades que sigues en Instagram? 
+,1714988646550,0,556ms,28,1714988646552,1714988651472,Baby can Victoria Beckham. ,120ms,27,Baby can Victoria Beckham.
+,1714988652153,0,611ms,30,1714988652156,1714988658404,Edgar Ramírez Jennifer Lopez. ,177ms,31,Edgar Ramirez (Jennifer Lopez).
+,1714988672352,1,355ms,4,1714988672355,1714988674313,Okay,1714988674668ms,10,Está bien 
+,1714988680752,1,311ms,39,1714988680754,1714988685153,Have you ever used? WeChat application.,1714988685464ms,43,¿Alguna vez has usado? Aplicación de chat. 
+,1714988703432,1,297ms,47,1714988703435,1714988708396,WeChat application similar to that of WhatsApp.,1714988708693ms,45,Aplicación de chat similar a la de WhatsApp. 
+,1714988712431,1,342ms,22,1714988712433,1714988715114,Have you ever used it?,1714988715456ms,26,¿Alguna vez lo has usado? 
+,1714988718997,0,545ms,23,1714988718999,1714988722551,Sí sí le he enojado. ,132ms,30,Yes yes I've made him angry.
+,1714988734474,1,344ms,30,1714988734476,1714988738039,Have you ever used chat pitti?,1714988738383ms,34,¿Alguna vez has usado Chat Pitti? 
+,1714988740837,1,317ms,7,1714988740839,1714988743353,ChatGPT,1714988743670ms,9,Chat GPT 
+,1714988742956,0,518ms,21,1714988742957,1714988746036,Sí sí lo he usado. ,124ms,25,Yeah yeah I've used it.
+,1714988752272,1,328ms,53,1714988752275,1714988757314,In your professional work are. In your personal work.,1714988757642ms,55,En su trabajo profesional son. en su trabajo personal. 
+,1714988764556,0,459ms,23,1714988764557,1714988767636,Para la copa personal. ,88ms,21,For the personal cup.
+,1714988771353,0,402ms,8,1714988771355,1714988773951,Acaban 5,57ms,15,They finished 5
+,1714988783236,1,341ms,20,1714988783237,1714988785671,Are you on Facebook?,1714988786012ms,20,¿Estás en Facebook? 
+,1714988790434,0,554ms,54,1714988790436,1714988796352,Sí tengo Facebook más. No lo utilizo con frecuencia. ,136ms,48,Yes I have Facebook more. I don't use it often.
+,1714988804993,1,339ms,67,1714988804994,1714988811393,Approximately how many hours a day you spend on social media apps?,1714988811732ms,80,Aproximadamente ¿cuántas horas al día pasas en aplicaciones de redes sociales? 
+,1714988821074,0,481ms,24,1714988821075,1714988825607,Ah 5 horas como mucho. ,87ms,23,Oh five hours at most.
+,1714988829910,1,339ms,104,1714988829912,1714988838113,Okay then it's fine I've seen people. They spend almost more than 12 hours a day on social media apps.,1714988838452ms,118,Está bien entonces está bien he visto gente. Pasan casi más de doce horas al día en aplicaciones de redes sociales. 
+,1714988854272,0,520ms,60,1714988854274,1714988859711,Sí pero son personas que por lo general trabajan con ella. ,133ms,51,Yes but they are people who usually work with her.
+,1714988854711,1,296ms,4,1714988854713,1714988856603,Okay,1714988856899ms,10,Está bien 
+,1714988866231,1,372ms,3,1714988866234,1714988868113,Yes,1714988868485ms,3,Sí 
+,1714988872277,1,298ms,104,1714988872279,1714988881993,Uh okay let's conclude our discussion here. It was really nice talking to you. I wish you. A good day.,1714988882291ms,111,Uh está bien concluyamos nuestra discusión aquí. Fue muy agradable conversar contigo. Te deseo. Un buen día. 
+,1714988887914,1,301ms,15,1714988887928,1714988890438,Take care. Bye.,1714988890739ms,27,Cuídate mucho. ¡Nos vemos. 
+,1714988888955,0,359ms,7,1714988888974,1714988891204,Gracias,25ms,9,Thank you
+,1714988892277,0,501ms,50,1714988892279,1714988898796,Igualan igualmente gracias. Igualmente para ti? ,127ms,44,They also equal thank you. Equally for you?

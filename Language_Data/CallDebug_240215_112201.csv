@@ -1,0 +1,120 @@
+﻿Reference,SpeechId,Direction,SttLatency,length,beginOfSpeech,endOfSpeech,SttResult,TranslationLatency,length,TranslatedResult,useless,translation comment
+1707975059870
+,1707975058570,1,668ms,5,1707975058580,1707975060445,Hello,362ms,4,Hola
+,1707975067204,0,535ms,4,1707975067211,1707975071890,Hola,165ms,5,Hello
+,1707975068687,1,465ms,36,1707975068709,1707975072966,My name is Sohan and I'm from India.,103ms,33,me llamo sohan y soy de la india.
+,1707975079130,0,503ms,40,1707975079131,1707975083018,Hola me llamaré adny y soy de México. ,138ms,47,Hi I'll call myself adny and I'm from Mexico.
+,1707975089810,1,416ms,21,1707975089812,1707975092366,Hi nice to meet you.,85ms,29,Hola me alegro de conocerte.
+,1707975098528,1,453ms,41,1707975098530,1707975104168,So today's topic is exploring new cities.,105ms,51,Así que el tema de hoy es explorar nuevas ciudades.
+,1707975099168,0,472ms,37,1707975099201,1707975102405,También me da mucho gusto conocerte. ,91ms,32,I'm also very happy to meet you.
+,1707975112646,0,452ms,36,1707975112647,1707975116409,Así es ¿De qué te gustaría hablar? ,115ms,48,That's right what would you like to talk about?
+,1707975121608,1,441ms,37,1707975121609,1707975126571,Let's start with the the restaurants.,77ms,31,Empecemos con los restaurantes.
+,1707975132252,1,484ms,49,1707975132254,1707975137046,Are there any missile star restaurants in Mexico?,118ms,57,¿Hay algún restaurante de estrellas de misiles en México?
+,1707975134006,0,560ms,88,1707975134007,1707975141374,Para los restaurantes hay muchas opciones a cada ciudad que vas siempre hay algo nuevo. ,144ms,90,For restaurants there are many options to every city you go there is always something new.
+,1707975153407,1,437ms,58,1707975153409,1707975159089,I was asking about any missile star restaurants in Mexico.,109ms,79,Estaba preguntando por cualquier restaurante de estrellas de misiles en México.
+,1707975159089,0,456ms,34,1707975159090,1707975162339,Hay muchos tipos de restaurantes. ,90ms,36,There are many types of restaurants.
+,1707975167610,1,368ms,17,1707975167612,1707975170448,Missile in stars.,63ms,19,Misil en estrellas.
+,1707975168091,0,504ms,63,1707975168093,1707975174413,Hay varias varios restaurantes que tienen estrellas en México. ,104ms,56,There are several restaurants that have stars in Mexico.
+,1707975181887,1,518ms,65,1707975181889,1707975189925,Okay so I've heard something about Fonda's or Fonda's water these,146ms,68,Okay entonces he escuchado algo sobre el agua de Fonda o Fonda estos
+,1707975196211,1,437ms,20,1707975196212,1707975200206,Honda's for details.,62ms,24,Honda para más detalles.
+,1707975201168,0,488ms,42,1707975201170,1707975204734,¿Sobre qué restaurante te gustaría saber? ,106ms,46,Which restaurant would you like to know about?
+,1707975210770,1,542ms,119,1707975210771,1707975219647,Are not any specific restaurant? I would like to know something about the kind of food which is very popular in Mexico.,1707975220189ms,114,¿No hay algún restaurante específico? Me gustaría saber algo sobre el tipo de comida que es muy popular en México.
+,1707975227649,0,462ms,52,1707975227650,1707975234127,Una de las comidas más populares en México son las. ,107ms,47,One of the most popular foods in Mexico is the.
+,1707975234605,0,538ms,42,1707975234606,1707975238732,Son las enchiladas para la parte central. ,124ms,44,They're the enchiladas for the central part.
+,1707975245491,1,455ms,27,1707975245494,1707975250808,Water Fonda's are funditas.,97ms,38,Las de la Fonda del Agua son funditas.
+,1707975256612,1,402ms,7,1707975256613,1707975258849,Fonda's,54ms,7,Fonda's
+,1707975260088,0,787ms,170,1707975260090,1707975276087,No conozco la fonda la fonda del agua pero las fondas que hay en mi ciudad de estas muchas tienen comida que se le llama comida ¿Corrida te gustaría saber más de esto? ,351ms,152,I don't know the inn the inn of the water but the inns in my city of these many have food that is called food. Would you like to know more about this?
+,1707975290732,1,348ms,24,1707975290735,1707975296728,What is Sena sena CEN? A,1707975297076ms,24,¿Qué es Sena sena CEN? A
+,1707975301771,1,380ms,6,1707975301773,1707975304695,CEN A.,65ms,6,CEN A.
+,1707975304697,0,443ms,31,1707975304700,1707975308215,Me puedes repetir la pregunta. ,91ms,28,You can repeat the question.
+,1707975315326,1,479ms,70,1707975315327,1707975321727,I have heard the dinner that is served in Mexico is known as cinnamon.,140ms,65,He oído que la cena que se sirve en México se conoce como canela.
+,1707975331369,0,684ms,160,1707975331371,1707975345249,Las cenas que se sirven en México no se les conoce como canela la canela es un una especia que utilizamos para algunas bebidas y algunas comidas como el mole. ,276ms,129,The dinners served in Mexico are not known as cinnamon cinnamon is a spice that we use for some drinks and some foods like mole.
+,1707975357806,1,459ms,39,1707975357809,1707975361886,So what is generally the dinner called?,92ms,46,entonces ¿cómo se llama generalmente la cena?
+,1707975370208,0,511ms,69,1707975370209,1707975380527,Para la cena a este comida que nosotros consumimos durante la noche. ,129ms,57,For dinner to this meal that we consume during the night.
+,1707975380888,0,476ms,47,1707975380888,1707975386107,Nombre de escena pero tiene varios platillos. ,119ms,39,Scene name but it has several cymbals.
+,1707975391689,1,438ms,24,1707975391691,1707975394969,Is it not called Sheena?,79ms,20,¿no se llama sheena?
+,1707975399492,1,409ms,6,1707975399499,1707975402212,CEN A.,53ms,6,CEN A.
+,1707975403171,0,491ms,46,1707975403173,1707975407537,A la tercera comida del día se le llama Sena. ,126ms,42,The third meal of the day is called Seine.
+,1707975408247,0,336ms,2,1707975408248,1707975410136,Sí,20ms,9,Yes I do
+,1707975417727,1,460ms,30,1707975417728,1707975421129,What is a full Mexican comedy?,84ms,38,¿Qué es una comedia mexicana completa?
+,1707975425888,1,344ms,6,1707975425890,1707975427926,Komida,42ms,6,Komida
+,1707975428485,0,697ms,150,1707975428486,1707975445369,Una comida mexicana completa. Incluye la sopa como primer tiempo incluye un una ensalada incluye el plato fuerte y la mayoría de las veces un postre. ,263ms,125,A full Mexican meal. Includes soup as a first time includes a salad including the main course and most of the time a dessert.
+,1707975459810,1,519ms,97,1707975459813,1707975467568,And one more question about food. White chilli peppers are used almost in all the Mexican dishes.,1707975468087ms,98,Y una pregunta más sobre la comida. Los chiles blancos se usan casi en todos los platos mexicanos.
+,1707975475571,1,447ms,27,1707975475572,1707975478566,Why chili peppers are used.,87ms,23,Por qué se usan chiles.
+,1707975477731,0,780ms,183,1707975477732,1707975496057,Los Chiles sí se utilizan en casi todos los platos mexicanos los utilizamos porque le dan un sabor especial a la comida le dan ese sabor que realza los demás sabores del platillo. ,331ms,180,The Chiles are used in almost all Mexican dishes we use them because they give a special flavor to the food they give it that flavor that enhances the other flavors of the dish.
+,1707975510530,1,345ms,4,1707975510541,1707975512470,Nice,45ms,4,Niza
+,1707975517491,1,413ms,70,1707975517493,1707975524348,How is the nightlife in Mexico like till? What time the pubs are open?,1707975524761ms,82,¿Cómo es la vida nocturna en México como hasta? A qué hora están abiertos los pubs
+,1707975521128,0,372ms,31,1707975521129,1707975524094,Me puedes repetir la pregunta. ,23ms,28,You can repeat the question.
+,1707975531966,0,634ms,144,1707975531968,1707975543090,La vida nocturna en México es muy variada hay una gran cantidad de bares diferentes y están abiertos hasta alrededor de las 5:00 de la mañana. ,230ms,125,The nightlife in Mexico is very varied there are a lot of different bars and they are open until around 5:00 in the morning.
+,1707975554286,1,470ms,72,1707975554288,1707975561567,Is there any rule for a stag? Entry are single individuals can also go.,1707975562037ms,88,¿Hay alguna regla para un ciervo? La entrada es única los individuos también pueden ir.
+,1707975569770,1,575ms,88,1707975569772,1707975577925,Like is there any rule for a couple to enter or a single person can also enter the pub.,188ms,96,Como hay alguna regla para que una pareja entre o una sola persona también puede entrar al pub.
+,1707975571207,0,581ms,106,1707975571208,1707975582216,Para la mayoría de los bares o de los para mayor de los bares en México no hay algún arreglo específico. ,184ms,86,For most bars or the parasa mayor of bars in Mexico there is no specific arrangement.
+,1707975592010,0,461ms,40,1707975592013,1707975596090,Una pareja puede entrar junta a un bar. ,86ms,38,A couple can walk into a bar together.
+,1707975602132,1,337ms,4,1707975602134,1707975604047,Okay,42ms,9,está bien
+,1707975607326,1,401ms,73,1707975607327,1707975614901,Apart from tacos tortillas are burrito's. What else can I try in Mexico?,1707975615302ms,83,Aparte de los tacos las tortillas son de burrito. ¿Qué más puedo probar en México?
+,1707975609132,0,613ms,116,1707975609134,1707975618503,Sin embargo hay algunos bares en los que solamente se aceptan mujeres o en la mayoría en algunos solo hay hombres. ,182ms,97,However there are some bars where only women are accepted or in most of them there are only men.
+,1707975629005,0,528ms,67,1707975629006,1707975635648,Aparte de eso puedes comer algo muy típico de México es el mole. ,154ms,77,Apart from that you can eat something very typical of Mexico it's the mole.
+,1707975644046,1,443ms,23,1707975644048,1707975647939,Yeah is it mall pobla?,88ms,25,Sí ¿es un pequeño pobla?
+,1707975653606,1,413ms,10,1707975653607,1707975657248,Mole pobla,71ms,10,Mole pobla
+,1707975654850,0,581ms,79,1707975654851,1707975661570,El mole es un platillo de Puebla y se realiza con pares tipos de ingredientes. ,149ms,75,The mole is a dish from Puebla and is made with pairs types of ingredients.
+,1707975662487,0,449ms,36,1707975662489,1707975665572,¿Le gustaría saber más de ese mole? ,101ms,44,Would you like to know more about that mole?
+,1707975670409,1,404ms,3,1707975670410,1707975672329,Yes,30ms,2,sí
+,1707975676968,0,779ms,183,1707975676971,1707975694251,El mole poblano lleva una gran cantidad de ingredientes como Chiles chocolate chitomate cebolla almendras nueces pasas pimienta y en realidad son 4 tipos de chiles diferentes. ,365ms,176,The mole poblano carries a lot of ingredients like Chiles chocolate chitomate onion almonds nuts raisins pepper and they are actually 4 different types of chili peppers.
+,1707975710566,1,538ms,84,1707975710568,1707975718129,Is this mole pobla available throughout Mexico or in some specific restaurants only.,153ms,96,¿Este mole pobla está disponible en todo México o en algunos restaurantes específicos solamente.
+,1707975722766,1,395ms,11,1707975722767,1707975725049,Unobvitable,36ms,10,inevitable
+,1707975730527,0,636ms,152,1707975730544,1707975742565,Este mole se encuentra disponible casi en todo México pero sobre todo en algunos restaurantes que están más apegados a la comida tradicional mexicana. ,200ms,133,This mole is available almost all over Mexico but especially in some restaurants that are more attached to traditional Mexican food.
+,1707975753487,1,465ms,38,1707975753488,1707975758008,Do you know how to cook mole poplanno?,98ms,34,¿Sabes cómo cocinar mole poplanno?
+,1707975764368,0,931ms,238,1707975764371,1707975781126,Por supuesto para cocinarlo primero tienes que preparar la pasta la pasta del mole y para hacer esta pasta tienes que tener todos los ingredientes alzar los Chiles y tienes que moler todos los ingredientes para poder formar la pasta. ,475ms,241,Of course to cook it you first have to prepare the pasta the pasta of the mole and to make this pasta you have to have all the ingredients to raise the chili peppers and you have to grind all the ingredients to be able to form the pasta.
+,1707975801252,1,453ms,75,1707975801254,1707975807087,People in Mexico generally prefer to eat in restaurants or to cook at home.,128ms,81,La gente en México generalmente prefiere comer en restaurantes o cocinar en casa.
+,1707975816526,0,590ms,139,1707975816527,1707975827567,Una familia típica mexicana prefiere cocinar en casa normalmente vamos a los restaurants los fines de semana o en alguna ocasión especial. ,204ms,122,A typical Mexican family prefers to cook at home usually we go to the restaurants on weekends or on some special occasion.
+,1707975839528,1,363ms,4,1707975839529,1707975841570,Okay,14ms,9,está bien
+,1707975846049,1,429ms,43,1707975846051,1707975850891,Is mayan culture still practiced in Mexico?,108ms,48,¿Se sigue practicando la cultura maya en México?
+,1707975851889,0,456ms,46,1707975851890,1707975855816,¿Te gustaría saber más de alguna otra comida? ,122ms,49,Would you like to know more about any other food?
+,1707975857690,0,357ms,12,1707975857691,1707975860333,Por supuesto,22ms,9,Of course
+,1707975862291,0,590ms,136,1707975862293,1707975876128,Acerca de la cultura Maya. aún hay algunas personas que tienen esta este antecedente cultural y que pueden hablar también esta lengua. ,203ms,124,About the Mayan culture there are still some people who have this cultural background and who can also speak this language.
+,1707975888850,1,565ms,80,1707975888852,1707975898090,And if I like to visit the ancient my unruined is chitchania is the only place.,195ms,80,Y si me gusta visitar lo antiguo mi desatinado es chitchania es el único lugar.
+,1707975901729,1,441ms,21,1707975901731,1707975904529,It is another way to.,66ms,25,Es otra forma de hacerlo.
+,1707975912849,1,464ms,26,1707975912851,1707975915610,Let me repeat my question.,89ms,31,Permítanme repetir mi pregunta.
+,1707975913250,0,504ms,59,1707975913251,1707975919783,Si quieres conocer parte de la cultura Maya tendrías que. ,140ms,65,If you want to know part of the Mayan culture you would have to.
+,1707975926489,1,508ms,61,1707975926490,1707975933769,Chicken Pizza the only place to see the ancient mayan ruins.,147ms,65,Chicken Pizza el único lugar para ver las antiguas ruinas mayas.
+,1707975942011,1,391ms,13,1707975942013,1707975945010,Kitchen Pizza,73ms,16,Pizza de cocina.
+,1707975943887,0,456ms,39,1707975943888,1707975948895,Jennisa es una ciudad Maya legendaria. ,108ms,34,Jennisa is a legendary Mayan city.
+,1707975955171,1,475ms,44,1707975955172,1707975959690,No no the place which is having a Pyramid.,117ms,48,No no el lugar que está teniendo una pirámide.
+,1707975967729,0,601ms,89,1707975967730,1707975976660,La pirámide de Chichén Itzá es una de las más grandes y tiene 91 escalones por ejemplo. ,203ms,80,The pyramid of Chichén Itzá is one of the largest and has 91 steps for example.
+,1707975977010,0,451ms,30,1707975977011,1707975980226,En realidad es un calendario. ,86ms,25,It's actually a calendar.
+,1707975986527,1,499ms,109,1707975986529,1707975995605,Yeah yeah I have that calendar. One of my friends recently visited Mexico and he has brought that calendar.,1707975996104ms,103,Sí sí tengo ese calendario. Uno de mis amigos recientemente visitó México y ha traído ese calendario.
+,1707975997050,1,448ms,32,1707975997051,1707975999607,On the weekend he won this year.,76ms,31,El fin de semana ganó este año.
+,1707976008648,0,606ms,85,1707976008648,1707976017094,Así es chicheniza fue construido para poder adorar y rendir culto al Dios cuculan. ,189ms,86,That's right Chicheniza was built to be able to worship and worship the god cuculan.
+,1707976026891,1,583ms,55,1707976026896,1707976031928,Have you ever been to the deep Canyon shops chihuahuva?,236ms,70,¿Alguna vez has estado en las tiendas de la profunda Cañón chihuahuva?
+,1707976039453,1,428ms,22,1707976039456,1707976043532,Deep canyons of chiva.,80ms,27,Profundos cañones de chiva.
+,1707976041207,0,393ms,31,1707976041208,1707976044298,Me puedes repetir la pregunta. ,25ms,28,You can repeat the question.
+,1707976048450,1,484ms,48,1707976048453,1707976054246,Have you ever been to the deep canyons of chiva?,117ms,57,¿Has estado alguna vez en los profundos cañones de chiva?
+,1707976056450,1,346ms,5,1707976056451,1707976058172,Ravid,57ms,5,Ravid
+,1707976063367,0,548ms,70,1707976063368,1707976071893,Los cañones de Chihuahua no en español de Chihuahua aún no ha estado. ,190ms,67,The Chihuahua Canyons not in Spanish of Chihuahua has not yet been.
+,1707976083806,1,528ms,53,1707976083808,1707976089927,Is the city of Brownsville part of the USA or Mexico?,149ms,58,¿Es la ciudad de Brownsville parte de los EE.UU. o México?
+,1707976100888,0,399ms,31,1707976100889,1707976103965,Me puedes repetir la pregunta. ,19ms,28,You can repeat the question.
+,1707976111529,1,409ms,35,1707976111545,1707976115008,There is a city called Brownsville.,85ms,35,hay una ciudad llamada brownsville.
+,1707976115647,1,478ms,29,1707976115649,1707976119651,Is it part of USA our Mexico?,98ms,35,¿Es parte de EE.UU. nuestro México?
+,1707976128326,0,526ms,54,1707976128332,1707976132735,¿Dónde se encuentra esta ciudad ¿En qué estado está? ,108ms,40,Where is this city what state is it in?
+,1707976137488,1,379ms,18,1707976137491,1707976140050,Even I don't know.,71ms,21,Ni siquiera yo lo sé.
+,1707976143766,1,472ms,25,1707976143768,1707976147050,Okay what about to loom?,94ms,27,Bien ¿qué hay de avecinar?
+,1707976151332,1,474ms,32,1707976151333,1707976155568,How far is to loom from chitnia?,99ms,33,Qué tan lejos está de la chitnia?
+,1707976156046,0,420ms,10,1707976156052,1707976158385,Ave cenar.,70ms,16,Hail for dinner.
+,1707976162846,1,364ms,5,1707976162847,1707976164884,Tulom,42ms,5,Tulom
+,1707976166007,0,513ms,41,1707976166010,1707976169688,¿Sobre qué estado te gustaría saber más? ,119ms,45,What state would you like to know more about?
+,1707976176252,1,451ms,46,1707976176254,1707976180530,Have you ever been to the tulum National Park?,113ms,86,¿Alguna vez has estado en la a? ¿Alguna vez has estado en el Parque Nacional de Tulum?
+,1707976187052,0,557ms,63,1707976187054,1707976192529,Sí por supuesto he visitado ese parque nacional es hermosa. ,140ms,63,Yeah of course I've visited that national park is beautiful.
+,1707976201448,1,462ms,39,1707976201450,1707976205327,Is it present in the yukatan peninsula?,104ms,42,¿Está presente en la península de Yukatan?
+,1707976212692,0,578ms,113,1707976212695,1707976222448,Es correcto esto se encuentra en el municipio de tulum en el estado de Quintana Roo en la Península de Yucatán. ,207ms,105,That's right this is in the municipality of tulum in the state of Quintana Roo on the Yucatan Peninsula.
+,1707976232609,1,441ms,37,1707976232610,1707976236485,How far is to lump from kitchen is A?,129ms,42,¿Qué tan lejos está el bulto de la cocina?
+,1707976242170,1,448ms,37,1707976242172,1707976247173,How far is to loom from kitchen isam?,119ms,45,¿Qué tan lejos está la luz de la cocina isam?
+,1707976246851,0,375ms,31,1707976246853,1707976249969,Me puedes repetir la pregunta. ,26ms,28,You can repeat the question.
+,1707976256451,1,471ms,69,1707976256454,1707976261369,The translation is creating problems. It is not translating properly.,1707976261840ms,75,La traducción está creando problemas. No se está traduciendo correctamente.
+,1707976267453,1,488ms,36,1707976267455,1707976272414,How far is tulam from kitchen issue?,138ms,54,¿Qué tan lejos está Tulam de la cuestión de la cocina?
+,1707976269488,0,499ms,56,1707976269489,1707976274102,Me gustaría saber más acerca del parque nacional de tu. ,121ms,47,I'd like to know more about your national park.
+,1707976279888,1,431ms,56,1707976279889,1707976284657,I think we are done for the day. It's almost 20 minutes.,1707976285088ms,58,Creo que hemos terminado para el día. Son casi 20 minutos.
+,1707976283891,0,453ms,20,1707976283893,1707976287223,Tulom se encuentra. ,88ms,15,Tulom is there.
+,1707976291572,1,436ms,83,1707976291573,1707976297453,Okay thank you for all the information. It was really really nice talking to you.,1707976297889ms,77,vale gracias por toda la informacion. Fue muy muy agradable hablar contigo.
+,1707976292169,0,526ms,49,1707976292171,1707976297170,Entiendo gracias. espero hablar contigo pronto. ,144ms,51,I understand thank you I hope to talk to you soon.
+,1707976303096,1,264ms,9,1707976303099,1707976304965,Take care,9ms,7,Cuídate
+,1707976304365,0,486ms,58,1707976304366,1707976310130,Igualmente espero que podamos hablar pronto hasta luego. ,123ms,53,I also hope that we will be able to talk until later.

@@ -1,0 +1,3 @@
+﻿Reference,SpeechId,Direction,SttLatency,length,beginOfSpeech,endOfSpeech,SttResult,TranslationLatency,length,TranslatedResult,useless,translation comment
+1709301665764
+,1709301664110,1,707ms,5,1709301664119,1709301666171,Hello,424ms,4,Olá!

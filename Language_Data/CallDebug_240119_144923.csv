@@ -1,0 +1,5 @@
+﻿Reference,SpeechId,Direction,SttLatency,length,beginOfSpeech,endOfSpeech,SttResult,TranslationLatency,length,TranslatedResult,useless,translation comment
+1705655926944
+,1705655923800,1,428ms,10,1705655923804,1705655925851,Zee zaroor,55ms,10,ज़ी ज़ारूर
+,1705655933675,1,352ms,7,1705655933678,1705655935796,जी ज़रूर,68ms,13,G of course
+,1705655940394,1,517ms,7,1705655940396,1705655942655,जी ज़रूर,9ms,13,G of course

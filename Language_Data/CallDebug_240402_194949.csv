@@ -1,0 +1,126 @@
+﻿Reference,SpeechId,Direction,SttLatency,length,beginOfSpeech,endOfSpeech,SttResult,TranslationLatency,length,TranslatedResult,useless,translation comment
+1712066408598
+,1712066407051,1,799ms,5,1712066407069,1712066409041,Hello,443ms,4,Hola
+,1712066415884,1,495ms,60,1712066415891,1712066421123,Hi my name is Partha and I'm calling from Bangalore India.,160ms,62,hola me llamo partha y estoy llamando desde bangalore india.
+,1712066428086,1,401ms,12,1712066428088,1712066430202,How are you?,19ms,12,¿Cómo estás?
+,1712066429762,0,648ms,26,1712066429767,1712066432166,El club es muy diferente. ,249ms,27,The club is very different.
+,1712066434243,0,433ms,19,1712066434245,1712066436618,Muy bien gracias. ,71ms,21,All right thank you.
+,1712066441721,1,381ms,18,1712066441722,1712066444083,What is your name?,57ms,21,¿cómo se llama usted?
+,1712066448924,0,432ms,24,1712066448930,1712066452047,Mi nombre es Esmeralda. ,67ms,19,My name is Emerald.
+,1712066457047,1,425ms,42,1712066457048,1712066460683,May I know what is the time now in Mexico?,96ms,48,¿Puedo saber cuál es el momento ahora en México?
+,1712066466564,0,469ms,30,1712066466566,1712066469499,Cierra las 8:00 de la mañana. ,86ms,33,It closes at 8:00 in the morning.
+,1712066474723,1,382ms,4,1712066474724,1712066476683,Okay,41ms,9,Está bien
+,1712066479366,1,485ms,64,1712066479368,1712066485004,You must be aware that today's topic is festivals and functions.,130ms,80,Debes estar consciente de que el tema de hoy son los festivales y las funciones.
+,1712066493206,0,390ms,10,1712066493209,1712066495363,Uh gracias,60ms,13,Uh thank you.
+,1712066502686,1,496ms,54,1712066502688,1712066508322,May I know what are the 3 festivals of mosqui Mexico?,125ms,59,¿Puedo saber cuáles son los 3 festivales de mosqui México?
+,1712066516807,0,474ms,21,1712066516809,1712066519563,El video de muertos. ,61ms,22,The video of the dead.
+,1712066525687,0,417ms,22,1712066525689,1712066529321,Navidad y oh Newell. ,71ms,25,Christmas and oh Newell.
+,1712066538887,1,401ms,70,1712066538889,1712066545371,And what about the biggest? Are the most celebrated holiday in Mexico?,1712066545772ms,73,¿Y qué hay de los más grandes? ¿Son las fiestas más celebradas en México?
+,1712066555363,0,482ms,50,1712066555364,1712066558880,Además repartió el mes de lograr el otro estrés. ,117ms,67,In addition he divided up the month of achieving the other stress.
+,1712066565641,1,416ms,80,1712066565642,1712066573284,I meant to ask apart from festivals. What other holiday is celebrated in Mexico?,1712066573700ms,84,Quería preguntar aparte de los festivales. Qué otro día festivo se celebra en México
+,1712066579564,0,437ms,29,1712066579565,1712066584406,Ya de las madres villaverde. ,78ms,36,Already from the Villaverde mothers.
+,1712066586767,0,412ms,21,1712066586768,1712066589458,Julia del amor y la. ,66ms,22,Julia of love and the.
+,1712066589845,0,471ms,28,1712066589846,1712066592854,Día del amor en la amistad. ,88ms,26,Day of love in friendship.
+,1712066594246,0,437ms,19,1712066594247,1712066597086,Ya ven el trabajo. ,70ms,17,You see the work.
+,1712066599082,0,470ms,31,1712066599084,1712066602769,Enviar la revolución mexicana. ,68ms,28,Send the Mexican Revolution.
+,1712066603204,0,491ms,35,1712066603205,1712066606969,Día de la Independencia de México. ,92ms,26,Mexico's Independence Day.
+,1712066614567,1,432ms,66,1712066614569,1712066621282,This Mexican Independence Day. Is it celebrated on September 16th?,1712066621714ms,72,Este día de la independencia de México. ¿Se celebra el 16 de septiembre?
+,1712066638763,1,454ms,54,1712066638765,1712066643721,Is this Independence Day celebrated on September 16th?,107ms,61,¿Se celebra este Día de la Independencia el 16 de septiembre?
+,1712066650525,0,475ms,24,1712066650527,1712066653327,Sí se celebra ese día. ,107ms,33,Yes it's celebrated on that day.
+,1712066661321,1,420ms,46,1712066661322,1712066665445,Can you tell me something about Cinco de Mayo?,93ms,89,¿Puedes contarme algo sobre la sincronización? ¿Puedes contarme algo sobre Cinco de Mayo?
+,1712066672683,0,591ms,112,1712066672685,1712066682443,Cada vez se celebra la Batalla de Puebla envía que los franceses invadieron a México y México ganó la batalla. ,176ms,113,Every time the Battle of Puebla is celebrated it sends that the French invaded Mexico and Mexico won the battle.
+,1712066693242,1,413ms,35,1712066693244,1712066697603,And on which date is it celebrated?,79ms,27,¿Y en qué fecha se celebra?
+,1712066704481,0,475ms,30,1712066704482,1712066709361,5 de mayo el año no recuerda. ,83ms,35,May 5th the year does not remember.
+,1712066714005,1,416ms,40,1712066714006,1712066718566,So every year on May 5th you celebrate.,106ms,42,Así que cada año el 5 de mayo se celebra.
+,1712066726803,0,393ms,8,1712066726805,1712066728721,Quién es,52ms,10,Who is it?
+,1712066733322,1,414ms,74,1712066733323,1712066742403,I meant to say you celebrate cinto sync. The immayo on everything May 5th.,1712066742817ms,76,Quería decir que celebras la sincronización. El inmayo en todo el 5 de mayo.
+,1712066747045,1,490ms,65,1712066747046,1712066753643,I mean to say you celebrate Cinco de Mayo on every year May 5th.,141ms,80,Quiero decir que ustedes celebran el Cinco de Mayo todos los años el 5 de mayo.
+,1712066750123,0,395ms,13,1712066750126,1712066752574,1/5 de mayo. ,62ms,8,1/5 May.
+,1712066761402,0,458ms,20,1712066761404,1712066764926,Sí gracias a Dios. ,74ms,15,Yes thank God.
+,1712066773165,1,567ms,107,1712066773167,1712066782603,Out of all the cities of Mexico which city is considered as the ultimate place to witness day of the dead?,186ms,119,De todas las ciudades de México ¿qué ciudad es considerada como el último lugar para presenciar el día de los muertos?
+,1712066798362,0,590ms,109,1712066798364,1712066806724,En todos los lugares de negra todas habilidades tienen lo mismo. Cada México celebra el Día de los Muertos. ,163ms,97,Everywhere in black all skills have the same thing. Every Mexico celebrates the Day of the Dead.
+,1712066815246,1,477ms,59,1712066815248,1712066821166,But any particular place which is famous for this festival?,115ms,65,Pero ¿algún lugar en particular que sea famoso por este festival?
+,1712066829925,1,375ms,6,1712066829933,1712066832081,Wahaka,45ms,6,Wahaka
+,1712066831208,0,409ms,10,1712066831209,1712066833604,Nicho Cano,71ms,11,Nicho Cano.
+,1712066837370,0,487ms,20,1712066837371,1712066840685,Un chocol y Oaxaca. ,72ms,23,A chocolate and Oaxaca.
+,1712066850041,1,610ms,66,1712066850042,1712066856163,Does cities like Khan Kun orthullum celebrate the day of the dead.,229ms,64,¿Citunas como Khan Kun orthullum celebran el día de los muertos?
+,1712066862603,1,428ms,15,1712066862605,1712066866359,Khan Kun tulum.,76ms,15,Khan Kun tulum.
+,1712066865923,0,470ms,18,1712066865924,1712066868818,Eh repetir todo. ,124ms,23,Hey repeat everything.
+,1712066873564,1,411ms,46,1712066873566,1712066877897,Yeah the translation is getting things wrong.,94ms,46,Sí la traducción está haciendo las cosas mal.
+,1712066874403,0,488ms,51,1712066874404,1712066881497,Chile celebra pero es malo como evento turístico. ,121ms,50,Chile celebrates but it's bad as a tourism event.
+,1712066887806,1,404ms,8,1712066887808,1712066889920,Khan Kun,59ms,21,Cuándo nació Khan Kun
+,1712066894207,1,367ms,5,1712066894209,1712066896045,Tulum,40ms,5,Tulum
+,1712066897730,0,542ms,87,1712066897730,1712066907886,Hace que Gmail nació hace como 30 años quien empezó a hacer puerta abierto al turismo. ,165ms,94,It's been that Gmail was born about 30 years ago who started to make the door open to tourism.
+,1712066921087,1,490ms,65,1712066921088,1712066927525,I forget to ask you. May I know which city in Mexico you live in?,1712066928015ms,63,Olvidé preguntarte. ¿Puedo saber en qué ciudad de México vives?
+,1712066934203,0,397ms,11,1712066934205,1712066936440,En Veracruz,60ms,9,Veracruz.
+,1712066942122,1,437ms,31,1712066942124,1712066945724,Is it is? Is it a seaside city?,1712066946161ms,31,¿Lo es? ¿Es una ciudad costera?
+,1712066958164,1,416ms,35,1712066958166,1712066961725,Is your city a tourist destination?,87ms,35,¿Es su ciudad un destino turístico?
+,1712066969005,0,427ms,28,1712066969006,1712066972362,Vi un menor grado pero sí. ,92ms,32,I saw a lower degree but I did.
+,1712066979604,1,434ms,35,1712066979607,1712066983204,How do you celebrate the festivals?,73ms,33,¿Cómo se celebran los festivales?
+,1712066985923,1,402ms,70,1712066985924,1712066992134,Will you drink and hang out with your friends? Do you party all night?,1712066992536ms,74,¿Beberás y pasarás el rato con tus amigos? ¿Te haces fiesta toda la noche?
+,1712066989603,0,433ms,20,1712066989604,1712066992370,¿Abundan la comida? ,82ms,24,Are there a lot of food?
+,1712066999165,0,510ms,77,1712066999168,1712067006249,Ya se piensa toda la noche. Hay comida y bebida ocultan familiares y amigos. ,140ms,85,You think about it all night. There is food and drink hidden from family and friends.
+,1712067016845,1,375ms,17,1712067016847,1712067019282,Why it is hidden.,55ms,20,Por qué está oculto.
+,1712067027161,0,442ms,24,1712067027163,1712067030045,Es repetir lo entendí. ,80ms,26,It's repeat I understood.
+,1712067039324,1,499ms,77,1712067039325,1712067044484,You said something like food and drink is hidden from the family and friends.,136ms,72,Dijiste que algo como comida y bebida está oculto a la familia y amigos.
+,1712067047002,1,470ms,41,1712067047003,1712067050486,That's why I was asking why it is hidden.,96ms,42,Por eso me preguntaba por qué está oculto.
+,1712067067444,1,479ms,56,1712067067446,1712067072241,Maybe because of some translation error I got you wrong.,109ms,51,Tal vez por algún error de traducción te equivoqué.
+,1712067070885,0,419ms,13,1712067070896,1712067073329,Puedo repetir,54ms,12,I can repeat
+,1712067083162,1,456ms,50,1712067083163,1712067087362,How do you celebrate the day of the dead festival?,103ms,52,¿Cómo se celebra el festival del día de los muertos?
+,1712067096285,1,490ms,56,1712067096287,1712067102528,Do you wear those colourful costumes and masks of skull?,132ms,51,¿Usas esos coloridos trajes y máscaras de calavera?
+,1712067096403,0,579ms,93,1712067096404,1712067106844,Se pueden golpear fotos del distinto la comida favorita de las personas que ya fallecieron. ,150ms,85,You can hit pictures of the different favorite food of people who have already died.
+,1712067115362,0,726ms,149,1712067115364,1712067129566,Los trajes y máscaras que se le dice más en la conmodente cultural monas también en las escuelas se gritó en su escuela y en algunas instituciones. ,286ms,150,The costumes and masks that are told more in the monastic cultural conmodent also in the schools were shouted in his school and in some institutions.
+,1712067129805,0,467ms,30,1712067129807,1712067133972,Es como un evento de cultura. ,83ms,26,It's like a culture event.
+,1712067148004,1,410ms,14,1712067148006,1712067150284,Like a parade.,56ms,16,Como un desfile.
+,1712067151522,1,381ms,8,1712067151523,1712067153521,Isn't it,64ms,11,¿No es así?
+,1712067154526,0,333ms,2,1712067154528,1712067156323,Sí,14ms,9,Yes I do
+,1712067157164,0,440ms,11,1712067157166,1712067159294,Ciencias 10,72ms,11,Sciences 10
+,1712067162322,1,413ms,42,1712067162323,1712067166160,Have you ever participated in this parade?,86ms,44,¿Alguna vez has participado en este desfile?
+,1712067172123,0,468ms,29,1712067172125,1712067175562,Fui cuando iba a la escuela. ,66ms,17,I went to school.
+,1712067185562,1,417ms,21,1712067185563,1712067188364,Do you drink tequila?,73ms,15,¿Bebes tequila?
+,1712067194363,0,413ms,20,1712067194364,1712067197005,Muchas de escuelas. ,61ms,20,Many of the schools.
+,1712067197761,0,356ms,7,1712067197762,1712067200008,No todo,57ms,15,Not everything.
+,1712067205526,1,498ms,63,1712067205527,1712067210440,I've heard tequila is known as the traditional drink of Mexico.,133ms,72,He oído que el tequila es conocido como la bebida tradicional de México.
+,1712067218967,0,477ms,12,1712067218968,1712067221405,Sí así es. ,67ms,19,Yeah that's right.
+,1712067226482,1,439ms,44,1712067226484,1712067230725,Do you buy and keep tequila bottles at home?,116ms,47,¿Compras y guardas botellas de tequila en casa?
+,1712067236365,0,480ms,22,1712067236366,1712067241001,No no tenía alcohol. ,86ms,26,No I didn't have alcohol.
+,1712067247243,1,526ms,76,1712067247245,1712067253240,Apart from tequila what else can be called the traditional drink of Mexico?,154ms,77,Aparte del tequila ¿qué más se puede llamar la bebida tradicional de México?
+,1712067261847,0,368ms,7,1712067261849,1712067264041,Después,31ms,5,After
+,1712067269923,0,544ms,44,1712067269925,1712067275082,El mezcal y la gente toma mucho la cerveza. ,103ms,38,Mezcal and people drink a lot of beer.
+,1712067287245,1,543ms,92,1712067287246,1712067293643,In the last 2 years I drank a lot of beer and unfortunately I have Put on a lot of weight.,168ms,85,En los últimos 2 años bebí mucha cerveza y desafortunadamente he puesto mucho peso.
+,1712067305965,0,457ms,20,1712067305966,1712067308803,La celeja es gorda. ,71ms,17,The Celja is fat.
+,1712067317248,1,454ms,66,1712067317249,1712067323641,I'll say a few things about a beverage. Can you tell me it's name?,1712067324095ms,66,Diré algunas cosas sobre una bebida. ¿puedes decirme que se llama?
+,1712067328721,1,572ms,95,1712067328723,1712067336401,It is made by blending white rice and cinnamon sticks in water and letting them soak overnight.,180ms,95,Se hace mezclando arroz blanco y palos de canela en agua y dejándolos remojar durante la noche.
+,1712067330606,0,442ms,2,1712067330606,1712067333442,Ok,54ms,3,OK.
+,1712067352007,0,494ms,33,1712067352009,1712067357523,Agua de arroz o manjar manjaro. ,99ms,33,Rice water or delicacy delicacy.
+,1712067359047,0,435ms,19,1712067359049,1712067361577,Guatones de arroz. ,70ms,13,Rice shrimps.
+,1712067364563,1,431ms,27,1712067364566,1712067367962,Something called oho chata.,74ms,23,algo llamado oho chata.
+,1712067372923,0,448ms,37,1712067372929,1712067377606,Sí avanzan agua por chapa de arroz. ,103ms,39,Yes they advance water by rice veneer.
+,1712067373363,1,330ms,7,1712067373384,1712067375285,Archata,46ms,7,Archata
+,1712067382767,1,428ms,21,1712067382769,1712067385203,Can you say the name?,73ms,24,¿puedes decir el nombre?
+,1712067387802,1,402ms,39,1712067387804,1712067391162,I am not able to pronounce it properly.,75ms,36,No puedo pronunciarlo correctamente.
+,1712067389847,0,519ms,37,1712067389848,1712067394056,80 de arroz agua bechata de arroz. ,120ms,32,80 of rice water rice bechata.
+,1712067402285,1,319ms,4,1712067402286,1712067404122,Okay,15ms,9,Está bien
+,1712067403523,0,456ms,17,1712067403523,1712067405971,Agua de objetos. ,75ms,17,Water of objects.
+,1712067409802,1,389ms,11,1712067409805,1712067414123,HOR CHA TA.,57ms,11,HOR CHA TA.
+,1712067422761,1,502ms,38,1712067422763,1712067426927,Have you ever been to Tapus and Lucas?,102ms,40,¿Has estado alguna vez en Tapus y Lucas?
+,1712067432002,1,405ms,16,1712067432004,1712067435682,Cabo sand Lucas.,55ms,13,Cabo y Lucas.
+,1712067435083,0,391ms,14,1712067435084,1712067437366,Puedes repetir,26ms,10,Come again
+,1712067441402,0,411ms,19,1712067441404,1712067444063,No usan Lucas no? ,83ms,30,They don't use Lucas do they?
+,1712067445082,0,459ms,17,1712067445083,1712067447362,No hemos estado. ,91ms,16,We haven't been.
+,1712067454366,1,525ms,74,1712067454367,1712067461247,This is the place where the big cabofeist is organised every year I think.,141ms,68,Este es el lugar donde se organiza el gran cabofeist cada año creo.
+,1712067467285,1,393ms,13,1712067467286,1712067470207,Big caboofest,60ms,24,Gran festival de la ruta
+,1712067479764,0,428ms,22,1712067479766,1712067482762,Ligeramente desconozco,106ms,21,I'm slightly unaware.
+,1712067486165,1,452ms,95,1712067486167,1712067494803,Actually I'm not only pronounce the name properly. It's a very famous tourist place in Mexico.,1712067495255ms,108,En realidad no sólo estoy pronunciando el nombre correctamente. Es un lugar turístico muy famoso en México.
+,1712067501482,1,397ms,11,1712067501484,1712067505365,Taboo Lucas,51ms,10,Tabú Lucas
+,1712067508845,1,401ms,6,1712067508848,1712067511530,CAB o.,54ms,6,CAB o.
+,1712067511682,0,523ms,38,1712067511683,1712067517726,Los cabos dentro de los caos ok no? ,123ms,38,The capes inside the chaos ok right?
+,1712067526044,1,333ms,5,1712067526045,1712067528081,Taboo,41ms,4,Tabú
+,1712067528880,1,431ms,16,1712067528881,1712067533600,Caboo San Lucas.,67ms,15,Cabo san lucas.
+,1712067540046,1,440ms,39,1712067540049,1712067543964,Yes have you ever been to this island?,109ms,40,Sí ¿alguna vez has estado en esta isla?
+,1712067550005,0,453ms,25,1712067550006,1712067552963,No nunca he estado ahí. ,103ms,26,No I've never been there.
+,1712067558563,1,427ms,62,1712067558566,1712067565405,Okay it was really nice talking to you. Today's time is over.,1712067565832ms,75,Está bien fue muy agradable hablar con usted. La hora de hoy ha terminado.
+,1712067569882,1,457ms,46,1712067569883,1712067573682,Thank you for sharing your 20 minutes with me.,94ms,45,Gracias por compartir tus 20 minutos conmigo.
+,1712067573283,0,422ms,7,1712067573284,1712067575365,Gracias,23ms,9,Thank you
+,1712067577844,1,429ms,34,1712067577846,1712067581521,Take care have a good day bye bye.,101ms,42,Ten cuidado de tener un buen día de adiós.
+,1712067580283,0,371ms,7,1712067580284,1712067582130,Gracias,20ms,9,Thank you

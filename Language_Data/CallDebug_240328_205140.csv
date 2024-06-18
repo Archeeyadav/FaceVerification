@@ -1,0 +1,121 @@
+﻿Reference,SpeechId,Direction,SttLatency,length,beginOfSpeech,endOfSpeech,SttResult,TranslationLatency,length,TranslatedResult,useless,translation comment
+1711638133643
+,1711638132081,1,745ms,5,1711638132097,1711638133992,Hello,417ms,4,Hola
+,1711638137433,1,498ms,53,1711638137439,1711638142124,Hello my name is Partha and I am calling from India.,137ms,58,hola mi nombre es partha y estoy llamando desde la india.
+,1711638143999,0,634ms,4,1711638144000,1711638147878,Hola,250ms,5,Hello
+,1711638154835,1,413ms,18,1711638154842,1711638157151,What is your name?,59ms,21,¿cómo se llama usted?
+,1711638162630,0,470ms,24,1711638162632,1711638165674,Hola me llamo cristal. ,79ms,26,Hello my name is Cristal.
+,1711638169878,1,439ms,25,1711638169879,1711638172834,Hi crystal how are you?,78ms,27,Hola cristal ¿cómo estás?
+,1711638179355,0,379ms,9,1711638179357,1711638181924,Bien hito,46ms,15,Well milestone.
+,1711638188195,1,403ms,20,1711638188196,1711638191077,Menu where you stay.,77ms,23,Menú donde te hospedas.
+,1711638192391,1,415ms,11,1711638192392,1711638194633,May I know?,60ms,15,¿puedo saberlo?
+,1711638199871,0,459ms,48,1711638199872,1711638205035,Sí en Jack zombinoel Carolina Estados Unidos. ,98ms,45,Yes in Zombino Jack Carolina United States.
+,1711638213594,1,511ms,55,1711638213596,1711638217753,From how many years you've been staying in Jacksonville,97ms,54,De cuántos años te has estado quedando en Jacksonville
+,1711638226197,0,519ms,63,1711638226199,1711638234590,El Jackson vive casi un año en Estados Unidos como tal 7 años. ,127ms,77,The Jackson lives almost a year in the United States as such for seven years.
+,1711638241594,1,445ms,43,1711638241595,1711638245671,Before Jackson will where you used to stay.,79ms,39,Antes de Jackson donde solías quedarte.
+,1711638253718,0,324ms,8,1711638253720,1711638255990,Illinois,29ms,8,Illinois
+,1711638260397,1,382ms,4,1711638260399,1711638262275,Okay,41ms,9,Está bien
+,1711638265036,1,430ms,40,1711638265037,1711638270313,May I know what line of work you are in?,100ms,51,¿Puedo saber en qué línea de trabajo te encuentras?
+,1711638281031,0,504ms,42,1711638281032,1711638285514,Actualmente soy estudiante Universitario. ,70ms,32,I'm currently a college student.
+,1711638296712,1,446ms,53,1711638296713,1711638301994,Which branch or which line of education are you into?,111ms,55,¿En qué rama o en qué línea de educación te encuentras?
+,1711638310793,0,505ms,60,1711638310795,1711638316245,Justicia criminal con concentración e crímenes cibenéticos. ,100ms,51,Criminal justice with concentration of cybercrimes.
+,1711638322073,1,424ms,39,1711638322074,1711638325996,It sounds interesting as well as scary.,69ms,30,Suena interesante y aterrador.
+,1711638338477,1,486ms,62,1711638338478,1711638343912,So today's topic of discussion will be social media influence.,118ms,78,Así que el tema de discusión de hoy será la influencia de los medios sociales.
+,1711638347393,1,386ms,21,1711638347395,1711638349992,Are you okay with it?,65ms,20,¿Estás bien con eso?
+,1711638355434,0,369ms,2,1711638355435,1711638357633,Sí,19ms,9,Yes I do
+,1711638363274,1,437ms,33,1711638363275,1711638367354,Menu which smartphone do you use?,75ms,26,Menú ¿qué smartphone usas?
+,1711638378713,1,421ms,39,1711638378713,1711638384074,May I know which smartphone do you use?,75ms,33,¿Puedo saber qué smartphone usas?
+,1711638382791,0,525ms,41,1711638382792,1711638386329,Disculpa me parece repetir la pregunta. ,127ms,41,Excuse me I seem to repeat the question.
+,1711638395635,1,426ms,28,1711638395637,1711638399912,Which smartphone do you use?,67ms,21,¿Qué smartphone usas?
+,1711638406430,0,415ms,28,1711638406431,1711638409207,No se entiende su pregunta. ,66ms,32,Your question is not understood.
+,1711638414996,1,395ms,23,1711638414997,1711638418710,Which phone do you use?,65ms,19,¿Qué teléfono usas?
+,1711638423959,0,448ms,9,1711638423960,1711638426237,Un iPhone,41ms,9,An iPhone
+,1711638430634,1,354ms,4,1711638430635,1711638432474,Okay,28ms,9,Está bien
+,1711638433118,1,394ms,23,1711638433119,1711638435915,May I know which model?,65ms,24,¿Puedo saber qué modelo?
+,1711638443432,0,406ms,18,1711638443433,1711638446526,Hay con 3 templo. ,59ms,22,There's three temples.
+,1711638452917,1,420ms,21,1711638452920,1711638455515,Are you on Instagram?,57ms,20,¿Estás en Instagram?
+,1711638463792,0,410ms,17,1711638463794,1711638466273,Ahora mismo no? ,69ms,17,Right now right?
+,1711638472515,1,462ms,42,1711638472517,1711638477351,How do you pass your time on social media?,94ms,44,¿Cómo pasas tu tiempo en las redes sociales?
+,1711638481031,1,391ms,65,1711638481032,1711638486714,Do you like to watch rails? Would you like to upload your photos?,1711638487105ms,51,¿Te gusta ver rieles? ¿Te gustaría subir tus fotos?
+,1711638489391,0,407ms,10,1711638489393,1711638491354,Me pareció,45ms,9,I thought
+,1711638489592,1,440ms,40,1711638489593,1711638493875,Do you like to watch reels on Instagram?,92ms,36,¿Te gusta ver carretes en Instagram?
+,1711638500794,0,451ms,19,1711638500797,1711638503991,Me usaré el video. ,81ms,19,I'll use the video.
+,1711638511752,1,450ms,44,1711638511754,1711638515989,How many followers do you have on Instagram?,77ms,40,¿Cuántos seguidores tienes en Instagram?
+,1711638523995,0,495ms,59,1711638523997,1711638530128,300 PFF. ¿Trecientos diablos para hacer el más específica? ,143ms,56,300 PFF. Three hundred devils to make the most specific?
+,1711638540121,1,380ms,53,1711638540122,1711638545952,Do you follow any celebrity? Are actors on Instagram?,1711638546332ms,61,¿Sigues a alguna celebridad? ¿Los actores están en Instagram?
+,1711638550434,1,473ms,51,1711638550435,1711638555992,Do you follow any celebrity or actors on Instagram?,106ms,49,¿Sigues a alguna celebridad o actor en Instagram?
+,1711638562434,0,303ms,2,1711638562436,1711638564324,Sí,14ms,9,Yes I do
+,1711638568358,1,429ms,27,1711638568359,1711638572073,Do you follow Taylor Swift?,73ms,23,¿Sigues a Taylor Swift?
+,1711638578157,0,383ms,2,1711638578158,1711638580035,No,34ms,3,No.
+,1711638583154,1,367ms,13,1711638583155,1711638585633,Penélope Cruz,74ms,29,Cuándo se llama Penélope Cruz
+,1711638593877,0,353ms,2,1711638593878,1711638595753,No,7ms,3,No.
+,1711638599754,1,401ms,45,1711638599755,1711638603913,Can you tell me which celebrities you follow?,77ms,40,¿Puedes decirme qué celebridades sigues?
+,1711638609753,0,406ms,11,1711638609754,1711638612390,Jenny lover,64ms,11,Jenny Lover
+,1711638618919,1,471ms,35,1711638618921,1711638622678,Actually I've never heard her name.,84ms,36,En realidad nunca he oído su nombre.
+,1711638628837,1,405ms,10,1711638628838,1711638631397,YC famous.,55ms,10,YC famoso.
+,1711638629471,0,463ms,37,1711638629484,1711638635513,Es martista ¿Puertorriqueña es alta? ,119ms,40,Is it a Martist? Is Puerto Rican a Tall?
+,1711638633557,1,420ms,18,1711638633565,1711638636714,Why is she famous?,72ms,19,¿Por qué es famosa?
+,1711638636273,0,455ms,37,1711638636273,1711638641196,Jennifer Lopez es cantante de padre. ,88ms,36,Jennifer Lopez is a father's singer.
+,1711638647354,1,471ms,30,1711638647356,1711638651245,Oh you follow Jennifer Lopez.,86ms,28,Oh sigues a Jennifer Lopez.
+,1711638648153,0,505ms,47,1711638648179,1711638654276,Jennifer López cantante actriz y empresaria. ,105ms,50,Jennifer Lopez singer actress and businesswoman.
+,1711638655195,1,408ms,48,1711638655197,1711638660475,She was the actor in anaconda movie. Am I right?,1711638660883ms,63,Fue la actriz en una película de anaconda. ¿Estoy en lo cierto?
+,1711638666675,0,377ms,2,1711638666677,1711638668712,Sí,12ms,9,Yes I do
+,1711638677630,1,410ms,45,1711638677632,1711638682192,Do you upload your happy photos on Instagram?,84ms,38,¿Subis tus fotos felices en Instagram?
+,1711638688872,0,457ms,1,1711638688874,1711638690713,C,88ms,9,C. ." . .
+,1711638703111,1,442ms,53,1711638703112,1711638708953,Have you Uploaded set your shard photos on Instagram?,104ms,49,¿Has subido tus fotos de fragmentos en Instagram?
+,1711638713874,1,468ms,52,1711638713876,1711638720005,Have you ever Uploaded your sad photos on Instagram?,119ms,54,¿Alguna vez has subido tus tristes fotos en Instagram?
+,1711638717434,0,421ms,40,1711638717438,1711638724370,No solamente a publicaciones regulares. ,72ms,30,Not just regular publications.
+,1711638726874,0,351ms,2,1711638726876,1711638728831,No,10ms,3,No.
+,1711638742995,1,487ms,81,1711638742997,1711638750113,Have you ever thought about trying to become an influencer yourself just for fun?,143ms,94,¿Alguna vez has pensado en tratar de convertirte en un influencer tú mismo sólo por diversión?
+,1711638759952,0,337ms,2,1711638759955,1711638761834,No,9ms,3,No.
+,1711638765953,1,494ms,64,1711638765955,1711638772516,Nowadays in India an influencer is a sustainable career choice.,123ms,74,Hoy en día en la India un influencer es una opción de carrera sostenible.
+,1711638774999,1,406ms,37,1711638775000,1711638779431,Influencers make a hell lot of money.,80ms,39,Los influyentes ganan muchísimo dinero.
+,1711638783833,1,442ms,53,1711638783835,1711638789311,Just that they need to have good number of followers.,93ms,54,Sólo que necesitan tener un buen número de seguidores.
+,1711638788755,0,385ms,4,1711638788756,1711638791358,Lote,53ms,4,Lot.
+,1711638797312,0,383ms,4,1711638797314,1711638799435,Loce,37ms,4,Loce
+,1711638805836,1,462ms,61,1711638805838,1711638811352,What other social media apps do you use other than Instagram?,103ms,68,¿Qué otras aplicaciones de medios sociales usas aparte de Instagram?
+,1711638820634,0,394ms,8,1711638820636,1711638822756,Facebook,32ms,8,Facebook
+,1711638823553,0,407ms,15,1711638823553,1711638825726,Simple Snapchat,41ms,16,Simple Snapchat.
+,1711638838273,1,444ms,27,1711638838298,1711638841590,Do you use any dating apps?,86ms,37,¿Utilizas alguna aplicación de citas?
+,1711638847950,0,327ms,2,1711638847951,1711638849874,No,15ms,3,No.
+,1711638857349,1,439ms,62,1711638857350,1711638863274,Have you ever done online shopping from Instagram or Facebook?,107ms,66,¿Alguna vez has hecho compras en línea desde Instagram o Facebook?
+,1711638872554,0,365ms,2,1711638872556,1711638874711,No,23ms,3,No.
+,1711638891077,1,459ms,21,1711638891079,1711638894074,Who do you stay with?,144ms,21,¿Con quién te quedas?
+,1711638900558,0,475ms,20,1711638900559,1711638903273,Vivo con mi esposo. ,115ms,23,I live with my husband.
+,1711638909116,1,419ms,29,1711638909118,1711638912314,Is your Husband also Spanish?,75ms,30,¿Tu marido también es español?
+,1711638920632,0,504ms,54,1711638920634,1711638927112,Mi esposo es Filipino y yo soy puertorriqueña latina. ,123ms,53,My husband is Filipino and I'm a Puerto Rican Latina.
+,1711638943831,1,445ms,33,1711638943833,1711638946952,Which country is your birthplace?,81ms,36,¿Qué país es tu lugar de nacimiento?
+,1711638953032,0,431ms,39,1711638953033,1711638957990,Cualtos ricos es territorio americano. ,71ms,36,How many rich is American territory.
+,1711638968869,1,423ms,27,1711638968870,1711638971914,Are you from South America?,59ms,20,¿Eres de Sudamérica?
+,1711638978713,0,457ms,19,1711638978714,1711638982391,No soy del jaribe. ,76ms,27,I'm not from the Caribbean.
+,1711638989757,1,434ms,55,1711638989758,1711638994234,No no I wanted to ask. Which country do you belong to?,1711638994668ms,49,No no quería preguntar. ¿A qué país perteneces?
+,1711639001874,0,430ms,11,1711639001876,1711639004209,Puerto Rico,48ms,12,Puerto Rico.
+,1711639016197,1,402ms,26,1711639016198,1711639019352,Is it a country in Brazil?,74ms,22,¿Es un país en Brasil?
+,1711639025154,0,464ms,28,1711639025156,1711639029191,No Puerto Rico es la isla. ,77ms,30,No Puerto Rico is the island.
+,1711639032198,0,407ms,4,1711639032200,1711639034313,Y el,58ms,7,And the
+,1711639036158,0,465ms,47,1711639036160,1711639040751,Pueldo rico es maíz la territorio americano. ,101ms,45,Pueldo rich is corn the American territory.
+,1711639049075,1,484ms,54,1711639049076,1711639053958,Okay your native island place must be very beautiful.,105ms,54,Bueno tu lugar de la isla natal debe ser muy hermoso.
+,1711639062794,0,440ms,16,1711639062795,1711639065552,Es muy hermoso. ,61ms,20,It's very beautiful.
+,1711639076238,1,496ms,57,1711639076239,1711639081870,Do you like to watch video job fourth ricko on Instagram?,120ms,60,¿Te gusta ver el cuarto trabajo de video ricko en Instagram?
+,1711639088470,1,360ms,9,1711639088471,1711639090831,Pulstoico,49ms,9,Pulstoico
+,1711639091032,0,452ms,17,1711639091033,1711639094473,No si no sé qué? ,79ms,25,Not if I don't know what?
+,1711639092153,1,452ms,49,1711639092154,1711639097076,Sorry I'm not able to pronounce your country name,96ms,54,lo siento no soy capaz de pronunciar su nombre de país
+,1711639108072,0,440ms,22,1711639108073,1711639112395,Ok pero no sé quién. ,90ms,27,Okay but I don't know who.
+,1711639126150,1,434ms,53,1711639126151,1711639130313,Do you like to watch cyber crime videos on Instagram?,100ms,58,¿Te gusta ver videos de delitos informáticos en Instagram?
+,1711639138834,0,435ms,31,1711639138835,1711639144152,Sí para poder aprender mejor. ,82ms,33,Yes so that we can learn better.
+,1711639151634,1,425ms,29,1711639151636,1711639155109,In which semester are you in?,65ms,23,¿En qué semestre estás?
+,1711639161994,0,501ms,48,1711639161996,1711639167314,En mi últimas clases ahora me gradúo en abril. ,96ms,44,In my last classes I now graduate in April.
+,1711639175592,1,408ms,49,1711639175593,1711639181675,Is the scope of getting a job in USA hi? For you.,1711639182083ms,61,¿Es el alcance de conseguir un trabajo en EE.UU. hi? Para ti.
+,1711639189240,1,445ms,32,1711639189243,1711639193485,Can you get a job easily in USA?,97ms,50,¿Puedes conseguir un trabajo fácilmente en EE.UU.?
+,1711639191152,0,341ms,2,1711639191153,1711639194200,Sí,41ms,9,Yes I do
+,1711639200317,1,326ms,4,1711639200319,1711639202192,Okay,7ms,9,Está bien
+,1711639202315,0,455ms,14,1711639202318,1711639204681,Sí muy fase. ,71ms,17,Yeah very phase.
+,1711639212911,1,456ms,81,1711639212913,1711639219554,Are you willing to settle in u? S.A. or you plan to go back to your native place?,1711639220010ms,80,¿Estás dispuesto a establecerte en ti? S. A. o ¿Planeas volver a tu lugar natal?
+,1711639229393,0,478ms,34,1711639229395,1711639234436,Sí solo volvere a mi país Natal. ,100ms,44,Yes I will only return to my country Natal.
+,1711639249112,1,434ms,34,1711639249114,1711639252597,Is your Husband also on Instagram?,84ms,37,¿Tu marido también está en Instagram?
+,1711639259394,0,365ms,2,1711639259396,1711639261316,No,16ms,3,No.
+,1711639267233,1,467ms,49,1711639267235,1711639271554,Okay crystal it was really nice talking to you.,104ms,55,Está bien cristal fue muy agradable hablar con usted.
+,1711639272716,1,388ms,19,1711639272717,1711639275473,Today's time is up.,72ms,30,Ya ha pasado el tiempo de hoy.
+,1711639281836,0,457ms,28,1711639281838,1711639285713,Igualmente tenga buen día. ,80ms,22,Also have a good day.
+,1711639286797,1,339ms,14,1711639286798,1711639290476,Take care. Bye,1711639290815ms,25,Cuídate mucho. ¡Nos vemos
+,1711639294318,0,325ms,4,1711639294319,1711639296204,Vale,34ms,5,Okay.

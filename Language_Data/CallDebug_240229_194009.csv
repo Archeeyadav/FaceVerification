@@ -1,0 +1,3 @@
+﻿Reference,SpeechId,Direction,SttLatency,length,beginOfSpeech,endOfSpeech,SttResult,TranslationLatency,length,TranslatedResult,useless,translation comment
+1709215791568
+,1709215789794,1,694ms,23,1709215789800,1709215792272,Hello can you hear me?,367ms,24,Olá você pode me ouvir?

@@ -1,0 +1,125 @@
+﻿Reference,SpeechId,Direction,SttLatency,length,beginOfSpeech,endOfSpeech,SttResult,TranslationLatency,length,TranslatedResult,useless,translation comment
+1709287378111
+,1709287376415,1,643ms,5,1709287376424,1709287378458,Hello,466ms,5,Hallo
+,1709287387780,0,427ms,5,1709287387784,1709287389673,Hallo,175ms,5,Hello
+,1709287392934,1,322ms,34,1709287392938,1709287396256,Hi how are you? How was your day?,1709287396578ms,43,Hallo wie geht es Ihnen? Wie war dein Tag?
+,1709287402336,0,435ms,68,1709287402337,1709287411100,Gut bedanke mich gut ja Tom ja. Ich konnte aufschlafen Konntest. ,1709287411535ms,40,Thank you Tom yes. I was able to sleep.
+,1709287418656,1,403ms,41,1709287418657,1709287423137,Oh okay. What is the time in Germany now?,1709287423540ms,47,Oh okay. Wie spät ist es jetzt in Deutschland?
+,1709287428694,0,387ms,20,1709287428695,1709287432097,jetzt ist es 11:03. ,79ms,15,Now it's 11:03.
+,1709287439380,1,392ms,35,1709287439382,1709287442815,I am calling from Bengaluru India.,99ms,31,Ich rufe aus Bengaluru Indien.
+,1709287446737,1,434ms,61,1709287446738,1709287450699,Today we are going to talk about health and exercise connect.,103ms,55,Heute werden wir über Gesundheit und Bewegung sprechen.
+,1709287448457,0,385ms,38,1709287448463,1709287453830,Ah Schön und wie bei ihr Tatsächlich? ,85ms,36,Ah beautiful and how it actually is.
+,1709287459298,1,440ms,37,1709287459299,1709287463259,A here it is quite sunny and bright.,100ms,40,A hier ist es ziemlich sonnig und hell.
+,1709287460138,0,290ms,2,1709287460139,1709287462262,OK,24ms,2,OK
+,1709287469019,0,467ms,74,1709287469020,1709287478778,Ah ja dir leider nicht. Also ist etwas Grau aber es rechne mich nicht. ,1709287479245ms,73,Unfortunately you are not. So there's some gray but it doesn't count me.
+,1709287489937,1,434ms,23,1709287489937,1709287493056,Okay do you go to gym?,97ms,34,Okay gehen Sie ins Fitnessstudio?
+,1709287499538,0,343ms,4,1709287499539,1709287501455,Nein,40ms,3,No.
+,1709287505376,1,402ms,51,1709287505385,1709287509826,So what routine do you follow to keep yourself fit?,103ms,51,Welche Routine befolgen Sie um sich fit zu halten?
+,1709287511337,0,388ms,28,1709287511338,1709287513992,Aber ich mache es trotzdem. ,87ms,19,But I do it anyway.
+,1709287518257,0,543ms,132,1709287518258,1709287532897,Also ich fahre manchmal Fahrrad und ich benutze eine Fitness Apps im Sommer gehe ich auch oft schwimmen manchmal spiele ich etwas. ,201ms,118,So I sometimes ride a bike and I use a fitness apps in the summer I also often go swimming sometimes I play something.
+,1709287533537,0,401ms,24,1709287533538,1709287536099,Ich tampfe auch gerne. ,101ms,21,I also like to sting.
+,1709287545978,0,384ms,29,1709287545979,1709287548936,Ich meinte ich tanze gerne. ,81ms,17,I liked to dance.
+,1709287552778,1,442ms,25,1709287552780,1709287555656,Oh that's great to know.,89ms,27,Oh das ist toll zu wissen.
+,1709287561177,0,385ms,52,1709287561178,1709287569021,Ja danke darf ich ihnen auch fragen stellen oder. ,99ms,43,Thank you I can also ask you questions or.
+,1709287561979,1,393ms,26,1709287561981,1709287564857,How much time do you swim?,66ms,28,Wie viel Zeit schwimmen Sie?
+,1709287569456,0,320ms,5,1709287569457,1709287573101,Achso,52ms,6,Achso.
+,1709287575937,1,462ms,57,1709287575952,1709287580355,Yes you can definitely ask me any questions if you want.,130ms,67,Ja Sie können mir auf jeden Fall Fragen stellen wenn Sie möchten.
+,1709287581615,0,320ms,8,1709287581616,1709287584101,Also ich,54ms,5,So I?
+,1709287586937,0,539ms,116,1709287586938,1709287602222,OK also ich will mir nicht regelmäßig denke ich dir vielleicht so einmal im Monat einen Tag lang das Schwimmbad. ,196ms,92,OK so I don't want to think of you regularly maybe once a month for a day the swimming pool.
+,1709287613820,1,435ms,49,1709287613822,1709287618904,Good do you use any apps for tracking your health,119ms,74,Gut dass Sie irgendwelche Apps verwenden um Ihre Gesundheit zu verfolgen
+,1709287617222,0,421ms,31,1709287617244,1709287624986,Und ich bin so für vielleicht. ,88ms,21,And I'm so for maybe.
+,1709287627580,0,413ms,33,1709287627582,1709287633336,Ich benutze einen Schrittzähler. ,76ms,18,I use a pedometer.
+,1709287639303,1,463ms,47,1709287639305,1709287645099,Okay how many kilometres do you do the biking?,98ms,37,Okay wie viele Kilometer fahren Sie?
+,1709287645257,0,401ms,29,1709287645258,1709287648278,An welchem Sport machen Sie. ,85ms,25,What sport are you doing.
+,1709287654222,1,418ms,26,1709287654224,1709287657980,I like to play volleyball.,87ms,28,Ich spiele gerne Volleyball.
+,1709287658298,0,387ms,8,1709287658299,1709287661978,Das Lied,57ms,9,The song!
+,1709287662137,0,373ms,7,1709287662143,1709287664542,Tschüss,73ms,8,Bye bye!
+,1709287668118,0,535ms,131,1709287668119,1709287681015,Wie viele Kilometer ich schöne ich weiß gar nicht welche Kilometer laufen oder wie ist Achso wie viel das Kilometer ich weiß habe? ,195ms,98,How many kilometers I love I don't know what kilometers I run or how much the kilometer I know is.
+,1709287693583,1,420ms,56,1709287693585,1709287699579,Okay when you do the biking. I mean how far do you go?,1709287699999ms,67,Okay wenn Sie das Radfahren machen. Ich meine wie weit gehen Sie?
+,1709287706180,0,560ms,147,1709287706181,1709287725060,Achso unterschiedlich wenn ich nicht so viel Zeit habe dann auch mal nur so 2 km oder wenn ich etwas in einem anderen sofort zu erledigen habe? ,225ms,112,So different if I don't have so much time then only so 2 km or if I have something in another immediately to do.
+,1709287725858,0,350ms,8,1709287725859,1709287729486,Ja heute,51ms,10,Yes today!
+,1709287738781,0,564ms,135,1709287738782,1709287758622,Also gestern bin ich insgesamt 4 km gefahren und wenn es sonnig ist dann habe ich vielleicht auch mal so er insgesamt 18 km oder mir? ,215ms,97,So yesterday I drove a total of 4 km and if it is sunny then maybe I have a total of 18 km or me.
+,1709287771422,1,406ms,15,1709287771425,1709287774700,A 4 km is good.,70ms,15,A 4 km ist gut.
+,1709287784537,1,439ms,37,1709287784538,1709287788101,So what other activities do you like?,90ms,37,Welche anderen Aktivitäten mögen Sie?
+,1709287786260,0,454ms,43,1709287786269,1709287790335,Und spielen Sie in einem Verein wurde bei. ,106ms,37,And play in a club has been involved.
+,1709287797620,0,516ms,106,1709287797621,1709287813421,Ja ansonsten lerne ich gerne sprachen ich reise gerne. Ich gehe spazieren ich bin gerne in Temperatur. ,1709287813937ms,103,Yes otherwise I like to learn languages I like to travel. I like to go for a walk I'm in temperature.
+,1709287825743,1,472ms,49,1709287825745,1709287830260,Yeah even I do walking for 15 minutes every day.,121ms,47,Ja sogar ich gehe jeden Tag 15 Minuten zu Fuß.
+,1709287828179,0,488ms,81,1709287828199,1709287834627,Ja im Moment mache ich auch Karate. Das habe ich vergessen einmal in der Woche? ,1709287835115ms,63,I'm also doing karate at the moment. I forgot that once a week.
+,1709287843697,0,400ms,12,1709287843699,1709287845943,Oh ja. Schön,1709287846343ms,18,Oh yes. Beautiful!
+,1709287849858,1,467ms,50,1709287849861,1709287854709,Oh good. How in which level karate are you in now?,1709287855176ms,54,Oh gut. Wie in welchem Level sind Sie jetzt im Karate?
+,1709287850659,0,353ms,12,1709287850659,1709287855542,Danke ebenso,53ms,15,Thank you also.
+,1709287861378,0,571ms,121,1709287861379,1709287875337,Ich habe erst 12 2 Wochen umgefallen aber ich habe davor schon andere Kampfsportarten ausprobiert vor allem in YouTube? ,183ms,91,I only dropped 122 weeks but I have tried other martial arts before especially in YouTube.
+,1709287885057,0,483ms,22,1709287885059,1709287887740,Ich meinte 2 Wochen. ,136ms,16,I meant 2 weeks.
+,1709287891822,1,463ms,106,1709287891853,1709287900581,Okay here in India. We follow some colour codes for the levels. Like black belt is the highest in karate.,1709287901044ms,114,Okay hier in Indien. Wir folgen einigen Farbcodes für die Ebenen. Wie schwarzer Gürtel ist der höchste im Karate.
+,1709287909175,0,420ms,29,1709287909176,1709287913299,Ich habe noch keinen Gürtel? ,88ms,24,I don't have a belt yet.
+,1709287920700,1,336ms,4,1709287920702,1709287922737,Okay,42ms,4,Okay
+,1709287923338,1,400ms,77,1709287923339,1709287930938,Do you also practice Yoga or generally? People in for in Germany follow Yoga.,1709287931338ms,79,Praktizieren Sie auch Yoga oder allgemein? Menschen in Deutschland folgen Yoga.
+,1709287937743,0,319ms,4,1709287937746,1709287941657,Köln,39ms,8,Cologne.
+,1709287942137,0,576ms,168,1709287942138,1709287958219,Ja manchmal mache ich auch Yoga und ein Semester lang habe ich mit der Woche Yoga Gemacht? Also ich hatte Quasi Yoga Unterricht in der Uni also in der Universität. ,1709287958795ms,126,Yes sometimes I do yoga and for a semester I did yoga with the week. So I had quasi yoga lessons in college so in university.
+,1709287972858,1,439ms,47,1709287972860,1709287978821,Okay does Yoga help to keep your mind relaxed?,116ms,50,Okay hilft Yoga Ihren Geist entspannt zu halten?
+,1709287973781,0,331ms,7,1709287973785,1709287975784,Und Sie,49ms,9,And they?
+,1709287987177,0,477ms,57,1709287987179,1709287996858,Ja ich finde schon und ja hilft. Gerätlich zu Kleidung. ,1709287997335ms,50,Yes I think so and yes helps. Device to clothing.
+,1709288009423,1,497ms,57,1709288009426,1709288015180,So what kind of diet you follow to keep yourself healthy.,132ms,63,Also welche Art von Diät Sie folgen um sich gesund zu halten.
+,1709288025057,0,402ms,27,1709288025059,1709288028740,Wie bitte meinen Sie diät? ,65ms,17,Please mean diet.
+,1709288033780,1,440ms,35,1709288033781,1709288037419,Which what kind of food do you eat?,85ms,33,Welche Art von Nahrung essen Sie?
+,1709288041659,0,588ms,153,1709288041660,1709288066897,Oh ja also ich esse so viel Gemüse ansonsten esse ich alles ich esse auch mal süße aber ich versuche meistens nicht zu viel zu essen in letzter Zeit. ,246ms,124,Oh yes so I eat so many vegetables otherwise I eat everything I also eat sweet but I usually try not to eat too much lately.
+,1709288080861,1,477ms,37,1709288080863,1709288084698,Okay do you also eat non-vegetarian?,122ms,39,Okay essen Sie auch nicht-vegetarisch?
+,1709288091978,0,616ms,148,1709288091980,1709288107538,Also wenn ich selbst für mich koche dann Koche? Ich vegetarisch aber wenn ich zum Beispiel bei jemand anders mit esse dann esse ich auch gleich? ,1709288108154ms,115,So if I cook for myself then cook. I'm vegetarian but if I eat with someone else for example I'll eat right away.
+,1709288121142,1,470ms,35,1709288121143,1709288124980,What is the famous dish in Germany?,89ms,44,Was ist das berühmte Gericht in Deutschland?
+,1709288129781,0,509ms,78,1709288129782,1709288144705,Also die Amerikaner würden sagen Sauerkraut und würstchen und Kartoffelbrei. ,163ms,71,So the Americans would say sauerkraut and sausages and mashed potatoes.
+,1709288145298,0,349ms,4,1709288145298,1709288149101,Also,33ms,6,So ...
+,1709288153618,0,623ms,162,1709288153620,1709288173114,Aber es gibt viele verschiedene gerichte die Nachregion in Deutschland also am meer essen die Leute viel sich Fisch und in in Süddeutschland ist man oft klösse. ,274ms,157,But there are many different dishes the neighboring region in Germany so by the sea people eat a lot of fish and in southern Germany you are often dumplings.
+,1709288186382,1,367ms,63,1709288186384,1709288193539,Yeah I just heard black forest cake is. I'm famous in Germany.,1709288193906ms,87,Ja ich habe gerade gehört dass Schwarzwaldkuchen ist. Ich bin berühmt in Deutschland.
+,1709288198299,0,355ms,2,1709288198300,1709288200308,Ja,39ms,4,Yes.
+,1709288201141,0,472ms,66,1709288201142,1709288208191,Ja also wie der Name sagt kommt der Kuchen aus dem Schwarzwald? ,139ms,59,As the name suggests the cake comes from the Black Forest.
+,1709288220622,0,459ms,63,1709288220624,1709288226817,Frankfurter Krankenschmidt auch sehr gut. Was ist mit Routen? ,1709288227276ms,61,Frankfurter Krankenschmidt also very good. What about routes.
+,1709288234497,1,438ms,24,1709288234498,1709288237338,Sorry I did not get you.,105ms,47,Tut mir leid dass ich Sie nicht bekommen habe.
+,1709288237220,0,436ms,37,1709288237221,1709288240621,Ich meinte das ist mit guter Krieg. ,86ms,24,I meant that's good war.
+,1709288245216,1,430ms,34,1709288245218,1709288248829,Okay what is pretzel mean of off?,98ms,30,Okay was bedeutet Brezel aus?
+,1709288255257,0,337ms,4,1709288255258,1709288258019,City,34ms,4,City
+,1709288259899,0,443ms,38,1709288259901,1709288264063,Ich habe ich habe gesagt buttercreme? ,106ms,25,I said I was buttercream.
+,1709288276178,1,460ms,28,1709288276180,1709288279500,Okay do Germans like Pizza?,87ms,27,Okay mögen Deutsche Pizza?
+,1709288287818,0,656ms,161,1709288287820,1709288305471,Achso ja ja also deutsche essen auch viel italienisches essen. Es wird jetzt oft Pasta gekocht also Nudeln tomaten so eröffnen vor allem kleinen Kindergaren. ,1709288306127ms,136,So Germans also eat a lot of Italian food. It is now often pasta cooked so pasta tomato pasta so open especially small children's yarns.
+,1709288329098,1,437ms,45,1709288329100,1709288332825,Can you tell me more about the place Hamburg?,104ms,50,Können Sie mir mehr über den Ort Hamburg erzählen?
+,1709288329379,0,437ms,64,1709288329394,1709288334509,Ja es gibt auch viele Italienische Restaurants in Deutschland. ,105ms,51,There are also many Italian restaurants in Germany.
+,1709288341059,0,399ms,19,1709288341061,1709288345419,Welchen Ort bitte. ,52ms,18,What place please.
+,1709288348737,1,404ms,7,1709288348738,1709288350900,Hamburg,35ms,7,Hamburg
+,1709288354018,0,343ms,5,1709288354019,1709288358342,Achso,20ms,6,Achso.
+,1709288358538,0,560ms,115,1709288358550,1709288373263,Da war ich insgesamt 2 mal glaube ich an es gibt einen sehr grossen Harfe und es ist eine berühmte Handelsstadt. ,161ms,65,I think there is a very big harp and it is a famous trading town.
+,1709288380901,0,467ms,67,1709288380904,1709288388700,Ich war auch dort schwimmen. Es ist ein bisschen gefährlich Daten. ,1709288389167ms,52,I was swimming there too. It's a bit dangerous data.
+,1709288380936,1,432ms,40,1709288380944,1709288384939,Have you ever been to hydelwork castle?,107ms,44,Waren Sie schon einmal in Hydelwork Castle?
+,1709288395977,0,449ms,49,1709288395978,1709288403140,Wo in in Kappel Super ja da war ich auch schon? ,105ms,46,Where in Kappel Super yes I was already there.
+,1709288413137,1,468ms,49,1709288413138,1709288417297,I mean the one which is near necor river Valley.,143ms,65,Ich meine diejenige die in der Nähe von Necor River Valley ist.
+,1709288417139,0,420ms,34,1709288417141,1709288420389,Da bin ich auch oft umgestiefelt. ,87ms,20,I am often rebooted.
+,1709288426216,0,297ms,10,1709288426218,1709288428499,Wie bitte?,13ms,11,Come again?
+,1709288432061,1,542ms,82,1709288432063,1709288438660,I was talking about the place Heidelberg castle which is near naked river Valley.,174ms,90,Ich sprach über den Ort Heidelberger Schloss das in der Nähe des nackten Flusstals liegt.
+,1709288446261,0,468ms,49,1709288446263,1709288455417,Achso ja. Ich war schon auf dem Schlossgelände. ,1709288455885ms,44,Oh yes. I was already on the castle grounds.
+,1709288456658,0,427ms,34,1709288456659,1709288460753,Und ja ich habe auch heidelberg? ,111ms,32,And yes I also have Heidelberg.
+,1709288461781,0,465ms,57,1709288461781,1709288467902,Ein vom Schloss aus kann man gut heidelberg überblicken? ,131ms,59,One from the castle can be easily overlooked by heidelberg.
+,1709288482297,1,475ms,93,1709288482299,1709288491060,Thus Germany has a cycling infrastructure. I mean the roads have separate password cycling.,1709288491535ms,113,So verfügt Deutschland über eine Fahrradinfrastruktur. Ich meine die Straßen haben separates Passwort Radfahren.
+,1709288497057,1,419ms,23,1709288497060,1709288499899,I am in separate paths.,84ms,29,Ich bin auf getrennten Wegen.
+,1709288500299,0,470ms,24,1709288500299,1709288504463,Ja es geht mir gerade. ,105ms,23,Yes I'm just doing it.
+,1709288504938,0,637ms,136,1709288504946,1709288516627,Ja es gibt gerade Hilfe auch bei mir in der Nähe also neben der Landstraße gibt es direkt einen Weg für Fussgänger und Fahrradfahrer? ,255ms,112,Yes there is also help with me nearby so next to the country road there is a path for pedestrians and cyclists.
+,1709288529577,1,470ms,39,1709288529578,1709288533337,How about work-life balance in Germany?,139ms,58,Wie sieht es mit der Work-Life-Balance in Deutschland aus?
+,1709288541738,0,761ms,275,1709288541741,1709288570377,Ich denke es kommt auf den Job an aber es wird immer mehr darauf. Geachtet auch von den Firmen also die Leute wünschen sich immer mehr eine Gleichfall zum Beispiel wurde ausprobiert ob man nur von Montagsfrist donnerstags arbeiten kann und dafür den Freitag Freibekommen?,1709288571139ms,252,I think it depends on the job but it's getting more and more. Notwithstanding also the companies so the people want more and more a similar case for example it was tried whether you can only work from Monday deadline on Thursdays and get Friday free.
+,1709288585378,1,456ms,24,1709288585381,1709288588216,Oh that's good to know.,86ms,26,Oh das ist gut zu wissen.
+,1709288596098,1,418ms,42,1709288596099,1709288599418,Thank you so much for all the information.,93ms,35,Vielen Dank für alle Informationen.
+,1709288599696,1,471ms,31,1709288599697,1709288602699,Do you want to ask me anything?,84ms,30,Möchten Sie mich etwas fragen?
+,1709288607462,0,379ms,5,1709288607464,1709288613262,Gerne,51ms,7,gladly.
+,1709288613939,0,477ms,79,1709288613940,1709288621743,Welch welche Sehenswürdigkeiten können sie empfehlen wenn ich indien zurück? ,126ms,53,What sights can you recommend when I return to India?
+,1709288628859,1,415ms,167,1709288628860,1709288643337,Yeah in India. Actually there are a lot of popular places like Taj Mahal in Agra the capital of India. Delhi and of course Mumbai. It's famous for its street food.,1709288643752ms,161,Ja in Indien. Eigentlich gibt es viele beliebte Orte wie das Taj Mahal in Agra der Hauptstadt Indiens. Delhi und natürlich Mumbai. Berühmt für Ihr Street Food.
+,1709288639739,0,353ms,2,1709288639770,1709288642394,Ja,24ms,4,Yes.
+,1709288658460,0,440ms,43,1709288658462,1709288663818,Und was ist ihr Lieblingsessen Drin Insel? ,96ms,44,And what is her favorite food in the island.
+,1709288669062,0,341ms,6,1709288669064,1709288671780,Indien,34ms,5,India
+,1709288673858,1,493ms,152,1709288673860,1709288689739,So in in India there there are different regions and cultures. Each part of India has its own dishes like in South India. We we'd eat lot of Idli Dosa.,1709288690232ms,164,In Indien gibt es also verschiedene Regionen und Kulturen. Jeder Teil Indiens hat seine eigenen Gerichte wie in Südindien. Wir wir würden viel von Idli Dosa essen.
+,1709288704101,0,325ms,5,1709288704104,1709288706540,Schön,24ms,10,Beautiful!
+,1709288707299,0,591ms,126,1709288707300,1709288716780,In Deutschland war ich auch schon durchessen und der schmeckt das essen sehr gut aber ich kann leider nicht so scharf essen? ,192ms,94,In Germany I was already eaten through and the food tastes very good but I can not eat so hot.
+,1709288725062,1,430ms,25,1709288725065,1709288728216,Yeah yeah I understand.,82ms,21,Ja ja ich verstehe.
+,1709288735739,1,516ms,55,1709288735740,1709288740628,Thank you. If you if we can uh we can disconnect now.,1709288741144ms,65,Vielen Dank! Wenn Sie wenn wir können können wir jetzt trennen.
+,1709288739098,0,322ms,2,1709288739099,1709288741027,Ja,21ms,4,Yes.
+,1709288742541,0,354ms,10,1709288742542,1709288744711,Danke auch,55ms,15,Thank you also.
+,1709288749178,0,386ms,14,1709288749179,1709288753938,Wie sieht Ja? ,58ms,18,How does Yes look.
+,1709288754298,0,438ms,48,1709288754300,1709288757982,Ja vielleicht haben Sie noch andere Sachen zu? ,87ms,32,Maybe you have other things too.
+,1709288762341,1,394ms,20,1709288762343,1709288764900,Yes yes of course.,73ms,18,Ja ja natürlich.
+,1709288769502,0,405ms,27,1709288769503,1709288775820,Dann alles gute und danke. ,89ms,32,Then all the best and thank you.
+,1709288779697,1,374ms,9,1709288779700,1709288781940,Thank you,12ms,12,Vielen Dank!

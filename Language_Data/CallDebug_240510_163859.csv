@@ -1,0 +1,84 @@
+﻿Reference,SpeechId,Direction,SttLatency,length,beginOfSpeech,endOfSpeech,SttResult,TranslationLatency,length,TranslatedResult,useless,translation comment
+1715338680113
+,1715338685707,1,318ms,24,1715338685728,1715338688268,Are you able to hear me?,1715338688586ms,34,Êtes-vous capable de m'entendre ? 
+,1715338691433,0,599ms,30,1715338691434,1715338693834,Ouais j'ai entendu le temps. ,272ms,26,Yeah I heard the weather.
+,1715338695356,0,383ms,4,1715338695358,1715338697240,Allô,69ms,6,Hello!
+,1715338700629,1,339ms,44,1715338700630,1715338704347,My name is Prasanna. I'm calling from India.,1715338704686ms,48,Je m'appelle Prasanna. J'appelle depuis l'Inde. 
+,1715338700707,0,342ms,4,1715338700707,1715338702753,Allô,26ms,6,Hello!
+,1715338704906,0,384ms,5,1715338704920,1715338707196,Hello,36ms,5,Hello
+,1715338707272,1,278ms,29,1715338707278,1715338709986,May I know your name please?,1715338710264ms,47,Puis-je connaître votre nom s'il vous plaît ? 
+,1715338710350,0,471ms,51,1715338710352,1715338716393,OK moi aussi je me rappelle je m'appelle yveslag. ,121ms,36,OK I remember my name too Yveslag.
+,1715338725031,1,282ms,57,1715338725033,1715338729033,Can you tell me something about where you stay in Canada?,1715338729315ms,50,Pouvez-vous me dire où vous séjournez au Canada ? 
+,1715338726870,0,321ms,4,1715338726871,1715338728799,Allô,20ms,6,Hello!
+,1715338734071,0,419ms,17,1715338734073,1715338737163,Je ne comprends. ,67ms,19,I don't understand.
+,1715338741232,0,363ms,27,1715338741234,1715338744550,Plus morale plus Montréal. ,54ms,25,More moral more Montreal.
+,1715338741266,1,359ms,36,1715338741279,1715338744631,May I know where you stay in Canada?,1715338744990ms,44,Puis-je savoir où vous demeurez au Canada ? 
+,1715338748026,1,323ms,4,1715338748027,1715338749947,Okay,1715338750270ms,9,D'accord 
+,1715338749991,0,362ms,7,1715338749992,1715338752353,Montrer,44ms,4,Show
+,1715338756509,1,284ms,86,1715338756511,1715338763636,You must be aware. Today's topic of discussion is festival functions and celebrations.,1715338763920ms,118,Vous devez être conscient. Le thème de la discussion d'aujourd'hui est les fonctions et les célébrations du festival. 
+,1715338763310,0,340ms,4,1715338763311,1715338765167,Allô,19ms,6,Hello!
+,1715338773555,0,324ms,2,1715338773558,1715338775517,OK,11ms,2,OK
+,1715338778828,1,354ms,36,1715338778829,1715338783313,Do people speak english in? Montreal,1715338783667ms,47,Est-ce que les gens parlent anglais ? Montréal 
+,1715338787828,0,360ms,5,1715338787829,1715338789871,Ouais,42ms,4,Yeah
+,1715338795032,1,285ms,22,1715338795034,1715338797629,Do you like festivals?,1715338797914ms,27,Aimez-vous les festivals ? 
+,1715338801995,0,423ms,29,1715338802004,1715338804752,Oui il y a un difficile oui. ,79ms,30,Yes there is a difficult yes.
+,1715338810633,1,297ms,95,1715338810634,1715338818747,I've heardThe festival name. Celebration of light. Which is the most famous festival in Canada?,1715338819044ms,109,J'ai entendu Le nom du festival. Célébration de la lumière. Quel est le festival le plus célèbre au Canada ? 
+,1715338830429,0,377ms,19,1715338830430,1715338833084,La Fête des Mères. ,68ms,13,Mother's Day.
+,1715338836989,1,348ms,77,1715338836991,1715338843750,I wanted to ask. Is celebration of flight the most famous festival in Canada?,1715338844098ms,97,Je voulais vous demander. La célébration du vol est-elle le festival le plus célèbre au Canada ? 
+,1715338848789,1,268ms,21,1715338848791,1715338851831,Celebration of light.,1715338852099ms,27,Célébration de la lumière. 
+,1715338850547,0,420ms,35,1715338850548,1715338854032,Je n'ai pas entendu quelle série ? ,88ms,27,I didn't hear which series?
+,1715338855670,0,458ms,13,1715338855671,1715338857965,Non non non. ,75ms,9,No no no.
+,1715338862150,1,337ms,54,1715338862151,1715338867030,So what is the most? Which famous festival in Canada?,1715338867367ms,78,Alors qu'est-ce qui vous échappe le plus ? Quel festival célèbre au Canada ? 
+,1715338874432,1,295ms,43,1715338874433,1715338878188,What is the most famous festival in Canada?,1715338878483ms,49,Quel est le festival le plus célèbre au Canada ? 
+,1715338885832,0,414ms,14,1715338885834,1715338889193,OK c'est le. ,80ms,14,OK that's it.
+,1715338896032,1,342ms,43,1715338896035,1715338900031,Have you ever been to the Toronto carnival?,1715338900373ms,44,Avez-vous déjà été au carnaval de Toronto ? 
+,1715338906553,0,467ms,23,1715338906555,1715338909836,Non je suis au Québec. ,92ms,18,No I'm in Quebec.
+,1715338918991,1,292ms,43,1715338918993,1715338923352,What is so special about St. Patrick's Day?,1715338923644ms,50,Qu'y a-t-il de si spécial dans la Saint-Patrick ? 
+,1715338928712,0,440ms,55,1715338928714,1715338940308,En devenant sympathique beaucoup de des festivals ici. ,84ms,48,By becoming friendly many of the festivals here.
+,1715338947070,1,322ms,52,1715338947073,1715338951749,Can you tell me why people dress in green and white?,1715338952071ms,69,Pouvez-vous me dire pourquoi les gens s'habillent en vert et blanc ? 
+,1715338968070,0,485ms,29,1715338968072,1715338970925,Se pousser les blés l'a. Fait,1715338971410ms,30,Growing the wheat has it. Fact
+,1715338976749,0,441ms,38,1715338976752,1715338979713,C'est une signe c'est de l'agression. ,93ms,26,It's a sign of aggression.
+,1715338986710,1,314ms,77,1715338986712,1715338994428,Some people even say that St. Patrick's Day celebration is native to Ireland.,1715338994742ms,97,Certaines personnes disent même que la célébration de la Saint-Patrick est originaire d'Irlande. 
+,1715338994634,0,441ms,36,1715338994635,1715338997950,Parce que tout au long de l'année ? ,73ms,28,Because throughout the year?
+,1715338994667,1,351ms,8,1715338994668,1715338996834,To agree,1715338997185ms,26,Pour vous mettre d'accord 
+,1715339008028,0,485ms,47,1715339008029,1715339011588,C'est vrai oui c'est d'accord. C'est d'accord. ,1715339012073ms,37,It's true yes it's okay. That's okay.
+,1715339020751,1,308ms,35,1715339020753,1715339024708,Is there something called? Iglofest,1715339025016ms,51,Y a-t-il quelque chose qui vous appelle ? Iglofest 
+,1715339027672,1,331ms,10,1715339027675,1715339030391,Igloo fest,1715339030722ms,11,Igloo fest 
+,1715339029191,0,403ms,9,1715339029191,1715339031073,Au revoir,53ms,7,Goodbye
+,1715339036913,0,432ms,13,1715339036919,1715339040668,OK bonne good,53ms,12,OK Good Good
+,1715339045189,1,265ms,42,1715339045191,1715339048509,Can you tell me something about this fest?,1715339048774ms,59,Pouvez-vous me dire quelque chose à propos de cette fête ? 
+,1715339045754,0,337ms,5,1715339045781,1715339047869,OK OK,54ms,6,OK OK.
+,1715339054671,0,475ms,62,1715339054673,1715339060509,Au Québec rien n'est-ce que vous quoi vous faire la clique ? ,109ms,41,In Quebec nothing is what you do to you?
+,1715339060752,0,502ms,99,1715339060761,1715339070876,Même l'hiver et que le Canada et le Canada étaient des éléments uniques à soins et incontestable ? ,153ms,84,Even in the winter and that Canada and Canada were unique and indisputable elements?
+,1715339082146,1,283ms,83,1715339082147,1715339089523,Have you ever travelled outside of Canada just to attend or celebrate any festival?,1715339089806ms,92,Avez-vous déjà voyagé à l'extérieur du Canada juste pour assister ou célébrer un festival ? 
+,1715339087471,0,339ms,4,1715339087475,1715339089408,Allô,23ms,6,Hello!
+,1715339097751,0,383ms,13,1715339097753,1715339100271,Euh non non. ,56ms,9,Uh no no.
+,1715339107313,1,320ms,63,1715339107314,1715339113629,I've heardQuestion is very famous to host any musical concerns.,1715339113949ms,97,J'ai entendu Question est très célèbre pour vous adresser à toutes les préoccupations musicales. 
+,1715339109992,0,421ms,33,1715339109994,1715339113477,Mais j'ai voyagé quand je suis ? ,88ms,28,But did I travel when I was?
+,1715339118271,1,295ms,6,1715339118273,1715339122232,Quebec,1715339122527ms,7,Québec 
+,1715339123147,0,571ms,20,1715339123148,1715339126283,Explique au Québec. ,58ms,19,Explains to Quebec.
+,1715339123551,1,300ms,46,1715339123552,1715339127953,It's very famous to host any musical concerts.,1715339128253ms,63,C'est très célèbre pour vous accueillir des concerts musicaux. 
+,1715339138348,1,284ms,66,1715339138349,1715339147112,I think your place is very famous. Posting many musical concerts.,1715339147396ms,82,Je pense que votre place est très célèbre. Poster beaucoup de concerts musicaux. 
+,1715339142952,0,479ms,62,1715339142963,1715339146829,Je ne sais pas poser d'autres questions vous pouvez répéter. ,129ms,60,I don't know how to ask any other questions you can repeat.
+,1715339151188,1,289ms,79,1715339151190,1715339162673,I think your place is very famous in hosting many musical concerts. Is it true?,1715339162962ms,103,Je pense que votre place est très célèbre pour accueillir de nombreux concerts musicaux. Est-ce vrai ? 
+,1715339168707,0,457ms,41,1715339168708,1715339172670,Oui il y. A beaucoup de place au Québec. ,1715339173127ms,37,Yes there is a lot of room in Quebec.
+,1715339177510,1,300ms,42,1715339177512,1715339181589,What kind of festivals you like to attend?,1715339181889ms,48,À quel genre de festivals aimez-vous assister ? 
+,1715339186952,0,518ms,100,1715339186953,1715339197029,J'aime assister à celle que vous avez pas amenée sur une poitrine était consciente musico-et tout ? ,180ms,89,I like to attend the one you didn't bring on a chest was conscious musico-and everything?
+,1715339206991,1,333ms,29,1715339206993,1715339210230,Do you like musical concepts?,1715339210563ms,35,Aimez-vous les concepts musicaux ? 
+,1715339211912,1,334ms,16,1715339211917,1715339214950,Musical concerts,1715339215284ms,18,Concerts musicaux 
+,1715339214909,0,452ms,49,1715339214917,1715339219964,Oui oui j'aime les concepts oui oui oui j'avais. ,103ms,38,Yes I like the concepts yes yes I had.
+,1715339228590,1,319ms,33,1715339228592,1715339232189,What is the importance of July 1?,1715339232508ms,41,Quelle est l'importance du 1er juillet ? 
+,1715339251346,1,314ms,31,1715339251348,1715339255388,Is Diwali celebrated in Canada?,1715339255702ms,42,Est-ce que diwali est célébré au Canada ? 
+,1715339260389,0,346ms,4,1715339260390,1715339262269,Quoi,32ms,4,What
+,1715339265870,1,281ms,55,1715339265873,1715339271562,Diwali is A. Falled as the festival of lights in India.,1715339271843ms,57,Diwali est un. Tombé comme la fête des lumières en Inde. 
+,1715339268790,0,441ms,47,1715339268795,1715339272841,Le Premier ministre c'est la fête des femmes. ,109ms,34,The Prime Minister is Women's Day.
+,1715339278347,1,300ms,51,1715339278349,1715339284347,In India we have a very big festival. Call Diwali.,1715339284647ms,60,En Inde nous avons un très grand festival. Appelez diwali. 
+,1715339287110,1,334ms,45,1715339287111,1715339291674,I've heard this is also celebrated in Canada.,1715339292008ms,53,J'ai entendu dire que c'est aussi célébré au Canada. 
+,1715339289153,0,417ms,35,1715339289154,1715339292644,Oui j'ai entendu parler des sœurs. ,87ms,31,Yes I heard about the sisters.
+,1715339299150,0,503ms,58,1715339299152,1715339305110,Oui c'est ça il y a des zombies au Canada. Qui s'aident ? ,1715339305613ms,57,Yeah that's what there are zombies in Canada. Who helps?
+,1715339311671,1,327ms,41,1715339311673,1715339315510,OkayThank you for having this discussion.,1715339315837ms,44,D'accord Merci d'avoir eu cette discussion. 
+,1715339316272,1,285ms,89,1715339316274,1715339322803,The Times lot that we had for this discussion is over. It was really nice talking to you.,1715339323088ms,103,Le temps que nous avons eu pour cette discussion est révolu. C'était vraiment agréable de vous parler. 
+,1715339321387,0,348ms,7,1715339321388,1715339323690,OK Nice,52ms,7,OK Nice
+,1715339326353,1,363ms,15,1715339326354,1715339328707,Bye take care.,1715339329070ms,32,Au revoir prenez soin de vous. 
+,1715339328871,0,422ms,20,1715339328873,1715339331352,OK merci beaucoup. ,73ms,24,OK thank you very much.
+,1715339332151,0,355ms,8,1715339332154,1715339334285,OK ouais,54ms,7,OK yeah

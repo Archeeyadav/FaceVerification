@@ -1,0 +1,87 @@
+﻿Reference,SpeechId,Direction,SttLatency,length,beginOfSpeech,endOfSpeech,SttResult,TranslationLatency,length,TranslatedResult,useless,translation comment
+1704974343009
+,1704974340959,1,1133ms,5,1704974340971,1704974342831,Hello,420ms,4,Ciao
+,1704974353755,0,533ms,4,1704974353757,1704974357032,Ciao,168ms,5,Hello
+,1704974360994,1,457ms,36,1704974360996,1704974365237,This is Gautham from AS rab meeting.,132ms,38,Questo è Gautham dalla riunione araba.
+,1704974362193,0,332ms,4,1704974362200,1704974364152,Ciao,11ms,5,Hello
+,1704974367914,0,388ms,5,1704974367915,1704974369914,Hallo,70ms,14,Hallo Florida
+,1704974374957,0,356ms,10,1704974374959,1704974377155,Buongiorno,19ms,12,Good morning
+,1704974376871,1,448ms,24,1704974376890,1704974380313,Okay so they'll have A.,81ms,21,Ok quindi avranno A.
+,1704974380593,1,435ms,47,1704974380595,1704974384432,Have a conversation around healthy and fitness.,69ms,28,Parlate di salute e fitness.
+,1704974381114,0,342ms,10,1704974381124,1704974383321,Buongiorno,26ms,12,Good morning
+,1704974389596,1,371ms,12,1704974389598,1704974391755,Good Morning,47ms,11,Buongiorno!
+,1704974396717,0,309ms,10,1704974396718,1704974398917,Buongiorno,13ms,12,Good morning
+,1704974401478,1,417ms,55,1704974401479,1704974407233,Okay so generally? What workout routine do you follow?,1704974407650ms,52,Ok in generale? Quale routine di allenamento segui?
+,1704974404394,0,324ms,10,1704974404394,1704974406686,Buongiorno,22ms,12,Good morning
+,1704974414514,0,535ms,118,1704974414515,1704974423395,L'esercizio corpo libero camminata talvolta corsa tensidenzialmente addominali coste anche esercizio di questo tipo. ,171ms,101,The free body exercise walks sometimes tensidally running abdominal costs even exercise of this type.
+,1704974433114,1,463ms,115,1704974433116,1704974446952,Okay I prefer doing a stint training. So I generally go to gym 3 to 4 times a week. And uh I mostly lift weights.,1704974447415ms,129,Ok preferisco fare un allenamento di stint. Di solito vado in palestra da 3 a 4 volte alla settimana. E per lo più sollevo pesi.
+,1704974455676,1,411ms,27,1704974455679,1704974458830,Do you prefer doing cardio?,65ms,23,Preferisci fare cardio?
+,1704974458550,0,434ms,41,1704974458552,1704974462320,Preferisco fare un allenamento distinto. ,86ms,34,I prefer to do a separate workout.
+,1704974464235,0,385ms,2,1704974464240,1704974466001,Sì,34ms,3,Yes
+,1704974470718,1,404ms,33,1704974470720,1704974475672,Do you what is your take on yoga?,76ms,34,Qual è la tua opinione sullo yoga?
+,1704974482039,0,538ms,119,1704974482041,1704974490114,Penso che sia molto rilassante e sia una cosa positiva per tanti lati della nostra salute sia mentale che che fisica? ,187ms,101,I think it's very relaxing and it's a good thing for so many sides of our mental and physical health.
+,1704974499351,1,518ms,140,1704974499354,1704974514677,Right so I'm planning to explore yoga as well. I think yoga gives a flexibility to the body and also helps to relax the mind like you said.,1704974515195ms,151,Giusto quindi ho intenzione di esplorare anche lo yoga. Penso che lo yoga dia flessibilità al corpo e aiuti anche a rilassare la mente come hai detto.
+,1704974511915,0,339ms,2,1704974511918,1704974514311,Sì,16ms,3,Yes
+,1704974523354,1,453ms,27,1704974523356,1704974527434,Are you following any diet?,64ms,23,Sta seguendo una dieta?
+,1704974523714,0,340ms,2,1704974523716,1704974525610,Sì,23ms,3,Yes
+,1704974533196,0,722ms,212,1704974533198,1704974545794,Sì la sto facendo per conto mio non sono seguite da un dottore perché non ho esigenze particolari quindi cerco solamente di mangiare bene negli orari prestabiliti e senza eccedere con gli zuccheri con i grassi. ,353ms,195,Yes I'm doing it on my own they're not followed by a doctor because I don't have any special needs so I'm just trying to eat well at the scheduled times and not overlying with sugars with fat.
+,1704974561355,1,424ms,21,1704974561357,1704974564553,Got it. This is good.,1704974564977ms,27,L'ho preso. Questo è buono.
+,1704974565914,1,489ms,65,1704974565916,1704974576592,II follow a similar diet so I don't have any recommendations for.,110ms,57,Seguo una dieta simile quindi non ho raccomandazioni per.
+,1704974571192,0,372ms,11,1704974571193,1704974573525,Sono felice,62ms,9,I'm Happy
+,1704974579157,1,473ms,127,1704974579160,1704974590116,So like you said even I don't have any recommendations from any dietitians. So I'm trying to cut down on sugar and fried food.,1704974590589ms,137,Quindi come hai detto tu nemmeno io ho raccomandazioni da nessun dietista. Quindi sto cercando di ridurre lo zucchero e il cibo fritto.
+,1704974584353,0,422ms,15,1704974584356,1704974586639,Non ho capito. ,71ms,20,I didn't understand.
+,1704974600713,1,439ms,20,1704974600714,1704974603205,Hope you understood.,74ms,25,Spero che abbiate capito.
+,1704974601911,0,470ms,19,1704974601921,1704974604155,D'accordo con te. ,88ms,15,Agree with you.
+,1704974607354,1,472ms,43,1704974607355,1704974612755,Right what is your opinion on key to diet?,104ms,56,Giusto qual è la tua opinione sulla chiave della dieta?
+,1704974608791,0,317ms,9,1704974608792,1704974611513,Ho capito,38ms,12,I understand
+,1704974619716,0,432ms,39,1704974619719,1704974623356,Non penso di avere capito la domanda. ,98ms,40,I don't think I understood the question.
+,1704974627516,1,429ms,53,1704974627517,1704974633674,I was asking what is your opinion on change to date?,116ms,65,Mi chiedevo qual è la tua opinione sul cambiamento fino ad oggi?
+,1704974641197,0,509ms,127,1704974641199,1704974650677,Vedo dei netti miglioramenti sia dal punto di vista fisico che psicologico inoltre la mia digestione è decisamente migliorata. ,150ms,99,I see clear improvements both physically and psychologically and my digestion has greatly improved.
+,1704974659555,1,398ms,22,1704974659557,1704974662954,Okay that's go to nu.,73ms,12,Ok va a Nu.
+,1704974667434,1,368ms,50,1704974667436,1704974672753,Do you take any supplements? Along with your diet.,1704974673121ms,52,Prendi degli integratori? Insieme alla vostra dieta.
+,1704974668077,0,354ms,15,1704974668080,1704974671076,Non ho capito. ,20ms,20,I didn't understand.
+,1704974675075,0,354ms,2,1704974675079,1704974676927,No,38ms,2,No
+,1704974680713,1,471ms,42,1704974680716,1704974688033,Okay what do you do for Vitamin D intake?,100ms,45,Ok cosa fate per l'assunzione di vitamina D?
+,1704974695316,0,481ms,63,1704974695320,1704974700152,Cerco di mangiare aggrumi e di garantire disposizione al Sole. ,126ms,58,I try to eat aggrumi and ensure that the Sun is available.
+,1704974706036,1,385ms,14,1704974706038,1704974708432,Right got it.,53ms,15,Giusto capito.
+,1704974712512,1,405ms,43,1704974712514,1704974717570,What do you do for a protein a consumption?,86ms,37,Cosa fate per un consumo di proteine?
+,1704974716277,0,473ms,2,1704974716278,1704974718638,Sì,22ms,3,Yes
+,1704974723154,0,624ms,164,1704974723157,1704974732520,Cerco di mangiare la giusta quantità di carne e se è necessario anche del pesce però il pesce non non è tra i miei alimenti preferiti quindi predilidico da carne. ,267ms,134,I try to eat the right amount of meat and if you need fish however fish is not one of my favorite foods so it is preferable to meat.
+,1704974723512,1,454ms,36,1704974723513,1704974727514,What means to you take food protein?,69ms,43,Che significa prendere proteine alimentari?
+,1704974731957,1,387ms,10,1704974731958,1704974734601,What meals,54ms,11,Quali pasti
+,1704974733872,0,400ms,15,1704974733872,1704974736318,Non ho capito. ,18ms,20,I didn't understand.
+,1704974740478,0,500ms,8,1704974740479,1704974743000,Entrambi,34ms,4,Both
+,1704974747473,1,369ms,6,1704974747475,1704974749553,Got it,55ms,11,L'ho preso?
+,1704974752474,1,442ms,29,1704974752475,1704974755553,Do you eat a lot of red meat?,72ms,24,Mangi molta carne rossa?
+,1704974754631,0,371ms,2,1704974754631,1704974756643,OK,56ms,5,Okay.
+,1704974760276,0,314ms,2,1704974760278,1704974762033,Sì,29ms,3,Yes
+,1704974764873,1,473ms,76,1704974764875,1704974772471,I heard red meat is not good for health because it has a lot of cholesterol.,128ms,82,Ho sentito che la carne rossa non fa bene alla salute perché ha molto colesterolo.
+,1704974781958,0,534ms,99,1704974781961,1704974788952,Ci sono delle opinioni contrastanti io continuerò a mangiarla naturalmente in maniera ragionevole. ,139ms,92,There are conflicting opinions that I will continue to eat it naturally in a reasonable way.
+,1704974796676,1,378ms,4,1704974796678,1704974798632,Okay,48ms,5,Okay!
+,1704974800797,1,429ms,39,1704974800799,1704974805275,Do you recommend consuming Bay protein?,89ms,44,Raccomanda di consumare proteine della Baia?
+,1704974806076,0,390ms,2,1704974806077,1704974808117,OK,57ms,5,Okay.
+,1704974810311,0,468ms,21,1704974810312,1704974814199,Non so cosa sia sì? ,87ms,24,I don't know what it is.
+,1704974817918,1,516ms,98,1704974817920,1704974828435,Whey protein is made out of milk and it is available online and all in and also in offline stores.,167ms,101,Le proteine del siero di latte sono fatte di latte ed è disponibile online e tutto in negozi offline.
+,1704974838871,0,419ms,29,1704974838872,1704974841716,Questa domanda non è chiaro. ,67ms,27,This question is not clear.
+,1704974847156,1,472ms,54,1704974847157,1704974853033,I was asking did you recommend consuming whey protein?,108ms,79,Stavo chiedendo se avete raccomandato di consumare proteine del siero di latte?
+,1704974860834,0,487ms,61,1704974860836,1704974865362,Dipende dall'esigenza alimentari unione fatto modo proprio. ,100ms,58,It depends on the food requirement union made its own way.
+,1704974872912,1,442ms,14,1704974872914,1704974875272,OK thank you.,58ms,11,Ok grazie.
+,1704974878912,1,452ms,56,1704974878913,1704974883912,I want to understand what do you do for mental wellness.,86ms,49,Voglio capire cosa fate per il benessere mentale.
+,1704974880317,0,340ms,5,1704974880318,1704974882434,Prego,24ms,14,You're welcome
+,1704974890953,0,612ms,164,1704974890956,1704974900435,Cerco di mangiare bene di fare ciò che mi piace soprattutto di continuare a camminare come ho sempre fatto aggiungere qualche esercizio esercizio col corpo libero? ,208ms,119,I try to eat well to do what I especially like to keep walking as I've always done add some exercise with my free body.
+,1704974911192,1,414ms,24,1704974911194,1704974915313,Got it. Do you meditate?,1704974915727ms,25,L'ho preso. Voi meditate?
+,1704974936315,0,323ms,2,1704974936317,1704974938270,No,17ms,2,No
+,1704974942836,1,478ms,108,1704974942839,1704974953312,OK but I think meditation is a good way to relax your mind. I have started meditating 10 minutes every day.,1704974953790ms,118,Ok ma penso che la meditazione sia un buon modo per rilassare la mente. Ho iniziato a meditare 10 minuti ogni giorno.
+,1704974959117,1,434ms,75,1704974959125,1704974965116,I recommend you to meditate as well. I think it'll be very helpful for you.,1704974965550ms,71,Vi raccomando di meditare anche voi. Penso che sarà molto utile per te.
+,1704974961878,0,555ms,85,1704974961879,1704974967598,Sono d'accordo ma dipende dal tipo di Persona nel mio caso mi innervosisce e basta. ,154ms,78,I agree but it depends on the type of person in my case just makes me nervous.
+,1704974968515,0,418ms,10,1704974968516,1704974970716,Ci proverò,67ms,9,I'll try.
+,1704974976915,1,425ms,13,1704974976918,1704974979036,Good to know.,61ms,16,Buono a sapersi.
+,1704974984234,1,382ms,48,1704974984235,1704974989123,This was a very useful conversation I. Liked it.,1704974989505ms,60,Questa è stata una conversazione molto utile. Mi è piaciuto.
+,1704974987072,0,320ms,1,1704974987072,1704974989122,0,21ms,1,0
+,1704974995840,0,407ms,31,1704974995843,1704974998637,Grazie è piaciuta anche a me. ,73ms,26,Thank you I liked it too.
+,1704974996437,1,376ms,21,1704974996439,1704974998753,Thanks for your time.,56ms,24,Grazie per il tuo tempo.
+,1704975002353,1,369ms,17,1704975002361,1704975004594,Have a great day.,46ms,15,Buona giornata.
+,1704975004518,0,454ms,13,1704975004519,1704975006761,Grazie a te. ,55ms,14,Thanks to you.
+,1704975008275,0,340ms,11,1704975008277,1704975010593,Altrettanto,18ms,11,Same to you
+,1704975015551,1,442ms,48,1704975015552,1704975018871,Yeah thank you. We can disconnect the call now.,1704975019313ms,51,Sì grazie. Possiamo disconnettere la chiamata ora.
+,1704975024237,0,304ms,7,1704975024240,1704975026318,Va bene,23ms,11,That's fine
